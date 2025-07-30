@@ -374,6 +374,19 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_6.m3u8
 #EXTINF:-1 group-title="ЭфиР+",МУЗ ТВ (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_7.m3u8
 
+#EXTINF:-1 tvg-id="tv-brics" group-title="ЭфиР+",TV BRICS
+http://rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8
+#EXTINF:-1 tvg-id="tro" group-title="ЭфиР+",БелРос
+https://stream-msk-07.ott.tricolor.tv/dtv/id896_MSKSG-PVR-1--BelRos/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDI3NzE4NywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzNjcyMzg3LCJzZXNzaW9uX2lkIjoiYjQ1ODgxYmFkZTYzYzYzMDZmNzQxYjBmNzhhMDAyYWIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.SRlFzRqXuoSDebs_khsLHrsvfnG3aKOkZ4pS6cLWijo
+#EXTINF:-1 tvg-id="kongresstv" group-title="ЭфиР+",Конгресс ТВ
+http://live-3.otcnet.ru/congresstv/index.m3u8
+#EXTINF:-1 tvg-id="prnk-tv" group-title="ЭфиР+",Первый Российский Национальный канал
+https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
+#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group-title="ЭфиР+",Неизвестная россия HD
+https://stream-msk-15.ott.tricolor.tv/dtv/id923_MSKSG-PVR-1--UnknownRussia/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDI3NzE4NywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzNjcyMzg3LCJzZXNzaW9uX2lkIjoiYjQ1ODgxYmFkZTYzYzYzMDZmNzQxYjBmNzhhMDAyYWIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.SRlFzRqXuoSDebs_khsLHrsvfnG3aKOkZ4pS6cLWijo
+#EXTINF:-1 tvg-id="ratnik" tvg-logo="https://iptvx.one/picons/ratnik.png" group-title="ЭфиР+",Ратник HD
+https://mhd128.iptv2022.com/p/sRrpahtfAFHivmpmOp1QXg,1753822812/streaming/ratnik/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Новости",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 group-title="Новости",Известия HD
