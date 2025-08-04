@@ -1,35 +1,13 @@
 #EXTM3U
-#EXTINF:-1,Первый канал (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV-1.m3u8
-#EXTINF:-1,Первый канал
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
-#EXTINF:-1,Первый канал (+2)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_2.m3u8
-#EXTINF:-1,Россия 1 (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1-1.m3u8
-#EXTINF:-1,Россия 1
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
-#EXTINF:-1,Россия 1 HD
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
-#EXTINF:-1,Россия 1 (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_2.m3u8
-#EXTINF:-1,Россия 1 HD (+2) (auto)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-#EXTINF:-1,НТВ (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
-#EXTINF:-1,НТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
-#EXTINF:-1,НТВ HD
-http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
-#EXTINF:-1,НТВ (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_2.m3u8
-#EXTINF:-1,СПАС (+2)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+3)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS_2.m3u8
-#EXTINF:-1,Звезда (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA-1.m3u8
-#EXTINF:-1,РЕН ТВ (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV-1.m3u8
-#EXTINF:-1,РЕН ТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
-#EXTINF:-1,РЕН ТВ (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
+http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
