@@ -1,349 +1,347 @@
 #EXTM3U
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+2)
+#EXTINF:-1  group-title="ViP",Первый канал (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+2)
+#EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="ViP",Россия 1 (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1 catchup-type="append" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",СТС (+2)
+#EXTINF:-1  group-title="ViP",СТС (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",НТВ (+2)
+#EXTINF:-1  group-title="ViP",НТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="http://domnet.me/images/picons/tvico_n52.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Спортивные",Матч! ТВ
+#EXTINF:-1  tvg-id="match-tv" tvg-logo="http://domnet.me/images/picons/tvico_n52.png" group-title="ViP",Матч! ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия К (+2)
+#EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" group-title="ViP",Россия К (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Новости",Россия 24
+#EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" group-title="ViP",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Новости",Известия HD
+#EXTINF:-1  group-title="ViP",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 tvg-id="solovjinypomiot" group-title="Новости",Соловьев.Live
+#EXTINF:-1  tvg-id="solovjinypomiot" group-title="ViP",Соловьев.Live
 https://stream-msk-17.ott.tricolor.tv/dtv/id979_MSKSG-PVR-1--SolovievLive/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
-#EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/TASS_Logo_(Cyrillic)_2017.svg/1200px-TASS_Logo_(Cyrillic)_2017.svg.png" group-title="Новости",ТАСС
+#EXTINF:-1  tvg-id="no_epg_news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/TASS_Logo_(Cyrillic)_2017.svg/1200px-TASS_Logo_(Cyrillic)_2017.svg.png" group-title="ViP",ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="otr-pl4" tvg-logo="https://i.ibb.co/Dfjs39q/OTR-logo.jpg" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Региoнальные",ОТР (Екатеринбург)
+#EXTINF:-1  tvg-id="otr-pl4" tvg-logo="https://i.ibb.co/Dfjs39q/OTR-logo.jpg" group-title="ViP",ОТР (Екатеринбург)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_OTR_EKT/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Рен ТВ +2
+#EXTINF:-1  group-title="ViP",Рен ТВ +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-#EXTINF:-1,ТВЦ (+2)
+#EXTINF:-1  group-title="ViP",ТВЦ (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_2.m3u8
-#EXTINF:-1,Пятый канал (+2)
+#EXTINF:-1  group-title="ViP",Пятый канал (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_2.m3u8
-#EXTINF:-1 tvg-logo="http://i121.fastpic.org/big/2023/0520/31/5d86e96a45843233a3ddb9b6d072d231.png" group-title="Lime (VPN 🇷🇺)",Спас (+2)
+#EXTINF:-1  tvg-logo="http://i121.fastpic.org/big/2023/0520/31/5d86e96a45843233a3ddb9b6d072d231.png" group-title="ViP",Спас (+2)
 https://mhd128.iptv2022.com/p/5HWQ3ovon7IX9GOJY2wbSg,1754377019/streaming/spasplus2/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1,Звезда HD
+#EXTINF:-1  group-title="ViP",Звезда HD
 http://dmi3y-tv.ru/hls/T2/CH_ZVEZDAHD.m3u8
-#EXTINF:-1 tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Звезда (+2)
+#EXTINF:-1  tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" group-title="ViP",Звезда (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
-#EXTINF:-1 tvg-id="ZvezdaPlus.ru" group-title="Новости",Звезда Плюс
+#EXTINF:-1  tvg-id="ZvezdaPlus.ru" group-title="ViP",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 tvg-id="patriot" group-title="Кино и сериалы",Патриот
+#EXTINF:-1  tvg-id="patriot" group-title="ViP",Патриот
 https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
-#EXTINF:-1 tvg-id="zal-01-tricolor" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" group-title="Кинозалы 2",ШЕРЛОК ХОЛМС
+#EXTINF:-1  tvg-id="zal-01-tricolor" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" group-title="ViP",ШЕРЛОК ХОЛМС
 https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Новости",Россия-24
+#EXTINF:-1  tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="ViP",Россия-24
 https://live-stream-13.ott.tricolor.tv/live/live/rossia_24/hls_enc/rossia_24.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
-#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/29/57d75294d1cc649835e15a0649b78829.png" group-title="Новости",НОВОРОССИЯ ТВ
+#EXTINF:-1  tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/29/57d75294d1cc649835e15a0649b78829.png" group-title="ViP",НОВОРОССИЯ ТВ
 http://185.229.235.30:8005/udp/225.15.3.149:2345
-#EXTINF:-1 tvg-id="pervy" tvg-logo="http://i120.fastpic.org/big/2022/0731/5a/975757b7227dd15519c6a0e0d5f0065a.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Первый канал
+#EXTINF:-1  tvg-id="pervy" tvg-logo="http://i120.fastpic.org/big/2022/0731/5a/975757b7227dd15519c6a0e0d5f0065a.png" group-title="ViP",Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="http://i122.fastpic.org/big/2023/0705/17/1f78a821046a3a5dedc9b714a6e0b717.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Россия 1
+#EXTINF:-1  tvg-id="rossia1" tvg-logo="http://i122.fastpic.org/big/2023/0705/17/1f78a821046a3a5dedc9b714a6e0b717.png" group-title="ViP",Россия 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",СТС
+#EXTINF:-1  group-title="ViP",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",НТВ
+#EXTINF:-1  tvg-id="ntv" group-title="ViP",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",ТНТ
+#EXTINF:-1  group-title="ViP",ТНТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",ТНТ (+2)
+#EXTINF:-1  group-title="ViP",ТНТ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 tvg-id="teatr" group-title="Развлекательные",Театр
+#EXTINF:-1  tvg-id="teatr" group-title="ViP",Театр
 http://77.235.1.19:8000/play/a04t/index.m3u8
-#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Кино и сериалы",Мосфильм. Золотая коллекция
+#EXTINF:-1  tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="ViP",Мосфильм. Золотая коллекция
 http://178.217.72.66:8080/mosfilm/index.m3u8
-#EXTINF:-1 tvg-id="sov-kinklass" group-title="Кино и сериалы",Советская киноклассика
+#EXTINF:-1  tvg-id="sov-kinklass" group-title="ViP",Советская киноклассика
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="7" catchup_template="&offset=${offset}" group-title="Peers (VPN)",Советское кино
+#EXTINF:-1  group-title="ViP",Советское кино
 http://api.peers.tv/timeshift/sovetskoekino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQzNzcwMzEsImlhdCI6MTc1NDI5MDYzMSwiY2lkIjo2LCJ1aWQiOjkzNDY5Njc0OCwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.6miTkPiiDbbHI4b01DuPfVdCzAqY-Cfeei2XA5-5_60&offset=10
-#EXTINF:-1 tvg-id="Советские фильмы" tvg-logo="http://i124.fastpic.org/big/2025/0304/ea/f5805db84096a7966a72bb5b81c5a0ea.png" group-title="Кинозалы 2",СОВЕТСКИЕ ФИЛЬМЫ
+#EXTINF:-1  tvg-id="Советские фильмы" tvg-logo="http://i124.fastpic.org/big/2025/0304/ea/f5805db84096a7966a72bb5b81c5a0ea.png" group-title="ViP",СОВЕТСКИЕ ФИЛЬМЫ
 https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
-#EXTINF:-1 tvg-id="domkino" group-title="Кино и сериалы",Дом кино
-http://178.217.72.66:8080/Dom_Kino/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Кино 1 International
+#EXTINF:-1  group-title="ViP",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-id="gosfilmofond-mv" group-title="Кино и сериалы",Госфильмофонд. Машина времени
+#EXTINF:-1  tvg-id="gosfilmofond-mv" group-title="ViP",Госфильмофонд. Машина времени
 https://mhd128.iptv2022.com/p/kLBoNKiFEFGThUyhWqUJXA,1754341229/streaming/car_is_vermen/324/1/index.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="7" catchup_template="&offset=${offset}" group-title="Peers (VPN)",Советские мультфильмы
+#EXTINF:-1  group-title="ViP",Советские мультфильмы
 http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQzNzcwMzEsImlhdCI6MTc1NDI5MDYzMSwiY2lkIjo2LCJ1aWQiOjkzNDY5Njc0OCwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.6miTkPiiDbbHI4b01DuPfVdCzAqY-Cfeei2XA5-5_60&offset=10
-#EXTINF:-1 tvg-id="zal-10-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-10-tricolor.png" group-title="Кинозалы 2",СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
+#EXTINF:-1  tvg-id="zal-10-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-10-tricolor.png" group-title="ViP",СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
 https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (-1)
+#EXTINF:-1  group-title="ЭфиР+",Первый канал (-1)
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/146.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink (VPN 🇷🇺)",Первый канал
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/146.png" group-title="ЭфиР+",Первый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink (VPN 🇷🇺)",Первый канал (+1)
+#EXTINF:-1  group-title="ЭфиР+",Первый канал (+1)
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink (VPN 🇷🇺)",Первый канал (+2)
+#EXTINF:-1  group-title="ЭфиР+",Первый канал (+2)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+3)
+#EXTINF:-1  group-title="ЭфиР+",Первый канал (+3)
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+4)
+#EXTINF:-1  group-title="ЭфиР+",Первый канал (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+5)
+#EXTINF:-1  group-title="ЭфиР+",Первый канал (+5)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+6)
+#EXTINF:-1  group-title="ЭфиР+",Первый канал (+6)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+7)
+#EXTINF:-1  group-title="ЭфиР+",Первый канал (+7)
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+8)
+#EXTINF:-1  group-title="ЭфиР+",Первый канал (+8)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+9)
+#EXTINF:-1  group-title="ЭфиР+",Первый канал (+9)
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (-1)
+#EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="ЭфиР+",Россия 1 (-1)
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink (VPN 🇷🇺)",Россия 1
+#EXTINF:-1  group-title="ЭфиР+",Россия 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+1)
+#EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="ЭфиР+",Россия 1 (+1)
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink (VPN 🇷🇺)",Россия 1 (+2)
+#EXTINF:-1  group-title="ЭфиР+",Россия 1 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)",Россия 1 (+3)
+#EXTINF:-1  group-title="ЭфиР+",Россия 1 (+3)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" tvg-rec="1" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+4)
+#EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="ЭфиР+",Россия 1 (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+5)
+#EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="ЭфиР+",Россия 1 (+5)
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+6)
+#EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="ЭфиР+",Россия 1 (+6)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+7)
+#EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="ЭфиР+",Россия 1 (+7)
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+8)
+#EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="ЭфиР+",Россия 1 (+8)
 http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+9)
+#EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="ЭфиР+",Россия 1 (+9)
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink (VPN 🇷🇺)",НТВ
+#EXTINF:-1  group-title="ЭфиР+",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",НТВ (+1)
+#EXTINF:-1  group-title="ЭфиР+",НТВ (+1)
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink (VPN 🇷🇺)",НТВ (+2)
+#EXTINF:-1  group-title="ЭфиР+",НТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",НТВ (+4)
+#EXTINF:-1  group-title="ЭфиР+",НТВ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-#EXTINF:-1,НТВ (+7)
+#EXTINF:-1  group-title="ЭфиР+",НТВ (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_7.m3u8
-#EXTINF:-1,Звезда
+#EXTINF:-1  group-title="ЭфиР+",Звезда
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
-#EXTINF:-1,Звезда (+2)
+#EXTINF:-1  group-title="ЭфиР+",Звезда (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_2.m3u8
-#EXTINF:-1,Звезда (+4)
+#EXTINF:-1  group-title="ЭфиР+",Звезда (+4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_4.m3u8
-#EXTINF:-1,Звезда (+6)
+#EXTINF:-1  group-title="ЭфиР+",Звезда (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_6.m3u8
-#EXTINF:-1,Звезда (+7)
+#EXTINF:-1  group-title="ЭфиР+",Звезда (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_7.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink (VPN 🇷🇺)",РЕН ТВ (+2)
+#EXTINF:-1  group-title="ЭфиР+",РЕН ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-#EXTINF:-1,РЕН ТВ (+4)
+#EXTINF:-1  group-title="ЭфиР+",РЕН ТВ (+4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_4.m3u8
-#EXTINF:-1,РЕН ТВ (+6)
+#EXTINF:-1  group-title="ЭфиР+",РЕН ТВ (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_6.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Рен ТВ +7
+#EXTINF:-1  group-title="ЭфиР+",Рен ТВ +7
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
-#EXTINF:-1,Пятый канал (-1)
+#EXTINF:-1  group-title="ЭфиР+",Пятый канал (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV-1.m3u8
-#EXTINF:-1,Пятый канал
+#EXTINF:-1  group-title="ЭфиР+",Пятый канал
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF:-1,Пятый канал (+4)
+#EXTINF:-1  group-title="ЭфиР+",Пятый канал (+4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_4.m3u8
-#EXTINF:-1,Пятый канал (+6)
+#EXTINF:-1  group-title="ЭфиР+",Пятый канал (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_6.m3u8
-#EXTINF:-1,Пятый канал (+7)
+#EXTINF:-1  group-title="ЭфиР+",Пятый канал (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
-#EXTINF:-1,ТВЦ (-1)
+#EXTINF:-1  group-title="ЭфиР+",ТВЦ (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC-1.m3u8
-#EXTINF:-1,ТВЦ
+#EXTINF:-1  group-title="ЭфиР+",ТВЦ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC.m3u8
-#EXTINF:-1,ТВЦ (+4)
+#EXTINF:-1  group-title="ЭфиР+",ТВЦ (+4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_4.m3u8
-#EXTINF:-1,ТВЦ (+6)
+#EXTINF:-1  group-title="ЭфиР+",ТВЦ (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_6.m3u8
-#EXTINF:-1,ТВЦ (+7)
+#EXTINF:-1  group-title="ЭфиР+",ТВЦ (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_7.m3u8
-#EXTINF:-1,СТС
+#EXTINF:-1  group-title="ЭфиР+",СТС
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
-#EXTINF:-1,СТС (+2)
+#EXTINF:-1  group-title="ЭфиР+",СТС (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_2.m3u8
-#EXTINF:-1,СТС (+4)
+#EXTINF:-1  group-title="ЭфиР+",СТС (+4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_4.m3u8
-#EXTINF:-1,СТС (+6)
+#EXTINF:-1  group-title="ЭфиР+",СТС (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_6.m3u8
-#EXTINF:-1,СТС (+7)
+#EXTINF:-1  group-title="ЭфиР+",СТС (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_7.m3u8
-#EXTINF:-1,Домашний (-1)
+#EXTINF:-1  group-title="ЭфиР+",Домашний (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
-#EXTINF:-1,Домашний
+#EXTINF:-1  group-title="ЭфиР+",Домашний
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
-#EXTINF:-1,Домашний (+2)
+#EXTINF:-1  group-title="ЭфиР+",Домашний (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
-#EXTINF:-1,Домашний (+4)
+#EXTINF:-1  group-title="ЭфиР+",Домашний (+4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
-#EXTINF:-1,Домашний (+6)
+#EXTINF:-1  group-title="ЭфиР+",Домашний (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_6.m3u8
-#EXTINF:-1,Домашний (+7)
+#EXTINF:-1  group-title="ЭфиР+",Домашний (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
-#EXTINF:-1,МИР (-1)
+#EXTINF:-1  group-title="ЭфиР+",МИР (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR-1.m3u8
-#EXTINF:-1,МИР
+#EXTINF:-1  group-title="ЭфиР+",МИР
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
-#EXTINF:-1,МИР HD
+#EXTINF:-1  group-title="ЭфиР+",МИР HD
 http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
-#EXTINF:-1,МИР (+2)
+#EXTINF:-1  group-title="ЭфиР+",МИР (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_2.m3u8
-#EXTINF:-1,МИР (+4)
+#EXTINF:-1  group-title="ЭфиР+",МИР (+4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_4.m3u8
-#EXTINF:-1,МИР (+6)
+#EXTINF:-1  group-title="ЭфиР+",МИР (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_6.m3u8
-#EXTINF:-1,МИР (+7)
+#EXTINF:-1  group-title="ЭфиР+",МИР (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_7.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://www.rsl.ru/photo/!_ORS/documents/dostoevsky-banner.jpeg" group-title="Познавательные",лекторий DОСТОЕВСКИЙ
+#EXTINF:-1  tvg-id="no_epg" tvg-logo="https://www.rsl.ru/photo/!_ORS/documents/dostoevsky-banner.jpeg" group-title="Познавательные",лекторий DОСТОЕВСКИЙ
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Совершенно секретно
+#EXTINF:-1  group-title="Познавательные",Совершенно секретно
 http://stream-msk-03.ott.tricolor.tv/dtv/id698_MSKSG-PVR-1--Top_secret/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
-#EXTINF:-1 tvg-id="nano-hd" group-title="Познавательные",Nano HD
+#EXTINF:-1  tvg-id="nano-hd" group-title="Познавательные",Nano HD
 https://stream-msk-13.ott.tricolor.tv/dtv/id671_MSKSG-PVR-1--Nano_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
-#EXTINF:-1 tvg-id="ruskorabl" group-title="Познавательные",Плюс Минус 16
+#EXTINF:-1  tvg-id="ruskorabl" group-title="Познавательные",Плюс Минус 16
 https://live-mirror-19.ott.tricolor.tv/dtv/id1010_MSKSG-PVR-1--russian_ship_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
-#EXTINF:-1 tvg-id="prosveschenie" tvg-logo="https://iptvx.one/picons/prosveschenie.png" group-title="Познавательные",Просвещение
+#EXTINF:-1  tvg-id="prosveschenie" tvg-logo="https://iptvx.one/picons/prosveschenie.png" group-title="Познавательные",Просвещение
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",История
+#EXTINF:-1  group-title="Познавательные",История
 http://stream-msk-04.ott.tricolor.tv/dtv/id259_MSKSG-PVR-1--Istoriya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
-#EXTINF:-1 tvg-id="nauka-20" group-title="Познавательные",Наука 2.0 HD
+#EXTINF:-1  tvg-id="nauka-20" group-title="Познавательные",Наука 2.0 HD
 http://stream-msk-10.ott.tricolor.tv/dtv/id653_MSKSG-PVR-1--Nauka_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
-#EXTINF:-1,Башкортостан 24 HD720 (Уфа)
+#EXTINF:-1  group-title="Новости",Башкортостан 24 HD720 (Уфа)
 http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_BASHKORTOSTAN24HD720.m3u8
-#EXTINF:-1 group-title="Новости",Звезда Плюс
+#EXTINF:-1  group-title="Новости",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://epg.iptvx.one/picons/solovjinypomiot.png" group-title="Новости",Соловьев Live
+#EXTINF:-1  tvg-id="solovjinypomiot" tvg-logo="https://epg.iptvx.one/picons/solovjinypomiot.png" group-title="Новости",Соловьев Live
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/ec/3d/ec3d950ca1dbeac9c8017df68179aa35.jpg" group-title="4K VIDEO (VPN)",Камин
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/ec/3d/ec3d950ca1dbeac9c8017df68179aa35.jpg" group-title="4K VIDEO",Камин
 https://river-1.rutube.ru/hls-vod/Z6kztDs15vWbEMOAEsQohQ/1754750526/1859/0x5000c500e53c6fdf/8311ad94048f47808d4e72cc32aa7238.mp4.m3u8?i=3840x2160_6480
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/2024-11-11/93/1c/931c2e26c7cf0c9cd46994dd45f5fdd0.jpg" group-title="4K VIDEO (VPN)",4K Video ULTRA HD 60 FPS
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/2024-11-11/93/1c/931c2e26c7cf0c9cd46994dd45f5fdd0.jpg" group-title="4K VIDEO",4K Video ULTRA HD 60 FPS
 https://river-1.rutube.ru/hls-vod/k27jhH95A40bHT4XTXsiIA/1754750531/2446/0x5000c500e883c25e/02951eadad024ba5bacf776269f05cf6.mp4.m3u8?i=3840x2160_22670
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/78/e6/78e6107c83f9930a03e48fd0240859a1.jpg" group-title="4K VIDEO (VPN)",DOLBY VISION OLED Test Video (2024)
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/78/e6/78e6107c83f9930a03e48fd0240859a1.jpg" group-title="4K VIDEO",DOLBY VISION OLED Test Video (2024)
 https://river-1.rutube.ru/hls-vod/nupVsWXB8fyXybHJjHdrAw/1754750537/2229/0x5000c500e74e9b81/f23befa18842434085727d153a5e1ce9.mp4.m3u8?i=3840x2160_21172
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/34/f6/34f6507b30ae4a747b11821304e6f1f0.jpg" group-title="4K VIDEO (VPN)",4K ULTRA HD
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/34/f6/34f6507b30ae4a747b11821304e6f1f0.jpg" group-title="4K VIDEO",4K ULTRA HD
 https://river-1.rutube.ru/hls-vod/Wx-iTF-pf9leXrx7ng0Ijw/1754750541/1816/0x5000c500c897aa45/8baceb688d3548c0a29a40f3980bceea.mp4.m3u8?i=3840x2160_24688
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/0d/56/0d56e874bcbea5a47faaf78fbd97c6e1.jpg" group-title="4K VIDEO (VPN)",COLORFUL WORLD ANIMALS - ANIMALS SOUNDS
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/0d/56/0d56e874bcbea5a47faaf78fbd97c6e1.jpg" group-title="4K VIDEO",COLORFUL WORLD ANIMALS - ANIMALS SOUNDS
 https://river-1.rutube.ru/hls-vod/Ccke-4g5fgAqz3KOtZjFeg/1754750545/2193/0x5000c500e74f9e90/44fa52380d5648fe8b8c49571feba70e.mp4.m3u8?i=3840x2160_22872
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/6b/dc/6bdc4cfedb4f634e840ac2f5c808022f.jpg" group-title="4K VIDEO (VPN)",4K 60fps
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/6b/dc/6bdc4cfedb4f634e840ac2f5c808022f.jpg" group-title="4K VIDEO",4K 60fps
 https://river-1.rutube.ru/hls-vod/UGJRjwS6yzJpZsDwEz1xZQ/1754750549/1786/0x5000c500c8a5aa7f/fc85c4ba867d442f8c3161a0ff3045fe.mp4.m3u8?i=3840x2160_20911
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/ec/62/ec62a116bb2e1320fbd89fb433eea909.jpg" group-title="4K VIDEO (VPN)",4K 60fps COLORFUL WORLD - TRUE CINEMATIC
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/ec/62/ec62a116bb2e1320fbd89fb433eea909.jpg" group-title="4K VIDEO",4K 60fps COLORFUL WORLD - TRUE CINEMATIC
 https://river-1.rutube.ru/hls-vod/y5g8_6hSehzBoFSM4w9bLQ/1754750553/2199/0x5000c500e7189664/5b568af64882481c850fa2e1fe591cdd.mp4.m3u8?i=3840x2160_19199
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/d8/14/d8145d9a9bbcd2c426c6ca2b3a5a7b87.jpg" group-title="4K VIDEO (VPN)",4K Удивительные животные
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/d8/14/d8145d9a9bbcd2c426c6ca2b3a5a7b87.jpg" group-title="4K VIDEO",4K Удивительные животные
 https://river-1.rutube.ru/hls-vod/BLUz1m3ox8VOXhtyCArUmw/1754750557/1772/0x5000c500db80bc6a/80e76c2d86c74a98a6d49b3d3f5abf97.mp4.m3u8?i=3840x2160_11616
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/e4/e1/e4e1f5a94dc1ca569aeb2516c1c003bb.jpg" group-title="4K VIDEO (VPN)",Demo 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/e4/e1/e4e1f5a94dc1ca569aeb2516c1c003bb.jpg" group-title="4K VIDEO",Demo 4K
 https://river-1.rutube.ru/hls-vod/ICpg6SFpYS6c21_h6A3u-w/1754750561/1764/0x5000c500e34b76b7/e2871e209eb74d2ca924c256233583d7.mp4.m3u8?i=3840x2160_29461
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/39/b8/39b8682bf458aa9a88963f0de920b505.jpg" group-title="4K VIDEO (VPN)",THE MOST BEAUTIFUL 4K 60fps
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/39/b8/39b8682bf458aa9a88963f0de920b505.jpg" group-title="4K VIDEO",THE MOST BEAUTIFUL 4K 60fps
 https://river-1.rutube.ru/hls-vod/aDaXOgUNLN54132JEF8PsQ/1754750565/2229/0x5000c500e658a29c/e7c39d45322d4f3c9e8ad0fdc9a9b1ff.mp4.m3u8?i=3840x2160_19712
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/d0/e6/d0e61eaaf75c5de99cce846c6fc6d9ba.jpg" group-title="4K VIDEO (VPN)",Razer Sharp 60 fps 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/d0/e6/d0e61eaaf75c5de99cce846c6fc6d9ba.jpg" group-title="4K VIDEO",Razer Sharp 60 fps 4K
 https://river-1.rutube.ru/hls-vod/NE106uT038KmizokZNEEeA/1754750571/1859/0x5000c500e5356d38/0e29af94ffe3489d83504c1f5a3d12fc.mp4.m3u8?i=3840x2160_14068
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/2024-09-29/28/29/2829eb8fb8255f87880c22269840dbd4.jpg" group-title="4K VIDEO (VPN)",100 000 ЗАХВАТЫВАЮЩИХ ПЕЙЗАЖЕЙ
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/2024-09-29/28/29/2829eb8fb8255f87880c22269840dbd4.jpg" group-title="4K VIDEO",100 000 ЗАХВАТЫВАЮЩИХ ПЕЙЗАЖЕЙ
 https://river-1.rutube.ru/hls-vod/WzUtZPooxAauKc6maWNrNQ/1754750575/2391/0x5000c500f2b43337/d67559e76b5443bea16336bf56faf95f.mp4.m3u8?i=3840x2160_43614
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/61/19/6119d30ed9bd99327dfabed39633b97e.jpg" group-title="4K VIDEO (VPN)",РАЙСКИЕ МЕСТА НА ЗЕМЛЕ 4K 60fps
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/61/19/6119d30ed9bd99327dfabed39633b97e.jpg" group-title="4K VIDEO",РАЙСКИЕ МЕСТА НА ЗЕМЛЕ 4K 60fps
 https://river-1.rutube.ru/hls-vod/oMQi4r4_HLtnOs9gukEPIA/1754750590/1822/0x5000c500c9978ccd/ce1ba50a90b24925a689493496d705d4.mp4.m3u8?i=3840x2160_12559
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/d9/e3/d9e35dc3b656decefb87bed06d3cc00f.jpg" group-title="4K VIDEO (VPN)",4K HDR 60FPS Dolby Vision
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/d9/e3/d9e35dc3b656decefb87bed06d3cc00f.jpg" group-title="4K VIDEO",4K HDR 60FPS Dolby Vision
 https://river-1.rutube.ru/hls-vod/-_b6AeQcFGIdXKm8D9wfxw/1754750595/2211/0x5000c500e6995753/9db95b7858c347348a200119379788af.mp4.m3u8?i=3840x2160_21989
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/0b/90/0b904394c6e39bb08155fe4e5dfbc868.jpg" group-title="4K VIDEO (VPN)",Высококачественное видео
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/0b/90/0b904394c6e39bb08155fe4e5dfbc868.jpg" group-title="4K VIDEO",Высококачественное видео
 https://river-1.rutube.ru/hls-vod/QO_WdGJygxRJcfCGoiESDA/1754750598/1790/0x5000c500db14be00/6f56967b122f447096b17b390a342bb9.mp4.m3u8?i=3840x2160_22125
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/73/f5/73f5b3cfdc98158045f76038a018b75b.jpg" group-title="4K VIDEO (VPN)",PARADISE ON EARTH Best Travel
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/73/f5/73f5b3cfdc98158045f76038a018b75b.jpg" group-title="4K VIDEO",PARADISE ON EARTH Best Travel
 https://river-1.rutube.ru/hls-vod/ehO7L5SCbzsdKWu7fen8Hg/1754750602/2201/0x5000c5007446b38a/476aba05d6d94a1f8d799a4879737540.mp4.m3u8?i=3840x2160_32942
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/fe/10/fe10124b6dd01bbd556c4c9e0d096e8b.jpg" group-title="4K VIDEO (VPN)",FLYING OVER SEYCHELLES
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/fe/10/fe10124b6dd01bbd556c4c9e0d096e8b.jpg" group-title="4K VIDEO",FLYING OVER SEYCHELLES
 https://river-1.rutube.ru/hls-vod/pHJdC5DN42MCK0LXbmAJKg/1754750607/2596/0x5000039ce8400c99/ec9d1eade8c746cca27743ab4f24e714.mp4.m3u8?i=3840x2160_13145
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/04/bd/04bd807775ac8cef2b6b91c8563efc3a.jpg" group-title="4K VIDEO (VPN)",Невероятная Красота 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/04/bd/04bd807775ac8cef2b6b91c8563efc3a.jpg" group-title="4K VIDEO",Невероятная Красота 4K
 https://river-1.rutube.ru/hls-vod/zdLM2-JhuzfGB6FjkCp2pA/1754750611/1766/0x5000c500e3493e2d/556a1a55f7d541ac9aecbe8f1378f025.mp4.m3u8?i=3840x2160_17089
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/06/6b/066be4b119e215d35bdbd80894090b2b.jpg" group-title="4K VIDEO (VPN)",Птицы 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/06/6b/066be4b119e215d35bdbd80894090b2b.jpg" group-title="4K VIDEO",Птицы 4K
 https://river-1.rutube.ru/hls-vod/rkPuaZ6t32XsENlRD1AtPA/1754750616/1780/0x5000c500c8e66220/9b3049d858f744bb9212feff045bc341.mp4.m3u8?i=3840x2160_24383
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/08/d0/08d0485c5371f760f1f46986054dde80.jpg" group-title="4K VIDEO (VPN)",Breathtaking landscape 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/08/d0/08d0485c5371f760f1f46986054dde80.jpg" group-title="4K VIDEO",Breathtaking landscape 4K
 https://river-1.rutube.ru/hls-vod/6gXKLlcNFLKS0vjY4VtHjw/1754750620/1832/0x5000c500c922666b/abada6c634ff488db2e1b0dd9a2b9b3e.mp4.m3u8?i=3840x2160_24551
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/2024-09-29/1e/99/1e99ee863752854d4a29ee44a1dc2a16.jpg" group-title="4K VIDEO (VPN)",Швейцария Железная дорога Кур–Ароза
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/2024-09-29/1e/99/1e99ee863752854d4a29ee44a1dc2a16.jpg" group-title="4K VIDEO",Швейцария Железная дорога Кур–Ароза
 https://river-1.rutube.ru/hls-vod/hiR9SyhdrdluR6zQ_sJk-A/1754750637/2405/0x5000c500f2b8ea17/e95a64a11f52468fa5ea91ac552b1f5f.mp4.m3u8?i=3840x2160_74994
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/66/ab/66ab4b28270aef4dcc7fec431ab8bb38.jpg" group-title="4K VIDEO (VPN)",Каттегат в 4К С Музыкой Викингов
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/66/ab/66ab4b28270aef4dcc7fec431ab8bb38.jpg" group-title="4K VIDEO",Каттегат в 4К С Музыкой Викингов
 https://river-1.rutube.ru/hls-vod/7HTa3FJc1LOK2X4fpR00JQ/1754750642/1842/0x5000cca2841edef0/2b992c6cdb9d4df1ab6935813e352b05.mp4.m3u8?i=3840x2160_16049
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/d0/db/d0db857627ef06a159f2f42d90476a73.jpg" group-title="4K VIDEO (VPN)",Коста Рика 4K 60fps
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/d0/db/d0db857627ef06a159f2f42d90476a73.jpg" group-title="4K VIDEO",Коста Рика 4K 60fps
 https://river-1.rutube.ru/hls-vod/TIOp8bm5VirT-ccti0bXKg/1754750649/1865/0x5000c500e537c2c8/ba01d890ec944bdcb082cffe9bbdf1b2.mp4.m3u8?i=3840x2160_27042
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/31/21/312151af4084655231da8e85a78d379a.jpg" group-title="4K VIDEO (VPN)",Пакистан в 4К
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/31/21/312151af4084655231da8e85a78d379a.jpg" group-title="4K VIDEO",Пакистан в 4К
 https://river-1.rutube.ru/hls-vod/sqypmVMwcqEwjWumDe68Bw/1754750656/1891/0x5000c500e539c97b/d2deee2b1e68476daa2645ef36da01db.mp4.m3u8?i=3840x2160_16056
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/7d/e0/7de0c641a0e47a2fc645444ba8c1b114.jpg" group-title="4K VIDEO (VPN)",Аляска 4K 60fps
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/7d/e0/7de0c641a0e47a2fc645444ba8c1b114.jpg" group-title="4K VIDEO",Аляска 4K 60fps
 https://river-1.rutube.ru/hls-vod/MjFULk9mfOJ_RVoVbGjA8g/1754750660/1879/0x5000c500e5356ed6/4b2f01657cbb48109f10291e30b69f10.mp4.m3u8?i=3840x2160_26582
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/0f/c5/0fc5980685a33c9259252135090c2a7a.jpg" group-title="4K VIDEO (VPN)",Антарктика В 4К
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/0f/c5/0fc5980685a33c9259252135090c2a7a.jpg" group-title="4K VIDEO",Антарктика В 4К
 https://river-1.rutube.ru/hls-vod/b6OP3GMa8QY8Zjti8gf6IQ/1754750666/1770/0x5000c500c8b71440/43d466c1d81b44f895cad3ca5ea028e9.mp4.m3u8?i=3840x2160_10515
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/32/0b/320b1080d4ee71d56a021c5d39dc4fd0.jpg" group-title="4K VIDEO (VPN)",Греция 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/32/0b/320b1080d4ee71d56a021c5d39dc4fd0.jpg" group-title="4K VIDEO",Греция 4K
 https://river-1.rutube.ru/hls-vod/29tbRykglTMNXThBCxeBQQ/1754750679/1776/0x5000c500c750a96f/47ee63aaebd54d10aa7f9b7c0dadfe83.mp4.m3u8?i=3840x2160_10503
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/19/d5/19d547d9f665a02f80f31cacb2238e7c.jpg" group-title="4K VIDEO (VPN)",Италия 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/19/d5/19d547d9f665a02f80f31cacb2238e7c.jpg" group-title="4K VIDEO",Италия 4K
 https://river-1.rutube.ru/hls-vod/UGRSXYI61n6p9-AibpYP0w/1754750683/2163/0x5000c500e679cd9f/de35e42315ee4c6ea18fb3eebf5a6443.mp4.m3u8?i=3840x2160_18643
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/a3/3a/a33a36b9be68bc6b4ad150808171b434.jpg" group-title="4K VIDEO (VPN)",Украина 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/a3/3a/a33a36b9be68bc6b4ad150808171b434.jpg" group-title="4K VIDEO",Украина 4K
 https://river-1.rutube.ru/hls-vod/4azV76gX0xdc8KsL5QP_zw/1754750687/2401/0x5000c500f2b43677/10eb8a693e514290b6118b54126b871c.mp4.m3u8?i=3840x2160_21591
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/89/8c/898c76f0adc25c6f485396fbc5fa22fa.jpg" group-title="4K VIDEO (VPN)",Казахстан 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/89/8c/898c76f0adc25c6f485396fbc5fa22fa.jpg" group-title="4K VIDEO",Казахстан 4K
 https://river-1.rutube.ru/hls-vod/56sWM58Stsv2sn-hFcuAqA/1754750692/1871/0x5000c500e8d21c37/fa6af8430d704326bdbcec67fd5c4730.mp4.m3u8?i=3840x2160_24931
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/2025-01-15/6e/b5/6eb5c51090f81936e9b71f491e77cf2a.jpg" group-title="4K VIDEO (VPN)",Камчатка 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/2025-01-15/6e/b5/6eb5c51090f81936e9b71f491e77cf2a.jpg" group-title="4K VIDEO",Камчатка 4K
 https://river-1.rutube.ru/hls-vod/lDnYUV2G1M414cDx8J1ddg/1754750697/2464/0x5000c500e883f3df/afaaf25369594e2984734f9089fccfb3.mp4.m3u8?i=3840x2160_16810
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/2d/8a/2d8a8c907dbb73073599001bc8c9b4d8.jpg" group-title="4K VIDEO (VPN)",Венгрия 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/2d/8a/2d8a8c907dbb73073599001bc8c9b4d8.jpg" group-title="4K VIDEO",Венгрия 4K
 https://river-1.rutube.ru/hls-vod/gZBVCKad9Buq8O_38UrxeA/1754750705/2171/0x5000c500e6697c05/3f9e42dad9d04963aed33112f9487717.mp4.m3u8?i=3840x2160_27572
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/2025-01-12/fe/a6/fea6b41f1c8ad248d14982a661552d77.jpg" group-title="4K VIDEO (VPN)",Грузия 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/2025-01-12/fe/a6/fea6b41f1c8ad248d14982a661552d77.jpg" group-title="4K VIDEO",Грузия 4K
 https://river-1.rutube.ru/hls-vod/NFZF4DPJtvFrIwEXK6hUmA/1754750709/2554/0x5000039ce8400975/a30d636080c5491aa3422713c2bf4340.mp4.m3u8?i=3840x2160_17848
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/f2/0b/f20b8f54d768f10587229cd15d6bebc4.jpg" group-title="4K VIDEO (VPN)",Мексика 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/f2/0b/f20b8f54d768f10587229cd15d6bebc4.jpg" group-title="4K VIDEO",Мексика 4K
 https://river-1.rutube.ru/hls-vod/9UQzzv-DPFfXmBH7YnAQzw/1754750712/2173/0x5000c500e7526f25/f45c7734f1ba41468e7a193691612393.mp4.m3u8?i=3840x2160_12898
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/2025-02-04/08/3f/083fbbc3700afb477d888c2c542f67b1.jpg" group-title="4K VIDEO (VPN)",Гватемала 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/2025-02-04/08/3f/083fbbc3700afb477d888c2c542f67b1.jpg" group-title="4K VIDEO",Гватемала 4K
 https://river-1.rutube.ru/hls-vod/s73bAUuPRxTDEOr2w10Azw/1754750717/2508/0x5000039ce8635b1d/3a373a9132d64a749df8c5fecfde1c18.mp4.m3u8?i=3840x2160_16954
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/2024-11-25/58/f5/58f5e23c31bd842373baf0acef107819.jpg" group-title="4K VIDEO (VPN)",Молдова 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/2024-11-25/58/f5/58f5e23c31bd842373baf0acef107819.jpg" group-title="4K VIDEO",Молдова 4K
 https://river-1.rutube.ru/hls-vod/XMvAkKyk-IQ0oRVxB0EqhQ/1754750721/2207/0x5000c5007446425f/313be372eee6431fa282c70f46b9fe1e.mp4.m3u8?i=3840x2160_17436
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/3c/e3/3ce3c4358d71c935124cac5d2e11e79a.jpg" group-title="4K VIDEO (VPN)",Природа Аргентины 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/3c/e3/3ce3c4358d71c935124cac5d2e11e79a.jpg" group-title="4K VIDEO",Природа Аргентины 4K
 https://river-1.rutube.ru/hls-vod/5R4jdWgzVNnrYA2PmLv9Uw/1754750725/1780/0x5000c500db164266/c52a030a1c2044ffa66f78445eefa6ce.mp4.m3u8?i=3840x2160_21330
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/db/6e/db6e169d750caa2591c5e1c4ba4c732c.jpg" group-title="4K VIDEO (VPN)",Москва 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/db/6e/db6e169d750caa2591c5e1c4ba4c732c.jpg" group-title="4K VIDEO",Москва 4K
 https://river-1.rutube.ru/hls-vod/6SnnauQ7UIBQbtPTV3M1Ng/1754750729/1766/0x5000c500e34d8ba1/cf49bab452b0423e94330844a86f95d6.mp4.m3u8?i=3840x2024_25835
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/2025-03-09/86/9f/869f4ee057924413cf40143f4aefd766.jpg" group-title="4K VIDEO (VPN)",Ливия 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/2025-03-09/86/9f/869f4ee057924413cf40143f4aefd766.jpg" group-title="4K VIDEO",Ливия 4K
 https://river-1.rutube.ru/hls-vod/hywoewBOHdkQ0OEcyaKlWg/1754750734/2502/0x5000039ce8703b05/5c3746f865e047fb86c316dd0ac053e1.mp4.m3u8?i=3840x2160_11659
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/2025-02-09/c3/4e/c34e7e095b3c96b405148a6686b86edb.jpg" group-title="4K VIDEO (VPN)",Киргизстан 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/2025-02-09/c3/4e/c34e7e095b3c96b405148a6686b86edb.jpg" group-title="4K VIDEO",Киргизстан 4K
 https://river-1.rutube.ru/hls-vod/uZTwHViQe45BVv0SUFmPmw/1754750739/2508/0x5000039ce8686cb5/184bf36f277c4a70b7d2729b544353b4.mp4.m3u8?i=3840x2160_19422
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/2025-01-02/a0/35/a0357779a326f76f03311d5064a752bf.jpg" group-title="4K VIDEO (VPN)",Узбекистан 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/2025-01-02/a0/35/a0357779a326f76f03311d5064a752bf.jpg" group-title="4K VIDEO",Узбекистан 4K
 https://river-1.rutube.ru/hls-vod/b6GzNObx-F-nuXjoTxHeIA/1754750745/2612/0x5000039ce868ab25/22c69726f20b43069bf4793004fa3c27.mp4.m3u8?i=3840x2160_21010
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/2025-02-26/eb/db/ebdb900076c03be283ae82873d52c589.jpg" group-title="4K VIDEO (VPN)",Эквадор 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/2025-02-26/eb/db/ebdb900076c03be283ae82873d52c589.jpg" group-title="4K VIDEO",Эквадор 4K
 https://river-1.rutube.ru/hls-vod/VvsJW76NMj5rJnGiV_iWkw/1754750750/2223/0x5000c500e65b3f39/247fa9a63c5041f0976a98ee16e29fa9.mp4.m3u8?i=3840x2160_16246
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/87/0e/870e1a12792d3f8cf8aa189898c0e482.jpg" group-title="4K VIDEO (VPN)",Турция в 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/87/0e/870e1a12792d3f8cf8aa189898c0e482.jpg" group-title="4K VIDEO",Турция в 4K
 https://river-1.rutube.ru/hls-vod/8pfvANaeWGl_knNbXBEtCw/1754750755/1798/0x5000c500e3d50955/1295d7750d224feba3eede8e73f16f7a.mp4.m3u8?i=3840x2160_25103
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/74/6d/746d5d1ba9c1c3a1259d166b73dec7a9.jpg" group-title="4K VIDEO (VPN)",Вьетнам в 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/74/6d/746d5d1ba9c1c3a1259d166b73dec7a9.jpg" group-title="4K VIDEO",Вьетнам в 4K
 https://river-1.rutube.ru/hls-vod/T67CiDW3yajY0BOFkjYS_w/1754750759/2161/0x5000c500e72baa8b/18ad4a3a69134dacb378d14d66138be8.mp4.m3u8?i=3840x2160_38998
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/b3/3d/b33db6df61ad9fc77e54f98f03d8fc9d.jpg" group-title="4K VIDEO (VPN)",Манила в 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/b3/3d/b33db6df61ad9fc77e54f98f03d8fc9d.jpg" group-title="4K VIDEO",Манила в 4K
 https://river-1.rutube.ru/hls-vod/d7pWB7q_vO_NsOhUz-wlHw/1754750763/1776/0x5000c500d6d906ed/c541fdacbbda415fb50a782ad5d1fcf9.mp4.m3u8?i=3840x2160_20784
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/a7/13/a7139249b7fe0bf2b2ddffbbaba6a913.jpg" group-title="4K VIDEO (VPN)",Болгария 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/a7/13/a7139249b7fe0bf2b2ddffbbaba6a913.jpg" group-title="4K VIDEO",Болгария 4K
 https://river-1.rutube.ru/hls-vod/18yP5GrGNn7RFfXkAOGKmg/1754750767/1895/0x5000c500e53979ec/b527c6a1a6084c1ba9202bb8b607f90d.mp4.m3u8?i=3840x2160_25379
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/5a/89/5a894e03615d859ca15497ca636e79e2.jpg" group-title="4K VIDEO (VPN)",Перу 4K 60fps
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/5a/89/5a894e03615d859ca15497ca636e79e2.jpg" group-title="4K VIDEO",Перу 4K 60fps
 https://river-1.rutube.ru/hls-vod/tZoCcWWG0xQImq-95ua7zg/1754750770/1875/0x5000c500e53957cd/30b0c3590b9e4880a6a00ac6fea26165.mp4.m3u8?i=3840x2160_26231
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/ec/6e/ec6eb7f0891bcf8f4ad9699fcfbdb205.jpg" group-title="4K VIDEO (VPN)",Кения В 4К
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/ec/6e/ec6eb7f0891bcf8f4ad9699fcfbdb205.jpg" group-title="4K VIDEO",Кения В 4К
 https://river-1.rutube.ru/hls-vod/HMmPLh0TSeVkNcpTuDmuIg/1754750774/1816/0x5000c500c91c4b8c/378db7d4f4ad4aafbb4535e9125ce221.mp4.m3u8?i=3840x2160_15323
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/bf/63/bf63ccc22cd2bacdefb8b27571dff50b.jpg" group-title="4K VIDEO (VPN)",Бора-Бора в 4К
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/bf/63/bf63ccc22cd2bacdefb8b27571dff50b.jpg" group-title="4K VIDEO",Бора-Бора в 4К
 https://river-1.rutube.ru/hls-vod/22Yp-eBqOMTdngY8SkmRBg/1754750778/1873/0x5000c500e539127b/2421863b9a0e4c9ea67de9fe0855f530.mp4.m3u8?i=3840x2160_17254
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/29/31/29318086e00da1c865da25131f866d4f.jpg" group-title="4K VIDEO (VPN)",Карибы в 4К
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/29/31/29318086e00da1c865da25131f866d4f.jpg" group-title="4K VIDEO",Карибы в 4К
 https://river-1.rutube.ru/hls-vod/57XscxccBFKQfMwQLflT4g/1754750784/1772/0x5000c500d6d78c87/c002696df2d3474e95bf422d74a10427.mp4.m3u8?i=3840x2160_11480
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/51/f3/51f330a0fe798c746cda323431220662.jpg" group-title="4K VIDEO (VPN)",Намибия в 4К
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/51/f3/51f330a0fe798c746cda323431220662.jpg" group-title="4K VIDEO",Намибия в 4К
 https://river-1.rutube.ru/hls-vod/HOR3g0HF1ArjVYBuj4D26Q/1754750788/1764/0x5000c500e34cbd12/881a26935b1f4adb927b518c0b77d489.mp4.m3u8?i=3840x2160_11828
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/b7/fc/b7fc29123ab95b0ad408e42280ad1b71.jpg" group-title="4K VIDEO (VPN)",Китай В 4К
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/b7/fc/b7fc29123ab95b0ad408e42280ad1b71.jpg" group-title="4K VIDEO",Китай В 4К
 https://river-1.rutube.ru/hls-vod/oBLNGrMq7ZfDb_JIv3NAhA/1754750793/1863/0x5000c500e538cbf2/c978b1e2beaa4b8f92c50918c7ecc933.mp4.m3u8?i=3840x2160_12530
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/72/6a/726a9243184bbfe47c42763b374a1f25.jpg" group-title="4K VIDEO (VPN)",Мальдивы в 4К
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/72/6a/726a9243184bbfe47c42763b374a1f25.jpg" group-title="4K VIDEO",Мальдивы в 4К
 https://river-1.rutube.ru/hls-vod/8B2-__FfxNcQYeKB9jktRQ/1754750809/1846/0x5000c500c7262c36/344cdc5a75cd406a9c81daa62c025492.mp4.m3u8?i=3840x2160_23873
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/5e/5a/5e5a9cb6a10424f8ede9adc9848680c8.jpg" group-title="4K VIDEO (VPN)",Дубай в 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/5e/5a/5e5a9cb6a10424f8ede9adc9848680c8.jpg" group-title="4K VIDEO",Дубай в 4K
 https://river-1.rutube.ru/hls-vod/xOji8jV-iHoKjcDx7b7Gmw/1754750813/2462/0x5000c500e8828a7e/63d24580fb304a30a0daa941446ffe7d.mp4.m3u8?i=3840x2160_23768
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/14/98/14988617a7aed21381889ab5ceb7b1d9.jpg" group-title="4K VIDEO (VPN)",Германия в 4K
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/14/98/14988617a7aed21381889ab5ceb7b1d9.jpg" group-title="4K VIDEO",Германия в 4K
 https://river-1.rutube.ru/hls-vod/FbMb-Rd4KGDaloXOO9O-YA/1754750816/1776/0x5000c500c92079c7/b46cf235dbb14ddcbabe81d4f63a9fd4.mp4.m3u8?i=3840x2160_9532
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/1d/b4/1db4116552339ca6a936c366f7582b38.jpg" group-title="4K VIDEO (VPN)",Россия В 4К
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/1d/b4/1db4116552339ca6a936c366f7582b38.jpg" group-title="4K VIDEO",Россия В 4К
 https://river-1.rutube.ru/hls-vod/b6SH6BWz0bMai1mAOt-IMw/1754750820/1776/0x5000c500c3920f7f/9195d28dad90489aac2cb7c6dd6725aa.mp4.m3u8?i=3840x2160_15878
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/7b/88/7b881e1b446bd5519251f5a89b197144.jpg" group-title="4K VIDEO (VPN)",Подводный Мир В 4К
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/7b/88/7b881e1b446bd5519251f5a89b197144.jpg" group-title="4K VIDEO",Подводный Мир В 4К
 https://river-1.rutube.ru/hls-vod/TH8vRXFGfn1IU-iTz5lvXw/1754750824/1877/0x5000c500e53bc570/8a19e5ed6a9840349280d2cba180870a.mp4.m3u8?i=3840x2160_16302
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/c7/4c/c74ce2aa0d060a142070e9724fde3bef.jpg" group-title="4K VIDEO (VPN)",Детеныши Животных В 4К
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/c7/4c/c74ce2aa0d060a142070e9724fde3bef.jpg" group-title="4K VIDEO",Детеныши Животных В 4К
 https://river-1.rutube.ru/hls-vod/EfKkuOZ7Pd9mT5koo7jU4w/1754750831/1865/0x5000c500e53951e2/5481e2c1a8e5473c804cfbc908dd7899.mp4.m3u8?i=3840x2160_15516
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/10/9e/109e637b8250d8471f1c1b6fd7d8e290.jpg" group-title="4K VIDEO (VPN)",Животные Австралии В 4К
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/10/9e/109e637b8250d8471f1c1b6fd7d8e290.jpg" group-title="4K VIDEO",Животные Австралии В 4К
 https://river-1.rutube.ru/hls-vod/4ZnSv34laX1FkPIxrcwatw/1754750836/1764/0x5000c500dcea0ef9/bec395a0100c42a1b52bec53605116a4.mp4.m3u8?i=3840x2160_16020
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/91/3e/913e20d0e2711442e9b835ade3a86737.jpg" group-title="4K VIDEO (VPN)",Повседневные Вещи В Макро Съемке
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/91/3e/913e20d0e2711442e9b835ade3a86737.jpg" group-title="4K VIDEO",Повседневные Вещи В Макро Съемке
 https://river-1.rutube.ru/hls-vod/be-qAlqJAXeFJczWuRe2Tg/1754750842/1790/0x5000c500d6c05d87/7ea3d827b7234257abffc94e1cce193e.mp4.m3u8?i=3840x2160_11802
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/ce/01/ce01d4f2b1984d8dc9468e192f5816e9.jpg" group-title="4K VIDEO (VPN)",Океан В 4К Релакс
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/ce/01/ce01d4f2b1984d8dc9468e192f5816e9.jpg" group-title="4K VIDEO",Океан В 4К Релакс
 https://river-1.rutube.ru/hls-vod/GiJgAjsV7uxPHgItQLXwew/1754750847/1899/0x5000c500e53c9041/954d4f0b6c9640eea3b9d0daff375899.mp4.m3u8?i=3840x2160_12765
-#EXTINF:-1 tvg-logo="https://pic.rutube.ru/video/8a/8f/8a8fb71bed7423746a80654fc5ba541e.jpg" group-title="4K VIDEO (VPN)",Лес В 4К
+#EXTINF:-1  tvg-logo="https://pic.rutube.ru/video/8a/8f/8a8fb71bed7423746a80654fc5ba541e.jpg" group-title="4K VIDEO",Лес В 4К
 https://river-1.rutube.ru/hls-vod/xcxKqF_0OhLQsq56584ScA/1754750850/1846/0x5000c500c921884f/3a14e22cc0b24da0b4c9994cfbbfff0a.mp4.m3u8?i=3840x2160_15561
