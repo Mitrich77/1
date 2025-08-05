@@ -68,9 +68,7 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/
 #EXTINF:-1  group-title="ViP",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1  tvg-id="gosfilmofond-mv" group-title="ViP",Госфильмофонд. Машина времени
-https://mhd128.iptv2022.com/p/kLBoNKiFEFGThUyhWqUJXA,1754341229/streaming/car_is_vermen/324/1/index.m3u8
-#EXTINF:-1  tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10289/logo_256_1658737584.png" group-title="ViP",Советские мультфильмы
-https://mhd128.iptv2022.com/p/qvK4077_9kXU_5ZZTgpBOA,1754377020/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/wcYy8hzeDzeaAflPWgkP1Q,1754427632/streaming/car_is_vermen/324/1/index.m3u8
 #EXTINF:-1  tvg-id="zal-10-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-10-tricolor.png" group-title="ViP",СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
 https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png" group-title="ViP",СоюзМультфильм
