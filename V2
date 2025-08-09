@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1  group-title="ViP",Первый канал (Уфа)
 http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_1TV.m3u8
-#EXTINF:-1  group-title="ViP",Россия 1 (+2)
-http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIA1_2.m3u8
+#EXTINF:-1  group-title="ViP",Россия 1 (Уфа)
+http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_RUSSIA1.m3u8
 #EXTINF:-1  group-title="ViP",СТС (+2)
 http://dmi3y-tv.ru/hls/zabava/48/CH_STS_2.m3u8
 #EXTINF:-1  group-title="ViP",НТВ (+2)
@@ -102,7 +102,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
 #EXTINF:-1  group-title="ЭфиР+",Россия 1 (+1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_1.m3u8
 #EXTINF:-1  group-title="ЭфиР+",Россия 1 (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_2.m3u8
+http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_RUSSIA1.m3u8
 #EXTINF:-1  group-title="ЭфиР+",Россия 1 (+3)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_3.m3u8
 #EXTINF:-1  group-title="ЭфиР+",Россия 1 (+4)
