@@ -38,8 +38,8 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1  tvg-id="patriot" group-title="ViP",Патриот
 https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
 #EXTINF:-1  tvg-id="zal-01-tricolor" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" group-title="ViP",ШЕРЛОК ХОЛМС
-https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
-#EXTINF:-1  tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="ViP",Россия-24
+https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NTUzNDU1MiwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0OTI5NzUyLCJzZXNzaW9uX2lkIjoiMmJkMDlhZmFiZjkxMWMzMGU0NWQ2ZDZjOGRjNWIyMTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.5Bbe9d-2az1QkGdVp1Velj3eIyZUZZ5hhFl87KBoLAA
+EXTINF:-1  tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="ViP",Россия-24
 https://live-stream-13.ott.tricolor.tv/live/live/rossia_24/hls_enc/rossia_24.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDg4MTg1MywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzU0Mjc3MDUzLCJzZXNzaW9uX2lkIjoiZDQ5NWJmMzdkMzA1NWMxNDRlNjhkYWU4YjY0OGM4ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KcnS7a2Hun9IzvzRuKF-URjY_58O8CG-x-a6AWHQ2FE
 #EXTINF:-1  tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/29/57d75294d1cc649835e15a0649b78829.png" group-title="ViP",НОВОРОССИЯ ТВ
 http://185.229.235.30:8005/udp/225.15.3.149:2345
@@ -68,7 +68,7 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/
 #EXTINF:-1  group-title="ViP",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1  tvg-id="gosfilmofond-mv" group-title="ViP",Госфильмофонд. Машина времени
-https://mhd128.iptv2022.com/p/kLBoNKiFEFGThUyhWqUJXA,1754341229/streaming/car_is_vermen/324/1/index.m3u8
+https://mhd128.iptv2022.com/p/bGncRdUbZTQqYIPPEUobUA,1755032433/streaming/car_is_vermen/324/1/index.m3u8
 #EXTINF:-1  group-title="ViP",Советские мультфильмы
 http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTQzNzcwMzEsImlhdCI6MTc1NDI5MDYzMSwiY2lkIjo2LCJ1aWQiOjkzNDY5Njc0OCwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.6miTkPiiDbbHI4b01DuPfVdCzAqY-Cfeei2XA5-5_60&offset=10
 #EXTINF:-1  tvg-id="zal-10-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-10-tricolor.png" group-title="ViP",СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
