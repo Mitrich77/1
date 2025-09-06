@@ -143,3 +143,42 @@ https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 #EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+9)
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
+
+#EXTINF:-1 group-title="УФА",Первый канал (+2)
+http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_1TV.m3u8
+#EXTINF:-1 group-title="УФА",Россия 1 (+2)
+http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_ROSSIA1.m3u8
+#EXTINF:-1 group-title="УФА",СТС (+2)
+http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_STS.m3u8
+#EXTINF:-1 group-title="УФА",НТВ (+2)
+http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_NTV.m3u8
+#EXTINF:-1 group-title="УФА",Матч! (+2)
+http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_MATCHTV.m3u8
+#EXTINF:-1 group-title="УФА",Россия K (+2)
+http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_ROSSIAK.m3u8
+#EXTINF:-1 group-title="УФА",Россия 24 (+2)
+http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_ROSSIA24.m3u8
+#EXTINF:-1 group-title="Новости",Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/88/0870b794469eecc572d6e81997a14488.png" group-title="Новости",Соловьев Live
+http://178.212.71.253:8000/play/111/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/TASS_Logo_(Cyrillic)_2017.svg/1200px-TASS_Logo_(Cyrillic)_2017.svg.png" group-title="Новости",ТАСС
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
+#EXTINF:-1 group-title="УФА",ОТР (+2)
+http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_OTR.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_RENTV_2.m3u8
+#EXTINF:-1 group-title="УФА",Пятый канал (+2)
+http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_5TV.m3u8
+#EXTINF:-1 group-title="УФА",ТВЦ (+2)
+http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_TVC.m3u8
+#EXTINF:-1 group-title="УФА",ТНТ (+2)
+http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_TNT.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+2)
+http://dmi3y-tv.ru/hls/zabava/48/CH_MIR_2.m3u8
+#EXTINF:-1 group-title="УФА",Звезда (+2)
+http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_ZVEZDA.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i125.fastpic.org/big/2025/0816/97/2430143485b6473f00c800049faf5597.png" group-title="Новости",Россия•24 HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/29/57d75294d1cc649835e15a0649b78829.png" group-title="Новости",НОВОРОССИЯ ТВ
+http://185.229.235.30:8005/udp/225.15.3.149:2345
