@@ -33,7 +33,6 @@ http://dmi3y-tv.ru/hls/zabava/48/CH_SPAS_2.m3u8
 http://dmi3y-tv.ru/hls/zabava/48/CH_MIR_2.m3u8
 #EXTINF:-1 group-title="УФА",Звезда (+2)
 http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_ZVEZDA.m3u8
-
 #EXTINF:-1 tvg-id="zvezda" group-title="Эфирные",Звезда HD
 http://live-stream-06.ott.tricolor.tv/live/live/zvezda_hd/hls_enc/zvezda_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzQ2OTYyNiwiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU2ODY0ODI2LCJzZXNzaW9uX2lkIjoiMzg3ODE0ODlhM2YyNTY2Mzg2NDY5ZjFlODM3MGU3ZTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vdeeiIejdEKI9QXXZ6QnN3N_SAE2rnNGWzVIyAdxvL0
 #EXTINF:-1 group-title="Новости",Звезда Плюс HD
@@ -82,6 +81,8 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://stream-msk-05.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzQ2OTYyNiwiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU2ODY0ODI2LCJzZXNzaW9uX2lkIjoiMzg3ODE0ODlhM2YyNTY2Mzg2NDY5ZjFlODM3MGU3ZTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vdeeiIejdEKI9QXXZ6QnN3N_SAE2rnNGWzVIyAdxvL0
 #EXTINF:-1 tvg-id="patriot" group-title="Кино и сериалы",Патриот
 https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzQ2OTYyNiwiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU2ODY0ODI2LCJzZXNzaW9uX2lkIjoiMzg3ODE0ODlhM2YyNTY2Mzg2NDY5ZjFlODM3MGU3ZTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vdeeiIejdEKI9QXXZ6QnN3N_SAE2rnNGWzVIyAdxvL0
+#EXTINF:-1 tvg-id="retro-tv" group-title="Кино и сериалы",Ретро ТВ
+http://89.221.57.5:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="domkino" group-title="Кино и сериалы",Дом кино
 http://45.159.74.22/DomKino/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Дом Кино Премиум HD
@@ -241,4 +242,4 @@ http://185.229.235.30:8005/udp/225.15.3.149:2345
 #EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Новости",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" group-title="Новости",Соловьев.Live HD
-http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
