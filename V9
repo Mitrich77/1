@@ -13,6 +13,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
 #EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink (VPN 🇷🇺)",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Известия
+http://195.18.23.20:8000/play/51/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Соловьёв Live
+http://195.18.23.20:8000/play/333/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink (VPN 🇷🇺)",ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink (VPN 🇷🇺)",РЕН ТВ (+2)
@@ -49,21 +53,21 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink (VPN 🇷🇺)",ТНТ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="7" catchup_template="&offset=${offset}" group-title="Peers (VPN)",Известия HD
-http://api.peers.tv/timeshift/izvestiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTczMTQ1MDUsImlhdCI6MTc1NzIyODEwNSwiY2lkIjo2LCJ1aWQiOjk0MzIwMzc2NywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.xfjD5moLUA-JDfJlr6Gsodx-x3bZtbUatdp4OJi4_-A&offset=10
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Известия
-https://livetv.mylifeisgood.net.ru/channels/iz.m3u8
-#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10143/logo_256_1655452209.png" group-title="Lime (VPN 🇷🇺)",Известия
-https://mhd128.iptv2022.com/p/mjdlvUArNctlWJxQxuVHWA,1757314325/streaming/izvestia/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Ялта (VPN)",Известия
-http://178.212.71.253:8000/play/138/index.m3u8
-#EXTINF:-1 group-title="AgroNet (VPN)",Известия
-http://195.26.83.96:7009/play/a00j/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Известия
-http://195.18.23.20:8000/play/51/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Соловьёв Live
-http://195.18.23.20:8000/play/333/index.m3u8
-#EXTINF:-1 group-title="Ялта (VPN)",Соловьев Live
-http://178.212.71.253:8000/play/111/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13735/logo_256_1660807355.png" group-title="Lime (VPN 🇷🇺)",Соловьев Live
-https://mhd128.iptv2022.com/p/nXQEbWFmJTva03NWgPRLxg,1757314325/streaming/solovyevlive/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cvy.okis.ru/file/cvy/9.gif" group-title="TEST ⓵",Релакс
+http://185.57.68.33/232/mpegts
+#EXTINF:-1 tvg-id="bridge-tv-etno" group-title="TEST (VPN)",Bridge TV Этно
+http://tvip.btk.teleos.ru:8081/chid520/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="US2900005NW" tvg-name="cozy vibes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900005NW_20241010T194656SQUARE.png" group-title="RELAX",Cozy Vibes
+https://d2esizdt2xkmhp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qw5vkd4gzoaia/SONO60.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US2900005NW
+#EXTINF:-1 tvg-id="USBA3800004EL" tvg-name="fireplace vibes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20241105T185655SQUARE.png" group-title="RELAX",Fireplace Vibes
+https://d2l4k8y57npunc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f08h8nn8dmm6z/Fireplace_4K_SONO20.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBA3800004EL
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2464.png" group-title="С сайтов (VPN)",БСТ
+https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10162/logo_256_1660804483.png" group-title="Lime (VPN 🇷🇺)",БСТ (Уфа)
+https://mhd128.iptv2022.com/p/Qo9aR4yT0Jgvyl_n6Z_8VA,1757314326/streaming/bst/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10209/logo_256_1655387069.png" group-title="Lime (VPN 🇷🇺)",Вся Уфа
+https://mhd128.iptv2022.com/p/fPVfoHAaa-KD-h9DRcX4JQ,1757314326/streaming/allufaru/324/1/index.m3u8
+#EXTINF:-1 group-title="Rutube (VPN)",БСТ
+https://bl.rutube.ru/livestream/2804b7fd1507420dda2e2c81b2b72c8e/index.m3u8?s=bjFK6WwQnN8FIsubcO-biw&e=1757314367&scheme=https
+#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Wink (VPN 🇷🇺)",БСТ
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
