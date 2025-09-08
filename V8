@@ -51,12 +51,16 @@ https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd.m3u8?drmr
 https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzkwMTYyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3Mjk2ODI3LCJzZXNzaW9uX2lkIjoiZGViZGU4OThkZTUwNjIzMGJkNjQ5NDA2NGQ2M2ZjYTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Erk3oqUptlGDma5X-k38v_XmfI6ACN8lCLfCHKsdnbU
 #EXTINF:-1 group-title="Развлекательные",СТС HD
 http://live-stream-01.ott.tricolor.tv/live/live/STS_0_hd/hls_enc/STS_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzkwMTYyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3Mjk2ODI3LCJzZXNzaW9uX2lkIjoiZGViZGU4OThkZTUwNjIzMGJkNjQ5NDA2NGQ2M2ZjYTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Erk3oqUptlGDma5X-k38v_XmfI6ACN8lCLfCHKsdnbU
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ
+http://dmi3y-tv.ru/hls/zabava/48/CH_NTV.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч! HD
 http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzkwMTYyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3Mjk2ODI3LCJzZXNzaW9uX2lkIjoiZGViZGU4OThkZTUwNjIzMGJkNjQ5NDA2NGQ2M2ZjYTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Erk3oqUptlGDma5X-k38v_XmfI6ACN8lCLfCHKsdnbU
 #EXTINF:-1 tvg-id="rentv" group-title="Эфирные",Рен ТВ HD
 http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzkwMTYyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3Mjk2ODI3LCJzZXNzaW9uX2lkIjoiZGViZGU4OThkZTUwNjIzMGJkNjQ5NDA2NGQ2M2ZjYTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Erk3oqUptlGDma5X-k38v_XmfI6ACN8lCLfCHKsdnbU
 #EXTINF:-1 tvg-id="mir" group-title="Эфирные",Мир HD
 https://live-stream-19.ott.tricolor.tv/live/live/Mir_HD/hls_enc/Mir_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzkwMTYyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3Mjk2ODI3LCJzZXNzaW9uX2lkIjoiZGViZGU4OThkZTUwNjIzMGJkNjQ5NDA2NGQ2M2ZjYTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Erk3oqUptlGDma5X-k38v_XmfI6ACN8lCLfCHKsdnbU
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ
+http://dmi3y-tv.ru/hls/zabava/48/CH_TNT.m3u8
 #EXTINF:-1 group-title="УФА",ТНТ (+2)
 http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_TNT.m3u8
 #EXTINF:-1 tvg-id="gosfilmofond-mv" group-title="Кино и сериалы",Госфильмофонд. Машина времени
@@ -241,5 +245,19 @@ http://185.229.235.30:8005/udp/225.15.3.149:2345
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" group-title="Новости",Соловьев.Live HD
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал
+http://dmi3y-tv.ru/hls/zabava/48/CH_1TV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1
+http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIA1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ
+http://dmi3y-tv.ru/hls/zabava/48/CH_RENTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС
+http://dmi3y-tv.ru/hls/zabava/48/CH_STS.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда
+http://dmi3y-tv.ru/hls/zabava/48/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР
+http://dmi3y-tv.ru/hls/zabava/48/CH_MIR.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-etno" group-title="Музыкальные",Bridge TV Этно
 http://192.141.167.40/BRIDGE_ETHNO/index.m3u8
+
+
