@@ -61,40 +61,62 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_2.m3u8
 #EXTINF:-1,МИР
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
-#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="Познавательные",Моя Планета
-http://194.143.148.28:8080/Nauka20/mpegts
-#EXTINF:-1,Живая природа HD
-http://dmi3y-tv.ru/hls/CH_ZHIVAYAPRIRODAHD.m3u8
-#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://iptvx.one/picons/v-mire-zhivotnyx.png" group-title="Познавательные",В мире животных HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
-#EXTINF:-1,В гостях у сказки
-http://dmi3y-tv.ru/hls/CH_VGOSTYAHUSKAZKI.m3u8
-#EXTINF:-1,Мосфильм Золотая коллекция
-http://dmi3y-tv.ru/hls/CH_MOSFILM_ZOLOTAYAKOLLEKCIYA.m3u8
-#EXTINF:-1,Кино 1 International
-http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
-#EXTINF:-1,ПОБЕДА
-http://dmi3y-tv.ru/hls/CH_POBEDA.m3u8
-#EXTINF:-1,Наука 2.0
-http://dmi3y-tv.ru/hls/CH_NAUKA20.m3u8
-#EXTINF:-1 tvg-id="nauka-20" tvg-logo="https://iptvx.one/picons/nauka-20.png" group-title="Познавательные",Наука 2.0 HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nauka_HD
-#EXTINF:-1,NANO HD
-http://dmi3y-tv.ru/hls/CH_NANOHD.m3u8
-#EXTINF:-1 tvg-id="nano-hd" tvg-logo="https://iptvx.one/picons/nano-hd.png" group-title="Познавательные",Нано HD
-http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
-#EXTINF:-1,TOP SECRET
-http://dmi3y-tv.ru/hls/CH_TOP_SECRET.m3u8
-#EXTINF:-1 tvg-id="sovsek" tvg-logo="https://epg.iptvx.one/picons/sovsek.png" group-title="Познавательные",Совершенно Секретно
-http://178.124.152.238:8088/sovsec
-#EXTINF:-1 tvg-id="history" tvg-logo="https://epg.iptvx.one/picons/history.png" group-title="Познавательные",History
-http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
-#EXTINF:-1,ИСТОРИЯ
-http://dmi3y-tv.ru/hls/CH_ISTORIYA.m3u8
-#EXTINF:-1 tvg-id="istoria" tvg-logo="https://epg.iptvx.one/picons/istoria.png" group-title="Познавательные",История
-http://109.200.130.123:7537/play/a025
-#EXTINF:-1,НТВ СТИЛЬ
-http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
+
+
+#EXTINF:-1 tvg-id="gosfilmofond-mv" group-title="Кино и сериалы",Госфильмофонд. Машина времени
+https://mhd128.iptv2022.com/p/oia4RnIqBla204GmG1uNKA,1757451654/streaming/car_is_vermen/324/1/index.m3u8
+#EXTINF:-1 tvg-id="retro-tv" group-title="Кино и сериалы",Ретро ТВ
+http://89.221.57.5:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="patriot" group-title="Кино и сериалы",Патриот
+https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzkwMTYyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3Mjk2ODI3LCJzZXNzaW9uX2lkIjoiZGViZGU4OThkZTUwNjIzMGJkNjQ5NDA2NGQ2M2ZjYTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Erk3oqUptlGDma5X-k38v_XmfI6ACN8lCLfCHKsdnbU
+#EXTINF:-1 tvg-id="nashe-lubimoe-hd" group-title="Кино и сериалы",Любимое HD
+https://stream-msk-05.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzkwMTYyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3Mjk2ODI3LCJzZXNzaW9uX2lkIjoiZGViZGU4OThkZTUwNjIzMGJkNjQ5NDA2NGQ2M2ZjYTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Erk3oqUptlGDma5X-k38v_XmfI6ACN8lCLfCHKsdnbU
+#EXTINF:-1 tvg-id="domkino" group-title="Кино и сериалы",Дом кино
+http://45.159.74.22/DomKino/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Дом Кино Премиум HD
+http://stream-msk-08.ott.tricolor.tv/dtv/id396_MSKSG-PVR-1--HD_Dom_Kino_premium/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzkwMTYyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3Mjk2ODI3LCJzZXNzaW9uX2lkIjoiZGViZGU4OThkZTUwNjIzMGJkNjQ5NDA2NGQ2M2ZjYTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Erk3oqUptlGDma5X-k38v_XmfI6ACN8lCLfCHKsdnbU
+#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Кино и сериалы",Мосфильм. Золотая коллекция HD
+http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzkwMTYyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3Mjk2ODI3LCJzZXNzaW9uX2lkIjoiZGViZGU4OThkZTUwNjIzMGJkNjQ5NDA2NGQ2M2ZjYTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Erk3oqUptlGDma5X-k38v_XmfI6ACN8lCLfCHKsdnbU
+#EXTINF:-1 tvg-id="sov-kinklass" group-title="Кино и сериалы",Советская киноклассика
+https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzkwMTYyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3Mjk2ODI3LCJzZXNzaW9uX2lkIjoiZGViZGU4OThkZTUwNjIzMGJkNjQ5NDA2NGQ2M2ZjYTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Erk3oqUptlGDma5X-k38v_XmfI6ACN8lCLfCHKsdnbU
+#EXTINF:-1 group-title="Кино и сериалы",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="Советские фильмы" tvg-logo="http://i124.fastpic.org/big/2025/0304/ea/f5805db84096a7966a72bb5b81c5a0ea.png" group-title="Кинозалы 2",СОВЕТСКИЕ ФИЛЬМЫ
+https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzkwMTYyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3Mjk2ODI3LCJzZXNzaW9uX2lkIjoiZGViZGU4OThkZTUwNjIzMGJkNjQ5NDA2NGQ2M2ZjYTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Erk3oqUptlGDma5X-k38v_XmfI6ACN8lCLfCHKsdnbU
+#EXTINF:-1 tvg-id="zal-01-tricolor" tvg-logo="http://i124.fastpic.org/big/2025/0304/85/e1a226a307b053457112bea9a834ff85.png" group-title="Кинозалы 2",ШЕРЛОК ХОЛМС
+https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzkwMTYyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3Mjk2ODI3LCJzZXNzaW9uX2lkIjoiZGViZGU4OThkZTUwNjIzMGJkNjQ5NDA2NGQ2M2ZjYTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Erk3oqUptlGDma5X-k38v_XmfI6ACN8lCLfCHKsdnbU
+#EXTINF:-1 tvg-id="zal-05-tricolor" tvg-logo="http://i124.fastpic.org/big/2025/0304/bb/f6ff9fec67ced8a86cacf2288a3ae6bb.png" group-title="Кинозалы 2",17 мгнов. весны
+https://stream-msk-16.ott.tricolor.tv/dtv/id925_MSKSG-PVR-1--Kinozal_5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzkwMTYyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3Mjk2ODI3LCJzZXNzaW9uX2lkIjoiZGViZGU4OThkZTUwNjIzMGJkNjQ5NDA2NGQ2M2ZjYTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Erk3oqUptlGDma5X-k38v_XmfI6ACN8lCLfCHKsdnbU
+#EXTINF:-1 tvg-id="zal-07-tricolor" tvg-logo="https://gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-tri-bogatirya-nadpis-na-prozrachnom-fone-1.jpg" group-title="Кинозалы 2",ТРИ БОГАТЫРЯ
+https://stream-msk-15.ott.tricolor.tv/dtv/id928_MSKSG-PVR-1--Kinozal_7/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzkwMTYyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3Mjk2ODI3LCJzZXNzaW9uX2lkIjoiZGViZGU4OThkZTUwNjIzMGJkNjQ5NDA2NGQ2M2ZjYTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Erk3oqUptlGDma5X-k38v_XmfI6ACN8lCLfCHKsdnbU
+#EXTINF:-1 tvg-id="zal-10-tricolor" tvg-logo="https://epg.iptvx.one/picons/zal-10-tricolor.png" group-title="Кинозалы 2",СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
+https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzkwMTYyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3Mjk2ODI3LCJzZXNzaW9uX2lkIjoiZGViZGU4OThkZTUwNjIzMGJkNjQ5NDA2NGQ2M2ZjYTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Erk3oqUptlGDma5X-k38v_XmfI6ACN8lCLfCHKsdnbU
+#EXTINF:-1 tvg-id="zal-11-tricolor" tvg-logo="http://i124.fastpic.org/big/2025/0304/fa/9c62112b7d4c9e0397102f24c70a92fa.png" group-title="Кинозалы 2",СМЕШАРИКИ
+https://stream-msk-16.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzkwMTYyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3Mjk2ODI3LCJzZXNzaW9uX2lkIjoiZGViZGU4OThkZTUwNjIzMGJkNjQ5NDA2NGQ2M2ZjYTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Erk3oqUptlGDma5X-k38v_XmfI6ACN8lCLfCHKsdnbU
+#EXTINF:-1 group-title="Детские",В гостях у сказки
+http://178.217.72.66:8080/Black/index.m3u8
+#EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-logo="https://epg.iptvx.one/picons/detkinoint-tviksel.png" group-title="Детские",Детское кино International
+http://autopilot.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="Relax",Relax 1
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="Relax",Relax 2
+https://d27toxk63drks3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pibqoi1zv0ree/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="Relax",Relax 5
+https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="Relax",Relax 6
+https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="Relax",Relax 8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/ef0ba3a6-870b-4d3f-9814-78bafa0c043e/2.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="Relax",Relax 9
+https://d35j504z0x2vu2.cloudfro
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="Relax",Cozy Vibes
+https://d2esizdt2xkmhp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qw5vkd4gzoaia/SONO60.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="Relax",Fireplace
+https://d2l4k8y57npunc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f08h8nn8dmm6z/Fireplace_4K_SONO20.m3u8
+#EXTINF:-1 tvg-id="Sochi Live" tvg-logo="http://i115.fastpic.org/big/2021/0925/60/9fb81f851b8d68ef84ff900adf597f60.png" group-title="Relax",SOCHI LIVE HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
+
+
 #EXTINF:-1,Россия 1 (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1-1.m3u8
 #EXTINF:-1,Россия 1
