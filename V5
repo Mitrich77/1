@@ -61,24 +61,16 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_2.m3u8
 #EXTINF:-1,МИР
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
-#EXTINF:-1,МИР 24
-http://dmi3y-tv.ru/hls/CH_MIR24.m3u8
+#EXTINF:-1,В гостях у сказки
+http://dmi3y-tv.ru/hls/CH_VGOSTYAHUSKAZKI.m3u8
+#EXTINF:-1,Живая природа HD
+http://dmi3y-tv.ru/hls/CH_ZHIVAYAPRIRODAHD.m3u8
 #EXTINF:-1,Мосфильм Золотая коллекция
 http://dmi3y-tv.ru/hls/CH_MOSFILM_ZOLOTAYAKOLLEKCIYA.m3u8
 #EXTINF:-1,Кино 1 International
 http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
-#EXTINF:-1,В мире животных HD
-http://dmi3y-tv.ru/hls/CH_VMIRE_ZHIVOTNYHD.m3u8
-#EXTINF:-1,NANO HD
-http://dmi3y-tv.ru/hls/CH_NANOHD.m3u8
 #EXTINF:-1,Наука 2.0
 http://dmi3y-tv.ru/hls/CH_NAUKA20.m3u8
-#EXTINF:-1,Живая природа HD
-http://dmi3y-tv.ru/hls/CH_ZHIVAYAPRIRODAHD.m3u8
-#EXTINF:-1,TOP SECRET
-http://dmi3y-tv.ru/hls/CH_TOP_SECRET.m3u8
-#EXTINF:-1,В гостях у сказки
-http://dmi3y-tv.ru/hls/CH_VGOSTYAHUSKAZKI.m3u8
 #EXTINF:-1,ИСТОРИЯ
 http://dmi3y-tv.ru/hls/CH_ISTORIYA.m3u8
 #EXTINF:-1,Первый канал (-1)
@@ -87,8 +79,14 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV-1.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+3)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_3.m3u8
 #EXTINF:-1,Первый канал (+4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+5)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_5.m3u8
 #EXTINF:-1,Первый канал (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_6.m3u8
 #EXTINF:-1,Первый канал (+7)
@@ -101,8 +99,16 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_9.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1-1.m3u8
 #EXTINF:-1,Россия 1
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+3)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_3.m3u8
 #EXTINF:-1,Россия 1 (+4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+5)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_5.m3u8
 #EXTINF:-1,Россия 1 (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_6.m3u8
 #EXTINF:-1,Россия 1 (+7)
@@ -115,10 +121,18 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_9.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
 #EXTINF:-1,НТВ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+3)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_3.m3u8
 #EXTINF:-1,НТВ (+4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_4.m3u8
 #EXTINF:-1,НТВ (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+5)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_5.m3u8
 #EXTINF:-1,НТВ (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_7.m3u8
 #EXTINF:-1,Звезда
@@ -149,28 +163,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC.m3u8
 #EXTINF:-1,ТВЦ (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+3)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+5)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+3)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+5)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+3)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+5)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_5.m3u8
 #EXTINF:-1 tvg-id="patriot" tvg-logo="https://epg.iptvx.one/picons/patriot.png" group-title="Фильмы,сериалы",Патриот
 https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzA4ODAyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU2NDgzMjI3LCJzZXNzaW9uX2lkIjoiNmIyMzdkODBkODVhNTIxNTc1MGNmMjM4ZDIyN2UzODMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VV5q6l0RqTpUaAS9zp_0g-CrTe8lCxwQMFkom1T_Vj4
 #EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="Фильмы,сериалы",Ретро
@@ -179,4 +171,19 @@ http://178.212.71.253:8000/play/90/index.m3u8
 https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzA4ODAyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU2NDgzMjI3LCJzZXNzaW9uX2lkIjoiNmIyMzdkODBkODVhNTIxNTc1MGNmMjM4ZDIyN2UzODMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VV5q6l0RqTpUaAS9zp_0g-CrTe8lCxwQMFkom1T_Vj4
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="Познавательные",Моя Планета
 http://194.143.148.28:8080/Nauka20/mpegts
-￼Enter
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i125.fastpic.org/big/2025/0816/97/2430143485b6473f00c800049faf5597.png" group-title="Новости",Россия•24 HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Новости",Соловьев Live HD
+http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
+#EXTINF:-1 tvg-id="solovjinypomiot" group-title="Новости",Соловьев Live
+https://stream-msk-17.ott.tricolor.tv/dtv/id979_MSKSG-PVR-1--SolovievLive/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MjQ5MzM2MywiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxODg4NTYzLCJzZXNzaW9uX2lkIjoiMWZkYTk2MTk2YTg1ZWIzZGNmOGQ0ZTQwZTAwMGUxNjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.X5Tot_pBMjpV11rAD10aqBLkm168F46YX69qAQENQoI
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Новости",Соловьёв Live SD
+http://195.26.83.96:7029/play/a003
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/29/57d75294d1cc649835e15a0649b78829.png" group-title="Новости",НОВОРОССИЯ ТВ
+http://185.229.235.30:8005/udp/225.15.3.149:2345
+#EXTINF:-1 tvg-rec="0" group-title="ViP",Звезда Плюс HD
+http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/19230/index.m3u8
+#EXTINF:-1 group-title="Новости",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ZvezdaPlus.ru" group-title="Новости",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
