@@ -32,7 +32,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS_2.m3u8
 #EXTINF:-1,МИР (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_2.m3u8
 #EXTINF:-1 tvg-id="Xzvezda-pl2" tvg-name="звезда +2" tvg-logo="https://ip-tv.dev/images/ico/zvezda-pl2.png" group-title="Россия",Звезда +2
-http://de.online24.pm/play/151/65F8DEA9B8759ED/video.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_2.m3u8
 #EXTINF:-1 tvg-id="Xzvezda" tvg-name="звезда hd" tvg-logo="https://ip-tv.dev/epg/icon/zvezda.png" tvg-rec="1" catchup_days="5" group-title="Россия",Звезда HD
 http://de.online24.pm/play/170/65F8DEA9B8759ED/video.m3u8
 #EXTINF:-1 tvg-id="Xzvezda-plus" tvg-name="звезда плюс" tvg-logo="https://ip-tv.dev/images/ico/zvezda-plus.png" group-title="Россия",Звезда Плюс
@@ -63,12 +63,12 @@ http://de.online24.pm/play/719/65F8DEA9B8759ED/video.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
 
 
-#EXTINF:-1 tvg-id="zal-01-tricolor" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" group-title="Кинозалы 2",ШЕРЛОК ХОЛМС
-https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
-#EXTINF:-1 tvg-id="zal-05-tricolor" tvg-logo="https://i125.fastpic.org/big/2025/0913/ec/726f6943f89f8593e95337a2227168ec.jpg" group-title="Кинозалы 2",СЕМНАДЦАТЬ МГНОВЕНИЙ ВЕСНЫ
-https://stream-msk-16.ott.tricolor.tv/dtv/id925_MSKSG-PVR-1--Kinozal_5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+#EXTINF:-1 tvg-id="zal-01-tricolor" tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/sherlok-holms.webp" group-title="Кинозалы 2",ШЕРЛОК ХОЛМС
+https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODUwNjQyOCwiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3OTAxNjI4LCJzZXNzaW9uX2lkIjoiODhkYTYwNWY3NTFjOTQ1NThlZjVkM2ZmNWYwYjAwNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.7MCUx2jDzWYy16xCBlOTk0_HMJONiWslwdPt-HyWnIk
+#EXTINF:-1 tvg-id="zal-05-tricolor" tvg-logo="https://kino-static.tricolor.ru/media/v2/4b7d379e-7f5d-4d55-b281-ea358d1a8490" group-title="Кинозалы 2",СЕМНАДЦАТЬ МГНОВЕНИЙ ВЕСНЫ
+https://stream-msk-16.ott.tricolor.tv/dtv/id925_MSKSG-PVR-1--Kinozal_5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODUwNjQyOCwiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3OTAxNjI4LCJzZXNzaW9uX2lkIjoiODhkYTYwNWY3NTFjOTQ1NThlZjVkM2ZmNWYwYjAwNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.7MCUx2jDzWYy16xCBlOTk0_HMJONiWslwdPt-HyWnIk
 #EXTINF:-1 tvg-id="zal-07-tricolor" tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/tri-bogaturya.webp" group-title="Кинозалы 2",ТРИ БОГАТЫРЯ
-https://stream-msk-15.ott.tricolor.tv/dtv/id928_MSKSG-PVR-1--Kinozal_7/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://stream-msk-15.ott.tricolor.tv/dtv/id928_MSKSG-PVR-1--Kinozal_7/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODUwNjQyOCwiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3OTAxNjI4LCJzZXNzaW9uX2lkIjoiODhkYTYwNWY3NTFjOTQ1NThlZjVkM2ZmNWYwYjAwNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.7MCUx2jDzWYy16xCBlOTk0_HMJONiWslwdPt-HyWnIk
 
 
 #EXTINF:-1 tvg-id="Xnashe-lubimoe" tvg-name="наше любимое hd" tvg-logo="https://ip-tv.dev/epg/icon/nashe-lubimoe.png" tvg-rec="1" catchup_days="5" group-title="Кино",Наше любимое HD
