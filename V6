@@ -4,7 +4,7 @@ http://de.online24.pm/play/701/65F8DEA9B8759ED/video.m3u8
 #EXTINF:-1 tvg-id="Xrossia1-pl2" tvg-name="россия 1 +2" tvg-logo="https://ip-tv.dev/epg/icon/rossia1.png" tvg-rec="1" catchup_days="5" group-title="Россия",Россия 1 +2
 http://de.online24.pm/play/702/65F8DEA9B8759ED/video.m3u8
 #EXTINF:-1 tvg-id="Xsts-pl2" tvg-name="стс (+2)" tvg-logo="https://ip-tv.dev/epg/icon/sts.png" tvg-rec="1" catchup_days="5" group-title="Россия",СТС (+2)
-http://de.online24.pm/play/713/65F8DEA9B8759ED/video.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_2.m3u8
 #EXTINF:-1 tvg-id="Xntv-pl2" tvg-name="нтв (+2)" tvg-logo="https://ip-tv.dev/epg/icon/ntv-white.png" tvg-rec="1" catchup_days="5" group-title="Россия",НТВ (+2)
 http://de.online24.pm/play/704/65F8DEA9B8759ED/video.m3u8
 #EXTINF:-1 tvg-id="Xmatch-tv" tvg-name="матч! hd" tvg-logo="https://ip-tv.dev/epg/icon/match.png" tvg-rec="1" catchup_days="5" group-title="Спорт",Матч! HD
