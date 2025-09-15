@@ -1,0 +1,113 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Xpervy-pl2" tvg-name="первый канал +2" tvg-logo="https://ip-tv.dev/epg/icon/pervyj.png" tvg-rec="1" catchup_days="5" group-title="Россия",Первый канал +2
+http://de.online24.pm/play/701/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xrossia1-pl2" tvg-name="россия 1 +2" tvg-logo="https://ip-tv.dev/epg/icon/rossia1.png" tvg-rec="1" catchup_days="5" group-title="Россия",Россия 1 +2
+http://de.online24.pm/play/702/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xsts-pl2" tvg-name="стс (+2)" tvg-logo="https://ip-tv.dev/epg/icon/sts.png" tvg-rec="1" catchup_days="5" group-title="Россия",СТС (+2)
+http://de.online24.pm/play/713/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xntv-pl2" tvg-name="нтв (+2)" tvg-logo="https://ip-tv.dev/epg/icon/ntv-white.png" tvg-rec="1" catchup_days="5" group-title="Россия",НТВ (+2)
+http://de.online24.pm/play/704/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xmatch-tv" tvg-name="матч! hd" tvg-logo="https://ip-tv.dev/epg/icon/match.png" tvg-rec="1" catchup_days="5" group-title="Спорт",Матч! HD
+http://de.online24.pm/play/397/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1,Россия К (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_2.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i125.fastpic.org/big/2025/0816/97/2430143485b6473f00c800049faf5597.png" group-title="Новости",Россия 24 HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:-1 tvg-id="Xizvestia" tvg-name="известия hd" tvg-logo="https://ip-tv.dev/images/ico/izvestia.png" group-title="Россия",Известия HD
+http://de.online24.pm/play/3796/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xsolovjinypomiot" tvg-name="соловьев.live" tvg-logo="https://ip-tv.dev/images/ico/solovjinypomiot.png" group-title="Россия",Соловьев.Live
+http://de.online24.pm/play/5343/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/TASS_Logo_(Cyrillic)_2017.svg/1200px-TASS_Logo_(Cyrillic)_2017.svg.png" group-title="Новости",ТАСС
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
+#EXTINF:-1 group-title="УФА",ОТР (+2)
+http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_OTR.m3u8
+#EXTINF:-1 tvg-id="Xrentv-pl2" tvg-name="рен тв (+2)" tvg-logo="https://ip-tv.dev/epg/icon/rentv.png" tvg-rec="1" catchup_days="5" group-title="Россия",Рен ТВ (+2)
+http://de.online24.pm/play/711/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1,Пятый канал (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_2.m3u8
+#EXTINF:-1,ТВЦ (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_2.m3u8
+#EXTINF:-1,СПАС (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS_2.m3u8
+#EXTINF:-1,МИР (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_2.m3u8
+#EXTINF:-1 tvg-id="Xzvezda-pl2" tvg-name="звезда +2" tvg-logo="https://ip-tv.dev/images/ico/zvezda-pl2.png" group-title="Россия",Звезда +2
+http://de.online24.pm/play/151/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xzvezda" tvg-name="звезда hd" tvg-logo="https://ip-tv.dev/epg/icon/zvezda.png" tvg-rec="1" catchup_days="5" group-title="Россия",Звезда HD
+http://de.online24.pm/play/170/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xzvezda-plus" tvg-name="звезда плюс" tvg-logo="https://ip-tv.dev/images/ico/zvezda-plus.png" group-title="Россия",Звезда Плюс
+http://de.online24.pm/play/197/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i125.fastpic.org/big/2025/0816/97/2430143485b6473f00c800049faf5597.png" group-title="Новости",Россия•24 HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:-1,ИЗВЕСТИЯ HD
+http://dmi3y-tv.ru/hls/CH_IZVESTIYAHD.m3u8
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/88/0870b794469eecc572d6e81997a14488.png" group-title="Новости",Соловьев Live HD
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 tvg-id="Xpervy" tvg-name="первый канал hd" tvg-logo="https://ip-tv.dev/epg/icon/pervyj.png" tvg-rec="1" catchup_days="5" group-title="Россия",Первый канал HD
+http://de.online24.pm/play/73/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xrossia1" tvg-name="россия 1 hd" tvg-logo="https://ip-tv.dev/epg/icon/rossia-hd.png" tvg-rec="1" catchup_days="5" group-title="Россия",Россия 1 HD
+http://de.online24.pm/play/173/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xsts" tvg-name="стс hd" tvg-logo="https://ip-tv.dev/epg/icon/sts.png" tvg-rec="1" catchup_days="5" group-title="Россия",СТС HD
+http://de.online24.pm/play/36/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xntv" tvg-name="нтв hd" tvg-logo="https://ip-tv.dev/epg/icon/ntv-white.png" tvg-rec="1" catchup_days="5" group-title="Россия",НТВ HD
+http://de.online24.pm/play/220/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч! HD
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 tvg-id="Xrentv" tvg-name="рен тв hd" tvg-logo="https://ip-tv.dev/epg/icon/rentv.png" tvg-rec="1" catchup_days="5" group-title="Россия",Рен ТВ HD
+http://de.online24.pm/play/111/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xtnt" tvg-name="тнт hd" tvg-logo="https://ip-tv.dev/epg/icon/tnt.png" tvg-rec="1" catchup_days="5" group-title="Россия",ТНТ HD
+http://de.online24.pm/play/86/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xtnt-pl2" tvg-name="тнт (+2)" tvg-logo="https://ip-tv.dev/epg/icon/tnt.png" tvg-rec="1" catchup_days="5" group-title="Россия",ТНТ (+2)
+http://de.online24.pm/play/719/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1,МИР
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
+
+
+#EXTINF:-1 tvg-id="zal-01-tricolor" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" group-title="Кинозалы 2",ШЕРЛОК ХОЛМС
+https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+#EXTINF:-1 tvg-id="zal-05-tricolor" tvg-logo="https://i125.fastpic.org/big/2025/0913/ec/726f6943f89f8593e95337a2227168ec.jpg" group-title="Кинозалы 2",СЕМНАДЦАТЬ МГНОВЕНИЙ ВЕСНЫ
+https://stream-msk-16.ott.tricolor.tv/dtv/id925_MSKSG-PVR-1--Kinozal_5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+#EXTINF:-1 tvg-id="zal-07-tricolor" tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/tri-bogaturya.webp" group-title="Кинозалы 2",ТРИ БОГАТЫРЯ
+https://stream-msk-15.ott.tricolor.tv/dtv/id928_MSKSG-PVR-1--Kinozal_7/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+
+
+#EXTINF:-1 tvg-id="Xnashe-lubimoe" tvg-name="наше любимое hd" tvg-logo="https://ip-tv.dev/epg/icon/nashe-lubimoe.png" tvg-rec="1" catchup_days="5" group-title="Кино",Наше любимое HD
+http://de.online24.pm/play/499/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xussr-premieregroup" tvg-name="ussr hd" tvg-logo="https://ip-tv.dev/images/epg/1758.png?v1743767360" tvg-rec="1" catchup_days="5" group-title="Кино",USSR HD
+http://de.online24.pm/play/1758/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xmosfilm" tvg-name="мосфильм. золотая коллекция" tvg-logo="https://ip-tv.dev/images/ico/mosfilm.png" tvg-rec="1" catchup_days="5" group-title="Кино",Мосфильм. Золотая коллекция
+http://de.online24.pm/play/9912/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xmosfilm" tvg-name="мосфильм hd" tvg-logo="https://ip-tv.dev/images/ico/Mosfilm_HD.jpg" tvg-rec="1" catchup_days="5" group-title="Кино",Мосфильм HD
+http://de.online24.pm/play/4985/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xsov-kinklass" tvg-name="советское кино" tvg-logo="https://ip-tv.dev/images/ico/sov-kinklass.png" tvg-rec="1" catchup_days="5" group-title="Кино",Советское кино
+http://de.online24.pm/play/9926/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xbcu-sssr" tvg-name="bcu ссср hd" tvg-logo="https://ip-tv.dev/images/ico/bcu-sssr-hd.png" tvg-rec="1" catchup_days="5" group-title="Кинозалы",BCU СССР HD
+http://de.online24.pm/play/7120/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xfresh-soviet" tvg-name="fresh soviet" tvg-logo="https://ip-tv.dev/images/ico/fresh/soviet.png" tvg-rec="1" catchup_days="5" group-title="Кинозалы",Fresh Soviet
+http://de.online24.pm/play/1637/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="X36506" tvg-name="kbc-страна ссср" tvg-logo="https://ip-tv.dev/images/ico/36506-6009d7a51db00.png" tvg-rec="1" catchup_days="5" group-title="Кинозалы",KBC-Страна СССР
+http://de.online24.pm/play/8824/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="X42054" tvg-name="kbc-гоблин hd" tvg-logo="https://ip-tv.dev/images/ico/42054-65e74a64c6401.png" tvg-rec="1" catchup_days="5" group-title="Кинозалы",KBC-ГОБЛИН HD
+http://de.online24.pm/play/8825/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xyosso-sovfilm" tvg-name="yosso tv советские фильмы" tvg-logo="https://ip-tv.dev/images/ico/yosso-sovfilm.png" tvg-rec="1" catchup_days="5" group-title="Кинозалы",YOSSO TV Советские фильмы
+http://de.online24.pm/play/8775/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xcineman-sssr-fhd" tvg-name="cineman cccp fhd" tvg-logo="https://ip-tv.dev/images/epg/13028.png?v1752318828" tvg-rec="1" catchup_days="5" group-title="Кинозалы",CineMan CCCP FHD
+http://de.online24.pm/play/13028/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xuz-soyuz" tvg-name="uz-союз-фильмы hd" group-title="Кинозалы",UZ-Союз-Фильмы HD
+http://de.online24.pm/play/6080/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-name="uz-союз-фильмы hd" group-title="Кинозалы",UZ-Союз-Фильмы HD
+http://de.online24.pm/play/6080/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xminimax-ussr-1941-1945" tvg-name="mm ussr 1941-1945 hd" tvg-logo="https://ip-tv.dev/images/ico/minimax-ussr-1941-1945.png" tvg-rec="1" catchup_days="5" group-title="Кинозалы",MM USSR 1941-1945 HD
+http://de.online24.pm/play/6010/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xminimax-ussr-detektiv" tvg-name="mm ussr детектив hd" tvg-logo="https://ip-tv.dev/images/ico/minimax-ussr-detektiv.png" tvg-rec="1" catchup_days="5" group-title="Кинозалы",MM USSR Детектив HD
+http://de.online24.pm/play/6011/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xminimax-ussr-komedija" tvg-name="mm ussr комедия hd" tvg-logo="https://ip-tv.dev/images/ico/minimax-ussr-komedija.png" tvg-rec="1" catchup_days="5" group-title="Кинозалы",MM USSR Комедия HD
+http://de.online24.pm/play/6012/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xminimax-ussr-prikluchenija" tvg-name="mm ussr приключения hd" tvg-logo="https://ip-tv.dev/images/ico/minimax-ussr-prikluchenija.png" tvg-rec="1" catchup_days="5" group-title="Кинозалы",MM USSR Приключения HD
+http://de.online24.pm/play/6013/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-id="Xminimax-ussr-fantastika" tvg-name="mm ussr драма hd" tvg-logo="https://ip-tv.dev/images/ico/minimax-ussr-fantastika.png" tvg-rec="1" catchup_days="5" group-title="Кинозалы",MM USSR Драма HD
+http://de.online24.pm/play/6015/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-name="top: ussr" group-title="Кинозалы",TOP: USSR
+http://de.online24.pm/play/1634/65F8DEA9B8759ED/video.m3u8
+#EXTINF:-1 tvg-name="cps ussr" tvg-logo="https://ip-tv.dev/images/ico/7658.png" group-title="Кинозалы",CPS USSR
+http://de.online24.pm/play/1745/65F8DEA9B8759ED/video.m3u8
