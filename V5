@@ -241,6 +241,12 @@ http://dmi3y-tv.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
 http://dmi3y-tv.ru/hls/blrus/CH_OHTHD.m3u8
 #EXTINF:-1  group-title="Новости",БелРос (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_BELROS.m3u8
+#EXTINF:-1 tvg-id="ZvezdaPlus.ru" group-title="Новости",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
+#EXTINF:-1 group-title="Новости",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="zvezda-plus" group-title="Новости", Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1  group-title="Российские",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="Российские",Россия 1
