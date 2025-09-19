@@ -61,6 +61,32 @@ http://de.online24.pm/play/86/65F8DEA9B8759ED/video.m3u8
 http://de.online24.pm/play/719/65F8DEA9B8759ED/video.m3u8
 #EXTINF:-1,МИР
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
+#EXTINF:-1 tvg-id="zvezda-plus" group-title="Эфирные",Звезда Плюс HD 1
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
+#EXTINF:-1 group-title="TVIPMEDIA",Звезда плюс 2
+http://tv.tvip-media.net/zvezdaplus/tracks-v1a0/time-0.m3u8?token=78562b50366367564a506b4466743157624b50466b644b4667424254704d6567317a722b2b48443236586a7147483734556374426a512b514f3878304b4c6a712f6a5836474a7a685a754955766538433048757941794152573477557a63646a514d66414f4c426a32492f4c554e767178446c617267585572365a71784b45356a7a31334e386d6f486e70545230536630414b79615753437a6a494545646a614b624a31375a4779573844684551727951656e4d434f6a32586a77436d612f7752443666444d337370706f31304d4c784739545572753242614768754c4d756b6338554d744f72594a6d735a65746451437a512b6449384e2f79676a6133676c344373396e32704e646a305643347359657a7878784257675259536a685049377854333972393835366e32584970487238714c32305161486c5663434c55614e55364473444438514a4b6e4d35534b4653314b5a5558495775447557532f44614d38716f545064552f343568385732566b61412b5879536171546d4d3670395231364c686e6b4b4174464837464e393766477674744d7630303575494c79706734477368345964356d58312b6a4963566c782b4b2b6f7a71517739667a6e3170574e436e375049677452332b3661486e5130335335766e4b35584c6173454d727a7538574a6e454a74766c484c4a6d736f64646c353730696a715a4b7a7537646a677143377246622b51537567312b7438526e4e47773d3d
+#EXTINF:-1 group-title="AEZA GROUP LTD",Звезда плюс 3
+http://194.26.229.162:88/channel/n76facac0/index.m3u8?q=4b99947363c0528e25c36a3961d9cf60
+#EXTINF:-1 group-title="Север-Связь (VPN)",Звезда плюс 4
+http://146.158.0.56:80/ZvezdaPlus/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN)",Звезда плюс 5
+https://mhd116.iptv2022.com/p/3RWHYHImWVp2eoWkNKrOrA,1696885206/streaming/zvezdaplus/324/1/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10704/logo_256_1655387226.png" group-title="Lime (VPN 🇷🇺)",Звезда плюс 6
+https://mhd128.iptv2022.com/p/8ZVF1EDjYeW48qSFAYdjgQ,1757314322/streaming/zvezdaplus/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)",Звезда Плюс 7
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10704/logo_256_1655387226.png" group-title="Lime (VPN 🇷🇺)",Звезда плюс 8
+https://mhd128.iptv2022.com/p/xFLg-Zg7hEVvYIFhfPCnKA,1757357365/streaming/zvezdaplus/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="6669" tvg-logo="http://epg.one/img/6669.png" tvg-rec="0" group-title="Общие",Звезда Плюс HD 9
+http://rhsbjv7k.tvclub.xyz/iptv/9TGVS9U4CWHZSX/19230/index.m3u8
+#EXTINF:-1 tvg-id="4661" tvg-logo="http://epg.one/img/4661.png" tvg-rec="1" catchup_days="7" group-title="Общие",Звезда Плюс 10
+http://rhsbjv7k.tvclub.xyz/iptv/9TGVS9U4CWHZSX/10059/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Общие",Звезда Плюс HD 11
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/19230/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Общие",Звезда Плюс 12
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/10059/index.m3u8
+#EXTINF:-1 tvg-id="zvezda-plus" group-title="Эфирные",Звезда Плюс HD 12/2
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="zal-01-tricolor" tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/sherlok-holms.webp" group-title="Кинозалы 2",ШЕРЛОК ХОЛМС
@@ -69,7 +95,6 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 https://stream-msk-16.ott.tricolor.tv/dtv/id925_MSKSG-PVR-1--Kinozal_5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODUwNjQyOCwiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3OTAxNjI4LCJzZXNzaW9uX2lkIjoiODhkYTYwNWY3NTFjOTQ1NThlZjVkM2ZmNWYwYjAwNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.7MCUx2jDzWYy16xCBlOTk0_HMJONiWslwdPt-HyWnIk
 #EXTINF:-1 tvg-id="zal-07-tricolor" tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/tri-bogaturya.webp" group-title="Кинозалы 2",ТРИ БОГАТЫРЯ
 https://stream-msk-15.ott.tricolor.tv/dtv/id928_MSKSG-PVR-1--Kinozal_7/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODUwNjQyOCwiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3OTAxNjI4LCJzZXNzaW9uX2lkIjoiODhkYTYwNWY3NTFjOTQ1NThlZjVkM2ZmNWYwYjAwNDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.7MCUx2jDzWYy16xCBlOTk0_HMJONiWslwdPt-HyWnIk
-
 
 #EXTINF:-1 tvg-id="Xnashe-lubimoe" tvg-name="наше любимое hd" tvg-logo="https://ip-tv.dev/epg/icon/nashe-lubimoe.png" tvg-rec="1" catchup_days="5" group-title="Кино",Наше любимое HD
 http://de.online24.pm/play/499/65F8DEA9B8759ED/video.m3u8
@@ -111,31 +136,3 @@ http://de.online24.pm/play/6015/65F8DEA9B8759ED/video.m3u8
 http://de.online24.pm/play/1634/65F8DEA9B8759ED/video.m3u8
 #EXTINF:-1 tvg-name="cps ussr" tvg-logo="https://ip-tv.dev/images/ico/7658.png" group-title="Кинозалы",CPS USSR
 http://de.online24.pm/play/1745/65F8DEA9B8759ED/video.m3u8
-
-
-#EXTINF:-1 tvg-id="zvezda-plus" group-title="Эфирные",Звезда Плюс HD 1
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
-#EXTINF:-1 group-title="TVIPMEDIA",Звезда плюс 2
-http://tv.tvip-media.net/zvezdaplus/tracks-v1a0/time-0.m3u8?token=78562b50366367564a506b4466743157624b50466b644b4667424254704d6567317a722b2b48443236586a7147483734556374426a512b514f3878304b4c6a712f6a5836474a7a685a754955766538433048757941794152573477557a63646a514d66414f4c426a32492f4c554e767178446c617267585572365a71784b45356a7a31334e386d6f486e70545230536630414b79615753437a6a494545646a614b624a31375a4779573844684551727951656e4d434f6a32586a77436d612f7752443666444d337370706f31304d4c784739545572753242614768754c4d756b6338554d744f72594a6d735a65746451437a512b6449384e2f79676a6133676c344373396e32704e646a305643347359657a7878784257675259536a685049377854333972393835366e32584970487238714c32305161486c5663434c55614e55364473444438514a4b6e4d35534b4653314b5a5558495775447557532f44614d38716f545064552f343568385732566b61412b5879536171546d4d3670395231364c686e6b4b4174464837464e393766477674744d7630303575494c79706734477368345964356d58312b6a4963566c782b4b2b6f7a71517739667a6e3170574e436e375049677452332b3661486e5130335335766e4b35584c6173454d727a7538574a6e454a74766c484c4a6d736f64646c353730696a715a4b7a7537646a677143377246622b51537567312b7438526e4e47773d3d
-#EXTINF:-1 group-title="AEZA GROUP LTD",Звезда плюс 3
-http://194.26.229.162:88/channel/n76facac0/index.m3u8?q=4b99947363c0528e25c36a3961d9cf60
-#EXTINF:-1 group-title="Север-Связь (VPN)",Звезда плюс 4
-http://146.158.0.56:80/ZvezdaPlus/index.m3u8
-#EXTINF:-1 group-title="Lime (VPN)",Звезда плюс 5
-https://mhd116.iptv2022.com/p/3RWHYHImWVp2eoWkNKrOrA,1696885206/streaming/zvezdaplus/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10704/logo_256_1655387226.png" group-title="Lime (VPN 🇷🇺)",Звезда плюс 6
-https://mhd128.iptv2022.com/p/8ZVF1EDjYeW48qSFAYdjgQ,1757314322/streaming/zvezdaplus/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)",Звезда Плюс 7
-http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
-#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10704/logo_256_1655387226.png" group-title="Lime (VPN 🇷🇺)",Звезда плюс 8
-https://mhd128.iptv2022.com/p/xFLg-Zg7hEVvYIFhfPCnKA,1757357365/streaming/zvezdaplus/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="6669" tvg-logo="http://epg.one/img/6669.png" tvg-rec="0" group-title="Общие",Звезда Плюс HD 9
-http://rhsbjv7k.tvclub.xyz/iptv/9TGVS9U4CWHZSX/19230/index.m3u8
-#EXTINF:-1 tvg-id="4661" tvg-logo="http://epg.one/img/4661.png" tvg-rec="1" catchup_days="7" group-title="Общие",Звезда Плюс 10
-http://rhsbjv7k.tvclub.xyz/iptv/9TGVS9U4CWHZSX/10059/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Общие",Звезда Плюс HD 11
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/19230/index.m3u8
-#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Общие",Звезда Плюс 12
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/10059/index.m3u8
-#EXTINF:-1 tvg-id="zvezda-plus" group-title="Эфирные",Звезда Плюс HD 12/2
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
