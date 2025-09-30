@@ -1,4 +1,349 @@
 #EXTM3U
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (-1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+3)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+5)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+8)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_8.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+9)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_9.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (-1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+3)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+5)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+8)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_8.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+9)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_9.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (-1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+3)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+5)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (-1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+3)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+5)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (-1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+3)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+5)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (-1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+3)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+5)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (-1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+3)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+5)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (-1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+3)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+5)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (-1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+3)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+5)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (-1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+3)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+5)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (-1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+3)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+5)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (-1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+3)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+5)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (-1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+3)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+5)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (-1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+3)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+5)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+8)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_8.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (-1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+3)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+5)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (-1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница!
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+3)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+5)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (-1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+1)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+3)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+5)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="zvezda" group-title="Эфирные",Звезда HD
 http://live-stream-06.ott.tricolor.tv/live/live/zvezda_hd/hls_enc/zvezda_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
 #EXTINF:-1 group-title="Новости",Звезда Плюс HD
