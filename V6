@@ -15,7 +15,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_2.m3u8
 http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_ROSSIA24.m3u8
 
 #EXTINF:-1 group-title="Новости" ,ИЗВЕСТИЯ
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_SLIN/CH_IZVESTIYA.m3u8
+http://91.194.191.241:8081/chid277/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/88/0870b794469eecc572d6e81997a14488.png" group-title="Новости",Соловьев Live
 http://178.212.71.253:8000/play/111/index.m3u8
@@ -241,6 +241,8 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-etno" group-title="Музыкальные",Bridge TV Этно
 http://192.141.167.40/BRIDGE_ETHNO/index.m3u8
+#EXTINF:-1 group-title="Новости" ,ИЗВЕСТИЯ
+http://dmitry-tv.ddns.net/hls/zabava/region/DV_SLIN/CH_IZVESTIYA.m3u8
 
 
 #EXTINF:-1 tvg-id="Xrussky-roman" tvg-name="русский роман" tvg-logo="https://ip-tv.dev/epg/icon/russky-roman.png" group-title="Кино",Русский роман
