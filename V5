@@ -249,6 +249,8 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
 #EXTINF:-1  group-title="Новости",ИЗВЕСТИЯ HD
 http://dmitry-tv.ddns.net/hls/CH_IZVESTIYAHD.m3u8
+#EXTINF:-1 group-title="Новости" ,ИЗВЕСТИЯ
+http://91.194.191.241:8081/chid277/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="Relax",Cozy Vibes
