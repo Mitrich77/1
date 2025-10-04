@@ -245,12 +245,8 @@ http://192.141.167.40/BRIDGE_ETHNO/index.m3u8
 http://dmitry-tv.ddns.net/hls/zabava/region/DV_SLIN/CH_IZVESTIYA.m3u8
 
 
-#EXTINF:-1 group-title="С сайтов (VPN)",Звезда Плюс 7
-http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
 #EXTINF:-1 group-title="Маяк Нетворк (VPN)",ЗВЕЗДА ПЛЮС HD
 http://185.78.112.17/zvezda_plus_hd/index.m3u8
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Звезда плюс
-http://tv.ttk.mx:9192
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10704/logo_256_1655387226.png" group-title="Lime (VPN 🇷🇺)",Звезда плюс
 https://mhd128.iptv2022.com/p/EP1NB_8YH8_pqp0PBq5miA,1759647712/streaming/zvezdaplus/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10641/logo_256_1660892186.png" group-title="Lime (VPN 🇷🇺)",Телеканал народной музыки
