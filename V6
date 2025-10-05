@@ -37,8 +37,10 @@ http://a0925677.xsph.ru/hls/DVB-T2/CH_MIR_2.m3u8
 http://a0925677.xsph.ru/hls/DVB-T2/CH_ZVEZDA_2.m3u8
 #EXTINF:-1 group-title="ViP",Звезда HD
 http://a0925677.xsph.ru/hls/T2/CH_ZVEZDAHD.m3u8
-#EXTINF:-1 group-title="ViP",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="ViP",ЗВЕЗДА ПЛЮС HD
+http://185.78.112.17/zvezda_plus_hd/index.m3u8
+
 #EXTINF:-1 group-title="Новости",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i125.fastpic.org/big/2025/0816/97/2430143485b6473f00c800049faf5597.png" group-title="Новости",Россия 24 HD
@@ -244,10 +246,8 @@ http://192.141.167.40/BRIDGE_ETHNO/index.m3u8
 #EXTINF:-1 group-title="Новости" ,ИЗВЕСТИЯ
 http://a0925677.xsph.ru/hls/zabava/region/DV_SLIN/CH_IZVESTIYA.m3u8
 
-
-#EXTINF:-1 group-title="Маяк Нетворк (VPN)",ЗВЕЗДА ПЛЮС HD
-http://185.78.112.17/zvezda_plus_hd/index.m3u8
-
+#EXTINF:-1 group-title="ViP",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Xrussky-roman" tvg-name="русский роман" tvg-logo="https://ip-tv.dev/epg/icon/russky-roman.png" group-title="Кино",Русский роман
 http://de.online24.pm/play/172/65F8DEA9B8759ED/video.m3u8
