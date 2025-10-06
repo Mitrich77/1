@@ -1,584 +1,165 @@
 #EXTM3U
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+3)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+5)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+8)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_8.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+9)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_9.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+3)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+5)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+8)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_8.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+9)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_9.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+3)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+5)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+3)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+5)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+3)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+5)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+3)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+5)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+3)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+5)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+3)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+5)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+3)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+5)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+3)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+5)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+3)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+5)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+3)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+5)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+3)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+5)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+3)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+5)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+8)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_8.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+3)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+5)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница!
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+3)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+5)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+3)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+5)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP2",White Boxxx
+http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/6267/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP2",StrahTV Ню Арт HD
+http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/31716/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP2",MetArt HD
+http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/6233/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP2",Digital Desire HD
+http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/6195/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP2",FemJoy
+http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/6212/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP2",Playboy Plus
+http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/6242/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP2",Dirty Flix
+http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/12130/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP2",Dad Crush
+http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/12154/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP2",Tiny4K
+http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/6258/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP2",Exotic 4k
+http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/12107/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP2",Cum4k UHD
+http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/12157/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP2",True Amateurs
+http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/6260/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP2",SINematica
+http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/6255/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP2",SexArt
+http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/6253/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP2",Club Sweethearts HD
+http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/6186/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="ViP2",Playboy
+http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/527/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP2",Playboy LA
+http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/12135/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="ViP2",StrahTV Extasy HD
+http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/11051/index.m3u8
 
 
+#EXTINF:-1 tvg-id="1702" tvg-logo="http://epg.cdntv.online/img/1702.png" group-title="ViP3",EroLuxe Solo
+http://u.vipl.one/high/3uystma89g/1702.m3u8
+#EXTINF:-1 tvg-id="1132" tvg-logo="http://epg.cdntv.online/img/1132.png" group-title="ViP3",Club Teens HD
+http://u.vipl.one/high/3uystma89g/1132.m3u8
+#EXTINF:-1 tvg-id="1722" tvg-logo="http://epg.cdntv.online/img/1722.png" group-title="ViP3",EroLuxe Schoolgirl
+http://u.vipl.one/high/3uystma89g/1722.m3u8
+#EXTINF:-1 tvg-id="1689" tvg-logo="http://epg.cdntv.online/img/1689.png" group-title="ViP3",EroLuxe Cosplay
+http://u.vipl.one/high/3uystma89g/1689.m3u8
+#EXTINF:-1 tvg-id="1707" tvg-logo="http://epg.cdntv.online/img/1707.png" group-title="ViP3",EroLuxe BabySitter
+http://u.vipl.one/high/3uystma89g/1707.m3u8
+#EXTINF:-1 tvg-id="Playboy TV" tvg-logo="https://m3u.admuspeh.my/icon/Playboy%20Plus.png" tvg-rec="0" group-title="ViP3",Playboy TV
+http://cdn.admuspeh.my/8193/video.m3u8?token=RzAkPGpgsn2416hX
+#EXTINF:-1 group-title="ViP3",Playboy TV HD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="723" tvg-logo="http://epg.cdntv.online/img/723.png" group-title="ViP3",Babes TV
+http://u.vipl.one/high/3uystma89g/723.m3u8
+#EXTINF:-1 tvg-id="1124" tvg-logo="http://epg.cdntv.online/img/1124.png" group-title="ViP3",Penthouse Gold HD
+http://u.vipl.one/high/3uystma89g/1124.m3u8
+#EXTINF:-1 tvg-id="1125" tvg-logo="http://epg.cdntv.online/img/1125.png" group-title="ViP3",Barely Legal TV
+http://u.vipl.one/high/3uystma89g/1125.m3u8
+#EXTINF:-1 tvg-id="1126" tvg-logo="http://epg.cdntv.online/img/1126.png" group-title="ViP3",Loves Berry HD (18+)
+http://u.vipl.one/high/3uystma89g/1126.m3u8
+#EXTINF:-1 tvg-id="1684" tvg-logo="http://epg.cdntv.online/img/1684.png" group-title="ViP3",EroLuxe 60FPS
+http://u.vipl.one/high/3uystma89g/1684.m3u8
+#EXTINF:-1 tvg-id="1723" tvg-logo="http://epg.cdntv.online/img/1723.png" group-title="ViP3",EroLuxe Asian
+http://u.vipl.one/high/3uystma89g/1723.m3u8
+#EXTINF:-1 tvg-id="Private TV" tvg-logo="https://m3u.admuspeh.my/icon/Private%20HD.png" tvg-rec="0" group-title="ViP3",Private TV
+http://cdn.admuspeh.my/8203/video.m3u8?token=RzAkPGpgsn2416hX
+#EXTINF:-1 tvg-id="Extasy HD" tvg-logo="https://m3u.admuspeh.my/icon/Extasy%20HD.png" tvg-rec="0" group-title="ViP3",Extasy HD
+http://cdn.admuspeh.my/9234/video.m3u8?token=RzAkPGpgsn2416hX
+#EXTINF:-1 tvg-id="Babes TV HD" tvg-logo="https://m3u.admuspeh.my/icon/Babes%20TV%20HD.png" tvg-rec="0" group-title="ViP3",Babes TV HD
+http://cdn.admuspeh.my/9252/video.m3u8?token=RzAkPGpgsn2416hX
+#EXTINF:-1 tvg-id="Exxxotica" tvg-logo="https://m3u.admuspeh.my/icon/EXXXOTICA%20HD%20orig.png" tvg-rec="0" group-title="ViP3",Exxxotica
+http://cdn.admuspeh.my/8414/video.m3u8?token=RzAkPGpgsn2416hX
+#EXTINF:-1 tvg-id="Eroxxx HD" tvg-logo="https://m3u.admuspeh.my/icon/Eroxxx%20HD.png" tvg-rec="0" group-title="ViP3",Eroxxx HD
+http://cdn.admuspeh.my/8415/video.m3u8?token=RzAkPGpgsn2416hX
+#EXTINF:-1 group-title="ViP3",Babes TV HD
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="ViP3",Desire HD
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="ViP3",Dorcel TV HD
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="ViP3",Erox HD
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="ViP3",Eroxxx HD
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="ViP3",Extasy HD
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="ViP3",Exxxxotica
+http://31.148.48.15:80/O-la-la/index.m3u8
 
 
+#EXTINF:-1 tvg-rec="0" group-title="ViP4",White Boxxx
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/6267/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP4",StrahTV Ню Арт HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31716/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP4",MetArt FHD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/12160/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP4",Digital Desire HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/6195/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP4",FemJoy
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/6212/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP4",Playboy Plus
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/6242/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP4",SexArt HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/6165/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP4",Dirty Flix
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/12130/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP4",Dad Crush
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/12154/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP4",True Amateurs
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/6260/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP4",SINematica
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/6255/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="ViP4",StrahTV Extasy HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11051/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP4",Club Sweethearts HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/6186/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="ViP4",Extasy Platinum 4K
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/5014/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="ViP4",Playboy
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/527/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP4",Playboy LA
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/12135/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP4",Tiny4K
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/6258/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP4",Exotic 4k
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/12107/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP4",Cum4k UHD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/12157/index.m3u8
 
-#EXTINF:-1 tvg-id="zvezda" group-title="Эфирные",Звезда HD
-http://live-stream-06.ott.tricolor.tv/live/live/zvezda_hd/hls_enc/zvezda_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 group-title="Новости",Звезда Плюс HD
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Новости",Известия HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 tvg-id="rossia-24" group-title="Новости",Россия 24 HD
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
-#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Информационные",Соловьев Live HD
-https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:-1 tvg-id="pervy" group-title="Эфирные",Первый канал HD
-https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="rossia1" tvg-rec="1" catchup-type="append" catchup_days="7" catchup_template="&offset=${offset}" group-title="Эфирные",Россия 1 HD
-http://api.peers.tv/timeshift/russiahd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg1MTA5ODAsImlhdCI6MTc1ODQyNDU4MCwiY2lkIjo2LCJ1aWQiOjk0NjcyMjM5OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.u1HKo9YTCWpoBDMKNZCstECDKlhQLckO7HA-SiQulbU&offset=3
-#EXTINF:-1 group-title="Развлекательные",СТС HD
-http://live-stream-01.ott.tricolor.tv/live/live/STS_0_hd/hls_enc/STS_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="ntv" tvg-rec="1" catchup-type="append" catchup_days="7" catchup_template="&offset=${offset}" group-title="Эфирные",НТВ HD
-http://api.peers.tv/timeshift/ntv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg1MTA5ODAsImlhdCI6MTc1ODQyNDU4MCwiY2lkIjo2LCJ1aWQiOjk0NjcyMjM5OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.u1HKo9YTCWpoBDMKNZCstECDKlhQLckO7HA-SiQulbU&offset=3
-#EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч! HD
-http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="rentv" group-title="Эфирные",Рен ТВ HD
-http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="mir" group-title="Эфирные",Мир HD
-https://live-stream-19.ott.tricolor.tv/live/live/Mir_HD/hls_enc/Mir_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="tnt" tvg-rec="1" catchup-type="append" catchup_days="7" catchup_template="&offset=${offset}" group-title="Развлекательные",ТНТ HD
-http://api.peers.tv/timeshift/tnt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg1MTA5ODAsImlhdCI6MTc1ODQyNDU4MCwiY2lkIjo2LCJ1aWQiOjk0NjcyMjM5OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.u1HKo9YTCWpoBDMKNZCstECDKlhQLckO7HA-SiQulbU&offset=3
-#EXTINF:-1 group-title="УФА",ТНТ (+2)
-http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_TNT.m3u8
-#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Кино и сериалы",Мосфильм. Золотая коллекция HD
-http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="zal-01-tricolor" tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/sherlok-holms.webp" group-title="Кинозалы 2",ШЕРЛОК ХОЛМС
-https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="zal-05-tricolor" tvg-logo="https://kino-static.tricolor.ru/media/v2/4b7d379e-7f5d-4d55-b281-ea358d1a8490" group-title="Кинозалы 2",СЕМНАДЦАТЬ МГНОВЕНИЙ ВЕСНЫ
-https://stream-msk-16.ott.tricolor.tv/dtv/id925_MSKSG-PVR-1--Kinozal_5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="zal-07-tricolor" tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/tri-bogaturya.webp" group-title="Кинозалы 2",ТРИ БОГАТЫРЯ
-https://stream-msk-15.ott.tricolor.tv/dtv/id928_MSKSG-PVR-1--Kinozal_7/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="nashe-lubimoe-hd" group-title="Кино и сериалы",Любимое HD
-https://stream-msk-05.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="Советские фильмы" tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/sovetskie-filmy.webp" group-title="Кинозалы 2",СОВЕТСКИЕ ФИЛЬМЫ
-https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="sov-kinklass" group-title="Кино и сериалы",Советская киноклассика
-https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 group-title="Кино и сериалы",Кино 1 International
-http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-id="gosfilmofond-mv" group-title="Кино и сериалы",Госфильмофонд. Машина времени
-https://mhd128.iptv2022.com/p/JpuxdhWKooIVpYiLJZ8lEw,1758488430/streaming/car_is_vermen/324/1/index.m3u8
-#EXTINF:-1 tvg-id="patriot" group-title="Кино и сериалы",Патриот
-https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="retro-tv" group-title="Кино и сериалы",Ретро ТВ
-http://vod.splay.uz/live_splay/original/Retro/index.m3u8
-#EXTINF:-1 tvg-id="domkino" group-title="Кино и сериалы",Дом кино
-http://46.8.46.14/domkino/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Дом Кино Премиум HD
-http://stream-msk-08.ott.tricolor.tv/dtv/id396_MSKSG-PVR-1--HD_Dom_Kino_premium/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-logo="https://epg.iptvx.one/picons/detkinoint-tviksel.png" group-title="Детские",Детское кино International
-http://autopilot.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="7" catchup_template="&offset=${offset}" group-title="Детские",В гостях у сказки
-http://api.peers.tv/timeshift/v_gostyah_u_skazki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg1MTA5ODAsImlhdCI6MTc1ODQyNDU4MCwiY2lkIjo2LCJ1aWQiOjk0NjcyMjM5OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.u1HKo9YTCWpoBDMKNZCstECDKlhQLckO7HA-SiQulbU&offset=3
-#EXTINF:-1 tvg-id="zal-10-tricolor" tvg-logo="https://kino-static.tricolor.ru/media/v2/1437b815-1865-40b5-977b-61256828c82a" group-title="Кинозалы 2",СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
-https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="zal-11-tricolor" tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/smeshariki.webp" group-title="Кинозалы 2",СМЕШАРИКИ
-https://stream-msk-16.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (-1)
-https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Россия 1
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+1)
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+3)
-http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" tvg-rec="1" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+5)
-https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+6)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+7)
-http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+8)
-http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Россия 1 (+9)
-https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (-1)
-https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
-#EXTINF:-1 tvg-id="pervy" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Первый канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+1)
-https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+3)
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
-#EXTINF:-1 tvg-id="pervy-pl4" tvg-rec="1" catchup-type="append" catchup_days="7" catchup_template="&offset=${offset}" group-title="Федеральные плюс",Первый HD (+4)
-http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg1MTA5ODAsImlhdCI6MTc1ODQyNDU4MCwiY2lkIjo2LCJ1aWQiOjk0NjcyMjM5OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.u1HKo9YTCWpoBDMKNZCstECDKlhQLckO7HA-SiQulbU&offset=3
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+5)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+6)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+7)
-https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+8)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+9)
-https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",НТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",НТВ (+1)
-https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+2)
-http://dmi3y-tv.ru/hls/zabava/48/CH_NTV_2.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",НТВ (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",НТВ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-#EXTINF:-1 tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Звезда (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Звезда (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
-#EXTINF:-1 tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Звезда (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
-#EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Эфирные",ОТР HD
-http://live-stream-18.ott.tricolor.tv/live/live/otr/hls_enc/otr.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",СТС (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",СТС (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-#EXTINF:-1 tvg-id="tvcentr" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",ТВ Центр
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tvcentr-pl4.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",ТВ Центр +4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tvcentr-pl7.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",ТВ Центр +7
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",ТНТ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Че!
-http://dmi3y-tv.ru/hls/zabava/48/CH_CHE.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Че! (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Че! (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Че! (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3
-http://dmi3y-tv.ru/hls/zabava/48/CH_TV3.m3u8
-#EXTINF:-1 tvg-id="tv3-ru-pl2" tvg-logo="https://iptvx.one/picons/tv3-ru-pl2.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",ТВ3 (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС
-http://dmi3y-tv.ru/hls/zabava/48/CH_SPAS.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+7)
-http://dmi3y-tv.ru/hls/zabava/48/CH_SPAS_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний
-http://dmi3y-tv.ru/hls/zabava/48/CH_DOMASHNIY.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+2)
-http://dmi3y-tv.ru/hls/zabava/48/CH_DOMASHNIY_2.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Время
-http://stream-msk-10.ott.tricolor.tv/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="ntv-style" group-title="Эфирные",НТВ Стиль
-https://stream-msk-15.ott.tricolor.tv/dtv/id940_MSKSG-PVR-1--NTV_Stil_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://iptvx.one/picons/nostalgia.png" group-title="Развлекательные",Ностальгия
-http://95.66.188.74/Nostalgia/index.m3u8
-#EXTINF:-1 tvg-id="kto-est-kto" group-title="Познавательные",Кто есть кто
-http://158.101.222.193:88/georgia_play.php?id=ktoestkto
-#EXTINF:-1 tvg-id="moya-planeta" group-title="Познавательные",Моя Планета HD
-http://stream-msk-04.ott.tricolor.tv/dtv/id623_MSKSG-PVR-1--Moya_Planeta_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 group-title="Познавательные",Совершенно секретно
-http://stream-msk-03.ott.tricolor.tv/dtv/id698_MSKSG-PVR-1--Top_secret/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 group-title="Познавательные",История
-http://stream-msk-04.ott.tricolor.tv/dtv/id259_MSKSG-PVR-1--Istoriya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="ruskorabl" group-title="Познавательные",Плюс Минус 16
-https://live-mirror-19.ott.tricolor.tv/dtv/id1010_MSKSG-PVR-1--russian_ship_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="nano-hd" group-title="Познавательные",Nano HD
-https://stream-msk-13.ott.tricolor.tv/dtv/id671_MSKSG-PVR-1--Nano_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="nauka-20" group-title="Познавательные",Наука 2.0 HD
-http://stream-msk-10.ott.tricolor.tv/dtv/id653_MSKSG-PVR-1--Nauka_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://www.rsl.ru/photo/!_ORS/documents/dostoevsky-banner.jpeg" group-title="Познавательные",лекторий DОСТОЕВСКИЙ
-https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Исторический HD" tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/istoricheskiy-hd.webp" group-title="Кинозалы 2",ИСТОРИЧЕСКИЙ HD
-https://live-mirror-19.ott.tricolor.tv/dtv/id1006_MSKSG-PVR-1--kinozal_20_hd/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="love-nature-4k" group-title="Познавательные",Love Nature
-http://181.188.216.5:18000/play/a01u/index.m3u8
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i125.fastpic.org/big/2025/0816/97/2430143485b6473f00c800049faf5597.png" group-title="Новости",Россия 24 HD
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
-#EXTINF:-1 group-title="Новости",Известия
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Новости",Соловьёв Live SD
-http://195.26.83.96:7029/play/a003
-#EXTINF:-1 tvg-id="mir-24" group-title="Новости",Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://periscope-app.ru/netcat_files/393/606/moskva_24.jpg" group-title="Новости",Москва 24
-https://stream-msk-13.ott.tricolor.tv/dtv/id254_MSKSG-PVR-1--Moskva24/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://cdn.ruwiki.ru/commonswiki/files/thumb/6/61/TASS_Logo_Cyrillic.svg/150px-TASS_Logo_Cyrillic.svg.png" group-title="Новости",ТАСС
-https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NEWS FRONT TV" group-title="Новости",News Front TV
-https://tv.2kita.com/stream/index.m3u8
-#EXTINF:-1 tvg-id="rbk" group-title="Новости",РБК HD
-http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
-#EXTINF:-1 tvg-id="ОБЩЕСТВЕННАЯ СЛУЖБА НОВОСТЕЙ" group-title="Новости",ОСН ТВ
-http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-#EXTINF:-1 tvg-id="ont-by" tvg-logo="http://i120.fastpic.org/big/2022/1030/82/98a51aa644e4a988a369cd1c3bc9e882.png" group-title="Новости",ОНТ Беларусь
-https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Новости",Беларусь 24
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/29/57d75294d1cc649835e15a0649b78829.png" group-title="Новости",НОВОРОССИЯ ТВ
-http://185.229.235.30:8005/udp/225.15.3.149:2345
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Новости",Россия 24
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал
-http://dmi3y-tv.ru/hls/zabava/48/CH_1TV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1
-http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIA1.m3u8
-#EXTINF:-1 tvg-id="rossia1" group-title="Эфирные",Россия 1 HD
-https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС
-http://dmi3y-tv.ru/hls/zabava/48/CH_STS.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ
-http://dmi3y-tv.ru/hls/zabava/48/CH_NTV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ
-http://dmi3y-tv.ru/hls/zabava/48/CH_TNT.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда
-http://dmi3y-tv.ru/hls/zabava/48/CH_ZVEZDA.m3u8
-#EXTINF:-1 tvg-id="zvezda" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Звезда
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ
-http://dmi3y-tv.ru/hls/zabava/48/CH_RENTV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР
-http://dmi3y-tv.ru/hls/zabava/48/CH_MIR.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-etno" group-title="Музыкальные",Bridge TV Этно
-http://192.141.167.40/BRIDGE_ETHNO/index.m3u8
-#EXTINF:-1 tvg-id="ZvezdaPlus.ru" group-title="Новости",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 group-title="Новости",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Новости",Соловьев Live HD
-http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Известия [Сахалин]
-http://dmi3y-tv.ru/hls/zabava/region/DV_SLIN/CH_IZVESTIYA.m3u8
+
+#EXTINF:-1 tvg-rec="0" group-title="ViP5",White Boxxx
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/6267/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP5",StrahTV Ню Арт HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/31716/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP5",MetArt HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/6233/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP5",MetArt FHD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/12160/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP5",Digital Desire HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/6195/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP5",FemJoy
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/6212/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP5",Playboy Plus
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/6242/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP5",SexArt HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/6165/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP5",Dirty Flix
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/12130/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP5",Dad Crush
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/12154/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="ViP5",StrahTV Extasy HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11051/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP5",SINematica
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/6255/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP5",True Amateurs
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/6260/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP5",Club Sweethearts HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/6186/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="ViP5",Extasy Platinum 4K
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/5014/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="ViP5",Playboy
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/527/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="ViP5",Playboy LA
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/12135/index.m3u8
