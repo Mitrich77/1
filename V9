@@ -1,42 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-rec="0" group-title="ViP2",White Boxxx
-http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/6267/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP2",StrahTV Ню Арт HD
-http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/31716/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP2",MetArt HD
-http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/6233/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP2",Digital Desire HD
-http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/6195/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP2",FemJoy
-http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/6212/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP2",Playboy Plus
-http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/6242/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP2",Dirty Flix
-http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/12130/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP2",Dad Crush
-http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/12154/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP2",Tiny4K
-http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/6258/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP2",Exotic 4k
-http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/12107/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP2",Cum4k UHD
-http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/12157/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP2",True Amateurs
-http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/6260/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP2",SINematica
-http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/6255/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP2",SexArt
-http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/6253/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP2",Club Sweethearts HD
-http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/6186/index.m3u8
-#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="ViP2",Playboy
-http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/527/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP2",Playboy LA
-http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/12135/index.m3u8
-#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="ViP2",StrahTV Extasy HD
-http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/11051/index.m3u8
-
-
 #EXTINF:-1 tvg-id="1702" tvg-logo="http://epg.cdntv.online/img/1702.png" group-title="ViP3",EroLuxe Solo
 http://u.vipl.one/high/3uystma89g/1702.m3u8
 #EXTINF:-1 tvg-id="1132" tvg-logo="http://epg.cdntv.online/img/1132.png" group-title="ViP3",Club Teens HD
