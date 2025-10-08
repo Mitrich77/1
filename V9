@@ -1,44 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1702" tvg-logo="http://epg.cdntv.online/img/1702.png" group-title="ViP3",EroLuxe Solo
 http://u.vipl.one/high/3uystma89g/1702.m3u8
+#EXTINF:-1 tvg-id="1689" tvg-logo="http://epg.cdntv.online/img/1689.png" group-title="ViP3",EroLuxe Cosplay
+http://u.vipl.one/high/3uystma89g/1689.m3u8
+#EXTINF:-1 tvg-id="1723" tvg-logo="http://epg.cdntv.online/img/1723.png" group-title="ViP3",EroLuxe Asian
+http://u.vipl.one/high/3uystma89g/1723.m3u8
+#EXTINF:-1 group-title="ViP3",Desire HD
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="ViP3",Babes TV HD
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="ViP3",Playboy TV HD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="1124" tvg-logo="http://epg.cdntv.online/img/1124.png" group-title="ViP3",Penthouse Gold HD
+http://u.vipl.one/high/3uystma89g/1124.m3u8
 #EXTINF:-1 tvg-id="1132" tvg-logo="http://epg.cdntv.online/img/1132.png" group-title="ViP3",Club Teens HD
 http://u.vipl.one/high/3uystma89g/1132.m3u8
 #EXTINF:-1 tvg-id="1722" tvg-logo="http://epg.cdntv.online/img/1722.png" group-title="ViP3",EroLuxe Schoolgirl
 http://u.vipl.one/high/3uystma89g/1722.m3u8
-#EXTINF:-1 tvg-id="1689" tvg-logo="http://epg.cdntv.online/img/1689.png" group-title="ViP3",EroLuxe Cosplay
-http://u.vipl.one/high/3uystma89g/1689.m3u8
 #EXTINF:-1 tvg-id="1707" tvg-logo="http://epg.cdntv.online/img/1707.png" group-title="ViP3",EroLuxe BabySitter
 http://u.vipl.one/high/3uystma89g/1707.m3u8
-#EXTINF:-1 tvg-id="Playboy TV" tvg-logo="https://m3u.admuspeh.my/icon/Playboy%20Plus.png" tvg-rec="0" group-title="ViP3",Playboy TV
-http://cdn.admuspeh.my/8193/video.m3u8?token=RzAkPGpgsn2416hX
-#EXTINF:-1 group-title="ViP3",Playboy TV HD
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="723" tvg-logo="http://epg.cdntv.online/img/723.png" group-title="ViP3",Babes TV
-http://u.vipl.one/high/3uystma89g/723.m3u8
-#EXTINF:-1 tvg-id="1124" tvg-logo="http://epg.cdntv.online/img/1124.png" group-title="ViP3",Penthouse Gold HD
-http://u.vipl.one/high/3uystma89g/1124.m3u8
-#EXTINF:-1 tvg-id="1125" tvg-logo="http://epg.cdntv.online/img/1125.png" group-title="ViP3",Barely Legal TV
-http://u.vipl.one/high/3uystma89g/1125.m3u8
-#EXTINF:-1 tvg-id="1126" tvg-logo="http://epg.cdntv.online/img/1126.png" group-title="ViP3",Loves Berry HD (18+)
-http://u.vipl.one/high/3uystma89g/1126.m3u8
 #EXTINF:-1 tvg-id="1684" tvg-logo="http://epg.cdntv.online/img/1684.png" group-title="ViP3",EroLuxe 60FPS
 http://u.vipl.one/high/3uystma89g/1684.m3u8
-#EXTINF:-1 tvg-id="1723" tvg-logo="http://epg.cdntv.online/img/1723.png" group-title="ViP3",EroLuxe Asian
-http://u.vipl.one/high/3uystma89g/1723.m3u8
-#EXTINF:-1 tvg-id="Private TV" tvg-logo="https://m3u.admuspeh.my/icon/Private%20HD.png" tvg-rec="0" group-title="ViP3",Private TV
-http://cdn.admuspeh.my/8203/video.m3u8?token=RzAkPGpgsn2416hX
-#EXTINF:-1 tvg-id="Extasy HD" tvg-logo="https://m3u.admuspeh.my/icon/Extasy%20HD.png" tvg-rec="0" group-title="ViP3",Extasy HD
-http://cdn.admuspeh.my/9234/video.m3u8?token=RzAkPGpgsn2416hX
-#EXTINF:-1 tvg-id="Babes TV HD" tvg-logo="https://m3u.admuspeh.my/icon/Babes%20TV%20HD.png" tvg-rec="0" group-title="ViP3",Babes TV HD
-http://cdn.admuspeh.my/9252/video.m3u8?token=RzAkPGpgsn2416hX
-#EXTINF:-1 tvg-id="Exxxotica" tvg-logo="https://m3u.admuspeh.my/icon/EXXXOTICA%20HD%20orig.png" tvg-rec="0" group-title="ViP3",Exxxotica
-http://cdn.admuspeh.my/8414/video.m3u8?token=RzAkPGpgsn2416hX
-#EXTINF:-1 tvg-id="Eroxxx HD" tvg-logo="https://m3u.admuspeh.my/icon/Eroxxx%20HD.png" tvg-rec="0" group-title="ViP3",Eroxxx HD
-http://cdn.admuspeh.my/8415/video.m3u8?token=RzAkPGpgsn2416hX
-#EXTINF:-1 group-title="ViP3",Babes TV HD
-http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="ViP3",Desire HD
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="ViP3",Dorcel TV HD
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="ViP3",Erox HD
@@ -49,6 +31,19 @@ http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="ViP3",Exxxxotica
 http://31.148.48.15:80/O-la-la/index.m3u8
+#EXTINF:-1 tvg-id="Playboy TV" tvg-logo="https://m3u.admuspeh.my/icon/Playboy%20Plus.png" tvg-rec="0" group-title="ViP3",Playboy TV
+http://cdn.admuspeh.my/8193/video.m3u8?token=RzAkPGpgsn2416hX
+#EXTINF:-1 tvg-id="Private TV" tvg-logo="https://m3u.admuspeh.my/icon/Private%20HD.png" tvg-rec="0" group-title="ViP3",Private TV
+http://cdn.admuspeh.my/8203/video.m3u8?token=RzAkPGpgsn2416hX
+#EXTINF:-1 tvg-id="Babes TV HD" tvg-logo="https://m3u.admuspeh.my/icon/Babes%20TV%20HD.png" tvg-rec="0" group-title="ViP3",Babes TV HD
+http://cdn.admuspeh.my/9252/video.m3u8?token=RzAkPGpgsn2416hX
+#EXTINF:-1 tvg-id="Exxxotica" tvg-logo="https://m3u.admuspeh.my/icon/EXXXOTICA%20HD%20orig.png" tvg-rec="0" group-title="ViP3",Exxxotica
+http://cdn.admuspeh.my/8414/video.m3u8?token=RzAkPGpgsn2416hX
+#EXTINF:-1 tvg-id="Extasy HD" tvg-logo="https://m3u.admuspeh.my/icon/Extasy%20HD.png" tvg-rec="0" group-title="ViP3",Extasy HD
+http://cdn.admuspeh.my/9234/video.m3u8?token=RzAkPGpgsn2416hX
+#EXTINF:-1 tvg-id="1126" tvg-logo="http://epg.cdntv.online/img/1126.png" group-title="ViP3",Loves Berry HD (18+)
+http://u.vipl.one/high/3uystma89g/1126.m3u8
+
 
 
 #EXTINF:-1 tvg-rec="0" group-title="ViP4",White Boxxx
