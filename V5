@@ -93,8 +93,6 @@ https://mhd128.iptv2022.com/p/fv5khVFGZVxhfFYYdq82aA,1760907644/streaming/car_is
 http://autopilot.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="7" catchup_template="&offset=${offset}" group-title="Детские",В гостях у сказки
 http://api.peers.tv/timeshift/v_gostyah_u_skazki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA5ODIzODAsImlhdCI6MTc2MDg5NTk4MCwiY2lkIjo2LCJ1aWQiOjk1NjAzODcwNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.HHO5XH91zm0epZJtxdMJlElu5eMB9AUrvKBFuc7d_TM&offset=3
-#EXTINF:-1 tvg-id="v-gostiax-u-skazki" group-title="Детские",В Гостях у Сказки
-http://91.194.191.241:8081/chid61/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zal-10-tricolor" tvg-logo="https://kino-static.tricolor.ru/media/v2/1437b815-1865-40b5-977b-61256828c82a" group-title="Кинозалы 2",СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
 https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MDkyNTYyOSwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMzIwODI5LCJzZXNzaW9uX2lkIjoiNWIwOGJiN2Y1YzM3NDA2ZDdlNjFjYWM0MmJjZTczZDAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Qt4uNH0T0O4COAVNFrE95bbTPpPjZ7g2ZsRP6kuI_cQ
 #EXTINF:-1 tvg-id="zal-11-tricolor" tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/smeshariki.webp" group-title="Кинозалы 2",СМЕШАРИКИ
