@@ -1,4 +1,49 @@
 #EXTM3U
+#EXTINF:-1 group-title="УФА",Первый канал (+2)
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_1TV.m3u8
+#EXTINF:-1 group-title="УФА",Россия 1 (+2)
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_ROSSIA1.m3u8
+#EXTINF:-1 group-title="УФА",Матч! (+2)
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_MATCHTV.m3u8
+#EXTINF:-1 group-title="УФА",НТВ (+2)
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_NTV.m3u8
+#EXTINF:-1 group-title="УФА",Пятый канал (+2)
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_5TV.m3u8
+#EXTINF:-1 group-title="УФА",Россия K (+2)
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_ROSSIAK.m3u8
+#EXTINF:-1 group-title="УФА",Россия 24 (+2)
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_ROSSIA24.m3u8
+#EXTINF:-1 group-title="УФА",Карусель (Уфа)
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="УФА",ОТР (+2)
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_OTR.m3u8
+#EXTINF:-1 group-title="УФА",ТВЦ (+2)
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_TVC.m3u8
+#EXTINF:-1 group-title="УФА",РЕН ТВ (+2)
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_RENTV.m3u8
+#EXTINF:-1 group-title="УФА",СТС (+2)
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_STS.m3u8
+#EXTINF:-1 group-title="УФА",Домашний (Уфа)
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="УФА",ТВ3 (Уфа)
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_TV3.m3u8
+#EXTINF:-1 group-title="УФА",Пятница! (Уфа)
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="УФА",Звезда (+2)
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="УФА",ТНТ (+2)
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_TNT.m3u8
+#EXTINF:-1 group-title="УФА",Че! (Уфа)
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_CHE.m3u8
+#EXTINF:-1 group-title="УФА",Ю (Уфа)
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_U.m3u8
+#EXTINF:-1 group-title="УФА",Башкортостан 24 HD720 (Уфа)
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_BASHKORTOSTAN24HD720.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-rec="0" group-title="ViP",Звезда Плюс HD
 http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/19230/index.m3u8
 
