@@ -11,7 +11,7 @@ http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_NTV.m3u8
 http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_5TV.m3u8
 #EXTINF:-1 group-title="УФА",Россия K (+2)
 http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_ROSSIAK.m3u8
-#EXTINF:-1 group-title="УФА",Россия 24
+#EXTINF:-1 tvg-logo="https://i125.fastpic.org/big/2025/0818/07/d8fe042a0019fedfbeeb4b318f590707.png" group-title="УФА",Россия 24
 http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_ROSSIA24.m3u8
 #EXTINF:-1 group-title="УФА",Карусель (Уфа)
 http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_KARUSEL.m3u8
@@ -42,12 +42,10 @@ http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_BASHKORTOSTAN24HD720.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-rec="0" group-title="ViP",Звезда Плюс HD
 http://hljtdsb9.megatv.fun/iptv/Q3MFS4Y58L8ZLC/19230/index.m3u8
 
-#EXTINF:-1 tvg-id="ZvezdaPlus.ru" group-title="Новости",Звезда Плюс
+#EXTINF:-1 tvg-id="ZvezdaPlus.ru" group-title="Новости",Звезда.Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
