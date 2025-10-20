@@ -322,7 +322,7 @@ http://192.141.167.40/BRIDGE_ETHNO/index.m3u8
 
 #EXTINF:-1 group-title="SmotRiM",Россия 1
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1.m3u8
-#EXTINF:-1 group-title="КАЛИНИНГРАД",Россия 1 HD (-1)
+#EXTINF:-1 group-title="SmotRiM",Россия 1 HD (-1)
 http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA1HD_KLGR.m3u8
 #EXTINF:-1 group-title="SmotRiM",Россия 1 HD
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
