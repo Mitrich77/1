@@ -4,9 +4,9 @@
 http://185.57.68.33/232/mpegts
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i126.fastpic.org/big/2025/1021/5a/40d8423e5a5dd27ff626af40b439ce5a.png" group-title="Relax",Камин 1
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i126.fastpic.org/big/2025/1021/ec/3e77b9bb093e36882d28f5925a68d6ec.jpeg" group-title="Relax",Камин2
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i126.fastpic.org/big/2025/1021/ec/3e77b9bb093e36882d28f5925a68d6ec.jpeg" group-title="Relax",Камин 2
 https://d2esizdt2xkmhp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qw5vkd4gzoaia/SONO60.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i126.fastpic.org/big/2025/1021/29/4608a6f92ca0b69485cfb7552e3f3129.jpeg" group-title="Relax",Камин3
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i126.fastpic.org/big/2025/1021/29/4608a6f92ca0b69485cfb7552e3f3129.jpeg" group-title="Relax",Камин 3
 https://d2l4k8y57npunc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f08h8nn8dmm6z/Fireplace_4K_SONO20.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i126.fastpic.org/big/2025/1021/2e/9d4dc5884260a849a01a571898a4c12e.jpeg" group-title="Relax",Камин 4
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=83
