@@ -65,6 +65,12 @@ http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/18135/index.m3u8
 http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/18136/index.m3u8
 
 
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" tvg-id="zal-01-tricolor"  group-title="Кино 2",Шерлок Холмс
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/18126/index.m3u8
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0913/ec/726f6943f89f8593e95337a2227168ec.jpg" tvg-id="zal-05-tricolor" group-title="Кино 2",17 мгновений весны
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/18130/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино 2",VF Тайны следствия
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/13082/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино 2",VF Владимир Высоцкий
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/10066/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 2",VF Леонид Гайдай
@@ -81,14 +87,10 @@ http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11061/index.m3u8
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11102/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 2",TOP USSR HD
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/13005/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино 2",MM USSR 1941-1945 HD
-http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/13018/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 2",MM USSR Комедия HD
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/13019/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 2",MM USSR Сказки HD
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/13021/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино 2",MM USSR Драма HD
-http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/13022/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 2",MM USSR Приключения HD
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/13060/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 2",MM USSR Детектив HD
@@ -125,8 +127,16 @@ http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/14238/index.m3u8
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/10086/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 2",Триколор Советские мультфильмы
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/18135/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино 2",Триколор Смешарики
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/18136/index.m3u8
 
 
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" tvg-id="zal-01-tricolor"  group-title="Кино 3",Шерлок Холмс
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/18126/index.m3u8
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0913/ec/726f6943f89f8593e95337a2227168ec.jpg" tvg-id="zal-05-tricolor" group-title="Кино 3",17 мгновений весны
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/18130/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино 3",VF Тайны следствия
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/13082/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино 3",VF Владимир Высоцкий
 http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/10066/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 3",VF Леонид Гайдай
@@ -143,14 +153,10 @@ http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/11061/index.m3u8
 http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/11102/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 3",TOP USSR HD
 http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/13005/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино 3",MM USSR 1941-1945 HD
-http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/13018/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 3",MM USSR Комедия HD
 http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/13019/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 3",MM USSR Сказки HD
 http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/13021/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино 3",MM USSR Драма HD
-http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/13022/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 3",MM USSR Приключения HD
 http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/13060/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 3",MM USSR Детектив HD
@@ -187,8 +193,16 @@ http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/14238/index.m3u8
 http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/10086/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 3",Триколор Советские мультфильмы
 http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/18135/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино 3",Триколор Смешарики
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/18136/index.m3u8
 
 
+#EXTINF:-1 tvg-rec="0" group-title="Кино 4",Триколор Взвешенные люди HD
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/18126/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино 4",Триколор Солдаты
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/18130/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино 4",VF Тайны следствия
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/13082/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино 4",VF Владимир Высоцкий
 http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/10066/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 4",VF Леонид Гайдай
@@ -205,14 +219,10 @@ http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/11061/index.m3u8
 http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/11102/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 4",TOP USSR HD
 http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/13005/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино 4",MM USSR 1941-1945 HD
-http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/13018/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 4",MM USSR Комедия HD
 http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/13019/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 4",MM USSR Сказки HD
 http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/13021/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино 4",MM USSR Драма HD
-http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/13022/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 4",MM USSR Приключения HD
 http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/13060/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 4",MM USSR Детектив HD
@@ -249,3 +259,5 @@ http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/14238/index.m3u8
 http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/10086/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 4",Триколор Советские мультфильмы
 http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/18135/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино 4",Триколор Смешарики
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/18136/index.m3u8
