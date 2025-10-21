@@ -57,26 +57,17 @@ http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/6255/index.m3u8
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11051/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="ViP4",Club Sweethearts HD
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/6186/index.m3u8
-#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="ViP4",Extasy Platinum 4K
-http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/5014/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="ViP4",Playboy
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/527/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="ViP4",Playboy LA
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/12135/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP4",Tiny4K
-http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/6258/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP4",Exotic 4k
-http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/12107/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP4",Cum4k UHD
-http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/12157/index.m3u8
+
 
 
 #EXTINF:-1 tvg-rec="0" group-title="ViP5",White Boxxx
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/6267/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="ViP5",StrahTV Ню Арт HD
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/31716/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP5",MetArt HD
-http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/6233/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="ViP5",MetArt FHD
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/12160/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="ViP5",Digital Desire HD
@@ -99,8 +90,6 @@ http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/6255/index.m3u8
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/6260/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="ViP5",Club Sweethearts HD
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/6186/index.m3u8
-#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="ViP5",Extasy Platinum 4K
-http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/5014/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="ViP5",Playboy
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/527/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="ViP5",Playboy LA
