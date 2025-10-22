@@ -29,7 +29,7 @@ http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/6186/index.m3u8
 http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/527/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="ViP2",Playboy LA
 http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/12135/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP",Tiny4K
+#EXTINF:-1 tvg-rec="0" group-title="ViP2",Tiny4K
 http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/6258/index.m3u8
 
 
@@ -63,7 +63,7 @@ http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/6186/index.m3u8
 http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/527/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="ViP3",Playboy LA
 http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/12135/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP",Tiny4K
+#EXTINF:-1 tvg-rec="0" group-title="ViP3",Tiny4K
 http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/6258/index.m3u8
 
 
@@ -97,7 +97,7 @@ http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/6186/index.m3u8
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/527/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="ViP4",Playboy LA
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/12135/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP",Tiny4K
+#EXTINF:-1 tvg-rec="0" group-title="ViP4",Tiny4K
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/6258/index.m3u8
 
 
@@ -131,5 +131,5 @@ http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/6186/index.m3u8
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/527/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="ViP5",Playboy LA
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/12135/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="ViP",Tiny4K
+#EXTINF:-1 tvg-rec="0" group-title="ViP5",Tiny4K
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/6258/index.m3u8
