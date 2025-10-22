@@ -261,3 +261,70 @@ http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/10086/index.m3u8
 http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/18135/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 4",Триколор Смешарики
 http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/18136/index.m3u8
+
+
+
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",VeleS 60fps
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/31637/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast 1",VF Fantasy
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/10005/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast 1",BCU Fantastic HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/11032/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast 1",BCU Ultra 4K
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/11045/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",BCU Cosmo HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/17021/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",BCU TruMotion HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/17054/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast 1",StrahTV Фантастика HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/11070/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",VF Fantastic
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/11121/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",MM UFO HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/13017/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",MM Стивен Кинг HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/13055/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",MM Супергерои HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/13056/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",MM Фантастика HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/13062/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",Yosso TV Adventure
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/15510/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",Yosso TV Best 60fps
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/20165/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",Dosug TV Fantastic HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/14210/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",Liberty Кино Микс 4K
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/15110/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",Liberty Фантастика FHD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/19403/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",MS Magic 4K
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/16143/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",Fresh Fantastic
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/19294/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",Fresh Adventure
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/19297/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",KLI Fantastic HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/18050/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",KLI Fantasy HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/20054/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",KLI Franchise HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/31634/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",Kinoshka Mystic HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/18059/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",Magic VHS HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/18062/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",BOX Franchise HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/19274/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",BOX Cyber HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/19421/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",BOX Fantasy HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/20156/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",Eye Cyber HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/20220/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",Z!Fantastic HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/31702/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",Z!Fantasy HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/31703/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast 1",StrahTV Фантастика 2.0 HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/31722/index.m3u8
