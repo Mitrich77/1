@@ -53,9 +53,9 @@ http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/20158/index.m3u8
 http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/31656/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино 1",MM USSR Мультфильм HD
 http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/13020/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Детские",Yosso TV Союзмульт
+#EXTINF:-1 tvg-rec="0" group-title="Кино 1",Yosso TV Союзмульт
 http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/14178/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Детские",VF Союзмультфильм
+#EXTINF:-1 tvg-rec="0" group-title="Кино 1",VF Союзмультфильм
 http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/14238/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино 1",VF Мультфильмы СССР
 http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/10086/index.m3u8
