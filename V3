@@ -1,62 +1,113 @@
-#EXTM3U
-
-#EXTM3U
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="ViP 🇷🇺",Первый канал (+2)
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="ViP 🇷🇺",Россия 1 (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="ViP 🇷🇺",СТС (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="ViP 🇷🇺",НТВ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="ViP 🇷🇺",Матч ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="ViP 🇷🇺",Россия К (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="ViP 🇷🇺",Россия 24
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 group-title="ViP 🇷🇺",Известия
-http://178.212.71.253:8000/play/138/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13735/logo_256_1660807355.png" group-title="ViP 🇷🇺",Соловьев Live
-https://mhd128.iptv2022.com/p/VtlGrspTNcHSZnAGcCLCRA,1761289030/streaming/solovyevlive/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10209/logo_256_1655387069.png" group-title="ViP 🇷🇺",Вся Уфа
-https://mhd128.iptv2022.com/p/fclqwU0VgH0dZll-iGTdUQ,1761289031/streaming/allufaru/324/1/index.m3u8
-#EXTINF:-1 tvg-logo="http://i121.fastpic.org/big/2023/0520/9c/cb6d4e14276b76d6d4e052258921a29c.png" group-title="ViP 🇷🇺",ОТР (+2)
-https://mhd128.iptv2022.com/p/gGsTpU3mdmymii9WkNC8sQ,1761289027/streaming/otrplus2/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="ViP 🇷🇺",РЕН ТВ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="ViP 🇷🇺",Пятый канал (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-#EXTINF:-1 tvg-id="2038" tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="ViP 🇷🇺",ТВ Центр (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
-#EXTINF:-1 tvg-logo="http://i121.fastpic.org/big/2023/0520/31/5d86e96a45843233a3ddb9b6d072d231.png" group-title="ViP 🇷🇺",Спас (+2)
-https://mhd128.iptv2022.com/p/QR0VffEcZzG0d9iqwHv0Tw,1761289027/streaming/spasplus2/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="ViP 🇷🇺",МИР (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="ViP 🇷🇺",Звезда (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="ViP 🇷🇺",Звезда
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 group-title="ViP 🇷🇺",Звезда плюс
-http://tv.ttk.mx:9192
-#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10143/logo_256_1655452209.png" group-title="ViP 🇷🇺",Известия
-https://mhd128.iptv2022.com/p/69q8MN8jDtwr3ZjWMM6kaQ,1761289029/streaming/izvestia/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/148/logo_256_1655391326.png" group-title="ViP 🇷🇺",Россия 24
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0927/3f/97c4a661add2af87dcd6339591fd383f.png" group-title="Lime (VPN 🇷🇺)",Первый канал (+2)
+https://mhd128.iptv2022.com/p/PnBUx21S8ywi2kD30ozGOg,1761289027/streaming/1kanalplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0705/1b/d54ab9bf7879f503348bd9c0a4d1d11b.png" group-title="Lime (VPN 🇷🇺)",Россия 1 (+2)
+https://mhd128.iptv2022.com/p/7Zkp_7AOju8IDu90Q4aU4Q,1761289027/streaming/rossia1plus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://i121.fastpic.org/big/2023/0106/d7/079c9d30989126ebc42bad755c1b7ed7.png" group-title="Lime (VPN 🇷🇺)",СТС (+2)
+https://mhd128.iptv2022.com/p/LMw4fl2onVVWUeB52bYJHA,1761289027/streaming/stsplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0927/e8/7cdbc2b5a8c49ac8c281a80808d17fe8.png" group-title="Lime (VPN 🇷🇺)",НТВ (+2)
+https://mhd128.iptv2022.com/p/aX23FI3E29DDAmYJQwMwXA,1761289027/streaming/ntvplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/157/logo_256_1655390359.png" group-title="Lime (VPN 🇷🇺)",Матч!
+https://mhd128.iptv2022.com/p/fxDspm_usOBxo2lXwnjbiw,1761289029/streaming/matchott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0705/db/c348c67a80067a5b656c1a62f7fce4db.png" group-title="Lime (VPN 🇷🇺)",Россия К (+2)
+https://mhd128.iptv2022.com/p/VNWJLlH-ofH7VxUXkrMb1Q,1761289027/streaming/rossiakplus2/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/148/logo_256_1655391326.png" group-title="Lime (VPN 🇷🇺)",Россия 24
 https://mhd128.iptv2022.com/p/kLwT_qH1aMpyzDVBW17EnA,1761289029/streaming/rossia24nn/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13735/logo_256_1660807355.png" group-title="ViP 🇷🇺",Соловьев Live
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10143/logo_256_1655452209.png" group-title="Lime (VPN 🇷🇺)",Известия
+https://mhd128.iptv2022.com/p/69q8MN8jDtwr3ZjWMM6kaQ,1761289029/streaming/izvestia/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13735/logo_256_1660807355.png" group-title="Lime (VPN 🇷🇺)",Соловьев Live
+https://mhd128.iptv2022.com/p/VtlGrspTNcHSZnAGcCLCRA,1761289030/streaming/solovyevlive/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10209/logo_256_1655387069.png" group-title="Lime (VPN 🇷🇺)",Вся Уфа
+https://mhd128.iptv2022.com/p/fclqwU0VgH0dZll-iGTdUQ,1761289031/streaming/allufaru/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="http://i121.fastpic.org/big/2023/0520/9c/cb6d4e14276b76d6d4e052258921a29c.png" group-title="Lime (VPN 🇷🇺)",ОТР (+2)
+https://mhd128.iptv2022.com/p/gGsTpU3mdmymii9WkNC8sQ,1761289027/streaming/otrplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0927/1e/85f294a6ddf35c85f064a5af1d7ca71e.png" group-title="Lime (VPN 🇷🇺)",Рен ТВ (+2)
+https://mhd128.iptv2022.com/p/R_wKMmhsmmsWdb537qhPHg,1761289027/streaming/rentvplus2/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0927/dd/fecc0db23a434a8ac3105b0cb4dd62dd.png" group-title="Lime (VPN 🇷🇺)",ТВЦ +2
+https://mhd128.iptv2022.com/p/zUcP2FC2dP93k0kY90eDNg,1761289027/streaming/tvcplus2/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0927/64/704a0d10587af9e62df8b2794c660564.png" group-title="Lime (VPN 🇷🇺)",Пятый канал +2
+https://mhd128.iptv2022.com/p/BTFE6yjWcOq0ARovqsUj6g,1761289027/streaming/5kanalplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0819/85/d3d29102c71be64515b7242f4d923a85.png" group-title="Lime (VPN 🇷🇺)",Мир (+2)
+https://mhd128.iptv2022.com/p/UNCmPa996usxHZa2Kk7wLw,1761289027/streaming/mirplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://i121.fastpic.org/big/2023/0520/31/5d86e96a45843233a3ddb9b6d072d231.png" group-title="Lime (VPN 🇷🇺)",Спас (+2)
+https://mhd128.iptv2022.com/p/QR0VffEcZzG0d9iqwHv0Tw,1761289027/streaming/spasplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0926/b2/6ecae06b236a5f616c13fec0916d15b2.png" group-title="Lime (VPN 🇷🇺)",Звезда (+2)
+https://mhd128.iptv2022.com/p/E8aMUcJ_c6x8odfG0fSoag,1761289027/streaming/zvezdaplus2/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/72/logo_256_1655448761.png" group-title="Lime (VPN 🇷🇺)",Звезда
+https://mhd128.iptv2022.com/p/ZkJSoHPwET9cRcUDNDU8qw,1761289027/streaming/zvezda/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10704/logo_256_1655387226.png" group-title="Lime (VPN 🇷🇺)",Звезда плюс
+https://mhd128.iptv2022.com/p/JVsNrWcjkn8jwsBgISkeHA,1761289027/streaming/zvezdaplus/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Известия
+http://178.212.71.253:8000/play/138/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Россия 24
+http://178.212.71.253:8000/play/7/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Соловьев Live
 http://178.212.71.253:8000/play/111/index.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="ViP 🇷🇺",Первый канал
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="ViP 🇷🇺",Россия 1
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="ViP 🇷🇺",СТС
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="ViP 🇷🇺",НТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="ViP 🇷🇺",РЕН ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10032/logo_128_1652790001.png" group-title="Lime (VPN 🇷🇺)",Первый HD
+https://mhd128.iptv2022.com/p/sHkQi5ON92skoRmad2qpLw,1761289026/streaming/1kanalott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/115/logo_256_1655391177.png" group-title="Lime (VPN 🇷🇺)",Россия 1 HD
+https://mhd128.iptv2022.com/p/rB3ABaSYIH0msjaXDFV5Gw,1761289026/streaming/rossia1ott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/126/logo_256_1655445109.png" group-title="Lime (VPN 🇷🇺)",СТС HD
+https://mhd128.iptv2022.com/p/j3c4XkSV18NdCxSTWP6fxw,1761289026/streaming/stsott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10100/logo_256_1655385292.png" group-title="Lime (VPN 🇷🇺)",НТВ HD
+https://mhd128.iptv2022.com/p/OHzOquMfpB03LO4iVBLRBQ,1761289026/streaming/ntvnn/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/113/logo_256_1655445172.png" group-title="Lime (VPN 🇷🇺)",РЕН ТВ HD
+https://mhd128.iptv2022.com/p/Cb2mIXWsrs1DJP-yVyyO-A,1761289026/streaming/rentvott/324/1/index.m3u8
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Мосфильм. Золотая коллекция
+http://tv.ttk.mx:9169
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Ностальгия
+http://tv.ttk.mx:9195
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Живая Природа HD
+http://tv.ttk.mx:9066
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Ретро
+http://tv.ttk.mx:9032
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Победа
+http://tv.ttk.mx:9149
+#EXTINF:-1 group-title="Ялта (VPN)",Мосфильм. Золотая коллекция
+http://178.212.71.253:8000/play/124/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Живая природа
+http://178.212.71.253:8000/play/79/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",История
+http://178.212.71.253:8000/play/87/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Ностальгия
+http://178.212.71.253:8000/play/131/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Победа
+http://178.212.71.253:8000/play/129/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Звезда+
+http://178.212.71.253:8000/play/130/index.m3u8
+#EXTINF:-1 group-title="ОСС",BCU Action HD
+http://178.217.72.72/BCUActionHD/index.m3u8
+#EXTINF:-1 group-title="ОСС",BCU Catastrophe HD
+http://178.217.72.72/BCUCatastropheHD/index.m3u8
+#EXTINF:-1 group-title="ОСС",BCU Comedy HD
+http://178.217.72.72/BCUComedyHD/index.m3u8
+#EXTINF:-1 group-title="ОСС",BCU Fantastic HD
+http://178.217.72.72/BCUFantasticHD/index.m3u8
+#EXTINF:-1 group-title="ОСС",BCU Romantic HD
+http://178.217.72.72/BCURomanticHD/index.m3u8
+#EXTINF:-1 group-title="ОСС",BCU Stars HD
+http://178.217.72.72/BCUStarsHD/index.m3u8
+#EXTINF:-1 group-title="ОСС",BCU VHS HD
+http://178.217.72.72/BCUVHSHD/index.m3u8
+#EXTINF:-1 group-title="ОСС",BCU Kinorating HD
+http://178.217.72.72/BCUKinoratingHD/index.m3u8
+#EXTINF:-1 group-title="ОСС",CineMan Action HD
+http://178.217.72.72/CineMan_Action/index.m3u8
+#EXTINF:-1 group-title="ОСС",CineMan Comedy HD
+http://178.217.72.72/CineMan_Comedy/index.m3u8
+#EXTINF:-1 group-title="ОСС",CineMan HD
+http://178.217.72.72/CineMan/index.m3u8
+#EXTINF:-1 group-title="ОСС",CineMan Marvel HD
+http://178.217.72.72/CineMan_Marvel/index.m3u8
+#EXTINF:-1 group-title="ОСС",CineMan Melodrama HD
+http://178.217.72.72/CineMan_Melodrama/index.m3u8
+#EXTINF:-1 group-title="ОСС",CineMan Thriller HD
+http://178.217.72.72/CineMan_Thriller/index.m3u8
+#EXTINF:-1 group-title="ОСС",CineMan Top HD
+http://178.217.72.72/CineMan_Top/index.m3u8
+#EXTINF:-1 group-title="ОСС",CineMan VHS HD
+http://178.217.72.72/CineMan_VHS/index.m3u8
+#EXTINF:-1 tvg-logo="http://ottpink.network/picons/clarity4k.png" group-title="↕️ Торрент ТВ ↕️",Clarity 4K
+http://127.0.0.1:6878/ace/getstream?infohash=73fd61f250e7ef7614feb38bfa7d8a8d38d2f20c
 
 
 
