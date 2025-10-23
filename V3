@@ -52,16 +52,7 @@ https://mhd128.iptv2022.com/p/j3c4XkSV18NdCxSTWP6fxw,1761289026/streaming/stsott
 https://mhd128.iptv2022.com/p/OHzOquMfpB03LO4iVBLRBQ,1761289026/streaming/ntvnn/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/113/logo_256_1655445172.png" group-title="Lime (VPN 🇷🇺)",РЕН ТВ HD
 https://mhd128.iptv2022.com/p/Cb2mIXWsrs1DJP-yVyyO-A,1761289026/streaming/rentvott/324/1/index.m3u8
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Мосфильм. Золотая коллекция
-http://tv.ttk.mx:9169
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Ностальгия
-http://tv.ttk.mx:9195
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Живая Природа HD
-http://tv.ttk.mx:9066
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Ретро
-http://tv.ttk.mx:9032
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Победа
-http://tv.ttk.mx:9149
+
 #EXTINF:-1 group-title="Ялта (VPN)",Мосфильм. Золотая коллекция
 http://178.212.71.253:8000/play/124/index.m3u8
 #EXTINF:-1 group-title="Ялта (VPN)",Живая природа
@@ -74,6 +65,7 @@ http://178.212.71.253:8000/play/131/index.m3u8
 http://178.212.71.253:8000/play/129/index.m3u8
 #EXTINF:-1 group-title="Ялта (VPN)",Звезда+
 http://178.212.71.253:8000/play/130/index.m3u8
+
 #EXTINF:-1 group-title="ОСС",BCU Action HD
 http://178.217.72.72/BCUActionHD/index.m3u8
 #EXTINF:-1 group-title="ОСС",BCU Catastrophe HD
@@ -106,10 +98,6 @@ http://178.217.72.72/CineMan_Thriller/index.m3u8
 http://178.217.72.72/CineMan_Top/index.m3u8
 #EXTINF:-1 group-title="ОСС",CineMan VHS HD
 http://178.217.72.72/CineMan_VHS/index.m3u8
-#EXTINF:-1 tvg-logo="http://ottpink.network/picons/clarity4k.png" group-title="↕️ Торрент ТВ ↕️",Clarity 4K
-http://127.0.0.1:6878/ace/getstream?infohash=73fd61f250e7ef7614feb38bfa7d8a8d38d2f20c
-
-
 
 
 #EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные плюс",Первый канал (+2)
