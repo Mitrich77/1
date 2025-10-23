@@ -1,4 +1,40 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+
+#EXTM3U
+#EXTINF:-1,Кино 1 International
+http://a0925677.xsph.ru/hls/CH_KINO1_INT.m3u8
+#EXTINF:-1,КИНО ТВ
+http://a0925677.xsph.ru/hls/CH_KINOTV.m3u8
+#EXTINF:-1,CINEMA
+http://a0925677.xsph.ru/hls/CH_CINEMA.m3u8
+#EXTINF:-1,Дом кино ПРЕМИУМ HD
+http://a0925677.xsph.ru/hls/CH_DOMKINO_PREMIUMHD.m3u8
+#EXTINF:-1,КОМЕДИЯ
+http://a0925677.xsph.ru/hls/CH_KOMEDIYA.m3u8
+#EXTINF:-1,Любимое кино HD
+http://a0925677.xsph.ru/hls/CH_LYUBIMOEKINOHD.m3u8
+#EXTINF:-1,TV1000
+http://a0925677.xsph.ru/hls/CH_TV1000.m3u8
+#EXTINF:-1,TV1000 ACTION
+http://a0925677.xsph.ru/hls/CH_TV1000ACTION.m3u8
+#EXTINF:-1,Мосфильм Золотая коллекция
+http://a0925677.xsph.ru/hls/CH_MOSFILM_ZOLOTAYAKOLLEKCIYA.m3u8
+#EXTINF:-1,ПОБЕДА
+http://a0925677.xsph.ru/hls/CH_POBEDA.m3u8
+#EXTINF:-1,ViP MEGAHIT HD
+http://a0925677.xsph.ru/hls/CH_VIPMEGAHITHD.m3u8
+#EXTINF:-1,В гостях у сказки
+http://a0925677.xsph.ru/hls/CH_VGOSTYAHUSKAZKI.m3u8
+#EXTINF:-1,Наука 2.0
+http://a0925677.xsph.ru/hls/CH_NAUKA20.m3u8
+#EXTINF:-1,ИСТОРИЯ
+http://a0925677.xsph.ru/hls/CH_ISTORIYA.m3u8
+#EXTINF:-1,NANO HD
+http://a0925677.xsph.ru/hls/CH_NANOHD.m3u8
+#EXTINF:-1,Живая природа HD
+http://a0925677.xsph.ru/hls/CH_ZHIVAYAPRIRODAHD.m3u8
+
+
 #EXTINF:-1 tvg-id="patriot" tvg-logo="https://epg.iptvx.one/picons/patriot.png" group-title="Фильмы,сериалы",Патриот
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="Фильмы,сериалы",Победа
