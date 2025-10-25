@@ -67,18 +67,22 @@ http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT_2.m3u8
 http://a0925677.xsph.ru/hls/DVB-T2/CH_MIR.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия К
 http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
-#EXTINF:-1 tvg-id="Xmosfilm" tvg-name="мосфильм. золотая коллекция" tvg-logo="https://ip-tv.dev/images/ico/mosfilm.png" group-title="Кино",Мосфильм. Золотая коллекция
-http://de.online24.pm/play/9912/65F8DEA9B8759ED/video.m3u8
-#EXTINF:-1 group-title="Кино",Кино 1 International
-http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-id="Xfresh-soviet" tvg-name="fresh soviet" tvg-logo="https://ip-tv.dev/images/ico/fresh/soviet.png" group-title="Кинозалы",Fresh Soviet
-http://de.online24.pm/play/1637/65F8DEA9B8759ED/video.m3u8
-#EXTINF:-1 tvg-id="X36506" tvg-name="kbc-страна ссср" tvg-logo="https://ip-tv.dev/images/ico/36506-6009d7a51db00.png" group-title="Кинозалы",KBC-Страна СССР
-http://de.online24.pm/play/8824/65F8DEA9B8759ED/video.m3u8
-#EXTINF:-1 tvg-id="Xussr-premieregroup" tvg-name="ussr hd" tvg-logo="https://ip-tv.dev/images/epg/1758.png?v1743767360" group-title="Кино",USSR HD
-http://de.online24.pm/play/1758/65F8DEA9B8759ED/video.m3u8
-#EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-logo="https://epg.iptvx.one/picons/detkinoint-tviksel.png" group-title="Детские",Детское кино International
-http://autopilot.catcast.tv/content/38720/index.m3u8
+
+
+#EXTINF:-1 group-title="ОСС",Мосфильм. Золотая коллекция
+http://178.217.72.72/mosfilm/index.m3u8
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Советская Киноклассика
+http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8.
+#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Фильмы,сериалы",Мосфильм. Золотая коллекция
+http://188.190.222.53/Mosfilm/index.m3u8
+#EXTINF:-1 tvg-id="kino1int-tviksel" tvg-logo="https://iptvx.one/picons/kino1int-tviksel.png" group-title="Фильмы,сериалы",Кино 1 International
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Живая природа
+https://livetv.mylifeisgood.net.ru/channels/jivyapriroda.m3u8
+#EXTINF:-1 group-title="Кинозалы",IPTVPLAY ФАНТАСТИКА HD
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+
 #EXTINF:-1 group-title="ЭфиР плюс",Первый канал (-1)
 http://a0925677.xsph.ru/hls/DVB-T2/CH_1TV-1.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал FHD.png" group-title="ViP",Первый канал FHD
