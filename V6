@@ -71,14 +71,14 @@ http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
 
 #EXTINF:-1 group-title="ОСС",Мосфильм. Золотая коллекция
 http://178.217.72.72/mosfilm/index.m3u8
+#EXTINF:-1 tvg-id="kino1int-tviksel" tvg-logo="https://iptvx.one/picons/kino1int-tviksel.png" group-title="Фильмы•сериалы",Кино 1 International
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Советская Киноклассика
 http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Живая природа
 https://livetv.mylifeisgood.net.ru/channels/jivyapriroda.m3u8
 #EXTINF:-1 group-title="Кинозалы",IPTVPLAY ФАНТАСТИКА HD
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-id="kino1int-tviksel" tvg-logo="https://iptvx.one/picons/kino1int-tviksel.png" group-title="Фильмы•сериалы",Кино 1 International
-http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Фильмы•сериалы",Мосфильм. Золотая коллекция
 http://188.190.222.53/Mosfilm/index.m3u8
 
