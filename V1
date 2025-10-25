@@ -64,7 +64,40 @@ http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT_2.m3u8
 http://a0925677.xsph.ru/hls/DVB-T2/CH_MIR.m3u8
 
 
-
+#EXTINF:-1 group-title="ОСС",Мосфильм. Золотая коллекция
+http://178.217.72.72/mosfilm/index.m3u8
+#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Советская Киноклассика
+http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Живая природа
+https://livetv.mylifeisgood.net.ru/channels/jivyapriroda.m3u8
+#EXTINF:-1 group-title="ОСС",BCU Fantastic HD
+http://178.217.72.72/BCUFantasticHD/index.m3u8
+#EXTINF:-1 group-title="ОСС",CineMan Marvel HD
+http://178.217.72.72/CineMan_Marvel/index.m3u8
+#EXTINF:-1 group-title="ОСС",BCU VHS HD
+http://178.217.72.72/BCUVHSHD/index.m3u8
+#EXTINF:-1 group-title="ОСС",CineMan VHS HD
+http://178.217.72.72/CineMan_VHS/index.m3u8
+#EXTINF:-1 group-title="ОСС",BCU Kinorating HD
+http://178.217.72.72/BCUKinoratingHD/index.m3u8
+#EXTINF:-1 group-title="ОСС",CineMan Top HD
+http://178.217.72.72/CineMan_Top/index.m3u8
+#EXTINF:-1 group-title="ОСС",BCU Action HD
+http://178.217.72.72/BCUActionHD/index.m3u8
+#EXTINF:-1 group-title="ОСС",CineMan Action HD
+http://178.217.72.72/CineMan_Action/index.m3u8
+#EXTINF:-1 group-title="ОСС",BCU Stars HD
+http://178.217.72.72/BCUStarsHD/index.m3u8
+#EXTINF:-1 group-title="ОСС",CineMan HD
+http://178.217.72.72/CineMan/index.m3u8
+#EXTINF:-1 group-title="ОСС",BCU Catastrophe HD
+http://178.217.72.72/BCUCatastropheHD/index.m3u8
+#EXTINF:-1 group-title="ОСС",CineMan Thriller HD
+http://178.217.72.72/CineMan_Thriller/index.m3u8
+#EXTINF:-1 group-title="ОСС",BCU Comedy HD
+http://178.217.72.72/BCUComedyHD/index.m3u8
+#EXTINF:-1 group-title="ОСС",CineMan Comedy HD
+http://178.217.72.72/CineMan_Comedy/index.m3u8
 
 
 #EXTINF:-1  group-title="ЭфиР плюс",Россия 1 (-1)
