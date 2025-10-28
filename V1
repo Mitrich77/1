@@ -372,3 +372,43 @@ http://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 group-title="SmotRiM",Россия 24
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24.m3u8
+
+
+#EXTINF:-1 group-title="Кино",Кинопоказ HD
+http://178.217.72.66:8080/kinopokazhd/index.m3u8
+#EXTINF:-1 group-title="Кино",Наше крутое HD
+http://178.217.72.66:8080/nashekrutoe/index.m3u8
+#EXTINF:-1 group-title="Кино",Иллюзион+ HD
+http://89.221.57.5:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Кино",FAN HD
+http://31.148.48.15/Fan/index.m3u8
+#EXTINF:-1 group-title="Кино",VHS-ка HD
+http://stream1.prizma.link/VHS/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинокомедия HD
+http://45.159.74.22/Kinokomedia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",Киномикс HD
+http://77.235.1.19:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинопремьера HD
+http://178.124.179.122:8088/Kinopremiera/index.m3u8
+#EXTINF:-1 group-title="Кино",Киносемья HD
+http://77.235.1.19:8000/play/a06a/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинохит HD
+http://77.235.1.19:8000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="Кино",Сити Эдем — Киноклассика
+https://autopilot.catcast.tv/content/34185/index.m3u8?password=promolive
+#EXTINF:-1 tvg-id="40783" group-title="Кино",Сити Эдем — Киномистика
+https://autopilot.catcast.tv/content/40783/index.m3u8?password=promolive
+#EXTINF:-1 tvg-id="41333" group-title="Кино",Сити Эдем — Киноэкшен
+https://autopilot.catcast.tv/content/41333/index.m3u8?password=promolive
+#EXTINF:-1 group-title="Кино",viju TV1000 HD
+http://95.85.109.219:7000/play/a08v
+#EXTINF:-1 group-title="Кино",viju TV1000 action HD
+http://95.85.109.219:7000/play/a013
+#EXTINF:-1 group-title="Кино",viju TV1000 русское HD
+http://95.85.109.219:7000/play/a08x
+#EXTINF:-1 group-title="Кино",viju+ Comedy HD
+http://77.235.1.19:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="Кино",viju+ Megahit HD
+http://77.235.1.19:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="Кино",viju+ Premiere HD
+http://77.235.1.19:8000/play/a05c/index.m3u8
