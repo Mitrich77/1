@@ -161,7 +161,166 @@ http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31638/index.m3u8
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/13027/index.m3u8
 
 
-
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Yosso TV Best 60fps
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/20165/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",VeleS 60fps
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/31637/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",BCU Fantastic HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11032/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Dosug TV Fantastic HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/14210/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Fresh Fantastic
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/19294/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",KLI Fantastic HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/18050/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Liberty Фантастика FHD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/19403/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",MM Фантастика HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/13062/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",StrahTV Фантастика HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11070/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",StrahTV Фантастика 2.0 HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/31722/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",VF Fantastic
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11121/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Z!Fantastic HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/31702/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",BCU Cosmo HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/17021/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",MM Flip UHD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/13057/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",MM UFO HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/13017/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",BOX Franchise HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/19274/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",BOX Fantasy HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/20156/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",KLI Fantasy HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/20054/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",VF Fantasy
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/10005/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Z!Fantasy HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/31703/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",BOX Hybrid HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/19275/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Eye Cyber HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/20220/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",BCU Kinorating HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11037/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",BCU Cinema HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11029/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",BCU Cinema+ HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11030/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",BCU Media HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11043/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",BCU Premiere HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11039/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",BCU Premiere 1 HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11015/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",BCU Premiere 2 HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11016/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",BCU Premiere 3 HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11017/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",BCU Premiere Ultra 4K
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/15023/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",BCU Catastrophe HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11028/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",BCU Stars HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11044/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",BCU Survival HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/17019/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",BCU TruMotion HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/17054/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",BCU Ultra 4K
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11045/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",BOX Oscar HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/19278/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",BOX Premiere 4K
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/20157/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",BOX Premiere+ 4K HDR
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/31549/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",CineMan
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11004/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",CineMan Action
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11006/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="Fantast_VHS_3",CineMan Premium
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/20112/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",CineMan Top
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11005/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Dosug TV Hit HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/14212/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Fresh Premiere
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/19290/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Fresh Cinema
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/19287/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Fresh Rating
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/19292/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Kinoshka Premiere HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/18117/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Liberty XX Век 4K
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/20173/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Liberty Кино Микс 4K
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/15110/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Liberty Легенда 4K
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/19308/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",PG Premiere HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11094/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",PG Premium HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11095/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",VF Premiere
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/10052/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",VF Премьера
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/10051/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",VeleS Movie Hits
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/31644/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Yosso TV Best
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/14236/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Yosso TV Grand
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/14171/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Yosso TV Thriller
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/15168/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Yosso TV 4K
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/16153/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Познавательные",Yosso TV 4K HDR
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/31620/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",VF Кино 4K
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11114/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",BCU Kinozakaz Premiere 4K
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/31547/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",CineMan Thriller
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11007/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",CineMan Катастрофы
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/15106/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",BCU VHS HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11042/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",CineMan VHS
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11012/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Dosug TV VHS
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/14225/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Fresh VHS
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/19293/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",KLI VHS HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/18173/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Magic VHS HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/18062/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",PG VHS HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/15000/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",StrahTV VHS HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11059/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",VB VHS Classic
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/19429/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",VF VHS Cartoon
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11118/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",VF VHS MIX
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/10009/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="Fantast_VHS_3",VHS-ка HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/5006/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Yosso TV VHS
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/14172/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",VeleS Киноплёнка
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/31638/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",MM Боевик Classic HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/13027/index.m3u8
 
 #EXTINF:-1  tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/88/0870b794469eecc572d6e81997a14488.png" group-title="Новости",Соловьев Live
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
