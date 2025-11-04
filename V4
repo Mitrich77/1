@@ -324,3 +324,6 @@ http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/13027/index.m3u8
 
 #EXTINF:-1  tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/88/0870b794469eecc572d6e81997a14488.png" group-title="Новости",Соловьев Live
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+
+#EXTINF:-1 group-title="Кинозалы",IPTVPLAY ФАНТАСТИКА HD
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
