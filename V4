@@ -1,4 +1,159 @@
 #EXTM3U
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Yosso TV Best 60fps
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/20165/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",VeleS 60fps
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31637/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",BCU Fantastic HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11032/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Dosug TV Fantastic HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/14210/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Fresh Fantastic
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/19294/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",BCU Kinorating HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11037/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",KLI Fantastic HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/18050/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Liberty Фантастика FHD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/19403/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",MM Фантастика HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/13062/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",StrahTV Фантастика HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11070/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",StrahTV Фантастика 2.0 HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31722/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",VF Fantastic
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11121/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Z!Fantastic HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31702/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",BCU Cosmo HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/17021/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",MM Flip UHD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/13057/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",MM UFO HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/13017/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",BOX Franchise HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/19274/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",BOX Fantasy HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/20156/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",KLI Fantasy HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/20054/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",VF Fantasy
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/10005/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Z!Fantasy HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31703/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",BOX Hybrid HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/19275/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Eye Cyber HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/20220/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",BCU Cinema HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11029/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",BCU Cinema+ HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11030/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",BCU Media HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11043/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",BCU Premiere HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11039/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",BCU Premiere 2 HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11016/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",BCU Premiere 3 HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11017/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",BCU Premiere Ultra 4K
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/15023/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",BCU Stars HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11044/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",BCU Survival HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/17019/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",BCU TruMotion HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/17054/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",BCU Ultra 4K
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11045/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",BOX Oscar HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/19278/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",BOX Premiere 4K
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/20157/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",BOX Premiere+ 4K HDR
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31549/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",CineMan
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11004/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",CineMan Action
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11006/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",CineMan Premium
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/20112/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",CineMan Top
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11005/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Dosug TV Hit HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/14212/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Fresh Premiere
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/19290/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Fresh Rating
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/19292/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Kinoshka Premiere HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/18117/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Liberty XX Век 4K
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/20173/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Liberty Кино Микс 4K
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/15110/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Liberty Легенда 4K
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/19308/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",PG Premiere HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11094/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",PG Premium HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11095/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",VF Premiere
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/10052/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",VF Премьера
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/10051/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",VeleS Movie Hits
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31644/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Yosso TV 4K
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/16153/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Yosso TV 4K HDR
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31620/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Yosso TV Best
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/14236/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Yosso TV Grand
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/14171/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Yosso TV Thriller
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/15168/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",MM Затмение HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/13032/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",MM Киберпанк HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/13036/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",CineMan Thriller
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11007/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",CineMan Катастрофы
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/15106/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",BCU VHS HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11042/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",CineMan VHS
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11012/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Dosug TV VHS
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/14225/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Fresh VHS
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/19293/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",KLI VHS HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/18173/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Magic VHS HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/18062/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",PG VHS HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/15000/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",StrahTV VHS HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11059/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",VB VHS Classic
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/19429/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Детские",VF VHS Cartoon
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11118/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",VF VHS MIX
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/10009/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="Fantast_VHS_2",VHS-ка HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/5006/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Yosso TV VHS
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/14172/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-rec="0" group-title="Fantast_1",VeleS 60fps
 http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/31637/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_1",BCU Fantastic HD
