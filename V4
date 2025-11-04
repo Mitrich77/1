@@ -281,7 +281,7 @@ http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/14171/index.m3u8
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/15168/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Yosso TV 4K
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/16153/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Познавательные",Yosso TV 4K HDR
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Yosso TV 4K HDR
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/31620/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",VF Кино 4K
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11114/index.m3u8
@@ -443,7 +443,7 @@ http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/14171/index.m3u8
 http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/15168/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_4",Yosso TV 4K
 http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/16153/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="познавательные",Yosso TV 4K HDR
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_4",Yosso TV 4K HDR
 http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/31620/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_4",VF Кино 4K
 http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/11114/index.m3u8
