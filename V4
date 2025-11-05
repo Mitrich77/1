@@ -851,7 +851,7 @@ http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/10005/index.m3u8
 http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/31703/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_7",BOX Hybrid HD
 http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/19275/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="кино",BOX Cyber HD
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_7",BOX Cyber HD
 http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/19421/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_7",BCU Kinorating HD
 http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/11037/index.m3u8
