@@ -41,8 +41,8 @@ http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/10005/index.m3u8
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/31703/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",BOX Hybrid HD
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/19275/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",Eye Cyber HD
-http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/20220/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_2",BOX Cyber HD
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/19421/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",BCU Kinorating HD
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/11037/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_2",BCU Cinema HD
@@ -203,8 +203,8 @@ http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/10005/index.m3u8
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/31703/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",BOX Hybrid HD
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/19275/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",Eye Cyber HD
-http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/20220/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_3",BOX Cyber HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/19421/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",BCU Kinorating HD
 http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11037/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_3",BCU Cinema HD
@@ -365,8 +365,8 @@ http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/10005/index.m3u8
 http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/31703/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_4",BOX Hybrid HD
 http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/19275/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_4",Eye Cyber HD
-http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/20220/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_4",BOX Cyber HD
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/19421/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_4",BCU Kinorating HD
 http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/11037/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_4",BCU Cinema HD
@@ -527,8 +527,8 @@ http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/10005/index.m3u8
 http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/31703/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_5",BOX Hybrid HD
 http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/19275/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_5",Eye Cyber HD
-http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/20220/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_5",BOX Cyber HD
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/19421/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_5",BCU Kinorating HD
 http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/11037/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_5",BCU Cinema HD
@@ -687,10 +687,8 @@ http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/20054/index.m3u8
 http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/10005/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_6",Z!Fantasy HD
 http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/31703/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_6",BOX Hybrid HD
-http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/19275/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_6",Eye Cyber HD
-http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/20220/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_6",BOX Cyber HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/19421/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_6",BCU Kinorating HD
 http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/11037/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_6",BCU Cinema HD
@@ -851,8 +849,8 @@ http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/10005/index.m3u8
 http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/31703/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_7",BOX Hybrid HD
 http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/19275/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_7",Eye Cyber HD
-http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/20220/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="кино",BOX Cyber HD
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/19421/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_7",BCU Kinorating HD
 http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/11037/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_7",BCU Cinema HD
