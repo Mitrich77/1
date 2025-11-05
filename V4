@@ -729,7 +729,7 @@ http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/31549/index.m3u8
 http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/11004/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_6",CineMan Action
 http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/11006/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Спорт",CineMan Premium
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_6",CineMan Premium
 http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/20112/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_6",CineMan Top
 http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/11005/index.m3u8
