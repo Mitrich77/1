@@ -687,6 +687,8 @@ http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/20054/index.m3u8
 http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/10005/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_6",Z!Fantasy HD
 http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/31703/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_6",BOX Hybrid HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/19275/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Fantast_VHS_6",BOX Cyber HD
 http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/19421/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Fantast_VHS_6",BCU Kinorating HD
