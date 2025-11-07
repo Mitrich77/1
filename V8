@@ -132,3 +132,98 @@ http://194.26.229.213/chdtv_rock/index.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Dimonovich" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rh516HVw/1.png" group-title="TEST (VPN)",IPTVPLAY МультСказки HD
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDMCsgNL/1.png" group-title="TEST (VPN)",IPTVPLAY ВЕДЬМАК
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D06WvJWn/1.png" group-title="TEST (VPN)",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3N8Rc8tq/1.png" group-title="TEST (VPN)",IPTVPLAY ИНТЕРНЫ
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png" group-title="TEST (VPN)",IPTVPLAY ФАНТАСТИКА
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png" group-title="TEST (VPN)",IPTVPLAY ПАМЯТЬ
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LZkQq0x/Uzhastik.png" group-title="TEST (VPN)",IPTVPLAY УЖАСТИК
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KFj826/1.png" group-title="TEST (VPN)",IPTVPLAY Великая Отечественная HD
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="FDCservers",Box Spy HD
+http://50.7.28.226/8354/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Box Travel HD
+http://50.7.28.226/8416/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Box Zombie HD
+http://50.7.28.226/8418/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Box Stories HD
+http://50.7.28.226/8429/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Box Gangster HD
+http://50.7.28.226/8985/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Box Serial HD
+http://50.7.28.226/8988/index.m3u8
+#EXTINF:-1 group-title="FDCservers",BCU Kids+
+http://50.7.28.226/8454/index.m3u8
+#EXTINF:-1 group-title="FDCservers",BCU Kinorating
+http://50.7.28.226/8455/index.m3u8
+#EXTINF:-1 group-title="FDCservers",BCU Catastrophe HD
+http://50.7.28.226/8877/index.m3u8
+#EXTINF:-1 group-title="FDCservers",BCU Romantic HD
+http://50.7.28.226/8884/index.m3u8
+#EXTINF:-1 group-title="FDCservers",BCU Сваты
+http://50.7.28.226/8889/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Honey
+http://50.7.28.226/8895/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Драма HD
+http://50.7.28.226/8634/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Макромир
+http://50.7.28.226/8636/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Newfilm 3
+http://50.7.28.226/8743/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Relax
+http://50.7.28.226/8793/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Celebrity HD
+http://50.7.28.226/8991/index.m3u8
+#EXTINF:-1 group-title="FDCservers",CineMan VHS
+http://50.7.28.226/8807/index.m3u8
+#EXTINF:-1 group-title="FDCservers",CineMan Симпсоны
+http://50.7.28.226/8833/index.m3u8
+#EXTINF:-1 group-title="FDCservers",CineMan Thriller
+http://50.7.28.226/8954/index.m3u8
+#EXTINF:-1 group-title="FDCservers",CineMan MiniSeries
+http://50.7.28.226/8961/index.m3u8
+#EXTINF:-1 group-title="FDCservers",CineMan РуКино
+http://50.7.28.226/8871/index.m3u8
+#EXTINF:-1 group-title="ОСС (VPN)",BCU Action HD
+http://178.217.72.72/BCUActionHD/index.m3u8
+#EXTINF:-1 group-title="ОСС (VPN)",BCU Catastrophe HD
+http://178.217.72.72/BCUCatastropheHD/index.m3u8
+#EXTINF:-1 group-title="ОСС (VPN)",BCU Comedy HD
+http://178.217.72.72/BCUComedyHD/index.m3u8
+#EXTINF:-1 group-title="ОСС (VPN)",BCU Fantastic HD
+http://178.217.72.72/BCUFantasticHD/index.m3u8
+#EXTINF:-1 group-title="ОСС (VPN)",BCU Romantic HD
+http://178.217.72.72/BCURomanticHD/index.m3u8
+#EXTINF:-1 group-title="ОСС (VPN)",BCU Stars HD
+http://178.217.72.72/BCUStarsHD/index.m3u8
+#EXTINF:-1 group-title="ОСС (VPN)",BCU VHS HD
+http://178.217.72.72/BCUVHSHD/index.m3u8
+#EXTINF:-1 group-title="ОСС (VPN)",BCU Kinorating HD
+http://178.217.72.72/BCUKinoratingHD/index.m3u8
+#EXTINF:-1 group-title="ОСС (VPN)",CineMan Action HD
+http://178.217.72.72/CineMan_Action/index.m3u8
+#EXTINF:-1 group-title="ОСС (VPN)",CineMan Comedy HD
+http://178.217.72.72/CineMan_Comedy/index.m3u8
+#EXTINF:-1 group-title="ОСС (VPN)",CineMan HD
+http://178.217.72.72/CineMan/index.m3u8
+#EXTINF:-1 group-title="ОСС (VPN)",CineMan Marvel HD
+http://178.217.72.72/CineMan_Marvel/index.m3u8
+#EXTINF:-1 group-title="ОСС (VPN)",CineMan Melodrama HD
+http://178.217.72.72/CineMan_Melodrama/index.m3u8
+#EXTINF:-1 group-title="ОСС (VPN)",CineMan Thriller HD
+http://178.217.72.72/CineMan_Thriller/index.m3u8
+#EXTINF:-1 group-title="ОСС (VPN)",CineMan Top HD
+http://178.217.72.72/CineMan_Top/index.m3u8
+#EXTINF:-1 group-title="ОСС (VPN)",CineMan VHS HD
+http://178.217.72.72/CineMan_VHS/index.m3u8
