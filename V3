@@ -1,87 +1,527 @@
 #EXTM3U
-#EXTINF:-1 group-title="ОСС",BCU Fantastic HD
-http://178.217.72.72/BCUFantasticHD/index.m3u8
-#EXTINF:-1 group-title="ОСС",CineMan Marvel HD
-http://178.217.72.72/CineMan_Marvel/index.m3u8
-#EXTINF:-1 group-title="ОСС",BCU VHS HD
-http://178.217.72.72/BCUVHSHD/index.m3u8
-#EXTINF:-1 group-title="ОСС",CineMan VHS HD
-http://178.217.72.72/CineMan_VHS/index.m3u8
-#EXTINF:-1 group-title="ОСС",BCU Kinorating HD
-http://178.217.72.72/BCUKinoratingHD/index.m3u8
-#EXTINF:-1 group-title="ОСС",CineMan Top HD
-http://178.217.72.72/CineMan_Top/index.m3u8
-#EXTINF:-1 group-title="ОСС",BCU Action HD
-http://178.217.72.72/BCUActionHD/index.m3u8
-#EXTINF:-1 group-title="ОСС",CineMan Action HD
-http://178.217.72.72/CineMan_Action/index.m3u8
-#EXTINF:-1 group-title="ОСС",BCU Stars HD
-http://178.217.72.72/BCUStarsHD/index.m3u8
-#EXTINF:-1 group-title="ОСС",CineMan HD
-http://178.217.72.72/CineMan/index.m3u8
-#EXTINF:-1 group-title="ОСС",BCU Catastrophe HD
-http://178.217.72.72/BCUCatastropheHD/index.m3u8
-#EXTINF:-1 group-title="ОСС",CineMan Thriller HD
-http://178.217.72.72/CineMan_Thriller/index.m3u8
-#EXTINF:-1 group-title="ОСС",BCU Comedy HD
-http://178.217.72.72/BCUComedyHD/index.m3u8
-#EXTINF:-1 group-title="ОСС",CineMan Comedy HD
-http://178.217.72.72/CineMan_Comedy/index.m3u8
-#EXTINF:-1 group-title="ОСС",BCU Romantic HD
-http://178.217.72.72/BCURomanticHD/index.m3u8
-#EXTINF:-1 group-title="ОСС",CineMan Melodrama HD
-http://178.217.72.72/CineMan_Melodrama/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10209/logo_256_1655387069.png" group-title="Lime (VPN 🇷🇺)",Вся Уфа
-https://mhd128.iptv2022.com/p/Z1G663uNfmMfq1w4eDllxg,1761417636/streaming/allufaru/324/1/index.m3u8
-#EXTINF:-1 group-title="Ялта (VPN)",Соловьев Live
-http://178.212.71.253:8000/play/111/index.m3u8
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Мосфильм. Золотая коллекция
-http://tv.ttk.mx:9169
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Живая Природа HD
-http://tv.ttk.mx:9066
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Ретро
-http://tv.ttk.mx:9032
-#EXTINF:-1 group-title="Ялта (VPN)",Мосфильм. Золотая коллекция
-http://178.212.71.253:8000/play/124/index.m3u8
-#EXTINF:-1 group-title="Ялта (VPN)",Живая природа
-http://178.212.71.253:8000/play/79/index.m3u8
-#EXTINF:-1 group-title="Ялта (VPN)",Ретро
-http://178.212.71.253:8000/play/90/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Мосфильм. Золотая коллекция
-http://5.8.11.96:8099/mosfilmhd/index.m3u8
-#EXTINF:-1 group-title="ОСС",Мосфильм. Золотая коллекция
-http://178.217.72.72/mosfilm/index.m3u8
-#EXTINF:-1 group-title="Маяк Нетворк",Мосфильм. Золотая коллекция
-http://iptv46.mcx-ix.ru:8077/mosfilm/index.m3u8
-#EXTINF:-1 group-title="Unitary Services Enterprise",Живая природа
-http://217.21.34.160:38007/zhivaya_priroda/index.m3u8
-#EXTINF:-1 group-title="Individual Entrepreneur",Ретро
-http://46.8.46.14/retro/index.m3u8
-#EXTINF:-1 group-title="Сайт (VPN)",Ретро
-http://193.25.8.59:8000/retro
-#EXTINF:-1 group-title="Сайт (VPN)",Мосфильм. Золотая коллекция
-http://193.25.8.59:8000/tnv
-#EXTINF:-1 group-title="DELTA (VPN)",Мосфильм. Золотая коллекция
-http://192.162.64.99:5100/play/a02e/index.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Живая Природа
-http://91.194.191.241:8081/chid182/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Советская Киноклассика
-http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Ретро
-http://91.194.191.241:8081/chid45/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10290/logo_256_1658737599.png" group-title="Lime (VPN 🇷🇺)",Советское кино
-https://mhd128.iptv2022.com/p/TSpaancJdulJVtNc9hKbGQ,1761417633/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10289/logo_256_1658737584.png" group-title="Lime (VPN 🇷🇺)",Советские мультфильмы
-https://mhd128.iptv2022.com/p/H_D53H2pvquCSdKdpjtLAg,1761417634/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="7" catchup_template="&offset=${offset}" group-title="Peers (VPN)",Советское кино
-http://api.peers.tv/timeshift/sovetskoekino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="7" catchup_template="&offset=${offset}" group-title="Peers (VPN)",Мосфильм. Золотая коллекция
-http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
-#EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="7" catchup_template="&offset=${offset}" group-title="Peers (VPN)",Советские мультфильмы
-http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
-#EXTINF:-1 group-title="Большое ТВ (VPN)",Мосфильм. Золотая коллекция HD
-http://arbiter.bolshoe.tv/?path=abr4/mosfilm/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNSA2OjU2OjM3IFBNJmhhc2hfdmFsdWU9bUlQNmxkWlVQZG1LRnVuVmhCL3FqZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
-#EXTINF:-1 group-title="Большое ТВ (VPN)",Ретро
-http://95.181.17.6/7nvenc/retro/71/sd/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNSA2OjU2OjM3IFBNJmhhc2hfdmFsdWU9bUlQNmxkWlVQZG1LRnVuVmhCL3FqZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
-#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Живая природа
-https://livetv.mylifeisgood.net.ru/channels/jivyapriroda.m3u8
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" tvg-id="zal-01-tricolor"  group-title="Кино_2",Шерлок Холмс
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/18126/index.m3u8
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0913/ec/726f6943f89f8593e95337a2227168ec.jpg" tvg-id="zal-05-tricolor" group-title="Кино_2",17 мгновений весны
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/18130/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",VF Тайны следствия
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/13082/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_2",VF Владимир Высоцкий
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/10066/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",VF Леонид Гайдай
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/17004/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",VF Эльдар Рязанов
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/17012/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_2",VF Фильмы СССР
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/10085/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_2",BCU СССР HD
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/11026/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_2",StrahTV СССР
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/11061/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_2",PG USSR HD
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/11102/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",TOP USSR HD
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/13005/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",MM USSR Комедия HD
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/13019/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",MM USSR Сказки HD
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/13021/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",MM USSR Приключения HD
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/13060/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",MM USSR Детектив HD
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/13096/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",Dosug TV СССР HD
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/14218/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",Fresh Soviet
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/19301/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",KLI СССР HD
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/18175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",VB Назад в СССР HD
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/20175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",VeleS СССР
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/31643/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",Yosso TV Советские Фильмы
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/14175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",Yosso TV Советские Фильмы 4K
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/19435/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",Liberty Союз 4K
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/19307/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",BOX СССР 4K
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/31625/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",BOX Remast 4K
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/20158/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",BOX Remast+ 4K
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/31656/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",MM USSR Мультфильм HD
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/13020/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",Yosso TV Союзмульт
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/14178/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",VF Союзмультфильм
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/14238/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_2",VF Мультфильмы СССР
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/10086/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",Триколор Советские мультфильмы
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/18135/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_2",Триколор Смешарики
+http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/18136/index.m3u8
+
+
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" tvg-id="zal-01-tricolor"  group-title="Кино_3",Шерлок Холмс
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/18126/index.m3u8
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0913/ec/726f6943f89f8593e95337a2227168ec.jpg" tvg-id="zal-05-tricolor" group-title="Кино_3",17 мгновений весны
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/18130/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",VF Тайны следствия
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/13082/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_3",VF Владимир Высоцкий
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/10066/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",VF Леонид Гайдай
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/17004/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",VF Эльдар Рязанов
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/17012/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_3",VF Фильмы СССР
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/10085/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_3",BCU СССР HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11026/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_3",StrahTV СССР
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11061/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_3",PG USSR HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/11102/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",TOP USSR HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/13005/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",MM USSR Комедия HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/13019/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",MM USSR Сказки HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/13021/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",MM USSR Приключения HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/13060/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",MM USSR Детектив HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/13096/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",Dosug TV СССР HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/14218/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",Fresh Soviet
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/19301/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",KLI СССР HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/18175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",VB Назад в СССР HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/20175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",VeleS СССР
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/31643/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",Yosso TV Советские Фильмы
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/14175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",Yosso TV Советские Фильмы 4K
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/19435/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",Liberty Союз 4K
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/19307/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",BOX СССР 4K
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/31625/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",BOX Remast 4K
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/20158/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",BOX Remast+ 4K
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/31656/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",MM USSR Мультфильм HD
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/13020/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",Yosso TV Союзмульт
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/14178/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",VF Союзмультфильм
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/14238/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_3",VF Мультфильмы СССР
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/10086/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",Триколор Советские мультфильмы
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/18135/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_3",Триколор Смешарики
+http://hw5gqv1h.rostelekom.xyz/iptv/8GPV2DMY67RG9CFFTUPB6497/18136/index.m3u8
+
+
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" tvg-id="zal-01-tricolor"  group-title="Кино_4",Шерлок Холмс
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/18126/index.m3u8
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0913/ec/726f6943f89f8593e95337a2227168ec.jpg" tvg-id="zal-05-tricolor" group-title="Кино_4",17 мгновений весны
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/18130/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",VF Тайны следствия
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/13082/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_4",VF Владимир Высоцкий
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/10066/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",VF Леонид Гайдай
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/17004/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",VF Эльдар Рязанов
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/17012/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_4",VF Фильмы СССР
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/10085/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_4",BCU СССР HD
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/11026/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_4",StrahTV СССР
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/11061/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_4",PG USSR HD
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/11102/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",TOP USSR HD
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/13005/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",MM USSR Комедия HD
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/13019/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",MM USSR Сказки HD
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/13021/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",MM USSR Приключения HD
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/13060/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",MM USSR Детектив HD
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/13096/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",Dosug TV СССР HD
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/14218/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",Fresh Soviet
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/19301/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",KLI СССР HD
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/18175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",VB Назад в СССР HD
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/20175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",VeleS СССР
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/31643/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",Yosso TV Советские Фильмы
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/14175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",Yosso TV Советские Фильмы 4K
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/19435/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",Liberty Союз 4K
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/19307/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",BOX СССР 4K
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/31625/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",BOX Remast 4K
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/20158/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",BOX Remast+ 4K
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/31656/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",MM USSR Мультфильм HD
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/13020/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",Yosso TV Союзмульт
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/14178/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",VF Союзмультфильм
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/14238/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_4",VF Мультфильмы СССР
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/10086/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",Триколор Советские мультфильмы
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/18135/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_4",Триколор Смешарики
+http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/18136/index.m3u8
+
+
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" tvg-id="zal-01-tricolor"  group-title="Кино_5",Шерлок Холмс
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/18126/index.m3u8
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0913/ec/726f6943f89f8593e95337a2227168ec.jpg" tvg-id="zal-05-tricolor" group-title="Кино_5",17 мгновений весны
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/18130/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",VF Тайны следствия
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/13082/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_5",VF Владимир Высоцкий
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/10066/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",VF Леонид Гайдай
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/17004/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",VF Эльдар Рязанов
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/17012/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_5",VF Фильмы СССР
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/10085/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_5",BCU СССР HD
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/11026/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_5",StrahTV СССР
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/11061/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_5",PG USSR HD
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/11102/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",TOP USSR HD
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/13005/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",MM USSR Комедия HD
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/13019/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",MM USSR Сказки HD
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/13021/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",MM USSR Приключения HD
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/13060/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",MM USSR Детектив HD
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/13096/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",Dosug TV СССР HD
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/14218/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",Fresh Soviet
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/19301/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",KLI СССР HD
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/18175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",VB Назад в СССР HD
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/20175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",VeleS СССР
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/31643/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",Yosso TV Советские Фильмы
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/14175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",Yosso TV Советские Фильмы 4K
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/19435/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",Liberty Союз 4K
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/19307/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",BOX СССР 4K
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/31625/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",BOX Remast 4K
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/20158/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",BOX Remast+ 4K
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/31656/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",MM USSR Мультфильм HD
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/13020/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",Yosso TV Союзмульт
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/14178/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",VF Союзмультфильм
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/14238/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_5",VF Мультфильмы СССР
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/10086/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",Триколор Советские мультфильмы
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/18135/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_5",Триколор Смешарики
+http://78ovretb.rostelekom.xyz/iptv/4274R9L8ETX3VRQ5QV8LLUA4/18136/index.m3u8
+
+
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" tvg-id="zal-01-tricolor"  group-title="Кино_6",Шерлок Холмс
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/18126/index.m3u8
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0913/ec/726f6943f89f8593e95337a2227168ec.jpg" tvg-id="zal-05-tricolor" group-title="Кино_6",17 мгновений весны
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/18130/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",VF Тайны следствия
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/13082/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_6",VF Владимир Высоцкий
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/10066/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",VF Леонид Гайдай
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/17004/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",VF Эльдар Рязанов
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/17012/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_6",VF Фильмы СССР
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/10085/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_6",BCU СССР HD
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/11026/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_6",StrahTV СССР
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/11061/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_6",PG USSR HD
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/11102/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",TOP USSR HD
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/13005/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",MM USSR Комедия HD
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/13019/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",MM USSR Сказки HD
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/13021/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",MM USSR Приключения HD
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/13060/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",MM USSR Детектив HD
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/13096/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",Dosug TV СССР HD
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/14218/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",Fresh Soviet
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/19301/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",KLI СССР HD
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/18175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",VB Назад в СССР HD
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/20175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",VeleS СССР
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/31643/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",Yosso TV Советские Фильмы
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/14175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",Yosso TV Советские Фильмы 4K
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/19435/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",Liberty Союз 4K
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/19307/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",BOX СССР 4K
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/31625/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",BOX Remast 4K
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/20158/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",BOX Remast+ 4K
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/31656/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",MM USSR Мультфильм HD
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/13020/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",Yosso TV Союзмульт
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/14178/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",VF Союзмультфильм
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/14238/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_6",VF Мультфильмы СССР
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/10086/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",Триколор Советские мультфильмы
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/18135/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_6",Триколор Смешарики
+http://iwdpuuis.socminlt.com/iptv/M9MN473ULZPRPW/18136/index.m3u8
+
+
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" tvg-id="zal-01-tricolor"  group-title="Кино_7",Шерлок Холмс
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/18126/index.m3u8
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0913/ec/726f6943f89f8593e95337a2227168ec.jpg" tvg-id="zal-05-tricolor" group-title="Кино_7",17 мгновений весны
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/18130/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",VF Тайны следствия
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/13082/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_7",VF Владимир Высоцкий
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/10066/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",VF Леонид Гайдай
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/17004/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",VF Эльдар Рязанов
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/17012/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_7",VF Фильмы СССР
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/10085/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_7",BCU СССР HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/11026/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_7",StrahTV СССР
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/11061/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_7",PG USSR HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/11102/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",TOP USSR HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/13005/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",MM USSR Комедия HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/13019/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",MM USSR Сказки HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/13021/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",MM USSR Приключения HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/13060/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",MM USSR Детектив HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/13096/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",Dosug TV СССР HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/14218/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",Fresh Soviet
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/19301/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",KLI СССР HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/18175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",VB Назад в СССР HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/20175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",VeleS СССР
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/31643/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",Yosso TV Советские Фильмы
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/14175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",Yosso TV Советские Фильмы 4K
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/19435/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",Liberty Союз 4K
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/19307/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",BOX СССР 4K
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/31625/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",BOX Remast 4K
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/20158/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",BOX Remast+ 4K
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/31656/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",MM USSR Мультфильм HD
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/13020/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",Yosso TV Союзмульт
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/14178/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",VF Союзмультфильм
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/14238/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_7",VF Мультфильмы СССР
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/10086/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",Триколор Советские мультфильмы
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/18135/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_7",Триколор Смешарики
+http://cb22cdb9.rossteleccom.net/iptv/KFMEX9SBD2X7DL49YUPRT8WZ/18136/index.m3u8
+
+
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" tvg-id="zal-01-tricolor"  group-title="Кино_8",Шерлок Холмс
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/18126/index.m3u8
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0913/ec/726f6943f89f8593e95337a2227168ec.jpg" tvg-id="zal-05-tricolor" group-title="Кино_8",17 мгновений весны
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/18130/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",VF Тайны следствия
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/13082/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_8",VF Владимир Высоцкий
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/10066/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",VF Леонид Гайдай
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/17004/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",VF Эльдар Рязанов
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/17012/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_8",VF Фильмы СССР
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/10085/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_8",BCU СССР HD
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/11026/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_8",StrahTV СССР
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/11061/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_8",PG USSR HD
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/11102/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",TOP USSR HD
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/13005/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",MM USSR Комедия HD
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/13019/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",MM USSR Сказки HD
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/13021/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",MM USSR Приключения HD
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/13060/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",MM USSR Детектив HD
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/13096/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",Dosug TV СССР HD
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/14218/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",Fresh Soviet
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/19301/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",KLI СССР HD
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/18175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",VB Назад в СССР HD
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/20175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",VeleS СССР
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/31643/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",Yosso TV Советские Фильмы
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/14175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",Yosso TV Советские Фильмы 4K
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/19435/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",Liberty Союз 4K
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/19307/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",BOX СССР 4K
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/31625/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",BOX Remast 4K
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/20158/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",BOX Remast+ 4K
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/31656/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",MM USSR Мультфильм HD
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/13020/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",Yosso TV Союзмульт
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/14178/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",VF Союзмультфильм
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/14238/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_8",VF Мультфильмы СССР
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/10086/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",Триколор Советские мультфильмы
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/18135/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_8",Триколор Смешарики
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/18136/index.m3u8
+
+
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" tvg-id="zal-01-tricolor"  group-title="Кино_9",Шерлок Холмс
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/18126/index.m3u8
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0913/ec/726f6943f89f8593e95337a2227168ec.jpg" tvg-id="zal-05-tricolor" group-title="Кино_9",17 мгновений весны
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/18130/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",VF Тайны следствия
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/13082/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_9",VF Владимир Высоцкий
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/10066/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",VF Леонид Гайдай
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/17004/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",VF Эльдар Рязанов
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/17012/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_9",VF Фильмы СССР
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/10085/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_9",BCU СССР HD
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/11026/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_9",StrahTV СССР
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/11061/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_9",PG USSR HD
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/11102/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",TOP USSR HD
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/13005/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",MM USSR Комедия HD
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/13019/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",MM USSR Сказки HD
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/13021/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",MM USSR Приключения HD
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/13060/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",MM USSR Детектив HD
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/13096/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",Dosug TV СССР HD
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/14218/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",Fresh Soviet
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/19301/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",KLI СССР HD
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/18175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",VB Назад в СССР HD
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/20175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",VeleS СССР
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31643/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",Yosso TV Советские Фильмы
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/14175/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",Yosso TV Советские Фильмы 4K
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/19435/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",Liberty Союз 4K
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/19307/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",BOX СССР 4K
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31625/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",BOX Remast 4K
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/20158/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",BOX Remast+ 4K
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31656/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",MM USSR Мультфильм HD
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/13020/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",Yosso TV Союзмульт
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/14178/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",VF Союзмультфильм
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/14238/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_9",VF Мультфильмы СССР
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/10086/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",Триколор Советские мультфильмы
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/18135/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Кино_9",Триколор Смешарики
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/18136/index.m3u8
