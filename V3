@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" tvg-id="zal-01-tricolor" group-title="Кино_2",Триколор Шерлок Холмс и доктор Ватсон
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" tvg-id="zal-01-tricolor" group-title="Кино_2",Шерлок Холмc
 http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/18126/index.m3u8
-#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0913/ec/726f6943f89f8593e95337a2227168ec.jpg" tvg-id="zal-05-tricolor" group-title="Кино_2",Триколор Семнадцать мгновений весны
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0913/ec/726f6943f89f8593e95337a2227168ec.jpg" tvg-id="zal-05-tricolor" group-title="Кино_2",Семнадцать мгновений весны
 http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/18130/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",VF Тайны следствия
 http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/13082/index.m3u8
