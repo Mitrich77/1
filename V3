@@ -1,68 +1,68 @@
 #EXTM3U
-#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" tvg-id="zal-01-tricolor"  group-title="Кино_2",Шерлок Холмс
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/18126/index.m3u8
-#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0913/ec/726f6943f89f8593e95337a2227168ec.jpg" tvg-id="zal-05-tricolor" group-title="Кино_2",17 мгновений весны
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/18130/index.m3u8
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" tvg-id="zal-01-tricolor" group-title="Кино_2",Триколор Шерлок Холмс и доктор Ватсон
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/18126/index.m3u8
+#EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0913/ec/726f6943f89f8593e95337a2227168ec.jpg" tvg-id="zal-05-tricolor" group-title="Кино_2",Триколор Семнадцать мгновений весны
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/18130/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",VF Тайны следствия
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/13082/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/13082/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_2",VF Владимир Высоцкий
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/10066/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/10066/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",VF Леонид Гайдай
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/17004/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/17004/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",VF Эльдар Рязанов
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/17012/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/17012/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_2",VF Фильмы СССР
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/10085/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/10085/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_2",BCU СССР HD
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/11026/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/11026/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_2",StrahTV СССР
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/11061/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/11061/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_2",PG USSR HD
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/11102/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/11102/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",TOP USSR HD
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/13005/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/13005/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",MM USSR Комедия HD
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/13019/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/13019/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",MM USSR Сказки HD
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/13021/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/13021/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",MM USSR Приключения HD
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/13060/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/13060/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",MM USSR Детектив HD
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/13096/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/13096/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",Dosug TV СССР HD
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/14218/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/14218/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",Fresh Soviet
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/19301/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/19301/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",KLI СССР HD
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/18175/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/18175/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",VB Назад в СССР HD
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/20175/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/20175/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",VeleS СССР
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/31643/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/31643/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",Yosso TV Советские Фильмы
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/14175/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/14175/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",Yosso TV Советские Фильмы 4K
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/19435/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/19435/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",Liberty Союз 4K
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/19307/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/19307/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",BOX СССР 4K
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/31625/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/31625/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",BOX Remast 4K
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/20158/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/20158/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",BOX Remast+ 4K
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/31656/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/31656/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",MM USSR Мультфильм HD
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/13020/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/13020/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",Yosso TV Союзмульт
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/14178/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/14178/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",VF Союзмультфильм
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/14238/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/14238/index.m3u8
 #EXTINF:-1 tvg-rec="1" catchup_days="7" group-title="Кино_2",VF Мультфильмы СССР
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/10086/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/10086/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",Триколор Советские мультфильмы
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/18135/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/18135/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино_2",Триколор Смешарики
-http://6c08e363.ottrast.com/iptv/HVXP3TT3WRDDPQ/18136/index.m3u8
+http://oh7fbtpu.otttv.pw/iptv/2A62YCEKXAGKAX/18136/index.m3u8
 
 
 #EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" tvg-id="zal-01-tricolor"  group-title="Кино_3",Шерлок Холмс
