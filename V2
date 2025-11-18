@@ -109,14 +109,12 @@ http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+1)
 http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1_1.m3u8
 #EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="ЭфиР плюс",Россия 1 (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_ROSSIA1.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+3)
 http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1_3.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+4)
 http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1_4.m3u8
-#EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="ЭфиР плюс",Россия 1 (+5)
-https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",Россия 1 (+5)
+#EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+5)
 http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_ROSSIA1.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+6)
 http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA1_6.m3u8
