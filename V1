@@ -419,3 +419,139 @@ http://77.235.1.19:8000/play/a05e/index.m3u8
 http://77.235.1.19:8000/play/a05d/index.m3u8
 #EXTINF:-1 group-title="Кино",viju+ Premiere HD
 http://77.235.1.19:8000/play/a05c/index.m3u8
+
+
+#EXTINF:-1 group-title="ИРКУТСК",Первый канал +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_1TV.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Россия 1 +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_ROSSIA1.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Матч! +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_MATCHTV.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",НТВ +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_NTV.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Пятый канал +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_5TV.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Россия K +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_ROSSIAK.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Россия 24 +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_ROSSIA24.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Карусель +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",ОТР +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_OTR.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",ТВЦ +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_TVC.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",РЕН ТВ +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_RENTV.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",СТС +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_STS.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Домашний +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",ТВ3 +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_TV3.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Пятница! +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Звезда +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",МИР +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_MIR.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",ТНТ +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_TNT.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",МУЗ ТВ +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_MUZTV.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",АИСТ HD +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_AISTHD.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",АКТИС HD720 +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_AKTISHD720.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",НТС HD +5 (Иркутск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_NTSHD.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",БСТ-24 HD (Братск)
+http://a0925677.xsph.ru/hls/zabava/region/IRK/CH_BST24HD_BR.m3u8
+
+
+#EXTINF:-1 group-title="ИРКУТСКАЯ ОБЛАСТЬ",Первый канал +5 (Иркутская область)
+http://a0925677.xsph.ru/hls/zabava/region/IRK_OBL/CH_1TV.m3u8
+#EXTINF:-1 group-title="ИРКУТСКАЯ ОБЛАСТЬ",Россия 1 +5 (Иркутская область)
+http://a0925677.xsph.ru/hls/zabava/region/IRK_OBL/CH_RUSSIA1.m3u8
+#EXTINF:-1 group-title="ИРКУТСКАЯ ОБЛАСТЬ",Матч! +5 (Иркутская область)
+http://a0925677.xsph.ru/hls/zabava/region/IRK_OBL/CH_MATCHTV.m3u8
+#EXTINF:-1 group-title="ИРКУТСКАЯ ОБЛАСТЬ",НТВ +5 (Иркутская область)
+http://a0925677.xsph.ru/hls/zabava/region/IRK_OBL/CH_NTV.m3u8
+#EXTINF:-1 group-title="ИРКУТСКАЯ ОБЛАСТЬ",Пятый канал +5 (Иркутская область)
+http://a0925677.xsph.ru/hls/zabava/region/IRK_OBL/CH_5TV.m3u8
+#EXTINF:-1 group-title="ИРКУТСКАЯ ОБЛАСТЬ",Карусель +5 (Иркутская область)
+http://a0925677.xsph.ru/hls/zabava/region/IRK_OBL/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="ИРКУТСКАЯ ОБЛАСТЬ",ОТР +5 (Иркутская область)
+http://a0925677.xsph.ru/hls/zabava/region/IRK_OBL/CH_OTR.m3u8
+#EXTINF:-1 group-title="ИРКУТСКАЯ ОБЛАСТЬ",Россия К +5 (Иркутская область)
+http://a0925677.xsph.ru/hls/zabava/region/IRK_OBL/CH_RUSSIAK.m3u8
+#EXTINF:-1 group-title="ИРКУТСКАЯ ОБЛАСТЬ",Россия 24 +5 (Иркутская область)
+http://a0925677.xsph.ru/hls/zabava/region/IRK_OBL/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="ИРКУТСКАЯ ОБЛАСТЬ",ТВЦ +5 (Иркутская область)
+http://a0925677.xsph.ru/hls/zabava/region/IRK_OBL/CH_TVC.m3u8
+#EXTINF:-1 group-title="ИРКУТСКАЯ ОБЛАСТЬ",РЕН ТВ +5 (Иркутская область)
+http://a0925677.xsph.ru/hls/zabava/region/IRK_OBL/CH_RENTV.m3u8
+#EXTINF:-1 group-title="ИРКУТСКАЯ ОБЛАСТЬ",СПАС +5 (Иркутская область)
+http://a0925677.xsph.ru/hls/zabava/region/IRK_OBL/CH_SPAS.m3u8
+#EXTINF:-1 group-title="ИРКУТСКАЯ ОБЛАСТЬ",СТС +5 (Иркутская область)
+http://a0925677.xsph.ru/hls/zabava/region/IRK_OBL/CH_STS.m3u8
+#EXTINF:-1 group-title="ИРКУТСКАЯ ОБЛАСТЬ",Пятница! +5 (Иркутская область)
+http://a0925677.xsph.ru/hls/zabava/region/IRK_OBL/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="ИРКУТСКАЯ ОБЛАСТЬ",Звезда +5 (Иркутская область)
+http://a0925677.xsph.ru/hls/zabava/region/IRK_OBL/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="ИРКУТСКАЯ ОБЛАСТЬ",МИР +5 (Иркутская область)
+http://a0925677.xsph.ru/hls/zabava/region/IRK_OBL/CH_MIR.m3u8
+#EXTINF:-1 group-title="ИРКУТСКАЯ ОБЛАСТЬ",ТНТ +5 (Иркутская область)
+http://a0925677.xsph.ru/hls/zabava/region/IRK_OBL/CH_TNT.m3u8
+#EXTINF:-1 group-title="ИРКУТСКАЯ ОБЛАСТЬ",МУЗ ТВ +5 (Иркутская область)
+http://a0925677.xsph.ru/hls/zabava/region/IRK_OBL/CH_MUZTV.m3u8
+
+
+#EXTINF:-1 group-title="БУРЯТИЯ",Первый канал +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_1TV.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",Россия 1 +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_ROSSIA1.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",Матч! +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_MATCHTV.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",НТВ +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_NTV.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",Пятый канал +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_5TV.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",Россия K +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_ROSSIAK.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",Россия 24 +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_ROSSIA24.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",Карусель +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",ОТР +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_OTR.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",ТВЦ +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_TVC.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",РЕН ТВ +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_RENTV.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",СПАС +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_SPAS.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",СТС +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_STS.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",Домашний +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",ТВ3 +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_TV3.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",Пятница! +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",Звезда +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",МИР +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_MIR.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",ТНТ +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_TNT.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",МУЗ ТВ +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_MUZTV.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",Че! +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_CHE.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",Ю +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_U.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",Disney Channel +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_DISNEY.m3u8
+#EXTINF:-1 group-title="БУРЯТИЯ",ТНТ4 +5 (Бурятия)
+http://a0925677.xsph.ru/hls/zabava/region/BURAT/CH_TNT4_4.m3u8
