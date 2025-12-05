@@ -45,7 +45,7 @@ https://stream-msk-13.ott.tricolor.tv/dtv/id254_MSKSG-PVR-1--Moskva24/04/plst.m3
 #EXTINF:-1 group-title="Эфирные" tvg-id="no_epg_radio" tvg-logo="https://radiopotok.ru/f/station/512/962.png", Радио Спутник (Веб-камера)
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 
-#EXTINF:-1 group-title="UshbaTV" tvg-id="no_epg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0fYMfZzNWBmtndr8f9a9U9fQW6tKK7pBLhg&s", ЛЕКТОРИЙ ДОСТОЕВСКИЙ
+#EXTINF:-1 group-title="UshbaTV" tvg-id="no_epg" tvg-logo="https://i126.fastpic.org/big/2025/1205/45/3e593d72e0474a300a06adf1bde4cc45.png", ЛЕКТОРИЙ ДОСТОЕВСКИЙ
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Развлекательные", Плюс Минус 16
