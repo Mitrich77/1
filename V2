@@ -23,9 +23,9 @@ http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_ROSSIA24.m3u8
 
 #EXTINF:-1 group-title="Новости" ,ИЗВЕСТИЯ
 http://91.194.191.241:8081/chid277/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/29/57d75294d1cc649835e15a0649b78829.png" group-title="Новости",НОВОРОССИЯ ТВ
+http://185.229.235.30:8005/udp/225.15.3.149:2345
 
-#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/88/0870b794469eecc572d6e81997a14488.png" group-title="Новости",Соловьев Live
-http://178.212.71.253:8000/play/111/index.m3u8
 #EXTINF:-1 group-title="Новости",МИР 24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://a0925677.xsph.ru/hls/CH_MIR24.m3u8
@@ -249,8 +249,10 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
 
 
-#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/29/57d75294d1cc649835e15a0649b78829.png" group-title="Новости",НОВОРОССИЯ ТВ
-http://185.229.235.30:8005/udp/225.15.3.149:2345
+
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/88/0870b794469eecc572d6e81997a14488.png" group-title="Новости",Соловьев Live
+http://178.212.71.253:8000/play/111/index.m3u8
+
 #EXTINF:-1 group-title="Новости",Россия 24
 http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
 #EXTINF:-1 group-title="Новости",ИЗВЕСТИЯ HD
