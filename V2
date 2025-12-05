@@ -298,3 +298,9 @@ http://195.26.83.96:7029/play/a003
 
 #EXTINF:-1 group-title="ViP",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Эфирные" tvg-id="ЗВЕЗДА ПЛЮС", Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="Эфирные" tvg-id="zvezda-plus", Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
