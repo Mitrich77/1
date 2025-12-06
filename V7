@@ -20,10 +20,6 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTVLCOPT:http-user-agent=KitTV
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
 
-#EXTINF:-1 group-title="Эфирные" tvg-id="ldpr-tv" tvg-logo="https://data.cyclowiki.org/images/4/4d/Ldpr-tv.png", ЛДПР ТВ HD
-#EXTVLCOPT:http-user-agent=KitTV
-http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Эфирные" tvg-id="solovjinypomiot", СОЛОВЬЁВLIVE
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 
@@ -39,25 +35,31 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="Мир 24", Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
-#EXTINF:-1 group-title="Эфирные", Москва 24
-https://stream-msk-13.ott.tricolor.tv/dtv/id254_MSKSG-PVR-1--Moskva24/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2Mjg3NjA2OSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzYyMjcxMjY5LCJzZXNzaW9uX2lkIjoiOGNmNjViYTU0MmY2ODAxOTBlNDY0NjU0NzFjZTZiNGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.zodY-xXsZJPaGdr2JTg_gFsph3V__itABpp2r12wRfk
-
-#EXTINF:-1 group-title="Эфирные" tvg-id="no_epg_radio" tvg-logo="https://radiopotok.ru/f/station/512/962.png", Радио Спутник (Веб-камера)
-https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
-
 #EXTINF:-1 group-title="UshbaTV" tvg-id="no_epg" tvg-logo="https://i126.fastpic.org/big/2025/1205/45/3e593d72e0474a300a06adf1bde4cc45.png", ЛЕКТОРИЙ ДОСТОЕВСКИЙ
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Развлекательные", Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] Вести FM HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173.m3u8
+
+#EXTINF:-1 group-title="Эфирные" tvg-id="no_epg_radio" tvg-logo="https://radiopotok.ru/f/station/512/962.png", Радио Спутник (Веб-камера)
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+
+#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] Радио России HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/39ebf09f-bf74-4040-83e6-94b770ba77c4.m3u8
+
 #EXTINF:-1 group-title="Эфирные" tvg-id="prnk-tv", Первый Российский Национальный канал
 #EXTVLCOPT:http-user-agent=KitTV
 http://serv25.vintera.tv:8081/1pnk/prnk/playlist.m3u8
 
+#EXTINF:-1 group-title="Эфирные" tvg-id="ldpr-tv" tvg-logo="https://data.cyclowiki.org/images/4/4d/Ldpr-tv.png", ЛДПР ТВ HD
+#EXTVLCOPT:http-user-agent=KitTV
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Развлекательные" tvg-id="nostalgia" tvg-logo="http://epg.it999.ru/img/783.png", Ностальгия
 http://178.212.71.253:8000/play/131/index.m3u8
-
 
 #EXTINF:-1 group-title="Познавательные", Кто есть кто
 http://178.212.71.253:8000/play/132/index.m3u8
