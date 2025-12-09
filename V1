@@ -202,12 +202,12 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/Россия 1 +9.png" group-title="ЭфиР плюс",Россия 1 +9
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
-#EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/Россия 1 +5.png" group-title="ЭфиР плюс",Россия 1 +5
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+
 #EXTINF:-1  tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/29/57d75294d1cc649835e15a0649b78829.png" group-title="Новости",НОВОРОССИЯ ТВ
 http://185.229.235.30:8005/udp/225.15.3.149:2345
-#EXTINF:-1  group-title="Новости",Россия 24
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
+#EXTINF:-1  tvg-id="rossia-24" tvg-logo="https://i125.fastpic.org/big/2025/0816/97/2430143485b6473f00c800049faf5597.png" group-title="Новости",Россия 24 HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
+
 #EXTINF:-1  group-title="Новости",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1  tvg-id="no_epg" tvg-logo="https://i.ibb.co/gWqw4N5/45571caf9d64821ea16f7883ac62a930.png" group-title="Новости",Известия Воронеж
@@ -230,6 +230,10 @@ http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA24_2.m3u8
 http://91.194.191.241:8081/chid277/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Новости",Соловьёв Live SD
 http://195.26.83.96:7029/play/a003
+#EXTINF:-1  group-title="Новости",Россия 24
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
+#EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/Россия 1 +5.png" group-title="ЭфиР плюс",Россия 1 +5
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
 #EXTINF:-1  group-title="Музыкальные",Bridge TV Этно
 http://tvip.btk.teleos.ru:8081/chid520/index.m3u8
 #EXTINF:-1  group-title="Новости",Первый информационный (Беларусь)
