@@ -67,40 +67,41 @@ http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="hlsproxy-55462" tvg-name="bcu ссср hd" tvg-logo="https://iptvcinema.ru/channels/253.png" group-title="Cinema Media",BCU СССР HD
+#EXTINF:-1 tvg-id="hlsproxy-55462" tvg-name="bcu ссср hd" tvg-logo="https://iptvcinema.ru/channels/253.png" group-title="KiNo",BCU СССР HD
 http://cinema.frii.site/channel/n2f793374/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="шерлок холмс и доктор ватсон" tvg-logo="https://iptvcinema.ru/channels/sherlokholms.png" group-title="Cinema Media",Шерлок Холмс и доктор Ватсон
+#EXTINF:-1 tvg-name="шерлок холмс и доктор ватсон" tvg-logo="https://iptvcinema.ru/channels/sherlokholms.png" group-title="KiNo",Шерлок Холмс и доктор Ватсон
 http://cinema.frii.site/channel/1c738e10/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="ussr hd" tvg-logo="https://iptvcinema.ru/channels/pgussr.png" group-title="Cinema Media",USSR HD
-http://cinema.frii.site/channel/n6cba7c06/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="fresh soviet" tvg-logo="https://iptvcinema.ru/channels/frsoviet.png" group-title="Cinema Media",Fresh Soviet
+#EXTINF:-1 tvg-name="fresh soviet" tvg-logo="https://iptvcinema.ru/channels/frsoviet.png" group-title="KiNo",Fresh Soviet
 http://cinema.frii.site/channel/n2923662b/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="kli ussr hd" tvg-logo="https://iptvcinema.ru/channels/kliussr.png" group-title="Cinema Media",KLI USSR HD
+#EXTINF:-1 tvg-name="kli ussr hd" tvg-logo="https://iptvcinema.ru/channels/kliussr.png" group-title="KiNo",KLI USSR HD
 http://cinema.frii.site/channel/205f8562/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="veles ссср" tvg-logo="https://iptvcinema.ru/channels/velesussr.png" group-title="Cinema Media",VeleS СССР
+#EXTINF:-1 tvg-name="veles ссср" tvg-logo="https://iptvcinema.ru/channels/velesussr.png" group-title="KiNo",VeleS СССР
 http://cinema.frii.site/channel/nf94a4e7/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-100581" tvg-name="yosso tv советские фильмы" tvg-logo="https://iptvcinema.ru/channels/yussr.png" group-title="Cinema Media",YOSSO TV Советские фильмы
+#EXTINF:-1 tvg-id="hlsproxy-100581" tvg-name="yosso tv советские фильмы" tvg-logo="https://iptvcinema.ru/channels/yussr.png" group-title="KiNo",YOSSO TV Советские фильмы
 http://cinema.frii.site/channel/n348d5b72/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="yosso tv советские фильмы 4k" tvg-logo="https://iptvcinema.ru/channels/yussr4k.png" group-title="Cinema Media",YOSSO TV Советские фильмы 4K
+#EXTINF:-1 tvg-name="yosso tv советские фильмы 4k" tvg-logo="https://iptvcinema.ru/channels/yussr4k.png" group-title="KiNo",YOSSO TV Советские фильмы 4K
 http://cinema.frii.site/channel/721be769/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-100624" tvg-name="kbc страна ссср" tvg-logo="https://iptvcinema.ru/channels/kbcstranaussr.png" group-title="Cinema Media",KBC Страна СССР
+#EXTINF:-1 tvg-id="hlsproxy-100624" tvg-name="kbc страна ссср" tvg-logo="https://iptvcinema.ru/channels/kbcstranaussr.png" group-title="KiNo",KBC Страна СССР
 http://cinema.frii.site/channel/12d111c2/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="семнадцать мгновений весны" tvg-logo="https://iptvcinema.ru/channels/semnadtcatmgnoveni.png" group-title="Cinema Media",Семнадцать мгновений весны
-http://cinema.frii.site/channel/3da8cea1/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-55461" tvg-name="bcu vhs hd" tvg-logo="https://iptvcinema.ru/channels/245.png" group-title="Cinema Media",BCU VHS HD
+#EXTINF:-1 tvg-id="hlsproxy-55461" tvg-name="bcu vhs hd" tvg-logo="https://iptvcinema.ru/channels/245.png" group-title="KiNo",BCU VHS HD
 http://cinema.frii.site/channel/n68294854/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="vhs hd" tvg-logo="https://iptvcinema.ru/channels/pgvhs.png" group-title="Cinema Media",VHS HD
-http://cinema.frii.site/channel/5d94cc0/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="magic vhs" tvg-logo="https://iptvcinema.ru/channels/mgvhs.png" group-title="Cinema Media",Magic VHS
+#EXTINF:-1 tvg-name="magic vhs" tvg-logo="https://iptvcinema.ru/channels/mgvhs.png" group-title="KiNo",Magic VHS
 http://cinema.frii.site/channel/30fbc589/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="fresh vhs" tvg-logo="https://iptvcinema.ru/channels/frvhs.png" group-title="Cinema Media",Fresh VHS
+#EXTINF:-1 tvg-name="fresh vhs" tvg-logo="https://iptvcinema.ru/channels/frvhs.png" group-title="KiNo",Fresh VHS
 http://cinema.frii.site/channel/n4f64d376/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-100573" tvg-name="yosso tv vhs" tvg-logo="https://iptvcinema.ru/channels/yvhs.png" group-title="Cinema Media",YOSSO TV VHS
+#EXTINF:-1 tvg-id="hlsproxy-100573" tvg-name="yosso tv vhs" tvg-logo="https://iptvcinema.ru/channels/yvhs.png" group-title="KiNo",YOSSO TV VHS
 http://cinema.frii.site/channel/333f638f/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-100623" tvg-name="kbc видак hd" tvg-logo="https://iptvcinema.ru/channels/kbcvidak.png" group-title="Cinema Media",KBC Видак HD
+#EXTINF:-1 tvg-id="hlsproxy-100623" tvg-name="kbc видак hd" tvg-logo="https://iptvcinema.ru/channels/kbcvidak.png" group-title="KiNo",KBC Видак HD
 http://cinema.frii.site/channel/n6ed51bc3/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-55457" tvg-name="bcu fantastic hd" tvg-logo="https://iptvcinema.ru/channels/239.png" group-title="Cinema Media",BCU Fantastic HD
+#EXTINF:-1 tvg-id="hlsproxy-55457" tvg-name="bcu fantastic hd" tvg-logo="https://iptvcinema.ru/channels/239.png" group-title="KiNo",BCU Fantastic HD
 http://cinema.frii.site/channel/1ef950b2/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
+#EXTINF:-1 tvg-name="минимакс-фантастика hd" tvg-logo="https://iptvcinema.ru/channels/mmfantastic.png" group-title="KiNo",Минимакс-Фантастика HD
+http://cinema.frii.site/channel/154c5b78/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
+#EXTINF:-1 tvg-name="fresh fantastic" tvg-logo="https://iptvcinema.ru/channels/frfantastic.png" group-title="KiNo",Fresh Fantastic
+http://cinema.frii.site/channel/n18dc1a3c/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
+#EXTINF:-1 tvg-id="hlsproxy-100611" tvg-name="kbc fantastic" tvg-logo="https://iptvcinema.ru/channels/kbcfantastic.png" group-title="KiNo",KBC Fantastic
+http://cinema.frii.site/channel/n7375b43e/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
+
 
 
 #EXTINF:-1  group-title="ЭфиР плюс",Россия 1 (-1)
