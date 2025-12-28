@@ -1,25 +1,25 @@
 #EXTM3U
 #EXTINF:-1 group-title="ViP",Первый канал (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_2.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_2.m3u8
 #EXTINF:-1 group-title="ViP",Россия 1 (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_2.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1_2.m3u8
 #EXTINF:-1 group-title="ViP",СТС (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_2.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_STS_2.m3u8
 #EXTINF:-1 group-title="ViP",НТВ (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_2.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV_2.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="ViP",Матч!
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ViP",Россия К (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_2.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIAK_2.m3u8
 #EXTINF:-1 tvg-logo="https://i125.fastpic.org/big/2025/0818/07/d8fe042a0019fedfbeeb4b318f590707.png" group-title="Новости",Россия 24 (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_ROSSIA24.m3u8
+http://dmi3y-tv6.ru/hls/zabava/region/UFA/CH_ROSSIA24.m3u8
 
 #EXTINF:-1 group-title="Новости" ,ИЗВЕСТИЯ
 http://91.194.191.241:8081/chid277/tracks-v1a1/mono.m3u8
@@ -28,31 +28,31 @@ http://185.229.235.30:8005/udp/225.15.3.149:2345
 
 #EXTINF:-1 group-title="Новости",МИР 24
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/CH_MIR24.m3u8
+http://dmi3y-tv6.ru/hls/CH_MIR24.m3u8
 #EXTINF:-1 group-title="ViP",ОТР (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_OTR.m3u8
+http://dmi3y-tv6.ru/hls/zabava/region/UFA/CH_OTR.m3u8
 #EXTINF:-1 group-title="ViP",РЕН ТВ (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_2.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RENTV_2.m3u8
 #EXTINF:-1 group-title="ViP",Пятый канал (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_2.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_5TV_2.m3u8
 #EXTINF:-1 group-title="ViP",ТВЦ (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_2.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TVC_2.m3u8
 #EXTINF:-1 group-title="ViP",СПАС (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_2.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_SPAS_2.m3u8
 #EXTINF:-1 group-title="ViP",МИР (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_2.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MIR_2.m3u8
 #EXTINF:-1 group-title="ViP",Звезда (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_2.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_ZVEZDA_2.m3u8
 #EXTINF:-1 group-title="ViP",Звезда HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/T2/CH_ZVEZDAHD.m3u8
+http://dmi3y-tv6.ru/hls/T2/CH_ZVEZDAHD.m3u8
 
 #EXTINF:-1 group-title="ViP",ЗВЕЗДА ПЛЮС HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -66,25 +66,25 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
 http://195.26.83.96:7029/play/a003
 #EXTINF:-1 group-title="ЭфиР плюс",Первый канал
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="ЭфиР плюс",Россия 1
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1.m3u8
+http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 group-title="ViP",СТС
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_STS.m3u8
 #EXTINF:-1 group-title="ViP",НТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV.m3u8
 #EXTINF:-1 group-title="ViP",РЕН ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RENTV.m3u8
 #EXTINF:-1 group-title="ViP",ТНТ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT.m3u8
 #EXTINF:-1 group-title="ViP",ТНТ (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_2.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT_2.m3u8
 
 
 
@@ -133,89 +133,89 @@ http://cinema.frii.site/channel/n7375b43e/index.m3u8?q=ffb2981d7306ec818de79aaa6
 
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (-1)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1-1.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1-1.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+1)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_1.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1_1.m3u8
 #EXTINF:-1 tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="ЭфиР плюс",Россия 1 (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_ROSSIA1.m3u8
+http://dmi3y-tv6.ru/hls/zabava/region/UFA/CH_ROSSIA1.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+3)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_3.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1_3.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+4)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_4.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1_4.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+5)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/zabava/region/IRK/CH_ROSSIA1.m3u8
+http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_ROSSIA1.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+6)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_6.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1_6.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_7.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1_7.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+8)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_8.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1_8.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+9)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_9.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1_9.m3u8
 
 #EXTINF:-1 group-title="ЭфиР плюс",Первый канал (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV-1.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV-1.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал FHD.png" group-title="ViP",Первый канал FHD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="ЭфиР плюс",Первый канал (+1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_1.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_1.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Первый канал (+3)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_3.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_3.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Первый канал (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_4.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_4.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Первый канал (+5)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_5.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_5.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Первый канал (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_6.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_6.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Первый канал (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_7.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_7.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Первый канал (+8)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_8.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_8.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Первый канал (+9)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_9.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_9.m3u8
 
 #EXTINF:-1 group-title="ЭфиР плюс",НТВ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV-1.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV-1.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",НТВ HD
-http://dmitry-tv.ddns.net/hls/T2/CH_NTVHD.m3u8
+http://dmi3y-tv6.ru/hls/T2/CH_NTVHD.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",НТВ (+1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_1.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV_1.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",НТВ +2
 https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",НТВ (+3)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_3.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV_3.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",НТВ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_4.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV_4.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",НТВ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_6.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV_6.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",НТВ (+5)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_5.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV_5.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",НТВ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_7.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV_7.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",СПАС
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_SPAS.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Пятый канал
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_5TV.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",РЕН ТВ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_7.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RENTV_7.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",СТС (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_7.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_STS_7.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия К (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_7.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIAK_7.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",ТВЦ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TVC.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="Relax",Cozy Vibes
 https://d2esizdt2xkmhp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qw5vkd4gzoaia/SONO60.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="Relax",Fireplace
@@ -235,19 +235,19 @@ https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="Sochi Live" tvg-logo="http://i115.fastpic.org/big/2021/0925/60/9fb81f851b8d68ef84ff900adf597f60.png" group-title="Relax",SOCHI LIVE HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Звезда
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
 #EXTINF:-1 group-title="ViP",Звезда (+2)
-http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_ZVEZDA.m3u8
+http://dmi3y-tv6.ru/hls/zabava/region/UFA/CH_ZVEZDA.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Звезда (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_4.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_ZVEZDA_4.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Звезда (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_6.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_ZVEZDA_6.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Звезда (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_7.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_ZVEZDA_7.m3u8
 #EXTINF:-1 tvg-id="4661" tvg-rec="1" catchup_days="1" group-title="ЭфиР плюс",Звезда Плюс
 http://rhsbjv7k.tvclub.xyz/iptv/9TGVS9U4CWHZSX/10059/index.m3u8
 #EXTINF:-1 group-title="ViP",Россия 1 HD
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +1.png" group-title="ЭфиР плюс",Россия 1 +1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 1 +2.png" group-title="ЭфиР плюс",Россия 1 +2
@@ -275,21 +275,21 @@ http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
 http://178.212.71.253:8000/play/111/index.m3u8
 
 #EXTINF:-1 group-title="Новости",Россия 24
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
 #EXTINF:-1 group-title="Новости",ИЗВЕСТИЯ HD
-http://dmitry-tv.ddns.net/hls/CH_IZVESTIYAHD.m3u8
+http://dmi3y-tv6.ru/hls/CH_IZVESTIYAHD.m3u8
 #EXTINF:-1 tvg-logo="https://i125.fastpic.org/big/2025/0818/07/d8fe042a0019fedfbeeb4b318f590707.png" group-title="Новости",Россия 24 (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24_2.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA24_2.m3u8
 #EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/TASS_Logo_(Cyrillic)_2017.svg/1200px-TASS_Logo_(Cyrillic)_2017.svg.png" group-title="Новости",ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NEWS FRONT TV" tvg-logo="https://i125.fastpic.org/big/2025/0816/2e/4866f9ea89f91ece86b127c126af042e.png" group-title="Новости",News Front TV
 https://tv.2kita.com/stream/index.m3u8
 #EXTINF:-1 group-title="Новости",МИР 24 HD
-http://dmitry-tv.ddns.net/hls/CH_MIR24HD.m3u8
+http://dmi3y-tv6.ru/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 group-title="Новости",РБК
-http://dmitry-tv.ddns.net/hls/CH_RBK.m3u8
+http://dmi3y-tv6.ru/hls/CH_RBK.m3u8
 #EXTINF:-1 group-title="Новости",РБК HD
-http://dmitry-tv.ddns.net/hls/CH_RBKHD.m3u8
+http://dmi3y-tv6.ru/hls/CH_RBKHD.m3u8
 #EXTINF:-1 group-title="Новости",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i125.fastpic.org/big/2025/0816/97/2430143485b6473f00c800049faf5597.png" group-title="Новости",Россия•24 HD
@@ -297,13 +297,13 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/88/0870b794469eecc572d6e81997a14488.png" group-title="Новости",Соловьев Live
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 group-title="Новости",Первый информационный (Беларусь)
-http://dmitry-tv.ddns.net/hls/blrus/CH_1INFORMATSYONNY.m3u8
+http://dmi3y-tv6.ru/hls/blrus/CH_1INFORMATSYONNY.m3u8
 #EXTINF:-1 group-title="Новости",Первый информационный HD (Беларусь)
-http://dmitry-tv.ddns.net/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
+http://dmi3y-tv6.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
 #EXTINF:-1 group-title="Новости",ОНТ HD (Беларусь)
-http://dmitry-tv.ddns.net/hls/blrus/CH_OHTHD.m3u8
+http://dmi3y-tv6.ru/hls/blrus/CH_OHTHD.m3u8
 #EXTINF:-1 group-title="Новости",БелРос (Беларусь)
-http://dmitry-tv.ddns.net/hls/blrus/CH_BELROS.m3u8
+http://dmi3y-tv6.ru/hls/blrus/CH_BELROS.m3u8
 #EXTINF:-1 tvg-id="ZvezdaPlus.ru" group-title="Новости",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" group-title="Новости",Звезда Плюс HD
@@ -313,7 +313,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-etno" group-title="Музыкальные",Bridge TV Этно
 http://192.141.167.40/BRIDGE_ETHNO/index.m3u8
 #EXTINF:-1 group-title="Новости" ,ИЗВЕСТИЯ
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_SLIN/CH_IZVESTIYA.m3u8
+http://dmi3y-tv6.ru/hls/zabava/region/DV_SLIN/CH_IZVESTIYA.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge TV Этно
 http://tvip.btk.teleos.ru:8081/chid520/index.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Новости",Соловьёв LIVE HD
