@@ -330,24 +330,24 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 
 
 
-#EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://iptvx.one/picons/vhs-ka.png" group-title="ViP",VHS-ка HD
-http://95.66.188.74/VHS/index.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="смотрим 100% классика" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/727/741/8.png" group-title="ViP",Смотрим 100% Классика HD
-https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="сов.ком" tvg-logo="https://i.ibb.co/d4zvrXp/image-1.png" group-title="ViP",Сов.Ком
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.imgur.com/ygId8ZV.png" group-title="ViP",Alpha Cinema HD
-http://195.9.195.3:8080/hls/205072.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-1filmax.jpg" group-title="ViP",1FILMAX Фантастика
-http://hls.goodgame.ru:8080/hls/204708.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-2filmax_0.jpg" group-title="ViP",2FILMAX Комедия
-http://hls.goodgame.ru:8080/hls/204717.m3u8
+#EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://iptvx.one/picons/vhs-ka.png" group-title="ViP",VHS-ка HD
+http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://epg.one/img/6005.png" group-title="ViP",Видеокассета HD
 http://195.9.195.3:8080/hls/176975.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://static.goodgame.ru/files/avatars/av_1643167_Q5gP.jpg" group-title="ViP",VHS кино HD
 http://195.9.195.3:8080/hls/218531.m3u8
 #EXTINF:-1 tvg-name="vhs кино" tvg-logo="https://i.ibb.co/BVhTP11W/image-14.png" group-title="ViP",VHS кино HD
 http://hls.goodgame.ru:8080/hls/218531.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="смотрим 100% классика" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/727/741/8.png" group-title="ViP",Смотрим 100% Классика HD
+https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.imgur.com/ygId8ZV.png" group-title="ViP",Alpha Cinema HD
+http://195.9.195.3:8080/hls/205072.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-1filmax.jpg" group-title="ViP",1FILMAX Фантастика
+http://hls.goodgame.ru:8080/hls/204708.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-2filmax_0.jpg" group-title="ViP",2FILMAX Комедия
+http://hls.goodgame.ru:8080/hls/204717.m3u8
 #EXTINF:-1 tvg-id="ruskorabl" group-title="ViP",Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="ViP",Лекторий Достоевский
