@@ -126,6 +126,9 @@ http://195.9.195.3:8080/hls/218531.m3u8
 http://hls.goodgame.ru:8080/hls/218531.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="ViP",Лекторий Достоевский
 http://tinyurl.com/TvZaTak20/ushba3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ViP",МИР 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmitry-tv.ddns.net/hls/CH_MIR24.m3u8
 
 
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (-1)
@@ -318,9 +321,7 @@ http://195.26.83.96:7029/play/a003
 #EXTINF:-1 group-title="ViP",ЗВЕЗДА ПЛЮС HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://185.78.112.17/zvezda_plus_hd/index.m3u8
-#EXTINF:-1 group-title="ViP",МИР 24
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://dmitry-tv.ddns.net/hls/CH_MIR24.m3u8
+
 
 #EXTINF:-1 group-title="ViP",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
@@ -331,49 +332,3 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Эфирные" tvg-id="zvezda-plus", Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 
-
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="сов.ком" tvg-logo="https://i.ibb.co/d4zvrXp/image-1.png" group-title="ViP",Сов.Ком
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://iptvx.one/picons/vhs-ka.png" group-title="ViP",VHS-ка HD
-http://95.66.188.74/VHS/index.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://epg.one/img/6005.png" group-title="ViP",Видеокассета HD
-http://195.9.195.3:8080/hls/176975.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://static.goodgame.ru/files/avatars/av_1643167_Q5gP.jpg" group-title="ViP",VHS кино HD
-http://195.9.195.3:8080/hls/218531.m3u8
-#EXTINF:-1 tvg-name="vhs кино" tvg-logo="https://i.ibb.co/BVhTP11W/image-14.png" group-title="ViP",VHS кино HD
-http://hls.goodgame.ru:8080/hls/218531.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="смотрим 100% классика" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/727/741/8.png" group-title="ViP",Смотрим 100% Классика HD
-https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.imgur.com/ygId8ZV.png" group-title="ViP",Alpha Cinema HD
-http://195.9.195.3:8080/hls/205072.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-1filmax.jpg" group-title="ViP",1FILMAX Фантастика
-http://hls.goodgame.ru:8080/hls/204708.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-2filmax_0.jpg" group-title="ViP",2FILMAX Комедия
-http://hls.goodgame.ru:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-id="ruskorabl" group-title="ViP",Плюс Минус 16
-http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="ViP",Лекторий Достоевский
-http://tinyurl.com/TvZaTak20/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.rsl.ru/photo/!_ORS/documents/dostoevsky-banner.jpeg" group-title="ViP",ЛЕКТОРИЙ ДОСТОЕВСКИЙ SD
-https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="ViP",Star Media
-http://tinyurl.com/TvZaTak20/ushba4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="ViP",Retrovision Motor
-http://tinyurl.com/TvZaTak20/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="nano-hd" tvg-logo="https://iptvx.one/picons/nano-hd.png" group-title="ViP",NANO HD
-http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="nano-hd" tvg-logo="https://iptvx.one/picons/nano-hd.png" group-title="ViP",NANO HD
-http://194.143.148.28:8080/NanoTV/index.m3u8
-#EXTINF:-1 tvg-id="nano-hd" tvg-logo="https://iptvx.one/picons/nano-hd.png" group-title="ViP",NANO HD
-http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
-#EXTINF:-1 tvg-id="nauka-20" group-title="ViP",Наука
-https://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 tvg-id="nauka-20" group-title="ViP",Наука
-http://213.230.65.254:8000/play/a024
-#EXTINF:-1 tvg-id="nauka-20" group-title="ViP",Наука
-http://193.25.8.59:8000/nauka
-#EXTINF:-1 tvg-id="nostalgia" group-title="ViP",Ностальгия
-http://31.148.48.15:80/Nostalgiya/index.m3u8
-#EXTINF:-1 tvg-id="nostalgia" group-title="ViP",Ностальгия
-http://95.66.188.74/Nostalgia/index.m3u8
