@@ -267,8 +267,6 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 https://tv.2kita.com/stream/index.m3u8
 #EXTINF:-1 group-title="Новости",МИР 24 HD
 http://dmitry-tv.ddns.net/hls/CH_MIR24HD.m3u8
-#EXTINF:-1 group-title="Новости",РБК
-http://dmitry-tv.ddns.net/hls/CH_RBK.m3u8
 #EXTINF:-1 group-title="Новости",РБК HD
 http://dmitry-tv.ddns.net/hls/CH_RBKHD.m3u8
 #EXTINF:-1 group-title="Новости",Известия HD
@@ -277,6 +275,8 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/88/0870b794469eecc572d6e81997a14488.png" group-title="Новости",Соловьев Live
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 group-title="Новости",РБК
+http://dmitry-tv.ddns.net/hls/CH_RBK.m3u8
 #EXTINF:-1 group-title="Новости",Первый информационный (Беларусь)
 http://dmitry-tv.ddns.net/hls/blrus/CH_1INFORMATSYONNY.m3u8
 #EXTINF:-1 group-title="Новости",Первый информационный HD (Беларусь)
