@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1  group-title="⭐Z+",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="⭐Z+",Звезда Плюс
@@ -53,37 +54,31 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v3a8/mono.ts.m3u8
 
 #EXTINF:-1  group-title="⭐Z+",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1  group-title="⭐Z+",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v4a2/mono.ts.m3u8
-#EXTINF:-1  group-title="⭐Z+",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v4a3/mono.ts.m3u8
-#EXTINF:-1  group-title="⭐Z+",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v4a4/mono.ts.m3u8
-#EXTINF:-1  group-title="⭐Z+",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v4a5/mono.ts.m3u8
-#EXTINF:-1  group-title="⭐Z+",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v4a6/mono.ts.m3u8
-#EXTINF:-1  group-title="⭐Z+",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v4a7/mono.ts.m3u8
-#EXTINF:-1  group-title="⭐Z+",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v4a8/mono.ts.m3u8
+
 
 #EXTINF:-1  group-title="⭐Z+",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v5a1/mono.ts.m3u8
+
 #EXTINF:-1  group-title="⭐Z+",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v5a2/mono.ts.m3u8
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v6a1/mono.ts.m3u8
+
 #EXTINF:-1  group-title="⭐Z+",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v5a3/mono.ts.m3u8
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v7a1/mono.ts.m3u8
+
 #EXTINF:-1  group-title="⭐Z+",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v5a4/mono.ts.m3u8
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v8a1/mono.ts.m3u8
+
 #EXTINF:-1  group-title="⭐Z+",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v5a5/mono.ts.m3u8
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v9a1/mono.ts.m3u8
+
 #EXTINF:-1  group-title="⭐Z+",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v5a6/mono.ts.m3u8
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v10a1/mono.ts.m3u8
+
 #EXTINF:-1  group-title="⭐Z+",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v5a7/mono.ts.m3u8
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v11a1/mono.ts.m3u8
+
 #EXTINF:-1  group-title="⭐Z+",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v5a8/mono.ts.m3u8
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v12a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-rec="0" tvg-logo="https://i125.fastpic.org/big/2025/0803/8c/d0bc3c462619ccb240b59b4c0115bf8c.png" tvg-id="zal-01-tricolor"  group-title="Кино_2",Шерлок Холмс
