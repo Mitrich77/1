@@ -69,7 +69,6 @@ http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
 #EXTINF:-1 tvg-logo="https://cinemaplex.ru/wp-content/uploads/2018/03/unnamed-optimized.jpg" group-title="ViP",STAR MEDIA
 https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://epg.one/img/6005.png" group-title="ViP",Видеокассета HD
 http://195.9.195.3:8080/hls/176975.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://iptvx.one/picons/vhs-ka.png" group-title="ViP",VHS-ка HD
