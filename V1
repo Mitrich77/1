@@ -30,14 +30,14 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_2.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_2.m3u8
 #EXTINF:-1  group-title="ViP",СПАС (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_2.m3u8
-#EXTINF:-1  group-title="ViP",МИР (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_2.m3u8
-#EXTINF:-1  group-title="ViP",Звезда (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_2.m3u8
 #EXTINF:-1  group-title="ViP",Звезда HD
 http://dmitry-tv.ddns.net/hls/T2/CH_ZVEZDAHD.m3u8
+#EXTINF:-1  group-title="ViP",Звезда (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_2.m3u8
 #EXTINF:-1  group-title="ViP",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cinemaplex.ru/wp-content/uploads/2018/03/unnamed-optimized.jpg" group-title="ViP",STAR MEDIA
+https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Новости",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1  tvg-id="rossia-24" tvg-logo="https://i126.fastpic.org/big/2025/1209/db/335c6d4aaffe93ae76f279adb7c5eedb.png" group-title="Новости",Россия 24 HD
@@ -58,17 +58,20 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT.m3u8
 #EXTINF:-1  group-title="ViP",ТНТ (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_2.m3u8
+#EXTINF:-1  group-title="ViP",МИР (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_2.m3u8
 
-
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="сов.ком" tvg-logo="https://i.ibb.co/d4zvrXp/image-1.png" group-title="ViP",Сов.Ком
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="смотрим 100% классика" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/727/741/8.png" group-title="ViP",Смотрим 100% Классика HD
+https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
 #EXTINF:-1 group-title="KiNo",Мосфильм. Золотая коллекция
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-logo="https://iptvx.one/picons/kino1int-tviksel.png" group-title="KiNo",Кино 1 International
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="смотрим 100% классика" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/727/741/8.png" group-title="ViP",Смотрим 100% Классика HD
-https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
-#EXTINF:-1 tvg-logo="https://cinemaplex.ru/wp-content/uploads/2018/03/unnamed-optimized.jpg" group-title="ViP",STAR MEDIA
-https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://epg.one/img/6005.png" group-title="ViP",Видеокассета HD
 http://195.9.195.3:8080/hls/176975.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://iptvx.one/picons/vhs-ka.png" group-title="ViP",VHS-ка HD
@@ -83,8 +86,7 @@ http://hls.goodgame.ru:8080/hls/204708.m3u8
 http://hls.goodgame.ru:8080/hls/204717.m3u8
 #EXTINF:-1 tvg-name="vhs кино" tvg-logo="https://i.ibb.co/BVhTP11W/image-14.png" group-title="ViP",VHS кино HD
 http://hls.goodgame.ru:8080/hls/218531.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="сов.ком" tvg-logo="https://i.ibb.co/d4zvrXp/image-1.png" group-title="ViP",Сов.Ком
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="ruskorabl" group-title="ViP",Плюс Минус 16 SD
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://www.rsl.ru/photo/!_ORS/documents/dostoevsky-banner.jpeg" group-title="ViP",ЛЕКТОРИЙ ДОСТОЕВСКИЙ SD
