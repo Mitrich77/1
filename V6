@@ -19,8 +19,9 @@ http://91.194.191.241:8081/chid277/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/88/0870b794469eecc572d6e81997a14488.png" group-title="Новости",Соловьев Live
 http://178.212.71.253:8000/play/111/index.m3u8
-#EXTINF:-1 group-title="Новости",МИР 24
-http://a0925677.xsph.ru/hls/CH_MIR24.m3u8
+#EXTINF:-1 tvg-logo="https://cinemaplex.ru/wp-content/uploads/2018/03/unnamed-optimized.jpg" group-title="ViP",STAR MEDIA
+https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="ViP",ОТР (+2)
 http://a0925677.xsph.ru/hls/zabava/region/UFA/CH_OTR.m3u8
 #EXTINF:-1 group-title="ViP",РЕН ТВ (+2)
@@ -31,15 +32,17 @@ http://a0925677.xsph.ru/hls/DVB-T2/CH_5TV_2.m3u8
 http://a0925677.xsph.ru/hls/DVB-T2/CH_TVC_2.m3u8
 #EXTINF:-1 group-title="ViP",СПАС (+2)
 http://a0925677.xsph.ru/hls/DVB-T2/CH_SPAS_2.m3u8
-#EXTINF:-1 group-title="ViP",МИР (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_MIR_2.m3u8
-#EXTINF:-1 group-title="ViP",Звезда (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_ZVEZDA_2.m3u8
+
+
 #EXTINF:-1 group-title="ViP",Звезда HD
 http://a0925677.xsph.ru/hls/T2/CH_ZVEZDAHD.m3u8
+#EXTINF:-1 group-title="ViP",Звезда (+2)
+http://a0925677.xsph.ru/hls/DVB-T2/CH_ZVEZDA_2.m3u8
 
 #EXTINF:-1 group-title="ViP",ЗВЕЗДА ПЛЮС HD
 http://185.78.112.17/zvezda_plus_hd/index.m3u8
+#EXTINF:-1 group-title="ViP",Star Media
+http://tinyurl.com/TvZaTak20/ushba4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Новости",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
@@ -65,8 +68,8 @@ http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT.m3u8
 http://a0925677.xsph.ru/hls/DVB-T2/CH_TNT_2.m3u8
 #EXTINF:-1 group-title="ViP",МИР
 http://a0925677.xsph.ru/hls/DVB-T2/CH_MIR.m3u8
-#EXTINF:-1 group-title="ЭфиР плюс",Россия К
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
+#EXTINF:-1 group-title="ViP",МИР (+2)
+http://a0925677.xsph.ru/hls/DVB-T2/CH_MIR_2.m3u8
 
 
 #EXTINF:-1 group-title="ОСС",Мосфильм. Золотая коллекция
@@ -251,7 +254,8 @@ http://a0925677.xsph.ru/hls/zabava/region/DV_SLIN/CH_IZVESTIYA.m3u8
 
 #EXTINF:-1 group-title="ViP",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-
+#EXTINF:-1 group-title="Новости",МИР 24
+http://a0925677.xsph.ru/hls/CH_MIR24.m3u8
 
 
 
