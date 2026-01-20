@@ -1,144 +1,120 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="vhs hd" tvg-logo="https://iptvcinema.ru/channels/pgvhs.png" group-title="Cinema Media",VHS HD
-http://cinema.frii.site/channel/5d94cc0/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="ussr hd" tvg-logo="https://iptvcinema.ru/channels/pgussr.png" group-title="Cinema Media",USSR HD
-http://cinema.frii.site/channel/n6cba7c06/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="семнадцать мгновений весны" tvg-logo="https://iptvcinema.ru/channels/semnadtcatmgnoveni.png" group-title="Cinema Media",Семнадцать мгновений весны
-http://cinema.frii.site/channel/3da8cea1/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="кино 1" tvg-logo="https://iptvcinema.ru/channels/kino_1.png" group-title="Cinema Media",Кино 1
-http://cinema.frii.site/channel/n53d3850b/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="шерлок холмс и доктор ватсон" tvg-logo="https://iptvcinema.ru/channels/sherlokholms.png" group-title="Cinema Media",Шерлок Холмс и доктор Ватсон
-http://cinema.frii.site/channel/1c738e10/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-55462" tvg-name="bcu ссср hd" tvg-logo="https://iptvcinema.ru/channels/253.png" group-title="Cinema Media",BCU СССР HD
-http://cinema.frii.site/channel/n2f793374/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="fresh soviet" tvg-logo="https://iptvcinema.ru/channels/frsoviet.png" group-title="Cinema Media",Fresh Soviet
-http://cinema.frii.site/channel/n2923662b/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="kli ussr hd" tvg-logo="https://iptvcinema.ru/channels/kliussr.png" group-title="Cinema Media",KLI USSR HD
-http://cinema.frii.site/channel/205f8562/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="veles ссср" tvg-logo="https://iptvcinema.ru/channels/velesussr.png" group-title="Cinema Media",VeleS СССР
-http://cinema.frii.site/channel/nf94a4e7/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-100581" tvg-name="yosso tv советские фильмы" tvg-logo="https://iptvcinema.ru/channels/yussr.png" group-title="Cinema Media",YOSSO TV Советские фильмы
-http://cinema.frii.site/channel/n348d5b72/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="yosso tv советские фильмы 4k" tvg-logo="https://iptvcinema.ru/channels/yussr4k.png" group-title="Cinema Media",YOSSO TV Советские фильмы 4K
-http://cinema.frii.site/channel/721be769/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-100624" tvg-name="kbc страна ссср" tvg-logo="https://iptvcinema.ru/channels/kbcstranaussr.png" group-title="Cinema Media",KBC Страна СССР
-http://cinema.frii.site/channel/12d111c2/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-55461" tvg-name="bcu vhs hd" tvg-logo="https://iptvcinema.ru/channels/245.png" group-title="Cinema Media",BCU VHS HD
-http://cinema.frii.site/channel/n68294854/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="magic vhs" tvg-logo="https://iptvcinema.ru/channels/mgvhs.png" group-title="Cinema Media",Magic VHS
-http://cinema.frii.site/channel/30fbc589/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="fresh vhs" tvg-logo="https://iptvcinema.ru/channels/frvhs.png" group-title="Cinema Media",Fresh VHS
-http://cinema.frii.site/channel/n4f64d376/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-100573" tvg-name="yosso tv vhs" tvg-logo="https://iptvcinema.ru/channels/yvhs.png" group-title="Cinema Media",YOSSO TV VHS
-http://cinema.frii.site/channel/333f638f/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-100623" tvg-name="kbc видак hd" tvg-logo="https://iptvcinema.ru/channels/kbcvidak.png" group-title="Cinema Media",KBC Видак HD
-http://cinema.frii.site/channel/n6ed51bc3/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-55457" tvg-name="bcu fantastic hd" tvg-logo="https://iptvcinema.ru/channels/239.png" group-title="Cinema Media",BCU Fantastic HD
-http://cinema.frii.site/channel/1ef950b2/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="минимакс-фантастика hd" tvg-logo="https://iptvcinema.ru/channels/mmfantastic.png" group-title="Cinema Media",Минимакс-Фантастика HD
-http://cinema.frii.site/channel/154c5b78/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="kli fantastic hd" tvg-logo="https://iptvcinema.ru/channels/klifantastic.png" group-title="Cinema Media",KLI Fantastic HD
-http://cinema.frii.site/channel/n609499a2/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="fresh fantastic" tvg-logo="https://iptvcinema.ru/channels/frfantastic.png" group-title="Cinema Media",Fresh Fantastic
-http://cinema.frii.site/channel/n18dc1a3c/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-100611" tvg-name="kbc fantastic" tvg-logo="https://iptvcinema.ru/channels/kbcfantastic.png" group-title="Cinema Media",KBC Fantastic
-http://cinema.frii.site/channel/n7375b43e/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-55531" tvg-name="bcu cosmo hd" tvg-logo="https://iptvcinema.ru/channels/1430.png" group-title="Cinema Media",BCU Cosmo HD
-http://cinema.frii.site/channel/n6eb26efc/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="magic galaxy" tvg-logo="https://iptvcinema.ru/channels/mggalaxy.png" group-title="Cinema Media",Magic Galaxy
-http://cinema.frii.site/channel/2ac4d488/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="kli fantasy hd" tvg-logo="https://iptvcinema.ru/channels/klifantasyy.png" group-title="Cinema Media",KLI Fantasy HD
-http://cinema.frii.site/channel/n7bf7816d/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="box fantasy hd" tvg-logo="https://iptvcinema.ru/channels/boxfantasy.png" group-title="Cinema Media",BOX Fantasy HD
-http://cinema.frii.site/channel/n2dd1d3f0/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="box franchise hd" tvg-logo="https://iptvcinema.ru/channels/boxf.png" group-title="Cinema Media",BOX Franchise HD
-http://cinema.frii.site/channel/745c81b9/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-100574" tvg-name="yosso tv oblivion" tvg-logo="https://iptvcinema.ru/channels/yoblivion.png" group-title="Cinema Media",YOSSO TV Oblivion
-http://cinema.frii.site/channel/n6732b06c/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-55529" tvg-name="bcu stars hd" tvg-logo="https://iptvcinema.ru/channels/1386.png" group-title="Cinema Media",BCU Stars HD
-http://cinema.frii.site/channel/n68f6cf4/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-55458" tvg-name="bcu kinorating hd" tvg-logo="https://iptvcinema.ru/channels/241.png" group-title="Cinema Media",BCU Kinorating HD
-http://cinema.frii.site/channel/6c4ec64f/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="bcu-media" tvg-name="bcu kinozakaz hd" tvg-logo="https://iptvcinema.ru/channels/kinozakaz.png" group-title="Cinema Media",BCU KINOZAKAZ HD
-http://cinema.frii.site/channel/n1b5fa751/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-55537" tvg-name="bcu ultra 4k" tvg-logo="https://iptvcinema.ru/channels/1388.png" group-title="Cinema Media",BCU Ultra 4K
-http://cinema.frii.site/channel/4264f57c/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="bcu premiere ultra 4k" tvg-logo="https://iptvcinema.ru/channels/1388.png" group-title="Cinema Media",BCU Premiere Ultra 4K
-http://cinema.frii.site/channel/5d85b3a1/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="кино 2" tvg-logo="https://iptvcinema.ru/channels/kino_2.png" group-title="Cinema Media",Кино 2
-http://cinema.frii.site/channel/n53d3850a/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="kli мультики hd" tvg-logo="https://iptvcinema.ru/channels/klimult.png" group-title="Cinema Media",KLI Мультики HD
-http://cinema.frii.site/channel/4f970fb3/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="kli новинки 4k ultra hd" tvg-logo="https://iptvcinema.ru/channels/kli_novinki4k.png" group-title="Cinema Media",KLI Новинки 4K Ultra HD
-http://cinema.frii.site/channel/n21073d30/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="kli черный плащ" tvg-logo="https://iptvcinema.ru/channels/klicherniplash.png" group-title="Cinema Media",KLI Черный Плащ
-http://cinema.frii.site/channel/n336fd7c1/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="kli чип и дейл" tvg-logo="https://iptvcinema.ru/channels/klichip.png" group-title="Cinema Media",KLI Чип и Дейл
-http://cinema.frii.site/channel/90ce19a/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="kli утиные истории" tvg-logo="https://iptvcinema.ru/channels/kliutinieistori.png" group-title="Cinema Media",KLI Утиные Истории
-http://cinema.frii.site/channel/n24b8a65a/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="kli tom and jerry" tvg-logo="https://iptvcinema.ru/channels/klitomandjerry.png" group-title="Cinema Media",KLI Tom and Jerry
-http://cinema.frii.site/channel/344956aa/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="fresh kids" tvg-logo="https://iptvcinema.ru/channels/frkids.png" group-title="Cinema Media",Fresh Kids
-http://cinema.frii.site/channel/62c5e304/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-100580" tvg-name="yosso tv союзмульт" tvg-logo="https://iptvcinema.ru/channels/ysoyuzmult.png" group-title="Cinema Media",YOSSO TV Союзмульт
-http://cinema.frii.site/channel/ndac3bae/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="kbc-multzal" tvg-name="kbc союзмультзал" tvg-logo="https://iptvcinema.ru/channels/kbcsoyuzmultzal.png" group-title="Cinema Media",KBC Союзмультзал
-http://cinema.frii.site/channel/n19469269/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="yosso tv наше детское" tvg-logo="https://iptvcinema.ru/channels/ydetskoe.png" group-title="Cinema Media",YOSSO TV Наше Детское
-http://cinema.frii.site/channel/1a2dcea3/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="kbc сказочный" group-title="Cinema Media",KBC Сказочный
-http://cinema.frii.site/channel/4e7a6dc9/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="fresh thriller" tvg-logo="https://iptvcinema.ru/channels/frthriller.png" group-title="Cinema Media",Fresh Thriller
-http://cinema.frii.site/channel/n7f1d3e91/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="veles 60fps" tvg-logo="https://iptvcinema.ru/channels/veles60.png" group-title="Cinema Media",VeleS 60FPS
-http://cinema.frii.site/channel/n1c0fa7cb/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="veles movie hits" tvg-logo="https://iptvcinema.ru/channels/velesmovie.png" group-title="Cinema Media",VeleS Movie Hits
-http://cinema.frii.site/channel/n34475236/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-100541" tvg-name="yosso tv grand" tvg-logo="https://iptvcinema.ru/channels/ygrand.png" group-title="Cinema Media",YOSSO TV GRAND
-http://cinema.frii.site/channel/6025ad1a/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-100577" tvg-name="yosso tv best" tvg-logo="https://iptvcinema.ru/channels/ybest.png" group-title="Cinema Media",YOSSO TV BEST
-http://cinema.frii.site/channel/34a3ebf6/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-100570" tvg-name="yosso tv adventure" tvg-logo="https://iptvcinema.ru/channels/yadventure.png" group-title="Cinema Media",YOSSO TV Adventure
-http://cinema.frii.site/channel/3ea0341e/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-100541" tvg-name="yosso 4k" tvg-logo="https://iptvcinema.ru/channels/y4k.png" group-title="Cinema Media",YOSSO 4K
-http://cinema.frii.site/channel/n5e86611d/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="yosso tv best 60 fps" tvg-logo="https://iptvcinema.ru/channels/y60fps.png" group-title="Cinema Media",YOSSO TV BEST 60 FPS
-http://cinema.frii.site/channel/602ff1cd/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="kbc-goblin" tvg-name="kbc гоблин" tvg-logo="https://iptvcinema.ru/channels/kbcgoblin.png" group-title="Cinema Media",KBC ГОБЛИН
-http://cinema.frii.site/channel/n1acf0aed/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="kbc-muskino" tvg-name="kbc muskino" tvg-logo="https://iptvcinema.ru/channels/kbcmuskino.png" group-title="Cinema Media",KBC MusKino
-http://cinema.frii.site/channel/n4f85bc6f/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="советские фильмы" tvg-logo="https://iptvcinema.ru/channels/sovietfilmi.png" group-title="Cinema Media",Советские фильмы
-http://cinema.frii.site/channel/n1b70e99f/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="три богатыря" tvg-logo="https://iptvcinema.ru/channels/tribogatirya.png" group-title="Cinema Media",Три богатыря
-http://cinema.frii.site/channel/n40c1c73/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="hlsproxy-55078" tvg-name="советские мультфильмы" tvg-logo="https://iptvcinema.ru/channels/sovetskiemultfilmi.png" group-title="Cinema Media",Советские мультфильмы
-http://cinema.frii.site/channel/13da9ab1/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="смешарики" tvg-logo="https://iptvcinema.ru/channels/smeshariki.png" group-title="Cinema Media",Смешарики
-http://cinema.frii.site/channel/5ea324b3/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="globalmedia фантастика" tvg-logo="https://iptvcinema.ru/channels/gmfantastica.png" group-title="Cinema Media",GlobalMedia Фантастика
-http://cinema.frii.site/channel/527f84b2/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="globalmedia мистика" tvg-logo="https://iptvcinema.ru/channels/gmmystic.png" group-title="Cinema Media",GlobalMedia Мистика
-http://cinema.frii.site/channel/2cd254d/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="globalmedia фэнтези" tvg-logo="https://iptvcinema.ru/channels/gmfantasy.png" group-title="Cinema Media",GlobalMedia Фэнтези
-http://cinema.frii.site/channel/n3263a53c/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="globalmedia мушкетеры" tvg-logo="https://iptvcinema.ru/channels/gmmushketyori.png" group-title="Cinema Media",GlobalMedia Мушкетеры
-http://cinema.frii.site/channel/5f44c4b6/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="globalmedia шерлок холмс" tvg-logo="https://iptvcinema.ru/channels/gmsherlock.png" group-title="Cinema Media",GlobalMedia Шерлок Холмс
-http://cinema.frii.site/channel/n4b7f2a31/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="globalmedia советский детектив" tvg-logo="https://iptvcinema.ru/channels/gmsovetdetective.png" group-title="Cinema Media",GlobalMedia Советский детектив
-http://cinema.frii.site/channel/n5b75abc2/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="globalmedia советское кино" tvg-logo="https://iptvcinema.ru/channels/gmsovetskoekino.png" group-title="Cinema Media",GlobalMedia Советское кино
-http://cinema.frii.site/channel/n4a09e40f/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="globalmedia советский дубляж" tvg-logo="https://iptvcinema.ru/channels/gmsovetdublyazh.png" group-title="Cinema Media",GlobalMedia Советский дубляж
-http://cinema.frii.site/channel/2d21f608/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="globalmedia мультфильм" tvg-logo="https://iptvcinema.ru/channels/gmmultfilm.png" group-title="Cinema Media",GlobalMedia Мультфильм
-http://cinema.frii.site/channel/11613311/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-name="globalmedia советский мультфильм" tvg-logo="https://iptvcinema.ru/channels/gmsovetmult.png" group-title="Cinema Media",GlobalMedia Советский мультфильм
-http://cinema.frii.site/channel/609a8fb5/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
-#EXTINF:-1 tvg-id="kernel_chernyy_plashch" tvg-name="kernel tv чёрный плащ" tvg-logo="https://iptvcinema.ru/channels/kernelcherniplash.png" group-title="Cinema Media",Kernel TV Чёрный плащ
-http://cinema.frii.site/channel/n5cc8ca20/index.m3u8?q=ffb2981d7306ec818de79aaa6341413d
+
+#EXTINF:-1 tvg-id="pervy-pl2" group-title="Уфа",Первый канал (+2)
+https://s45177.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl2" group-title="Уфа",Россия 1 (+2)
+https://s45177.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="sts-pl2" group-title="Уфа",СТС (+2)
+https://s45177.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+#EXTINF:-1 tvg-id="ntv-pl2" group-title="Уфа",НТВ (+2)
+https://s45177.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+#EXTINF:-1 tvg-id="match-tv" group-title="Уфа",Матч ТВ (+2)
+https://s45177.cdn.ngenix.net/hls/CH_R02_ROSSIA2/variant.m3u8
+#EXTINF:-1 tvg-id="kultura-pl2" group-title="Уфа",Россия Культура (+2)
+https://s45177.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+#EXTINF:-1 tvg-id="rossia-24" group-title="Уфа",Россия 24 (+2)
+https://s45177.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+#EXTINF:-1 group-title="Новости",ИЗВЕСТИЯ
+http://dmitry-tv.ddns.net/hls/zabava/region/DV_SLIN/CH_IZVESTIYA.m3u8
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/88/0870b794469eecc572d6e81997a14488.png" group-title="Новости",Соловьев Live
+http://178.212.71.253:8000/play/111/index.m3u8
+#EXTINF:-1 tvg-logo="https://cinemaplex.ru/wp-content/uploads/2018/03/unnamed-optimized.jpg" group-title="ViP",STAR MEDIA
+https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="otr-pl2" group-title="Уфа",ОТР (+2)
+https://s45177.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+#EXTINF:-1 tvg-id="rentv-pl2" group-title="Уфа",РЕН ТВ (+2)
+https://s45177.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru-pl2" group-title="Уфа",Пятый канал (+2)
+https://s45177.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+#EXTINF:-1 tvg-id="tvcentr-pl2" group-title="Уфа",ТВЦ (+2)
+https://s45177.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+#EXTINF:-1 tvg-id="spas-pl2" group-title="Основные",Спас (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
+#EXTINF:-1 tvg-id="zvezda" group-title="Москва",Звезда
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF:-1 tvg-id="zvezda-pl2" group-title="Уфа",Звезда (+2)
+https://s45177.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="ViP",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="ViP",Star Media
+http://tinyurl.com/TvZaTak20/ushba4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новости",Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i126.fastpic.org/big/2025/1209/db/335c6d4aaffe93ae76f279adb7c5eedb.png" group-title="Новости",Россия 24 HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/88/0870b794469eecc572d6e81997a14488.png" group-title="Новости",Соловьев LIVE
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 tvg-id="pervy" group-title="Москва",Первый канал
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1" group-title="Москва",Россия 1
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="sts" group-title="Основные",СТС
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 tvg-id="ntv" group-title="Москва",НТВ
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+#EXTINF:-1 tvg-id="rentv" group-title="Основные",РЕН ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 tvg-id="tnt" group-title="Основные",ТНТ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 tvg-id="tnt-pl2" group-title="Основные",ТНТ (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
+#EXTINF:-1 tvg-id="domashny-pl2" group-title="Уфа",Домашний (+2)
+https://s45177.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+#EXTINF:-1 tvg-id="mir-pl2" group-title="Основные",МИР (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="смотрим 100% классика" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/727/741/8.png" group-title="ViP",Смотрим 100% Классика HD
+https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+#EXTINF:-1 group-title="KiNo",Мосфильм. Золотая коллекция
+http://5.8.11.96:8099/mosfilmhd/index.m3u8
+#EXTINF:-1 tvg-id="kino1int-tviksel" tvg-logo="https://iptvx.one/picons/kino1int-tviksel.png" group-title="KiNo",Кино 1 International
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg" group-title="TEST ⓵",CHD-TV RU Rock HD
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg" group-title="TEST ⓵",CHD-TV Rock
+http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png" group-title="TEST ⓵",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" group-title="TEST ⓵",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rh516HVw/1.png" group-title="TEST (VPN)",IPTVPLAY МультСказки HD
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D06WvJWn/1.png" group-title="TEST (VPN)",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png" group-title="TEST (VPN)",IPTVPLAY ФАНТАСТИКА
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png" group-title="TEST (VPN)",IPTVPLAY ПАМЯТЬ
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8KFj826/1.png" group-title="TEST (VPN)",IPTVPLAY Великая Отечественная HD
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg" group-title="TEST (VPN)",НТВ Сериалы Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg" group-title="TEST (VPN)",НТВ Сериалы Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg" group-title="TEST (VPN)",НТВ Сериалы Первый отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg" group-title="TEST (VPN)",НТВ Сериалы Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg" group-title="TEST (VPN)",НТВ Сериалы Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg" group-title="TEST (VPN)",НТВ Сериалы Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg" group-title="TEST (VPN)",НТВ Сериалы Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="сов.ком" tvg-logo="https://i.ibb.co/d4zvrXp/image-1.png" group-title="ViP",Сов.Ком
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ruskorabl" group-title="ViP",Плюс Минус 16 SD
+http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://www.rsl.ru/photo/!_ORS/documents/dostoevsky-banner.jpeg" group-title="ViP",ЛЕКТОРИЙ ДОСТОЕВСКИЙ SD
+https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="ViP",Retrovision Motor
+http://tinyurl.com/TvZaTak20/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="nauka-20" group-title="ViP",Наука
+https://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 tvg-id="nostalgia" group-title="ViP",Ностальгия
+http://31.148.48.15:80/Nostalgiya/index.m3u8
+#EXTINF:-1 tvg-id="pervy-pl2" group-title="Уфа",Первый канал (+2)
+https://s45177.cdn.ngenix.net/hls/CH_R03_1TV_UFA/variant.m3u8
+
 
 
 
