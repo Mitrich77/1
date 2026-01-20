@@ -30,8 +30,8 @@ https://s45177.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 https://s45177.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 #EXTINF:-1 tvg-id="spas-pl2" group-title="Основные",Спас (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
-#EXTINF:-1 tvg-id="zvezda" group-title="Москва",Звезда
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="Эфирные", Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="zvezda-pl2" group-title="Уфа",Звезда (+2)
 https://s45177.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:-1 group-title="ViP",Звезда Плюс
@@ -122,8 +122,8 @@ https://s45177.cdn.ngenix.net/hls/CH_R03_1TV_UFA/variant.m3u8
 
 
 
-#EXTINF:-1 group-title="Эфирные", Звезда
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="zvezda" group-title="Москва",Звезда
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="ЗВЕЗДА ПЛЮС", Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
