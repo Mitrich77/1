@@ -14,8 +14,8 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_2.m3u8
 #EXTINF:-1  tvg-logo="https://i125.fastpic.org/big/2025/0818/07/d8fe042a0019fedfbeeb4b318f590707.png" group-title="Новости",Россия 24
 http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_ROSSIA24.m3u8
-#EXTINF:-1 group-title="Новости" ,ИЗВЕСТИЯ
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_SLIN/CH_IZVESTIYA.m3u8
+#EXTINF:-1 tvg-id="izvestia" tvg-name="известия" group-title="ViP",ИЗВЕСТИЯ
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1  tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/88/0870b794469eecc572d6e81997a14488.png" group-title="Новости",Соловьев Live
 http://178.212.71.253:8000/play/111/index.m3u8
 #EXTINF:-1 tvg-logo="https://cinemaplex.ru/wp-content/uploads/2018/03/unnamed-optimized.jpg" group-title="ViP",STAR MEDIA
