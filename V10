@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="izvestia" tvg-name="известия тв" group-title="ViP",Известия ТВ_1
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 tvg-id="izvestia" tvg-name="известия тв" group-title="ViP",Известия ТВ_2
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="izvestia" tvg-name="известия тв hd" group-title="ViP",Известия ТВ HD_3
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-id="izvestia" tvg-name="известия тв hd" group-title="ViP",Известия ТВ HD_4
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="izvestia" tvg-name="известия" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="ViP",Известия_5
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-id="izvestia" tvg-name="известия" group-title="ViP",Известия_6
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 tvg-id="izvestia" tvg-name="известия" group-title="ViP",Известия_7
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 tvg-id="izvestia" tvg-name="известия hd" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="ViP",Известия HD_8
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-id="izvestia" tvg-name="известия hd" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="ViP",Известия HD_9
+http://hls-igi.cdnvideo.ru/igi/igi_sd/playlist.m3u8
 #EXTINF:-1 group-title="ViP",Первый канал (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_2.m3u8
 #EXTINF:-1 group-title="ViP",Россия 1 (+2)
