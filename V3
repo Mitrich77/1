@@ -1,4 +1,25 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="соловьев live" group-title="Новости",Соловьев LIVE_1
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="соловьев live" group-title="Новости",Соловьев Live_2
+http://31.148.48.15:80/EuroNews/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="i11 соловьев live" group-title="Новости",I11 Соловьев Live_3
+http://178.212.71.253:8000/play/111/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="соловьев live" group-title="Новости",Соловьев Live_4
+http://178.212.71.253:8000/play/111/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="соловьев live" group-title="Новости",Соловьев Live_5
+http://195.26.83.96:7029/play/a003
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="соловьев live hd" group-title="Новости",Соловьев Live HD_6
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-name="соловьев.live" group-title="Новости",Соловьев.Live_7
+https://stream-msk-17.ott.tricolor.tv/dtv/id979_MSKSG-PVR-1--SolovievLive/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-name="соловьев.live hd" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Новости",Соловьев.Live HD_8
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 tvg-id="solovjinypomiot" tvg-name="соловьев.live hd" group-title="Новости",Соловьев.Live HD_9
+http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="соловьев.live hd" group-title="Новости",Соловьев.Live HD_10
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+
 
 #EXTINF:-1 group-title="Star Media",Star Media
 http://162.212.179.43/ushba4/tracks-v1a1/mono.m3u8
