@@ -16,7 +16,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_2.m3u8
 http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_ROSSIA24.m3u8
 #EXTINF:-1 tvg-id="izvestia" tvg-name="известия" group-title="Новости",ИЗВЕСТИЯ
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="соловьев live" group-title="Новости",Соловьев Live_2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="соловьев live" group-title="Новости",Соловьев Live
 http://31.148.48.15:80/EuroNews/index.m3u8
 #EXTINF:-1 tvg-logo="https://cinemaplex.ru/wp-content/uploads/2018/03/unnamed-optimized.jpg" group-title="ViP",STAR MEDIA
 https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
