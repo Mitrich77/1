@@ -64,7 +64,8 @@ http://dmitry-tv.ddns.net/hls/CH_RUSSKIY_ROMAN.m3u8
 #EXTINF:-1 group-title="ViP",Домашний (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
 #EXTINF:-1 group-title="KiNo",Мосфильм. Золотая коллекция
-http://5.8.11.96:8099/mosfilmhd/index.m3u8
+http://tv.ttk.mx:9169
+
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-logo="https://iptvx.one/picons/kino1int-tviksel.png" group-title="KiNo",Кино 1 International
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png" group-title="KiNo",IPTVPLAY ПАМЯТЬ
