@@ -65,6 +65,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_2.m3u8
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="смотрим 100% классика" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/727/741/8.png" group-title="ViP",Смотрим 100% Классика HD
 https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+
 #EXTINF:-1 group-title="KiNo",Мосфильм. Золотая коллекция
 http://tv.ttk.mx:9169
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-logo="https://iptvx.one/picons/kino1int-tviksel.png" group-title="KiNo",Кино 1 International
