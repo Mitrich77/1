@@ -72,20 +72,26 @@ http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://epg.one/img/6005.png" group-title="ViP",Видеокассета HD
-http://195.9.195.3:8080/hls/176975.m3u8
-#EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://iptvx.one/picons/vhs-ka.png" group-title="ViP",VHS-ка HD
-http://95.66.188.74/VHS/index.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://static.goodgame.ru/files/avatars/av_1643167_Q5gP.jpg" group-title="ViP",VHS кино HD
-http://195.9.195.3:8080/hls/218531.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.imgur.com/ygId8ZV.png" group-title="ViP",Alpha Cinema HD
-http://195.9.195.3:8080/hls/205072.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-1filmax.jpg" group-title="ViP",1FILMAX Фантастика
-http://hls.goodgame.ru:8080/hls/204708.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-2filmax_0.jpg" group-title="ViP",2FILMAX Комедия
-http://hls.goodgame.ru:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-name="vhs кино" tvg-logo="https://i.ibb.co/BVhTP11W/image-14.png" group-title="ViP",VHS кино HD
-http://hls.goodgame.ru:8080/hls/218531.m3u8
+#EXTINF:-1 group-title="Инфолинк (KiNo)",BCU VHS HD
+http://185.234.59.200:8080/BCU_VHS_HD/index.m3u8
+#EXTINF:-1 group-title="Инфолинк (KiNo)",BCU Stars HD
+http://185.234.59.200:8080/BCU_Stars_HD/index.m3u8
+#EXTINF:-1 group-title="Инфолинк (KiNo)",BCU Kinorating HD
+http://185.234.59.200:8080/BCU_Kinorating_HD/index.m3u8
+#EXTINF:-1 group-title="Инфолинк (KiNo)",BCU Fantastic HD
+http://185.234.59.200:8080/BCU_Fantastic_HD/index.m3u8
+#EXTINF:-1 group-title="Инфолинк (KiNo)",BCU Action HD
+http://185.234.59.200:8080/BCU_Action_HD/index.m3u8
+#EXTINF:-1 group-title="Инфолинк (KiNo)",BCU Comedy HD
+http://185.234.59.200:8080/BCU_Comedy_HD/index.m3u8
+#EXTINF:-1 group-title="Инфолинк (KiNo)",BCU Catastrophe HD
+http://185.234.59.200:8080/BCU_Catastrophe_HD/index.m3u8
+#EXTINF:-1 group-title="Инфолинк (KiNo)",BCU Marvel HD
+http://185.234.59.200:8080/BCU_Marvel_HD/index.m3u8
+#EXTINF:-1 group-title="Инфолинк (KiNo)",BCU Romantic HD
+http://185.234.59.200:8080/BCU_Romantic_HD/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="ruskorabl" group-title="ViP",Плюс Минус 16 SD
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
@@ -93,14 +99,12 @@ http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="ViP",Retrovision Motor
 http://tinyurl.com/TvZaTak20/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="nano-hd" tvg-logo="https://iptvx.one/picons/nano-hd.png" group-title="ViP",NANO HD
-http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="nauka-20" group-title="ViP",Наука
 https://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" group-title="ViP",Ностальгия
 http://31.148.48.15:80/Nostalgiya/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="ViP",Лекторий Достоевский
-http://tinyurl.com/TvZaTak20/ushba3/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1  group-title="ЭфиР плюс",Россия 1 (-1)
