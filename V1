@@ -667,3 +667,11 @@ https://100.free-iptvchannel.workers.dev/udar_hd/index.m3u8
 https://100.free-iptvchannel.workers.dev/RTVS_Sport_SK/index.m3u8
 #EXTINF:-1 group-title="Free (VPN)",Fast&FunBox HD
 https://100.free-iptvchannel.workers.dev/FastFunBox_HD/index.m3u8
+
+ 
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Классика Кино
+http://api.peers.tv/timeshift/klassikakino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzY3NTk0MjAsImlhdCI6MTc3NjY3MzAyMCwiY2lkIjo2LCJ1aWQiOjEwMzUwMDQwOTgsInJlZyI6ZmFsc2UsImlwIjozMjQwMjkwMzEwLCJhZHVsdCI6ZmFsc2V9.QnXjzFouAbggxVKkopUBi48LOcRrn4iH7irX7tLtP1A&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Комедия
+http://api.peers.tv/timeshift/komediya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzY3NTk0MjAsImlhdCI6MTc3NjY3MzAyMCwiY2lkIjo2LCJ1aWQiOjEwMzUwMDQwOTgsInJlZyI6ZmFsc2UsImlwIjozMjQwMjkwMzEwLCJhZHVsdCI6ZmFsc2V9.QnXjzFouAbggxVKkopUBi48LOcRrn4iH7irX7tLtP1A&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Мосфильм. Золотая коллекция
+http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzY3NTk0MjAsImlhdCI6MTc3NjY3MzAyMCwiY2lkIjo2LCJ1aWQiOjEwMzUwMDQwOTgsInJlZyI6ZmFsc2UsImlwIjozMjQwMjkwMzEwLCJhZHVsdCI6ZmFsc2V9.QnXjzFouAbggxVKkopUBi48LOcRrn4iH7irX7tLtP1A&offset=10
