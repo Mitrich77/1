@@ -332,6 +332,14 @@ http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150
 http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
 #EXTINF:-1 group-title="SmotRiM",РОССИЯ РТР HD720 (СНГ)
 http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="SmotRiM",Россия 1 (+5)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/irkutsk/russia1-sd/index.m3u8
+#EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="SmotRiM",Россия 1 (+5)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia1-hd/index.m3u8
+
+
 #EXTINF:-1 group-title="SmotRiM",Кино и сериалы HD (СМОТРИМ)
 http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 #EXTINF:-1 group-title="SmotRiM",[Радио] Радио России HD
