@@ -35,8 +35,8 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v4a1/mono.ts.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_2.m3u8
 #EXTINF:-1 group-title="ViP",Звезда HD
 http://dmitry-tv.ddns.net/hls/T2/CH_ZVEZDAHD.m3u8
-#EXTINF:-1 tvg-logo="https://cinemaplex.ru/wp-content/uploads/2018/03/unnamed-optimized.jpg" group-title="ViP",STAR MEDIA
-https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ViP",Русская История
+http://217.174.229.136:8000/play/a09q
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i125.fastpic.org/big/2025/0816/97/2430143485b6473f00c800049faf5597.png" group-title="Новости",Россия 24 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
 #EXTINF:-1 group-title="Новости",Известия
