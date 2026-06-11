@@ -374,3 +374,10 @@ http://catchup.videoline.ru/asvtv/mono.m3u8
 http://185.229.235.30:8005/udp/225.15.3.149:2345
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="соловьев live" group-title="Новости",Соловьев Live
 http://31.148.48.15:80/EuroNews/index.m3u8
+
+#EXTINF:-1 group-title="Новости" ,Россия 24
+https://stream.smotrim.ru/hls/russia_24/playlist_1.m3u8
+#EXTINF:-1 group-title="Новости" ,РоССиЯ 24
+https://stream.smotrim.ru/hls/russia_24/playlist_2.m3u8
+#EXTINF:-1 group-title="Новости" ,РОССИЯ 24
+https://stream.smotrim.ru/hls/russia_24/playlist_3.m3u8
