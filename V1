@@ -209,8 +209,16 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/Россия 1 +9.png" group-title="ЭфиР плюс",Россия 1 +9
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
-#EXTINF:-1  tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/29/57d75294d1cc649835e15a0649b78829.png" group-title="Новости",НОВОРОССИЯ ТВ
-http://185.229.235.30:8005/udp/225.15.3.149:2345
+#EXTINF:-1 group-title="Новости" ,Соловьев Live /sd/
+https://stream.smotrim.ru/hls/solovievlive/playlist_1.m3u8
+#EXTINF:-1 group-title="Новости" ,Соловьев Live /SD/
+https://stream.smotrim.ru/hls/solovievlive/playlist_2.m3u8
+#EXTINF:-1 group-title="Новости" ,Соловьев Live (SD)
+https://stream.smotrim.ru/hls/solovievlive/playlist_3.m3u8
+#EXTINF:-1 group-title="Новости" ,Соловьев Live (HD)
+https://stream.smotrim.ru/hls/solovievlive/playlist_4.m3u8
+
+
 #EXTINF:-1  tvg-id="rossia-24" tvg-logo="https://i125.fastpic.org/big/2025/0816/97/2430143485b6473f00c800049faf5597.png" group-title="Новости",Россия 24 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
 
@@ -364,13 +372,5 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 #EXTINF:-1 group-title="Кино",Патриот
 http://catchup.videoline.ru/asvtv/mono.m3u8
 
-#EXTINF:-1 group-title="Новости" ,Соловьев Live 1
-https://stream.smotrim.ru/hls/solovievlive/playlist_1.m3u8
-#EXTINF:-1 group-title="Новости" ,Соловьев Live 2
-https://stream.smotrim.ru/hls/solovievlive/playlist_2.m3u8
-#EXTINF:-1 group-title="Новости" ,Соловьев Live 3
-https://stream.smotrim.ru/hls/solovievlive/playlist_3.m3u8
-#EXTINF:-1 group-title="Новости" ,Соловьев Live 4
-https://stream.smotrim.ru/hls/solovievlive/playlist_4.m3u8
-#EXTINF:-1 group-title="Новости" ,Соловьев Live 6
-https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
+#EXTINF:-1  tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/29/57d75294d1cc649835e15a0649b78829.png" group-title="Новости",НОВОРОССИЯ ТВ
+http://185.229.235.30:8005/udp/225.15.3.149:2345
