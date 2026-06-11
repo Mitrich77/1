@@ -209,15 +209,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/Россия 1 +9.png" group-title="ЭфиР плюс",Россия 1 +9
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
-#EXTINF:-1 group-title="Новости" ,Соловьев Live /sd/
-https://stream.smotrim.ru/hls/solovievlive/playlist_1.m3u8
-#EXTINF:-1 group-title="Новости" ,Соловьев Live /SD/
-https://stream.smotrim.ru/hls/solovievlive/playlist_2.m3u8
-#EXTINF:-1 group-title="Новости" ,Соловьев Live (SD)
-https://stream.smotrim.ru/hls/solovievlive/playlist_3.m3u8
-#EXTINF:-1 group-title="Новости" ,Соловьев Live (HD)
-https://stream.smotrim.ru/hls/solovievlive/playlist_4.m3u8
-
 
 #EXTINF:-1  tvg-id="rossia-24" tvg-logo="https://i125.fastpic.org/big/2025/0816/97/2430143485b6473f00c800049faf5597.png" group-title="Новости",Россия 24 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
@@ -243,8 +234,15 @@ http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA24_2.m3u8
 #EXTINF:-1 group-title="Новости" ,ИЗВЕСТИЯ
 http://91.194.191.241:8081/chid277/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="соловьев live" group-title="Новости",Соловьев Live
-http://31.148.48.15:80/EuroNews/index.m3u8
+#EXTINF:-1 group-title="Новости" ,Соловьев live
+https://stream.smotrim.ru/hls/solovievlive/playlist_1.m3u8
+#EXTINF:-1 group-title="Новости" ,Соловьев Live
+https://stream.smotrim.ru/hls/solovievlive/playlist_2.m3u8
+#EXTINF:-1 group-title="Новости" ,Соловьев LiVe
+https://stream.smotrim.ru/hls/solovievlive/playlist_3.m3u8
+#EXTINF:-1 group-title="Новости" ,Соловьев LiVE
+https://stream.smotrim.ru/hls/solovievlive/playlist_4.m3u8
+
 
 #EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Уфа",БСТ
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
@@ -374,3 +372,5 @@ http://catchup.videoline.ru/asvtv/mono.m3u8
 
 #EXTINF:-1  tvg-id="solovjinypomiot" tvg-logo="https://i125.fastpic.org/big/2025/0716/29/57d75294d1cc649835e15a0649b78829.png" group-title="Новости",НОВОРОССИЯ ТВ
 http://185.229.235.30:8005/udp/225.15.3.149:2345
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="соловьев live" group-title="Новости",Соловьев Live
+http://31.148.48.15:80/EuroNews/index.m3u8
