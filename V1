@@ -363,3 +363,14 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 
 #EXTINF:-1 group-title="Кино",Патриот
 http://catchup.videoline.ru/asvtv/mono.m3u8
+
+#EXTINF:-1 group-title="Новости" ,Соловьев Live 1
+https://stream.smotrim.ru/hls/solovievlive/playlist_1.m3u8
+#EXTINF:-1 group-title="Новости" ,Соловьев Live 2
+https://stream.smotrim.ru/hls/solovievlive/playlist_2.m3u8
+#EXTINF:-1 group-title="Новости" ,Соловьев Live 3
+https://stream.smotrim.ru/hls/solovievlive/playlist_3.m3u8
+#EXTINF:-1 group-title="Новости" ,Соловьев Live 4
+https://stream.smotrim.ru/hls/solovievlive/playlist_4.m3u8
+#EXTINF:-1 group-title="Новости" ,Соловьев Live 6
+https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
