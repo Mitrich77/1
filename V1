@@ -221,27 +221,30 @@ http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1  tvg-id="NEWS FRONT TV" tvg-logo="https://i125.fastpic.org/big/2025/0816/2e/4866f9ea89f91ece86b127c126af042e.png" group-title="Новости",News Front TV
 https://tv.2kita.com/stream/index.m3u8
-#EXTINF:-1  group-title="Новости",МИР 24
-http://a0925677.xsph.ru/hls/CH_MIR24.m3u8
-#EXTINF:-1  group-title="Новости",МИР 24 HD
-http://a0925677.xsph.ru/hls/CH_MIR24HD.m3u8
-#EXTINF:-1  group-title="Новости",РБК
-http://a0925677.xsph.ru/hls/CH_RBK.m3u8
-#EXTINF:-1  group-title="Новости",РБК HD
-http://a0925677.xsph.ru/hls/CH_RBKHD.m3u8
-#EXTINF:-1  tvg-logo="https://i125.fastpic.org/big/2025/0818/07/d8fe042a0019fedfbeeb4b318f590707.png" group-title="Новости",Россия 24 (+2)
-http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA24_2.m3u8
-#EXTINF:-1 group-title="Новости" ,ИЗВЕСТИЯ
-http://91.194.191.241:8081/chid277/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Новости" ,Соловьев live
+
+#EXTINF:-1 group-title="Новости" ,Россия 24
+https://stream.smotrim.ru/hls/russia_24/playlist_1.m3u8
+#EXTINF:-1 group-title="Новости" ,РоСсИя 24
+https://stream.smotrim.ru/hls/russia_24/playlist_2.m3u8
+#EXTINF:-1 group-title="Новости" ,РОССИЯ 24
+https://stream.smotrim.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Новости" ,ИЗВЕСТИЯ
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Новости" ,ИзВеСтИя
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Новости" ,Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/5e/cfa8a72e09e104849700db6919557f5e.png" group-title="Новости" ,Соловьев live
 https://stream.smotrim.ru/hls/solovievlive/playlist_1.m3u8
-#EXTINF:-1 group-title="Новости" ,Соловьев Live
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/5e/cfa8a72e09e104849700db6919557f5e.png" group-title="Новости" ,Соловьев Live
 https://stream.smotrim.ru/hls/solovievlive/playlist_2.m3u8
-#EXTINF:-1 group-title="Новости" ,Соловьев LiVe
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/5e/cfa8a72e09e104849700db6919557f5e.png" group-title="Новости" ,Соловьев LiVe
 https://stream.smotrim.ru/hls/solovievlive/playlist_3.m3u8
-#EXTINF:-1 group-title="Новости" ,Соловьев LiVE
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/5e/cfa8a72e09e104849700db6919557f5e.png" group-title="Новости" ,Соловьев LiVE
 https://stream.smotrim.ru/hls/solovievlive/playlist_4.m3u8
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/5e/cfa8a72e09e104849700db6919557f5e.png" group-title="Новости" ,СоловьёВ LiVE
+https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 
 
 #EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="Уфа",БСТ
@@ -450,3 +453,15 @@ https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Лен ТВ 24
 https://stream.smotrim.ru/hls/lentv24/playlist_5.m3u8
+#EXTINF:-1  group-title="Новости",МИР 24
+http://a0925677.xsph.ru/hls/CH_MIR24.m3u8
+#EXTINF:-1  group-title="Новости",МИР 24 HD
+http://a0925677.xsph.ru/hls/CH_MIR24HD.m3u8
+#EXTINF:-1  group-title="Новости",РБК
+http://a0925677.xsph.ru/hls/CH_RBK.m3u8
+#EXTINF:-1  group-title="Новости",РБК HD
+http://a0925677.xsph.ru/hls/CH_RBKHD.m3u8
+#EXTINF:-1  tvg-logo="https://i125.fastpic.org/big/2025/0818/07/d8fe042a0019fedfbeeb4b318f590707.png" group-title="Новости",Россия 24 (+2)
+http://a0925677.xsph.ru/hls/DVB-T2/CH_RUSSIA24_2.m3u8
+#EXTINF:-1 group-title="Новости" ,ИЗВЕСТИЯ
+http://91.194.191.241:8081/chid277/tracks-v1a1/mono.m3u8
