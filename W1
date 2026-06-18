@@ -282,8 +282,7 @@ https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v7a1/mono.ts.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/Россия 1 +5.png" group-title="ЭфиР плюс",Россия 1 +5
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+
 #EXTINF:-1  group-title="Музыкальные",Bridge TV Этно
 http://tvip.btk.teleos.ru:8081/chid520/index.m3u8
 
@@ -291,30 +290,29 @@ http://tvip.btk.teleos.ru:8081/chid520/index.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" group-title="Российские", Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
-#EXTINF:-1  group-title="Российские",Россия 1
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="Российские",Россия 1
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/Россия 1 +5.png" group-title="Российские",Россия 1 +5
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="Relax",Relax 12
 http://185.57.68.33/232/mpegts
-
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="Relax",Relax 1
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-
 #EXTINF:-1 tvg-id="Sochi Live" tvg-logo="http://i115.fastpic.org/big/2021/0925/60/9fb81f851b8d68ef84ff900adf597f60.png" group-title="Relax",SOCHI LIVE HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 
 
 
-#EXTINF:-1 group-title="SmotRiM",Россия 1
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1.m3u8
+
 #EXTINF:-1 group-title="SmotRiM",Россия 1 HD (-1)
 http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA1HD_KLGR.m3u8
+#EXTINF:-1 group-title="SmotRiM",Россия 1
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 group-title="SmotRiM",Россия 1 HD
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+#EXTINF:-1  group-title="SmotRiM",Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="SmotRiM",Россия 1
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="SmotRiM",Россия 1 HD (+1)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="SmotRiM",Россия 1 HD (+2)
@@ -325,6 +323,10 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="SmotRiM",Россия 1 HD (+5)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="SmotRiM",Россия 1 (+5)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/irkutsk/russia1-sd/index.m3u8
+#EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="SmotRiM",Россия 1 (+5)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="SmotRiM",Россия 1 HD (+6)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="SmotRiM",Россия 1 HD (+7)
@@ -341,13 +343,6 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="SmotRiM",Россия К HD (+7)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
-
-
-
-#EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="SmotRiM",Россия 1 (+5)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/irkutsk/russia1-sd/index.m3u8
-#EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="SmotRiM",Россия 1 (+5)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia1-hd/index.m3u8
 
 
 #EXTINF:-1 group-title="SmotRiM",Кино и сериалы HD (СМОТРИМ)
