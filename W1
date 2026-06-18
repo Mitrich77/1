@@ -213,7 +213,7 @@ https://stream.smotrim.ru/hls/solovievlive/playlist_4.m3u8
 https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
 #EXTINF:-1 group-title="Новости",МИР 24 HD
 http://dmitry-tv.ddns.net/hls/CH_MIR24HD.m3u8
-#EXTINF:-1 group-title="Новости",РБК
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0618/a7/33d07900235738fbed5ce753086274a7.png" group-title="Новости",РБК
 http://dmitry-tv.ddns.net/hls/CH_RBK.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)",Лен ТВ 24
 https://stream.smotrim.ru/hls/lentv24/playlist_5.m3u8
@@ -233,10 +233,10 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NEWS FRONT TV" tvg-logo="https://i125.fastpic.org/big/2025/0816/2e/4866f9ea89f91ece86b127c126af042e.png" group-title="Новости",News Front TV
 https://tv.2kita.com/stream/index.m3u8
-#EXTINF:-1 group-title="Новости",РБК HD
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0618/a7/33d07900235738fbed5ce753086274a7.png" group-title="Новости",РБК HD
 http://dmitry-tv.ddns.net/hls/CH_RBKHD.m3u8
 #EXTINF:-1 group-title="Новости",Первый информационный (Беларусь)
-http://dmitry-tv.ddns.net/hls/blrus/CH_1INFORMATSYONNY.m3u8
+http://dmitry-tv.ddns.net/hls/blrublrus1INFORMATSYONNY.m3u8
 #EXTINF:-1 group-title="Новости",РоссиЯ 24
 https://stream.smotrim.ru/hls/russia_24/playlist_1.m3u8
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Новости",Известия
