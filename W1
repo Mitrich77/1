@@ -324,12 +324,6 @@ http://hls.goodgame.ru:8080/hls/218531.m3u8
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ruskorabl" group-title="ViP",Плюс Минус 16 SD
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://www.rsl.ru/photo/!_ORS/documents/dostoevsky-banner.jpeg" group-title="ViP",ЛЕКТОРИЙ ДОСТОЕВСКИЙ SD
-https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="ViP",Retrovision Motor
-http://tinyurl.com/TvZaTak20/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="nano-hd" tvg-logo="https://iptvx.one/picons/nano-hd.png" group-title="ViP",NANO HD
-http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nauka-20" group-title="ViP",Наука
 https://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" group-title="ViP",Ностальгия
