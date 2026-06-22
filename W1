@@ -635,47 +635,49 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
 
+
+
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+1)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+1)
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_1.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+2)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+2)
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_2.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+3)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+3)
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_3.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+4)
 http://dmi3y-tv.online/hls/T2/CH_RUSSIA1_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+4)
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+5)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+5)
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_5.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+6)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+6)
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_6.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+7)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+7)
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_7.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+8)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_8.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+8)
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_8.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+9)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_9.m3u8
+
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+1)
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+2)
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+3)
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+4)
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+5)
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+6)
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+7)
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+8)
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_8.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+9)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
-
 
 
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
