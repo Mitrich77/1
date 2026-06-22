@@ -677,15 +677,34 @@ http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_9.m3u8
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
 
 
-
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
+http://dmi3y-tv.online/hls/T2/CH_RUSSIA24.m3u8
 #EXTINF:-1 group-title="Новости",Соловьев Live
 http://dmi3y-tv.online/hls/smotrim/CH_SOLOVIEVLIVE.m3u8
+#EXTINF:-1 group-title="Новости",Известия
+http://dmi3y-tv.online/hls/CH_I3BECTIYA.m3u8
+
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РоссиЯ 24 HD
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
 #EXTINF:-1 group-title="Новости",Соловьев Live HD
 http://dmi3y-tv.online/hls/smotrim/CH_SOLOVIEVLIVEHD.m3u8
+#EXTINF:-1 group-title="Новости",Известия HD
+http://dmi3y-tv.online/hls/CH_I3BECTIYAHD.m3u8
+
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
+http://dmi3y-tv.ddns.net/hls/T2/CH_RUSSIA24.m3u8
 #EXTINF:-1 group-title="Новости",Соловьев Live
 http://dmitry-tv.ddns.net/hls/smotrim/CH_SOLOVIEVLIVE.m3u8
+#EXTINF:-1 group-title="Новости",Известия
+http://dmitry-tv.ddns.net/hls/CH_I3BECTIYA.m3u8
+
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РоссиЯ 24 HD
+http://dmi3y-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
 #EXTINF:-1 group-title="Новости",Соловьев Live HD
 http://dmitry-tv.ddns.net/hls/smotrim/CH_SOLOVIEVLIVEHD.m3u8
+#EXTINF:-1 group-title="Новости",Известия HD
+http://dmitry-tv.ddns.net/hls/CH_I3BECTIYAHD.m3u8
+
 
 #EXTINF:-1 group-title="Новости",МИР 24 HD
 http://dmi3y-tv.online/hls/CH_MIR24HD.m3u8
@@ -693,21 +712,14 @@ http://dmi3y-tv.online/hls/CH_MIR24HD.m3u8
 http://dmi3y-tv.online/hls/CH_RBK.m3u8
 #EXTINF:-1 group-title="Новости",РБК HD
 http://dmi3y-tv.online/hls/CH_RBKHD.m3u8
-#EXTINF:-1 group-title="Новости",Известия
-http://dmi3y-tv.online/hls/CH_I3BECTIYA.m3u8
-#EXTINF:-1 group-title="Новости",Известия HD
-http://dmi3y-tv.online/hls/CH_I3BECTIYAHD.m3u8
 #EXTINF:-1 group-title="Новости",EURONEWS [RU]
 http://dmi3y-tv.online/hls/CH_EURONEWS_RU.m3u8
+
 #EXTINF:-1 group-title="Новости",МИР 24 HD
 http://dmitry-tv.ddns.net/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 group-title="Новости",РБК
 http://dmitry-tv.ddns.net/hls/CH_RBK.m3u8
 #EXTINF:-1 group-title="Новости",РБК HD
 http://dmitry-tv.ddns.net/hls/CH_RBKHD.m3u8
-#EXTINF:-1 group-title="Новости",Известия
-http://dmitry-tv.ddns.net/hls/CH_I3BECTIYA.m3u8
-#EXTINF:-1 group-title="Новости",Известия HD
-http://dmitry-tv.ddns.net/hls/CH_I3BECTIYAHD.m3u8
 #EXTINF:-1 group-title="Новости",EURONEWS [RU]
 http://dmitry-tv.ddns.net/hls/CH_EURONEWS_RU.m3u8
