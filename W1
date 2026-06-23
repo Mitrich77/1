@@ -694,15 +694,15 @@ http://dmi3y-tv.online/hls/CH_I3BECTIYAHD.m3u8
 #EXTINF:-1 group-title="Новости",Соловьев Live HD
 http://dmi3y-tv.online/hls/smotrim/CH_SOLOVIEVLIVEHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0622/9c/a696d0805c7b6c15cb66fa6e991f2d9c.png" group-title="Новости",Россия 24
-http://dmi3y-tv.ddns.net/hls/T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0623/74/f1cd4c0326e819622594dfd3681f5774.png" group-title="Новости",РоСсИя 24
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_2.m3u8
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Новости",Известия
 http://dmitry-tv.ddns.net/hls/CH_I3BECTIYA.m3u8
 #EXTINF:-1 group-title="Новости",Соловьев Live
 http://dmitry-tv.ddns.net/hls/smotrim/CH_SOLOVIEVLIVE.m3u8
 
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0622/9c/a696d0805c7b6c15cb66fa6e991f2d9c.png" group-title="ЭФИРНЫЕ",РоссиЯ 24 HD
-http://dmi3y-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0623/74/f1cd4c0326e819622594dfd3681f5774.png" group-title="Новости",РоСсИя 24
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_6.m3u8
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Новости",Известия HD
 http://dmitry-tv.ddns.net/hls/CH_I3BECTIYAHD.m3u8
 #EXTINF:-1 group-title="Новости",Соловьев Live HD
@@ -726,3 +726,8 @@ http://dmitry-tv.ddns.net/hls/CH_RBK.m3u8
 http://dmitry-tv.ddns.net/hls/CH_RBKHD.m3u8
 #EXTINF:-1 group-title="Новости",EURONEWS [RU]
 http://dmitry-tv.ddns.net/hls/CH_EURONEWS_RU.m3u8
+
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0622/9c/a696d0805c7b6c15cb66fa6e991f2d9c.png" group-title="Новости",Россия 24
+http://dmi3y-tv.ddns.net/hls/T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0622/9c/a696d0805c7b6c15cb66fa6e991f2d9c.png" group-title="ЭФИРНЫЕ",РоссиЯ 24 HD
+http://dmi3y-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24HD.m3http
