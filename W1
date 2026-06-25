@@ -698,7 +698,7 @@ http://dmi3y-tv.online/hls/smotrim/CH_SOLOVIEVLIVEHD.m3u8
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_2.m3u8
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Новости",Известия
 http://dmitry-tv.ddns.net/hls/CH_I3BECTIYA.m3u8
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0624/86/20b892f9355275814d5023402d8f0a86.png" group-title="Новости",Соловьёв Live
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0624/86/20b892f9355275814d5023402d8f0a86.png" group-title="Новости",Соловьёв live
 http://dmitry-tv.ddns.net/hls/smotrim/CH_SOLOVIEVLIVE.m3u8
 
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0624/41/5d8ea904390665c4f572f9e8d4cbac41.png" group-title="Новости",РоСсИя 24
