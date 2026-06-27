@@ -704,3 +704,19 @@ http://dmi3y-tv.online/hls/CH_EURONEWS_RU.m3u8
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+
+#EXTINF:-1 group-title="Спортивные",МАТЧ HD
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 group-title="Спортивные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",МАТЧ ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 group-title="Спортивные",МАТч ТВ
+http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные",МатЧ ТВ
+http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:-1 group-title="Спортивные",МаТч тв
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спортивные", МАтч тв
+http://catchup.videoline.ru/match/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч тв
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u81
