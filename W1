@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="ViP",Первый канал (+2)
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_2.m3u8
 #EXTINF:-1 group-title="ViP",Россия 1 (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_2.m3u8
