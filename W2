@@ -284,7 +284,15 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ZvezdaPlus.ru" group-title="ZVeZdA",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 
+#EXTINF:-1 tvg-id="bridge-tv-etno" group-title="Музыкальные",BridgE TV ЭтнО
+http://192.141.167.40/BRIDGE_ETHNO/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Bridge TV Этно
+http://tvip.btk.teleos.ru:8081/chid520/index.m3u8
 
+#EXTINF:-1 tvg-id="bridge-tv-etno" group-title="Музыкальные",BriDge TV Этно
+http://192.141.167.40/BRIDGE_ETHN0/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",BridGe TV Этно
+http://tvip.btk.teleos.ru:8081/chid521/index.m3u8
 
 
 
