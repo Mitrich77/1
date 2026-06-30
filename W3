@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 group-title="Новости",РОссия 24
 http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA24.m3u8
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Новости",ИзВеСтИя
