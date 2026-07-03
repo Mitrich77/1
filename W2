@@ -445,69 +445,69 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ViP",Россия 1
+#EXTINF:-1 tvg-chno="200" group-title="ViP",Россия 1
 http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1_MURM.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+1)
+#EXTINF:-1 tvg-chno="201" group-title="ЭФИРНЫЕ",Россия 1 (+1)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+2)
+#EXTINF:-1 tvg-chno="202" group-title="ЭФИРНЫЕ",Россия 1 (+2)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+3)
+#EXTINF:-1 tvg-chno="203" group-title="ЭФИРНЫЕ",Россия 1 (+3)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+4)
+#EXTINF:-1 tvg-chno="204" group-title="ЭФИРНЫЕ",Россия 1 (+4)
 http://dmi3y-tv.online/hls/T2/CH_RUSSIA1_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+5)
+#EXTINF:-1 tvg-chno="205" group-title="ЭФИРНЫЕ",Россия 1 (+5)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+6)
+#EXTINF:-1 tvg-chno="206" group-title="ЭФИРНЫЕ",Россия 1 (+6)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+7)
+#EXTINF:-1 tvg-chno="207" group-title="ЭФИРНЫЕ",Россия 1 (+7)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+8)
+#EXTINF:-1 tvg-chno="208" group-title="ЭФИРНЫЕ",Россия 1 (+8)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_8.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+9)
+#EXTINF:-1 tvg-chno="209" group-title="ЭФИРНЫЕ",Россия 1 (+9)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_9.m3u8
 
-#EXTINF:-1 group-title="ViP",Россия 1 HD
+#EXTINF:-1 tvg-chno="210" group-title="ViP",Россия 1 HD
 http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1HD_SPB.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+1)
+#EXTINF:-1 tvg-chno="211" group-title="ЭФИРНЫЕ",Россия 1 HD (+1)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+2)
+#EXTINF:-1 tvg-chno="212" group-title="ЭФИРНЫЕ",Россия 1 HD (+2)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+3)
+#EXTINF:-1 tvg-chno="213" group-title="ЭФИРНЫЕ",Россия 1 HD (+3)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+4)
+#EXTINF:-1 tvg-chno="214" group-title="ЭФИРНЫЕ",Россия 1 HD (+4)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+5)
+#EXTINF:-1 tvg-chno="215" group-title="ЭФИРНЫЕ",Россия 1 HD (+5)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_5.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+6)
+#EXTINF:-1 tvg-chno="216" group-title="ЭФИРНЫЕ",Россия 1 HD (+6)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+7)
+#EXTINF:-1 tvg-chno="217" group-title="ЭФИРНЫЕ",Россия 1 HD (+7)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+8)
+#EXTINF:-1 tvg-chno="218" group-title="ЭФИРНЫЕ",Россия 1 HD (+8)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_8.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+9)
+#EXTINF:-1 tvg-chno="219" group-title="ЭФИРНЫЕ",Россия 1 HD (+9)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0624/41/5d8ea904390665c4f572f9e8d4cbac41.png" group-title="Новости",РоссиЯ 24 HD
+#EXTINF:-1 tvg-chno="220" tvg-logo="https://i127.fastpic.org/big/2026/0624/41/5d8ea904390665c4f572f9e8d4cbac41.png" group-title="Новости",РоссиЯ 24 HD
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0625/7a/81319e9490dc9ee272d417c965f95b7a.png" group-title="Новости",Известия HD
+#EXTINF:-1 tvg-chno="221" tvg-logo="https://i127.fastpic.org/big/2026/0625/7a/81319e9490dc9ee272d417c965f95b7a.png" group-title="Новости",Известия HD
 http://dmi3y-tv.online/hls/CH_I3BECTIYAHD.m3u8
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0624/86/20b892f9355275814d5023402d8f0a86.png" group-title="Новости",Соловьев Live HD
+#EXTINF:-1 tvg-chno="222" tvg-logo="https://i127.fastpic.org/big/2026/0624/86/20b892f9355275814d5023402d8f0a86.png" group-title="Новости",Соловьев Live HD
 http://dmi3y-tv.online/hls/smotrim/CH_SOLOVIEVLIVEHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0624/41/5d8ea904390665c4f572f9e8d4cbac41.png" group-title="Новости",Россия 24
+#EXTINF:-1 tvg-chno="223" tvg-logo="https://i127.fastpic.org/big/2026/0624/41/5d8ea904390665c4f572f9e8d4cbac41.png" group-title="Новости",Россия 24
 http://dmi3y-tv.online/hls/T2/CH_RUSSIA24.m3u8
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0625/7a/81319e9490dc9ee272d417c965f95b7a.png" group-title="Новости",Известия
+#EXTINF:-1 tvg-chno="224" tvg-logo="https://i127.fastpic.org/big/2026/0625/7a/81319e9490dc9ee272d417c965f95b7a.png" group-title="Новости",Известия
 http://dmi3y-tv.online/hls/CH_I3BECTIYA.m3u8
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0624/86/20b892f9355275814d5023402d8f0a86.png" group-title="Новости",Соловьев Live
+#EXTINF:-1 tvg-chno="225" tvg-logo="https://i127.fastpic.org/big/2026/0624/86/20b892f9355275814d5023402d8f0a86.png" group-title="Новости",Соловьев Live
 http://dmi3y-tv.online/hls/smotrim/CH_SOLOVIEVLIVE.m3u8
 
 
-#EXTINF:-1 group-title="Новости",МИР 24 HD
+#EXTINF:-1 tvg-chno="226" group-title="Новости",МИР 24 HD
 http://dmi3y-tv.online/hls/CH_MIR24HD.m3u8
-#EXTINF:-1 group-title="Новости",РБК HD
+#EXTINF:-1 tvg-chno="227" group-title="Новости",РБК HD
 http://dmi3y-tv.online/hls/CH_RBKHD.m3u8
-#EXTINF:-1 group-title="Новости",EURONEWS [RU]
+#EXTINF:-1 tvg-chno="228" group-title="Новости",EURONEWS [RU]
 http://dmi3y-tv.online/hls/CH_EURONEWS_RU.m3u8
 
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1
