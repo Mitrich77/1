@@ -669,7 +669,7 @@ http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_2.m3u8
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_3.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+4)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+5)
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0706/73/4b292e803f10ad1c3f864e1fa36d4b73.png" group-title="ЭФИРНЫЕ",Россия 1 HD (+5)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_5.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+6)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_6.m3u8
