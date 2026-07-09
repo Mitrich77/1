@@ -682,7 +682,7 @@ http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0708/7d/8ac0ebcbaf810f0d84a97d12bc9c7e7d.png" group-title="Новости",РоссиЯ 24 HD
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Новости",ИзвестиЯ HD
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0709/9a/af29715d59f83aa96b5a253d0fffc69a.png" group-title="Новости",ИзвестиЯ HD
 http://dmi3y-tv.online/hls/CH_I3BECTIYAHD.m3u8
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0623/6d/5776c8a9d200ee8c5a52e3f7175f356d.png" group-title="Новости",Соловьев Live HD
 http://dmi3y-tv.online/hls/smotrim/CH_SOLOVIEVLIVEHD.m3u8
@@ -691,7 +691,7 @@ http://dmi3y-tv.online/hls/smotrim/CH_SOLOVIEVLIVEHD.m3u8
 http://dmi3y-tv.online/hls/T2/CH_RUSSIA24.m3u8
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Новости",Известия
 http://dmi3y-tv.online/hls/CH_I3BECTIYA.m3u8
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0623/6d/5776c8a9d200ee8c5a52e3f7175f356d.png" group-title="Новости",Соловьев Live
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0709/9a/af29715d59f83aa96b5a253d0fffc69a.png" group-title="Новости",Соловьев Live
 http://dmi3y-tv.online/hls/smotrim/CH_SOLOVIEVLIVE.m3u8
 
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0708/5b/5e916a92397e507adc6b3d20e81e685b.png" group-title="Новости",РоСсИя 24
