@@ -177,7 +177,7 @@ http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_ZVEZDA.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_4.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Звезда (+6)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_6.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Mitrich77/ico/blob/14bbb4cb41c9a60e0705a97c9b58c97853e8c283/PocciR_HD_-1.png" group-title="ЭфиР плюс",°°°
+#EXTINF:-1 tvg-logo="https://github.com/Mitrich77/ico/blob/14bbb4cb41c9a60e0705a97c9b58c97853e8c283/PocciR_HD_-1.png" group-title="ЭфиР плюс",°88°
 http://dmitry-tv.ddns.net/hls/DVB-T2/88.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Звезда (+7)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_7.m3u8
