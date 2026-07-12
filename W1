@@ -601,6 +601,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="SanktPeterburg.ru@SD",Санкт-Петербург
 https://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8
 
+#EXTINF:-1 group-title="ЭФИРНЫЕ",°188°
+http://dmi3y-tv.online/hls/smotrim/T2/188.m3u8
+
 #EXTINF:-1 tvg-id="Smotrim100Detskoe.ru@SD",Смотрим 100% Детское
 https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
 #EXTINF:-1 tvg-id="Smotrim100Klassika.ru@SD",Смотрим 100% Классика
@@ -684,13 +687,7 @@ http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0708/7d/8ac0ebcbaf810f0d84a97d12bc9c7e7d.png" group-title="Новости",РоссиЯ 24 HD
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0709/9a/af29715d59f83aa96b5a253d0fffc69a.png" group-title="Новости",ИзвестиЯ HD
-http://dmi3y-tv.online/hls/CH_I3BECTIYAHD.m3u8
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0623/6d/5776c8a9d200ee8c5a52e3f7175f356d.png" group-title="Новости",Соловьев Live HD
-http://dmi3y-tv.online/hls/smotrim/CH_SOLOVIEVLIVEHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0708/5b/5e916a92397e507adc6b3d20e81e685b.png" group-title="Новости",Россия 24
-http://dmi3y-tv.online/hls/T2/CH_RUSSIA24.m3u8
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0709/fc/297cbacc1caf98f5a226262f65fb90fc.png" group-title="Новости",Известия
+http://dmi3y-tv.online/hls/CH_I3BECTIYAHDsmotrim-logo="https://i127.fastpic.org/big/2026/0709/fc/297cbacc1caf98f5a226262f65fb90fc.png" group-title="Новости",Известия
 http://dmi3y-tv.online/hls/CH_I3BECTIYA.m3u8
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0624/86/20b892f9355275814d5023402d8f0a86.png" group-title="Новости",Соловьев Live
 http://dmi3y-tv.online/hls/smotrim/CH_SOLOVIEVLIVE.m3u8
