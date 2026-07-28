@@ -445,6 +445,33 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-chno="187" group-title="ViP",187
+http://dmi3y-tv.online/hls/smotrim/region/187.m3u8
+#EXTINF:-1 tvg-chno="188" group-title="ViP",188
+http://dmi3y-tv.online/hls/smotrim/region/188.m3u8
+#EXTINF:-1 tvg-chno="189" group-title="ViP",189
+http://dmi3y-tv.online/hls/smotrim/region/189.m3u8
+#EXTINF:-1 tvg-chno="190" group-title="ViP",190
+http://dmi3y-tv.online/hls/smotrim/region/190.m3u8
+#EXTINF:-1 tvg-chno="191" group-title="ViP",191
+http://dmi3y-tv.online/hls/smotrim/region/191.m3u8
+#EXTINF:-1 tvg-chno="192" group-title="ViP",192
+http://dmi3y-tv.online/hls/smotrim/region/192.m3u8
+#EXTINF:-1 tvg-chno="193" group-title="ViP",193
+http://dmi3y-tv.online/hls/smotrim/region/193.m3u8
+#EXTINF:-1 tvg-chno="194" group-title="ViP",194
+http://dmi3y-tv.online/hls/smotrim/region/194.m3u8
+#EXTINF:-1 tvg-chno="195" group-title="ViP",195
+http://dmi3y-tv.online/hls/smotrim/region/195.m3u8
+#EXTINF:-1 tvg-chno="196" group-title="ViP",196
+http://dmi3y-tv.online/hls/smotrim/region/196.m3u8
+#EXTINF:-1 tvg-chno="197" group-title="ViP",197
+http://dmi3y-tv.online/hls/smotrim/region/197.m3u8
+#EXTINF:-1 tvg-chno="198" group-title="ViP",198
+http://dmi3y-tv.online/hls/smotrim/region/198.m3u8
+#EXTINF:-1 tvg-chno="199" group-title="ViP",199
+http://dmi3y-tv.online/hls/smotrim/region/199.m3u8
+
 #EXTINF:-1 tvg-chno="200" group-title="ViP",Россия 1
 http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1_MURM.m3u8
 #EXTINF:-1 tvg-chno="201" group-title="ЭФИРНЫЕ",Россия 1 (+1)
