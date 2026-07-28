@@ -177,8 +177,7 @@ http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIAK_7.m3u8
 http://dmi3y-tv.online/hls/DVB-T2/CH_TVC.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Звезда
 http://dmi3y-tv.online/hls/DVB-T2/CH_ZVEZDA.m3u8
-#EXTINF:-1 group-title="ViP",Звезда (+2)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_ZVEZDA.m3u8
+
 #EXTINF:-1 group-title="ЭфиР плюс",Звезда (+4)
 http://dmi3y-tv.online/hls/DVB-T2/CH_ZVEZDA_4.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Звезда (+6)
