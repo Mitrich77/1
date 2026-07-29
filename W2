@@ -532,24 +532,18 @@ http://dmi3y-tv.online/hls/CH_I3BECTIYA.m3u8
 http://dmi3y-tv.online/hls/smotrim/CH_SOLOVIEVLIVE.m3u8
 
 
-#EXTINF:-1 tvg-chno="226" group-title="Новости",МИР 24 HD
+#EXTINF:-1 tvg-chno="226" group-title="Новости",МиР 24 HD
 http://dmi3y-tv.online/hls/CH_MIR24HD.m3u8
-#EXTINF:-1 tvg-chno="227" group-title="Новости",РБК HD
+#EXTINF:-1 tvg-chno="227" group-title="Новости",РБК hd
 http://dmi3y-tv.online/hls/CH_RBKHD.m3u8
 #EXTINF:-1 tvg-chno="228" group-title="Новости",EURONEWS [RU]
 http://dmi3y-tv.online/hls/CH_EURONEWS_RU.m3u8
 
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 
 #EXTINF:-1 group-title="Спортивные",МАТЧ HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
-
-
-#EXTINF:-1 group-title="Спорт" ,МатЧ ТВ HD
+#EXTINF:-1 group-title="Спорт" ,МатЧ! ТВ HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 group-title="Спорт",МаТч! ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
