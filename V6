@@ -1,62 +1,103 @@
 #EXTM3U
-#EXTINF:-1 group-title="УФА",Первый канал (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_1TV.m3u8
-#EXTINF:-1 group-title="УФА",Россия 1 (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_ROSSIA1.m3u8
-#EXTINF:-1 group-title="УФА",Матч! (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_MATCHTV.m3u8
-#EXTINF:-1 group-title="УФА",НТВ (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_NTV.m3u8
-#EXTINF:-1 group-title="УФА",Пятый канал (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_5TV.m3u8
-#EXTINF:-1 group-title="УФА",Россия K (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_ROSSIAK.m3u8
-#EXTINF:-1 group-title="УФА",Россия 24 (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_ROSSIA24.m3u8
-#EXTINF:-1 group-title="УФА",Карусель (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_KARUSEL.m3u8
-#EXTINF:-1 group-title="УФА",ОТР (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_OTR.m3u8
-#EXTINF:-1 group-title="УФА",ТВЦ (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_TVC.m3u8
-#EXTINF:-1 group-title="УФА",РЕН ТВ (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_RENTV.m3u8
-#EXTINF:-1 group-title="УФА",СТС (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_STS.m3u8
-#EXTINF:-1 group-title="УФА",Домашний (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_DOMASHNIY.m3u8
-#EXTINF:-1 group-title="УФА",ТВ3 (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_TV3.m3u8
-#EXTINF:-1 group-title="УФА",Пятница! (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_FRIDAY.m3u8
-#EXTINF:-1 group-title="УФА",Звезда (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_ZVEZDA.m3u8
-#EXTINF:-1 group-title="УФА",ТНТ (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_TNT.m3u8
-#EXTINF:-1 group-title="УФА",Че! (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_CHE.m3u8
-#EXTINF:-1 group-title="УФА",Ю (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_U.m3u8
-#EXTINF:-1 group-title="УФА",Башкортостан 24 HD720 (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_BASHKORTOSTAN24HD720.m3u8
-#EXTINF:-1 group-title="УФА",Матур ТВ HD (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_MATURTVHD.m3u8
-#EXTINF:-1 group-title="УФА",ШАЯН (Казань)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_SHAYANTV_KZN.m3u8
-#EXTINF:-1 group-title="УФА",ТАМЫР (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_TAMYRTV.m3u8
-#EXTINF:-1 group-title="УФА",САЛЯМ HD (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_SALYAMHD.m3u8
-#EXTINF:-1 group-title="УФА",ТНВ Планета (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_TNVPLANETA.m3u8
-#EXTINF:-1 group-title="УФА",NEXT TV (Нефтекамск)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_NEXTTV_NFSK.m3u8
-#EXTINF:-1 group-title="УФА",Туган Тел (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_TUGANTEL.m3u8
-#EXTINF:-1 group-title="УФА",Курай ТВ (Уфа)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_KURAYTV.m3u8
-#EXTINF:-1 group-title="УФА",Учалы ТВ (Учалы)
-http://dmi3y-tv.online/hls/zabava/region/UFA/CH_UCHALYTV.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="pervy-pl2",Первый (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="rossia1-pl2",Россия 1 (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="match-tv",Матч ТВ (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_ROSSIA2/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="ntv-pl2",НТВ (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="5kanal-ru-pl2",Пятый (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="kultura-pl2",Россия К (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="rossia-24",Россия 24 (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="karusel-pl2",Карусель (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="otr-pl2",ОТР (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="tvcentr-pl2",ТВ Центр (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="rentv-pl2",РЕН ТВ (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="sts-pl2",СТС (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="domashny-pl2",Домашний (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="tv3-ru-pl2",ТВ-3 (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="piatnica-pl2",Пятница! (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="zvezda-pl2",Звезда (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="tnt-pl2",ТНТ (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="che-pl2",Че! (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="yu-pl2",Ю (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="tnv-planeta",ТНВ Планета (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="pervy-pl2",Первый (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R03_1TV_UFA/variant.m3u8
+#EXTINF:-1 group-title="Уфа",360°-Белорецк (Белорецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_BELORETSK/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="kuraj",Курай (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_KURAI/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="next-tv",Next TV (Нефтекамск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="tugan-tel",Туган Тел (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_TUGANTEL/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="bashkortostan24",Башкортостан 24 (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="matur-tv",Матур ТВ (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="salam",Салям (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_SALYAM/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="uchaly-tv",Учалы ТВ (Учалы)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_UCHALYTV/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="shayantv",Шаян ТВ (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+#EXTINF:-1 group-title="Уфа" tvg-id="tamyr",Тамыр (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R03_TAMYRTV/variant.m3u8
+#EXTINF:-1 group-title="Благовещенск" tvg-id="rossia1-pl6",Россия 1 (Благовещенск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s84942.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Благовещенск" tvg-id="5kanal-ru-pl7",Пятый (Благовещенск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s84942.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 
 #EXTINF:-1 group-title="Новости" ,ИЗВЕСТИЯ
 http://91.194.191.241:8081/chid277/tracks-v1a1/mono.m3u8
