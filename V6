@@ -1,8 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ViP" tvg-id="pervy-pl2",Первый канал (Уфа)
+#EXTINF:-1 group-title="ViP" tvg-id="pervy-pl2",Первый (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://s45177.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+https://s45177.cdn.ngenix.net/hls/CH_R03_1TV_UFA/variant.m3u8
+
 #EXTINF:-1 group-title="ViP" tvg-id="rossia1-pl2",Россия 1 (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
@@ -122,28 +123,9 @@ https://s45177.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 #EXTINF:-1 group-title="ViP" tvg-id="bashkortostan24",Башкортостан 24 (Башкортостан)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
-
-
-
-
-#EXTINF:-1 group-title="ViP" tvg-id="tnv-planeta",ТНВ Планета (Уфа)
+#EXTINF:-1 group-title="ViP" tvg-id="pervy-pl2",Первый канал (+2 Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://s45177.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="pervy-pl2",Первый (Уфа)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://s45177.cdn.ngenix.net/hls/CH_R03_1TV_UFA/variant.m3u8
-#EXTINF:-1 group-title="ViP",360°-Белорецк (Белорецк)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://s45177.cdn.ngenix.net/hls/CH_R01_BELORETSK/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="kuraj",Курай (Башкортостан)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://s45177.cdn.ngenix.net/hls/CH_R01_KURAI/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="next-tv",Next TV (Нефтекамск)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="tugan-tel",Туган Тел (Башкортостан)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://s45177.cdn.ngenix.net/hls/CH_R01_TUGANTEL/variant.m3u8
+https://s45177.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 
 
 
