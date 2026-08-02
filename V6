@@ -1,122 +1,150 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="pervy-pl2" group-title="Vipp",Первый (+2)
+
+#EXTINF:-1 group-title="ViP" tvg-id="pervy-pl2",Первый канал (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
-#EXTINF:-1 tvg-id="rossia1-pl2" group-title="Vipp",Россия 1 (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="rossia1-pl2",Россия 1 (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-id="sts-pl2" group-title="Vipp",СТС (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="sts-pl2",СТС (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
-#EXTINF:-1 tvg-id="ntv-pl2" group-title="Vipp",НТВ (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="ntv-pl2",НТВ (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
-#EXTINF:-1 tvg-id="match-tv" group-title="Vipp",Матч ТВ (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="match-tv",Матч ТВ (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R02_ROSSIA2/variant.m3u8
-#EXTINF:-1 tvg-id="kultura-pl2" group-title="Vipp",Россия К (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="kultura-pl2",Россия К (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
-#EXTINF:-1 tvg-id="rossia-24" group-title="Vipp",Россия 24 (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="rossia-24",Россия 24 (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Vipp",Известия
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="ViP",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/5e/cfa8a72e09e104849700db6919557f5e.png" group-title="Vipp",Соловьев live
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/5e/cfa8a72e09e104849700db6919557f5e.png" group-title="ViP",Соловьев live
 https://stream.smotrim.ru/hls/solovievlive/playlist_1.m3u8
-#EXTINF:-1 tvg-id="otr-pl2" group-title="Vipp",ОТР (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="otr-pl2",ОТР (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
-#EXTINF:-1 tvg-id="rentv-pl2" group-title="Vipp",РЕН ТВ (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="rentv-pl2",РЕН ТВ (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
-#EXTINF:-1 tvg-id="mir-pl2" group-title="Vipp",МИР (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="mir-pl2",МИР (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
-#EXTINF:-1 tvg-id="5kanal-ru-pl2" group-title="Vipp",Пятый (+2)
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_MIR_NTAG/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="5kanal-ru-pl2",Пятый канал (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
-#EXTINF:-1 tvg-id="tvcentr-pl2" group-title="Vipp",ТВ Центр (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="tvcentr-pl2",ТВ Центр (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
-#EXTINF:-1 tvg-id="spas-pl2" group-title="Vipp",Спас (+2)
+#EXTINF:-1 tvg-id="spas-pl2" group-title="ViP",Спас (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
-#EXTINF:-1 tvg-id="ZvezdaPlus.ru" group-title="Vipp",ЗвеЗда Плюс
+#EXTINF:-1 tvg-id="ZvezdaPlus.ru" group-title="ViP",ЗвеЗда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 tvg-id="zvezda-pl2" group-title="Vipp",Звезда (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="zvezda-pl2",Звезда (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
-#EXTINF:-1 tvg-id="zvezda" group-title="Vipp",Звезда
+https://s45177.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="zvezda",Звезда (Москва)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 tvg-id="mir" group-title="Vipp",МИР
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="mir",МИР (Санкт-Петербург)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i125.fastpic.org/big/2025/0816/97/2430143485b6473f00c800049faf5597.png" group-title="Vipp",Россия 24 HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_MIR/variant.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i125.fastpic.org/big/2025/0816/97/2430143485b6473f00c800049faf5597.png" group-title="ViP",Россия 24 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Vipp",ИзВеСтИя
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="ViP",ИзВеСтИя
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Vipp",Соловьев LiVE
+#EXTINF:-1 group-title="ViP",Соловьев LiVE
 https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
-#EXTINF:-1 tvg-id="pervy" group-title="Vipp",Первый
+
+#EXTINF:-1 group-title="ViP" tvg-id="pervy",Первый канал (Москва)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
-#EXTINF:-1 tvg-id="rossia1" group-title="Vipp",Россия 1
+#EXTINF:-1 group-title="ViP" tvg-id="rossia1",Россия 1 (Москва)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-id="sts" group-title="Vipp",СТС
+#EXTINF:-1 group-title="ViP" tvg-id="sts",СТС (Санкт-Петербург)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 tvg-id="ntv" group-title="Vipp",НТВ
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="ntv",НТВ (Москва)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
-#EXTINF:-1 tvg-id="rentv" group-title="Vipp",РЕН ТВ
+#EXTINF:-1 group-title="ViP" tvg-id="rentv",РЕН ТВ (Санкт-Петербург)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 tvg-id="domashny-pl2" group-title="Vipp",Домашний (+2)
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_SPBR/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="domashny-pl2",Домашний (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
-#EXTINF:-1 tvg-id="tnt" group-title="Vipp",ТНТ
+https://s45177.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="tnt-pl2",ТНТ (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 tvg-id="tnt-pl2" group-title="Vipp",ТНТ (+2)
+https://s45177.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="tnt",ТНТ (Санкт-Петербург)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 tvg-id="tnt4-pl2" group-title="Vipp",ТНТ4 (+2)
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="tnt4",ТНТ4 (Санкт-Петербург)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
-#EXTINF:-1 tvg-id="muztv-pl2" group-title="Vipp",МУЗ-ТВ (+2)
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT4/variant.m3u8
+#EXTINF:-1 tvg-id="muztv-pl2" group-title="ViP",МУЗ-ТВ (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-#EXTINF:-1 tvg-id="2na2-pl2" group-title="Vipp",2x2 (+2)
+
+
+#EXTINF:-1 group-title="ViP" tvg-id="2na2",2x2 (Санкт-Петербург)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
-#EXTINF:-1 tvg-id="sts-love-pl2" group-title="Vipp",СТС Love (+2)
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_2X2/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="sts-love",СТС Love (Москва)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
-#EXTINF:-1 tvg-id="super-pl2" group-title="Vipp",Суббота (+2)
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STSLOVE/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="super-pl2",Суббота (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
-#EXTINF:-1 tvg-id="che-pl2" group-title="Vipp",Че! (+2)
+
+
+#EXTINF:-1 group-title="ViP" tvg-id="che-pl2",Че! (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
-#EXTINF:-1 tvg-id="yu-pl2" group-title="Vipp",Ю (+2)
+https://s45177.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="yu-pl2",Ю (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
-#EXTINF:-1 tvg-id="karusel-pl2" group-title="Vipp",Карусель (+2)
+https://s45177.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="karusel-pl2",Карусель (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-#EXTINF:-1 tvg-id="tv3-ru-pl2" group-title="Vipp",ТВ-3 (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="tv3-ru-pl2",ТВ-3 (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
-#EXTINF:-1 tvg-id="piatnica-pl2" group-title="Vipp",Пятница! (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="piatnica-pl2",Пятница! (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="Vipp",Известия
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Vipp",РОссия 24
-http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="bashkortostan24",Башкортостан 24 (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
+
+
+
+
+#EXTINF:-1 group-title="ViP" tvg-id="tnv-planeta",ТНВ Планета (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="pervy-pl2",Первый (Уфа)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R03_1TV_UFA/variant.m3u8
+#EXTINF:-1 group-title="ViP",360°-Белорецк (Белорецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_BELORETSK/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="kuraj",Курай (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_KURAI/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="next-tv",Next TV (Нефтекамск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="tugan-tel",Туган Тел (Башкортостан)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_TUGANTEL/variant.m3u8
+
 
 
 
