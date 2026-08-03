@@ -122,6 +122,23 @@ https://s45177.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 
+#EXTINF:-1  group-title="ViP",ОСН
+http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ViP" audio-track="rus", Видеокассета HD
+https://lbgo.bozztv.com/ssh101/ssh101/livebest90e/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1 group-title="ViP" audio-track="rus", Ретро
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 tvg-id="sovkino" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="ViP",Советское кино
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="ViP",Мосфильм. Золотая коллекция
+http://178.134.1.158:8081/mosfilm/index.m3u8
+#EXTINF:-1 group-title="ViP" audio-track="rus", Мосфильм. Золотая коллекция HD
+http://stream.mcquack.net/369/index.m3u8
+
+
+
 #EXTINF:-1 group-title="ViP" tvg-id="bashkortostan24",Башкортостан 24
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
@@ -132,102 +149,108 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
 
+#EXTINF:-1 group-title="ViP" audio-track="rus", БСТ
+http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="ViP" audio-track="rus", БСТ HD
+http://bsttv.bonus-tv.ru/cdn/hdbst/playlist_hdhigh.m3u8
+
 
 
 #EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-m1",РоссиЯ 1 (-1)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="rossia1",РоссиЯ 1
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1",РоссиЯ 1
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Самара" tvg-id="rossia1-pl1",РоссиЯ 1 (+1)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl1",РоссиЯ 1 (+1)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Екатеринбург" tvg-id="rossia1-pl2",РоссиЯ 1 (+2)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl2",РоссиЯ 1 (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_EKT/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="rossia1-pl3",РоссиЯ 1 (+3)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl3",РоссиЯ 1 (+3)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA1_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="rossia1-pl3",РоссиЯ 1 (+3)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl3",РоссиЯ 1 (+3)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="rossia1-pl3",РоссиЯ 1 (+3)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl3",РоссиЯ 1 (+3)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Новосибирск" tvg-id="rossia1-pl4",РоссиЯ 1 (+4)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl4",РоссиЯ 1 (+4)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA1_NSK/variant.m3u8
-#EXTINF:-1 group-title="Новосибирск" tvg-id="rossia1-pl4",РоссиЯ 1 (+4)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl4",РоссиЯ 1 (+4)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_NSK/variant.m3u8
-#EXTINF:-1 group-title="Иркутск" tvg-id="rossia1-pl5",РоссиЯ 1 (+5)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl5",РоссиЯ 1 (+5)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA1_IRKUTSK/variant.m3u8
-#EXTINF:-1 group-title="Иркутск" tvg-id="rossia1-pl5",РоссиЯ 1 (+5)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl5",РоссиЯ 1 (+5)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_IRKUTSK/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="rossia1-pl6",РоссиЯ 1 (+6)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl6",РоссиЯ 1 (+6)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA1_ZK/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="rossia1-pl6",РоссиЯ 1 (+6)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl6",РоссиЯ 1 (+6)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA1_ZK/variant.m3u8
-#EXTINF:-1 group-title="Владивосток" tvg-id="rossia1-pl7",РоссиЯ 1 (+7)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl7",РоссиЯ 1 (+7)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s91030.cdn.ngenix.net/hls/CH_R04_RUS8_OTT/variant.m3u8
-#EXTINF:-1 group-title="Сахалин" tvg-id="rossia1-pl8",РоссиЯ 1 (+8)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl8",РоссиЯ 1 (+8)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s14553.cdn.ngenix.net/hls/CH_R04_ROSSIA1_SLIN/variant.m3u8
-#EXTINF:-1 group-title="Камчатка" tvg-id="rossia1-pl9",РоссиЯ 1 (+9)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl9",РоссиЯ 1 (+9)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KAM/variant.m3u8
 
 
 
 
-#EXTINF:-1 group-title="Калининград" tvg-id="pervy-mn1",ПервыЙ КанаЛ (-1)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="pervy-mn1",ПервыЙ КанаЛ (-1)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
-#EXTINF:-1 group-title="Санкт-Петербург" tvg-id="pervy",ПервыЙ КанаЛ
+#EXTINF:-1 group-title="ЭфиР" tvg-id="pervy",ПервыЙ КанаЛ
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
-#EXTINF:-1 group-title="Самара" tvg-id="pervy-pl1",ПервыЙ КанаЛ (+1)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="pervy-pl1",ПервыЙ КанаЛ (+1)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="pervy-pl2",ПервыЙ КанаЛ (+2)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="pervy-pl2",ПервыЙ КанаЛ (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="pervy-pl3",ПервыЙ КанаЛ (+3)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="pervy-pl3",ПервыЙ КанаЛ (+3)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Омск" tvg-id="pervy-pl3",ПервыЙ КанаЛ (+3)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="pervy-pl3",ПервыЙ КанаЛ (+3)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_1TV_OMSK/variant.m3u8
-#EXTINF:-1 group-title="Новосибирск" tvg-id="pervy-pl4",ПервыЙ КанаЛ (+4)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="pervy-pl4",ПервыЙ КанаЛ (+4)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R02_1TV_NSK/variant.m3u8
-#EXTINF:-1 group-title="Иркутск" tvg-id="pervy-pl5",ПервыЙ КанаЛ (+5)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="pervy-pl5",ПервыЙ КанаЛ (+5)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_1TV/variant.m3u8
-#EXTINF:-1 group-title="Иркутск" tvg-id="pervy-pl5",ПервыЙ КанаЛ (+5)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="pervy-pl5",ПервыЙ КанаЛ (+5)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_IRKUTSK/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="pervy-pl6",ПервыЙ КанаЛ (+6)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="pervy-pl6",ПервыЙ КанаЛ (+6)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_1TV_CHITA/variant.m3u8
-#EXTINF:-1 group-title="Чита" tvg-id="pervy-pl6",ПервыЙ КанаЛ (+6)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="pervy-pl6",ПервыЙ КанаЛ (+6)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV_CHITA/variant.m3u8
-#EXTINF:-1 group-title="Владивосток" tvg-id="pervy-pl7",ПервыЙ КанаЛ (+7)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="pervy-pl7",ПервыЙ КанаЛ (+7)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s91030.cdn.ngenix.net/hls/CH_R03_1TV_KRAY_MP4_T/variant.m3u8
-#EXTINF:-1 group-title="Сахалин" tvg-id="pervy-pl8",ПервыЙ КанаЛ (+8)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="pervy-pl8",ПервыЙ КанаЛ (+8)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s14553.cdn.ngenix.net/hls/CH_R03_1TV_SLIN/variant.m3u8
-#EXTINF:-1 group-title="Камчатка" tvg-id="pervy-pl9",ПервыЙ КанаЛ (+9)
+#EXTINF:-1 group-title="ЭфиР" tvg-id="pervy-pl9",ПервыЙ КанаЛ (+9)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R03_1TV_KAM/variant.m3u8
+
 
 
 
