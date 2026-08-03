@@ -122,6 +122,17 @@ https://s45177.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 
+#EXTINF:-1 group-title="ViP" tvg-id="bashkortostan24",Башкортостан 24
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="bst",БСТ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="bst",бст
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
+
+
 
 #EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-m1",РоссиЯ 1 (-1)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
@@ -217,29 +228,6 @@ https://s14553.cdn.ngenix.net/hls/CH_R03_1TV_SLIN/variant.m3u8
 #EXTINF:-1 group-title="Камчатка" tvg-id="pervy-pl9",ПервыЙ КанаЛ (+9)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R03_1TV_KAM/variant.m3u8
-
-
-
-
-#EXTINF:-1 group-title="ViP" tvg-id="bashkortostan24",Башкортостан 24
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
-
-
-#EXTINF:-1 group-title="ViP" tvg-id="bst",БСТ
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="bst",БСТ (Челябинск)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
-
-
-
-
-
-
-
-
 
 
 
