@@ -1,5 +1,4 @@
-#EXTM3U
-
+#EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}"
 #EXTINF:-1 group-title="ViP" tvg-id="pervy-pl2",Первый канал (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R03_1TV_UFA/variant.m3u8
