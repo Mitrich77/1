@@ -301,8 +301,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://i125.fastpic.org/big/2025/0818/07/d8fe042a0019fedfbeeb4b318f590707.png" group-title="Новости",РОссия 24 (+2)
-http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA24_2.m3u8
+
 #EXTINF:-1 group-title="Новисти",Россия 24
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24.m3u8
 #EXTINF:-1 group-title="Новости",РОссия 24
@@ -318,10 +317,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Новости",ИзВеСтИя
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8----
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Новости",Известия
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.ts.m3u8-----
+
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Новости",ИЗВЕСТИЯ HD
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Новости",Известия HD
@@ -351,14 +347,21 @@ https://stream.smotrim.ru/hls/solovievlive/playlist_4.m3u8
 #EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://i127.fastpic.org/big/2026/0612/a1/76741983ed6e5664acae41ca60067ea1.png" group-title="Новости",тасс
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZvezdaPlus.ru" group-title="Новости",ЗвеЗда Плюс----
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8 ----
-#EXTINF:-1 tvg-id="zvezda-plus" group-title="Новости",ЗвеЗда Плюс HD
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="zvezda-plus" group-title="Новости",ЗвездА ПлюС HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС" group-title="Новости",ЗвездА ПлюС
+#EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС" group-title="Новости",ЗвЕзда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС" group-title="Новости",ЗвездА Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС" group-title="Новости",ЗвезДа Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС" group-title="Новости",звезда плюС
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС" group-title="Новости",звезда плЮС
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v5a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС" group-title="Новости",звезда пЛЮС
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v6a1/mono.ts.m3u8
 
 
 
@@ -368,16 +371,16 @@ https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
 http://dmi3y-tv.online/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0618/a7/33d07900235738fbed5ce753086274a7.png" group-title="Новости",РБК
 http://dmi3y-tv.online/hls/CH_RBK.m3u8
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0618/a7/щ.png" group-title="Новости",РБК HD
+#EXTINF:-1 group-title="Новости",РБК HD
 http://dmi3y-tv.online/hls/CH_RBKHD.m3u8
 #EXTINF:-1 group-title="Новости",Лен ТВ 24
 https://stream.smotrim.ru/hls/lentv24/playlist_5.m3u8
 #EXTINF:-1 tvg-id="NEWS FRONT TV" tvg-logo="https://i125.fastpic.org/big/2025/0816/2e/4866f9ea89f91ece86b127c126af042e.png" group-title="Новости",News Front TV
 https://tv.2kita.com/stream/index.m3u8
-#EXTINF:-1 group-title="Новости",Первый информационный (Беларусь)
-http://dmi3y-tv.online/hls/blrublrus1INFORMATSYONNY.m3u8
 #EXTINF:-1 group-title="Новости",Первый информационный HD (Беларусь)
 http://dmi3y-tv.online/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
+
+
 
 
 
