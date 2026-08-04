@@ -614,46 +614,46 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="200" group-title="ViP",Россия 1
-http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1_MURM.m3u8
-#EXTINF:-1 tvg-chno="201" group-title="ЭФИРНЫЕ",Россия 1 (+1)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/6a/712bb11e8325d1396eafc6ee1e2d776a.png" group-title="ViP",Россия 1
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1.m3u8
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/1c/a9c7f36aa4a9ed69a2ba5b2a06fe4c1c.png" group-title="ЭфиР",Россия 1 (+1)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_1.m3u8
-#EXTINF:-1 tvg-chno="202" group-title="ЭФИРНЫЕ",Россия 1 (+2)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/76/73a8334bc37b05ed1711c85d0beab176.png" group-title="ЭфиР",Россия 1 (+2)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_2.m3u8
-#EXTINF:-1 tvg-chno="203" group-title="ЭФИРНЫЕ",Россия 1 (+3)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/8a/ab969794405bef12370907c9aaf0fd8a.png" group-title="ЭфиР",Россия 1 (+3)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_3.m3u8
-#EXTINF:-1 tvg-chno="204" group-title="ЭФИРНЫЕ",Россия 1 (+4)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/3b/5e5308a2624b1f01ff897e333032283b.png" group-title="ЭфиР",Россия 1 (+4)
 http://dmi3y-tv.online/hls/T2/CH_RUSSIA1_4.m3u8
-#EXTINF:-1 tvg-chno="205" group-title="ЭФИРНЫЕ",Россия 1 (+5)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/f0/fa11771d245f0d2d041a88a682399ff0.png" group-title="ЭфиР",Россия 1 (+5)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_5.m3u8
-#EXTINF:-1 tvg-chno="206" group-title="ЭФИРНЫЕ",Россия 1 (+6)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/4c/1aad82300966abfcb71b722a0ebd654c.png" group-title="ЭфиР",Россия 1 (+6)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_6.m3u8
-#EXTINF:-1 tvg-chno="207" group-title="ЭФИРНЫЕ",Россия 1 (+7)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/f6/2d32b7a481a6fb7a4d9704cce1794ff6.png" group-title="ЭфиР",Россия 1 (+7)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_7.m3u8
-#EXTINF:-1 tvg-chno="208" group-title="ЭФИРНЫЕ",Россия 1 (+8)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/8c/67db1f88c865b5ce7b1f4ab8be36358c.png" group-title="ЭфиР",Россия 1 (+8)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_8.m3u8
-#EXTINF:-1 tvg-chno="209" group-title="ЭФИРНЫЕ",Россия 1 (+9)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/29/4a2fff84f2ce127e8cbd393b51655129.png" group-title="ЭфиР",Россия 1 (+9)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_9.m3u8
 
-#EXTINF:-1 tvg-chno="210" group-title="ViP",Россия 1 HD
-http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1HD_SPB.m3u8
-#EXTINF:-1 tvg-chno="211" group-title="ЭФИРНЫЕ",Россия 1 HD (+1)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/6a/18993965545d7088840ddff3107bea6a.png" group-title="ViP",Россия 1 HD
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/01/3f479f337cc7acb189fb3c3e97a6aa01.png" group-title="ЭфиР",Россия 1 HD (+1)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_1.m3u8
-#EXTINF:-1 tvg-chno="212" group-title="ЭФИРНЫЕ",Россия 1 HD (+2)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/3d/65eaaf87eaa8a0e55a55aec6c7d6ea3d.png" group-title="ЭфиР",Россия 1 HD (+2)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_2.m3u8
-#EXTINF:-1 tvg-chno="213" group-title="ЭФИРНЫЕ",Россия 1 HD (+3)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/94/9c6b1384ae04ee3e8ca156a019f9c994.png" group-title="ЭфиР",Россия 1 HD (+3)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_3.m3u8
-#EXTINF:-1 tvg-chno="214" group-title="ЭФИРНЫЕ",Россия 1 HD (+4)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/60/eb538b6c90d54a0e4869433e0a6cf960.png" group-title="ЭфиР",Россия 1 HD (+4)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
-#EXTINF:-1 tvg-chno="215" group-title="ЭФИРНЫЕ",Россия 1 HD (+5)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/0f/5fb320c7052eaa32f4feb217a813950f.png" group-title="ЭфиР",Россия 1 HD (+5)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_5.m3u8
-#EXTINF:-1 tvg-chno="216" group-title="ЭФИРНЫЕ",Россия 1 HD (+6)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/91/5e9bc78a03df80fef2d024a89cad3e91.png" group-title="ЭфиР",Россия 1 HD (+6)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_6.m3u8
-#EXTINF:-1 tvg-chno="217" group-title="ЭФИРНЫЕ",Россия 1 HD (+7)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/35/bade0eed32d01b995f04da7695fa9435.png" group-title="ЭфиР",Россия 1 HD (+7)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_7.m3u8
-#EXTINF:-1 tvg-chno="218" group-title="ЭФИРНЫЕ",Россия 1 HD (+8)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/e2/bc531a637f0085067102d62d3a6ff1e2.png" group-title="ЭфиР",Россия 1 HD (+8)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_8.m3u8
-#EXTINF:-1 tvg-chno="219" group-title="ЭФИРНЫЕ",Россия 1 HD (+9)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/8b/29c09f702dbbc876e0f9490972cc848b.png" group-title="ЭфиР",Россия 1 HD (+9)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
 
 
