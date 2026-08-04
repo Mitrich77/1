@@ -608,18 +608,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="tnt-pl7",ТНТ (+7)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="muztv",МУЗ-ТВ
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="muztv-pl2",МУЗ-ТВ (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="muztv-pl4",МУЗ-ТВ (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
-#EXTINF:-1 group-title="Основные" tvg-id="muztv-pl7",МУЗ-ТВ (+7)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+
 
 
 
@@ -693,8 +682,18 @@ http://dmi3y-tv.online/hls/CH_EURONEWS_RU.m3u8
 
 
 
-
-#EXTINF:-1 group-title="Основные" tvg-id="2na2",2x2
+#EXTINF:-1 group-title="Основные" tvg-id="muztv",МУЗ-ТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="muztv-pl2",МуЗ-ТВ (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="muztv-pl4",МУЗ-ТВ (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-id="muztv-pl7",МУЗ-ТВ (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3МУЗ-ТВTINF:-1 group-title="Основные" tvg-id="2na2",2x2
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="2na2-pl2",2x2 (+2)
