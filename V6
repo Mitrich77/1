@@ -23,7 +23,7 @@ https://s45177.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 https://s45177.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/a6/017c743cc830211b7593e36af422a5a6.png" group-title="ViP",Соловьев live
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/a6/017c743cc830211b7593e36af422a5a6.png" group-title="ViP",Соловьёв Live
 https://stream.smotrim.ru/hls/solovievlive/playlist_1.m3u8
 #EXTINF:-1 group-title="ViP" tvg-id="otr-pl2",ОТР (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
@@ -58,7 +58,7 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_MIR/variant.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP",ИзВеСтИя
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/a6/017c743cc830211b7593e36af422a5a6.png" group-title="ViP",Соловьев LiVE
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/a6/017c743cc830211b7593e36af422a5a6.png" group-title="ViP",Соловьёв LiVE HD
 https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 
 #EXTINF:-1 group-title="ViP" tvg-id="pervy",Первый канал
