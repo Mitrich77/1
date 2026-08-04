@@ -143,6 +143,7 @@ https://s45177.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 
 #EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-m1",Россия 1 (-1)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA1-1.m3u8
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1",Россия 1
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
@@ -180,6 +181,7 @@ https://s14131.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KAM/variant.m3u8
 
 #EXTINF:-1 group-title="ЭфиР" tvg-id="pervy-mn1",Первый Канал (-1)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://dmi3y-tv.online/hls/DVB-T2/HlsWinkPlayer
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
 #EXTINF:-1 group-title="ЭфиР" tvg-id="pervy",Первый Канал
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
