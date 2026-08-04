@@ -181,7 +181,7 @@ https://s14131.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KAM/variant.m3u8
 
 #EXTINF:-1 group-title="ЭфиР" tvg-id="pervy-mn1",Первый Канал (-1)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-http://dmi3y-tv.online/hls/DVB-T2/HlsWinkPlayer
+http://dmi3y-tv.online/hls/DVB-T2/CH_1TV-1.m3u8
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
 #EXTINF:-1 group-title="ЭфиР" tvg-id="pervy",Первый Канал
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
