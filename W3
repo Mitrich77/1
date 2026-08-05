@@ -597,7 +597,7 @@ http://dmitry-tv.ddns.net/hls/CH_I3BECTIYA.m3u8
 http://dmitry-tv.ddns.net/hls/smotrim/CH_SOLOVIEVLIVE.m3u8
 
 
-#EXTINF:-1 group-title="Новости",известиЯ 
+#EXTINF:-1 group-title="Новости",Известия,ФМ
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0805/da/2b6d28883e7abde27e869b62e6b8a1da.png" group-title="Новости",Соловьев ФМ
 https://solovievfm.hostingradio.ru/solovievfm32.aacp
