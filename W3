@@ -538,7 +538,7 @@ http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_8.m3u8
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/6a/18993965545d7088840ddff3107bea6a.png" group-title="ЭфиР",Россия 1 HD
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+http://dmi3y-tv.online/hls/smotrim/region/CH_RUSSIA1HD_SPB.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/01/3f479f337cc7acb189fb3c3e97a6aa01.png" group-title="ЭфиР",Россия 1 HD (+1)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_1.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/3d/65eaaf87eaa8a0e55a55aec6c7d6ea3d.png" group-title="ЭфиР",Россия 1 HD (+2)
