@@ -597,26 +597,20 @@ http://dmitry-tv.ddns.net/hls/CH_I3BECTIYA.m3u8
 http://dmitry-tv.ddns.net/hls/smotrim/CH_SOLOVIEVLIVE.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0805/da/2b6d28883e7abde27e869b62e6b8a1da.png" group-title="Новости",Соловьев ФМ
-https://solovievfm.hostingradio.ru/solovievfm32.aacp
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="Новости",Соловьев FM
-https://solovievfm.hostingradio.ru/solovievfm128.aacp
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="Новости",Соловьёв FM
-https://solovievfm.hostingradio.ru/solovievfm256.mp3
-
-
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0805/da/2b6d28883e7abde27e869b62e6b8a1da.png" group-title="Новости",Соловьев ФМ
-https://solovievfm.hostingradio.ru/solovievfm32.aacp
 #EXTINF:-1 group-title="Новости",известиЯ 
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="Новости",Соловьев FM
-https://solovievfm.hostingradio.ru/solovievfm128.aacp
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0805/da/2b6d28883e7abde27e869b62e6b8a1da.png" group-title="Новости",Соловьев ФМ
+https://solovievfm.hostingradio.ru/solovievfm32.aacp
+
 #EXTINF:-1 group-title="Новости",известИЯ
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v5a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="Новости",Соловьёв FM
-https://solovievfm.hostingradio.ru/solovievfm256.mp3
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="Новости",Соловьев FM
+https://solovievfm.hostingradio.ru/solovievfm128.aacp
+
 #EXTINF:-1 group-title="Новости",извесТИЯ
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v6a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="Новости",Соловьёв FM
+https://solovievfm.hostingradio.ru/solovievfm256.mp3
 
 
 
@@ -650,4 +644,5 @@ http://dmi3y-tv.online/hls/CH_MIR24HD.m3u8
 http://dmi3y-tv.online/hls/CH_RBKHD.m3u8
 #EXTINF:-1 group-title="Новости",EURONEWS [RU]
 http://dmi3y-tv.online/hls/CH_EURONEWS_RU.m3u8
+
 
