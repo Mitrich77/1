@@ -146,7 +146,7 @@ http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA1.m3u8
 http://dmi3y-tv.online/hls/zabava/region/SAMARA/CH_ROSSIA1.m3u8
 http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA1_1.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",РоссИЯ 1 (+2)
-http://dmi3y-tv.online/hls/zabava/48/CH_RUSSIA1_2.m3u8
+http://dmi3y-tv.online/hls/zabava/36/CH_RUSSIA1_2.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+3)
 http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA1_3.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+4)
