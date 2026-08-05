@@ -605,13 +605,6 @@ https://solovievfm.hostingradio.ru/solovievfm128.aacp
 https://solovievfm.hostingradio.ru/solovievfm256.mp3
 
 
-#EXTINF:-1 group-title="Новости",МиР 24 HD
-http://dmi3y-tv.online/hls/CH_MIR24HD.m3u8
-#EXTINF:-1 group-title="Новости",РБК hd
-http://dmi3y-tv.online/hls/CH_RBKHD.m3u8
-#EXTINF:-1 group-title="Новости",EURONEWS [RU]
-http://dmi3y-tv.online/hls/CH_EURONEWS_RU.m3u8
-
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0805/da/2b6d28883e7abde27e869b62e6b8a1da.png" group-title="Новости",Соловьев ФМ
 https://solovievfm.hostingradio.ru/solovievfm32.aacp
 #EXTINF:-1 group-title="Новости",известиЯ 
@@ -627,9 +620,6 @@ https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v6a1/mono.ts.m3u8
 
 
 
-
-
-
 #EXTINF:-1 group-title="Новости" tvg-id="bashkortostan24",Башкортостан 24
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
@@ -640,8 +630,6 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Новости" audio-track="rus", БСТ HD
 http://bsttv.bonus-tv.ru/cdn/hdbst/playlist_hdhigh.m3u8
-
-
 
 
 #EXTINF:-1 group-title="ViP",Матч ТВ
@@ -656,6 +644,10 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=dRSbR57bDmvamf3EYYvexQ&e=2084448825&scheme=https
 
 
-
-
+#EXTINF:-1 group-title="Новости",МиР 24 HD
+http://dmi3y-tv.online/hls/CH_MIR24HD.m3u8
+#EXTINF:-1 group-title="Новости",РБК hd
+http://dmi3y-tv.online/hls/CH_RBKHD.m3u8
+#EXTINF:-1 group-title="Новости",EURONEWS [RU]
+http://dmi3y-tv.online/hls/CH_EURONEWS_RU.m3u8
 
