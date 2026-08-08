@@ -141,7 +141,7 @@ https://s45177.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 
 
 
-#EXTINF:-1 group-title="ЭфиР" ,Россия 1 (-1) Клгр-д
+#EXTINF:-1 group-title="ЭфиР" ,Россия 1 (-1)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA1-1.m3u8
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
@@ -168,6 +168,7 @@ https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA1_IRKUTSK/variant.
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA1_ZK/variant.m3u8
 #EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl7",Россия 1 (+7)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA1_7.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
 https://s91030.cdn.ngenix.net/hls/CH_R04_RUS8_OTT/variant.m3u8
 #EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl8",Россия 1 (+8)
