@@ -168,6 +168,7 @@ https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA1_IRKUTSK/variant.
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA1_ZK/variant.m3u8
 #EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl7",Россия 1 (+7)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
 https://s91030.cdn.ngenix.net/hls/CH_R04_RUS8_OTT/variant.m3u8
 #EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl8",Россия 1 (+8)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
@@ -277,7 +278,7 @@ https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/88.m3u8
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/6a/18993965545d7088840ddff3107bea6a.png" group-title="ViP",Россия 1 HD
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/6a/18993965545d7088840ddff3107bea6a.png" group-title="ЭфиР",Россия 1 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/01/3f479f337cc7acb189fb3c3e97a6aa01.png" group-title="ЭфиР",Россия 1 +1
@@ -362,7 +363,7 @@ http://dmi3y-tv.online/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
 
 
 
-#EXTINF:-1 group-title="Новисти",Россия 24
+#EXTINF:-1 group-title="Новости",Россия 24
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24.m3u8
 #EXTINF:-1 group-title="Новости",РОссия 24
 http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA24.m3u8
@@ -390,7 +391,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v6a1/mono.ts.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 
 
-#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia-24",Россия 24
+#EXTINF:-1 group-title="Новости" tvg-id="rossia-24",Россия 24
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
 
@@ -616,7 +617,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/6a/712bb11e8325d1396eafc6ee1e2d776a.png" group-title="ViP",Россия 1
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/6a/712bb11e8325d1396eafc6ee1e2d776a.png" group-title="ЭфиР",Россия 1
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/1c/a9c7f36aa4a9ed69a2ba5b2a06fe4c1c.png" group-title="ЭфиР",Россия 1 (+1)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_1.m3u8
@@ -637,7 +638,7 @@ http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_8.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/29/4a2fff84f2ce127e8cbd393b51655129.png" group-title="ЭфиР",Россия 1 (+9)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_9.m3u8
 
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/6a/18993965545d7088840ddff3107bea6a.png" group-title="ViP",Россия 1 HD
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/6a/18993965545d7088840ddff3107bea6a.png" group-title="ЭфиР",Россия 1 HD
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/01/3f479f337cc7acb189fb3c3e97a6aa01.png" group-title="ЭфиР",Россия 1 HD (+1)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_1.m3u8
@@ -690,6 +691,14 @@ http://dmitry-tv.ddns.net/hls/CH_I3BECTIYA.m3u8
 http://dmitry-tv.ddns.net/hls/smotrim/CH_SOLOVIEVLIVE.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0805/da/2b6d28883e7abde27e869b62e6b8a1da.png" group-title="Новости",Соловьев ФМ
+https://solovievfm.hostingradio.ru/solovievfm32.aacp
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="Новости",Соловьев FM
+https://solovievfm.hostingradio.ru/solovievfm128.aacp
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="Новости",Соловьёв FM
+https://solovievfm.hostingradio.ru/solovievfm256.mp3
+
+
 #EXTINF:-1 tvg-chno="226" group-title="Новости",МиР 24 HD
 http://dmi3y-tv.online/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 tvg-chno="227" group-title="Новости",РБК hd
@@ -697,7 +706,16 @@ http://dmi3y-tv.online/hls/CH_RBKHD.m3u8
 #EXTINF:-1 tvg-chno="228" group-title="Новости",EURONEWS [RU]
 http://dmi3y-tv.online/hls/CH_EURONEWS_RU.m3u8
 
-
+#EXTINF:-1 group-title="Новости" tvg-id="bashkortostan24",Башкортостан 24
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="bst",бст
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
+#EXTINF:-1 group-title="Новости" audio-track="rus", БСТ
+http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Новости" audio-track="rus", БСТ HD
+http://bsttv.bonus-tv.ru/cdn/hdbst/playlist_hdhigh.m3u8
 
 
 
@@ -800,6 +818,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="moskva-24",Москва 24 HD
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MOSKVA24HD/variant.m3u8
+
+
 
 
 #EXTINF:-1 group-title="Калининград" tvg-id="rossia1-m1",Россия 1 (Калининград)
@@ -2132,45 +2152,77 @@ https://s14131.cdn.ngenix.net/hls/CH_R41_KAMCHATKA/variant.m3u8
 
 
 
+#EXTINF:-1 tvg-id="6258" tvg-name="кино 1 international" tvg-logo="http://epg.one/img/6258.png" group-title="КИНО",Кино 1_1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="кино 1 international" tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" group-title="КИНО",Кино 1_2 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
 
-#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl3",Россия 1 (+3)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_OMSK/variant.m3u8
-#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl3",Россия 1 (+3)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl4",Россия 1 (+4)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA1_NSK/variant.m3u8
-#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl5",Россия 1 (+5)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_IRKUTSK/variant.m3u8
-#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl6",Россия 1 (+6)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA1_ZK/variant.m3u8
-
-
-#EXTINF:-1 group-title="ЭфиР" tvg-id="pervy-pl3",Первый Канал (+3)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="ЭфиР" tvg-id="pervy-pl5",Первый Канал (+5)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_IRKUTSK/variant.m3u8
-#EXTINF:-1 group-title="ЭфиР" tvg-id="pervy-pl6",Первый Канал (+6)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_1TV_CHITA/variant.m3u8
+#EXTINF:-1 tvg-id="mosfilm" tvg-name="мосфильм. золотая коллекция" tvg-logo="http://ex.iptvin.ru/pic/2/Mosfilm-Zolotaya-kollekciya-220x220.png" group-title="КИНО",Мосфильм. Золотая коллекция1
+http://178.134.1.158:8081/mosfilm/index.m3u8
+#EXTINF:-1 tvg-id="mosfilm" tvg-name="мосфильм. золотая коллекция" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="КИНО",Мосфильм. Золотая коллекция2
+http://178.134.1.158:8081/mosfilm/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="мосфильм. золотая коллекция" group-title="КИНО",Мосфильм. Золотая коллекция3
+http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzIwMDYxODUsImlhdCI6MTc3MTkxOTc4NSwiY2lkIjo2LCJ1aWQiOjEwMTA1Mzg3MjYsInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTc5LCJhZHVsdCI6ZmFsc2V9.eHq-vLXuDZqRWQRph6zIRxBDRQZbfRpvQsQmWoPUm84&offset=10
+#EXTINF:-1 tvg-id="3357" tvg-name="мосфильм. золотая коллекция" tvg-logo="http://epg.one/img/3357.png" group-title="КИНО",Мосфильм. Золотая коллекция4
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="мосфильм. золотая коллекция" group-title="КИНО",Мосфильм. Золотая коллекция5
+http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="мосфильм. золотая коллекция" group-title="КИНО",Мосфильм. Золотая коллекция6
+https://telluri.ru/video/1124.m3u8
+#EXTINF:-1 tvg-id="mosfilm" tvg-name="мосфильм. золотая коллекция hd" tvg-logo="http://ex.iptvin.ru/pic/2/Mosfilm-Zolotaya-kollekciya-HD-220x220.png" group-title="КИНО",Мосфильм. Золотая коллекция HD
+http://iptv46.mcx-ix.ru:8077/mosfilm/index.m3u8
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="русский роман hd" group-title="КИНО",Русский Роман1 HD
+http://31.148.48.15:80/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="русский роман" group-title="КИНО",Русский роман2
+http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzIwMDYxODUsImlhdCI6MTc3MTkxOTc4NSwiY2lkIjo2LCJ1aWQiOjEwMTA1Mzg3MjYsInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTc5LCJhZHVsdCI6ZmFsc2V9.eHq-vLXuDZqRWQRph6zIRxBDRQZbfRpvQsQmWoPUm84&offset=10
+#EXTINF:-1 tvg-id="russky-roman" tvg-name="русский роман" tvg-logo="http://ex.iptvin.ru/pic/2/rus-roman.jpg" group-title="КИНО",Русский роман3
+http://31.210.208.171:8080/russian_roman/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="russky-roman" tvg-name="русский роман" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="КИНО",Русский роман4
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="русский роман hd" group-title="КИНО",Русский роман5 HD
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 tvg-id="russky-roman" tvg-name="русский роман hd" tvg-logo="http://ex.iptvin.ru/pic/2/HD-220x220.png" group-title="КИНО",Русский роман6 HD
+http://iptv46.mcx-ix.ru:8077/russki_roman_hd/index.m3u8
+#EXTINF:-1 tvg-id="401" tvg-name="русский роман hd" tvg-logo="http://epg.one/img/401.png" group-title="КИНО",Русский роман7 HD
+http://31148.rafail1982.uz/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="русский роман hd" group-title="КИНО",Русский роман8 HD
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 
 
-#EXTINF:-1 group-title="ViP" tvg-id="bashkortostan24",Башкортостан 24
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="bst",бст
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="нтв сериалы балабол" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg" group-title="КИНО",НТВ Сериалы Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="нтв сериалы невский" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg" group-title="КИНО",НТВ Сериалы Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="нтв сериалы первый отдел" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg" group-title="КИНО",НТВ Сериалы Первый отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="нтв сериалы пять минут тишины" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg" group-title="КИНО",НТВ Сериалы Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="нтв сериалы пёс" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg" group-title="КИНО",НТВ Сериалы Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="нтв сериалы скорая помощь" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg" group-title="КИНО",НТВ Сериалы Скорая помощь1
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="скорая помощь" tvg-logo="https://i.ibb.co/ynB5bFXQ/image-45.png" group-title="КИНО",Скорая помощь2
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="следствие вели..." tvg-logo="https://i.ibb.co/nMsMD0Q4/image-34.png" group-title="КИНО",Следствие вели...
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 
-#EXTINF:-1 group-title="ViP" audio-track="rus", БСТ
-http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="ViP" audio-track="rus", БСТ HD
-http://bsttv.bonus-tv.ru/cdn/hdbst/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="советское кино" group-title="КИНО",Советское кино1
+https://stitch.teletarget.ru/vintera/sovietmovie/17696847156167dd9935fac28723490766c9879588bc1d723892ef11c0282861/lvl1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="советское кино" group-title="КИНО",Советское кино2
+http://api.peers.tv/timeshift/sovetskoekino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzIwMDYxODUsImlhdCI6MTc3MTkxOTc4NSwiY2lkIjo2LCJ1aWQiOjEwMTA1Mzg3MjYsInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNTc5LCJhZHVsdCI6ZmFsc2V9.eHq-vLXuDZqRWQRph6zIRxBDRQZbfRpvQsQmWoPUm84&offset=10
+#EXTINF:-1 tvg-id="10290" tvg-name="советское кино" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10290/logo_256_1658737599.png" group-title="КИНО",Советское кино3
+https://mhd116.iptv2022.com/p/wzC80kS65NlfjLEOw_KEhw,1771966808/streaming/sovietmovs/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="союзмультфильм" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png" group-title="КИНО",СоюзМультфильм1
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="союзмультфильм" tvg-logo="https://i.ibb.co/xKh025r9/image-24.png" group-title="КИНО",СоюзМультфильм2
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 tvg-id="6005" tvg-name="фильм" tvg-logo="http://epg.one/img/6005.png" group-title="КИНО",ФИЛЬМ
+http://185.57.68.33:8091/237/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="чип и дейл" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" group-title="КИНО",Чип и Дейл1
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="чип и дейл" tvg-logo="https://i.ibb.co/HfKN7J17/image-27.png" group-title="КИНО",Чип и Дейл2
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+
