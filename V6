@@ -1,43 +1,43 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}"
 
-#EXTINF:-1 group-title="ViP" tvg-id="pervy-pl2",Первый канал (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="pervy-pl2" tvg-name="Первый канал (+2)",Первый канал (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R03_1TV_UFA/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="rossia1-pl2",Россия 1 (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="rossia1-pl2" tvg-name="Россия 1 (+2)",Россия 1 (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="sts-pl2",СТС (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="sts-pl2" tvg-name="СТС (+2)", СТС (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="ntv-pl2",НТВ (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="ntv-pl2" tvg-name="НТВ (+2)",НТВ (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="match-tv",Матч ТВ (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="match-tv" tvg-name="Матч ТВ (+2)",Матч ТВ (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R02_ROSSIA2/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="kultura-pl2",Россия К (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="kultura-pl2" tvg-name="Россия К (+2)",Россия К (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/ef/2a5edcd23db6972644aa4256bc905def.png" group-title="ViP" tvg-id="rossia-24" tvg-name="Россия 24" ,РоссиЯ 24 (Уфа)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/ef/2a5edcd23db6972644aa4256bc905def.png" group-title="ViP" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24 (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP",Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/a6/017c743cc830211b7593e36af422a5a6.png" group-title="ViP",Соловьёв Live
 https://stream.smotrim.ru/hls/solovievlive/playlist_1.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="otr-pl2",ОТР (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="otr-pl2" tvg-name="ОТР (+2)",ОТР (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="rentv-pl2",РЕН ТВ (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="rentv-pl2" tvg-name="РЕН ТВ (+2)",РЕН ТВ (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
 #EXTINF:-1 group-title="ViP" tvg-id="mir-pl2",МИР (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_MIR_NTAG/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="5kanal-ru-pl2",Пятый канал (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="5kanal-ru-pl2" tvg-name="Пятый канал (+2)",Пятый канал (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="tvcentr-pl2",ТВ Центр (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="tvcentr-pl2" tvg-name="ТВ Центр (+2)",ТВ Центр (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 #EXTINF:-1 tvg-id="spas-pl2" group-title="ViP",Спас (+2)
@@ -45,7 +45,7 @@ https://s45177.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
 #EXTINF:-1 tvg-id="ZvezdaPlus.ru" group-title="ViP",ЗвеЗда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="zvezda-pl2",Звезда (+2)
+#EXTINF:-1 group-title="ViP" tvg-id="zvezda-pl2" tvg-name="Звезда (+2)",Звезда (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:-1 group-title="ViP" tvg-id="zvezda",Звезда
@@ -54,7 +54,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:-1 group-title="ViP" tvg-id="mir",МИР
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_MIR/variant.m3u8
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i128.fastpic.org/big/2026/0802/76/1f95b63e227e62b1031122210126b476.png" group-title="ViP",Россия 24 hd
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i128.fastpic.org/big/2026/0802/76/1f95b63e227e62b1031122210126b476.png" group-title="ViP" tvg-name="Россия 24",Россия 24 HD (720р)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP",ИзВеСтИя
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
