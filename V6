@@ -88,8 +88,8 @@ https://s45177.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 http://dmi3y-tv.online/hls/CH_RUSSKIY_ROMAN.m3u8
 
 
-#EXTINF:-1 group-title="ViP" audio-track="rus", Видеокассета HD
-https://lbgo.bozztv.com/ssh101/ssh101/livebest90e/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="кино 1 international" tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" group-title="КИНО",Кино 1_2 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="ViP" audio-track="rus", Мосфильм. Золотая коллекция HD
 http://stream.mcquack.net/369/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="ViP",Мосфильм. Золотая коллекция
@@ -2155,8 +2155,7 @@ https://s14131.cdn.ngenix.net/hls/CH_R41_KAMCHATKA/variant.m3u8
 
 #EXTINF:-1 tvg-id="6258" tvg-name="кино 1 international" tvg-logo="http://epg.one/img/6258.png" group-title="КИНО",Кино 1_1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="кино 1 international" tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" group-title="КИНО",Кино 1_2 International
-http://kino-1.catcast.tv/content/38617/index.m3u8
+
 
 #EXTINF:-1 tvg-id="mosfilm" tvg-name="мосфильм. золотая коллекция" tvg-logo="http://ex.iptvin.ru/pic/2/Mosfilm-Zolotaya-kollekciya-220x220.png" group-title="КИНО",Мосфильм. Золотая коллекция1
 http://178.134.1.158:8081/mosfilm/index.m3u8
