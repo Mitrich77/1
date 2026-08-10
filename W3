@@ -483,10 +483,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-chno="187" group-title="ViP",181
-http://dmi3y-tv.online/hls/smotrim/region/181.m3u8
-#EXTINF:-1 tvg-chno="188" group-title="ViP",182
-http://dmi3y-tv.online/hls/smotrim/region/182.m3u8
+
 #EXTINF:-1 tvg-chno="189" group-title="ViP",183
 http://dmi3y-tv.online/hls/smotrim/region/183.m3u8
 #EXTINF:-1 tvg-chno="187" group-title="ViP",184
@@ -737,52 +734,3 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="чип и дейл" tvg-logo="https://i.ibb.co/HfKN7J17/image-27.png" group-title="КИНО",Чип и Дейл2
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v1a2)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a2/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v1a3)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a3/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v1a4)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a4/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v1a5)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a5/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v1a6)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a6/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v1a7)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a7/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v1a8)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a8/mono.ts.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v2a2)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a2/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v2a3)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a3/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v2a4)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a4/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v2a5)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a5/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v2a6)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a6/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v2a7)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a7/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v2a8)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a8/mono.ts.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v3a2)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a2/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v3a3)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a3/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v3a4)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a4/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v3a5)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a5/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v3a6)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a6/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v3a7)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a7/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP" tvg-name="Известия",Известия (v3a8)
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a8/mono.ts.m3u8
