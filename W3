@@ -54,7 +54,7 @@ https://s45177.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:-1 tvg-id="ZvezdaPlus.ru" group-title="ViP",ЗвеЗда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i128.fastpic.org/big/2026/0802/76/1f95b63e227e62b1031122210126b476.png" group-title="ViP",Россия 24 hd
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i128.fastpic.org/big/2026/0802/76/1f95b63e227e62b1031122210126b476.png" group-title="ViP" tvg-name="Россия 24",Россия 24 HD (720p)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="Новости" tvg-name="Известия",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
@@ -88,6 +88,8 @@ https://s45177.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 http://dmi3y-tv.online/hls/CH_RUSSKIY_ROMAN.m3u8
 
 
+#EXTINF:-1 group-title="ViP" audio-track="rus", Видеокассета HD
+https://lbgo.bozztv.com/ssh101/ssh101/livebest90e/chunks.m3u8?lb_backend_hint=7
 #EXTINF:-1 tvg-id="6258" tvg-name="кино 1 international" tvg-logo="http://epg.one/img/6258.png" group-title="КИНО",Кино 1 Int.
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="ViP",Мосфильм. Золотая коллекция
@@ -96,8 +98,7 @@ http://178.134.1.158:8081/mosfilm/index.m3u8
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 tvg-id="sovkino" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="ViP",Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
-#EXTINF:-1 group-title="ViP" audio-track="rus", Видеокассета HD
-https://lbgo.bozztv.com/ssh101/ssh101/livebest90e/chunks.m3u8?lb_backend_hint=7
+
 
 
 #EXTINF:-1 group-title="ViP" tvg-id="tnt-pl2",ТНТ (+2)
