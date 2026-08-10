@@ -380,10 +380,7 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Новости",известИЯ
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v5a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Новости",извесТИЯ
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v6a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Новости",извеСТИЯ
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v7a1/mono.ts.m3u8
+
 
 
 
@@ -703,6 +700,11 @@ https://solovievfm.hostingradio.ru/solovievfm32.aacp
 https://solovievfm.hostingradio.ru/solovievfm128.aacp
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="Новости",Соловьёв FM
 https://solovievfm.hostingradio.ru/solovievfm256.mp3
+
+#EXTINF:-1 group-title="Новости",извесТИЯ
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v6a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Новости",извеСТИЯ
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v7a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-chno="226" group-title="Новости",МиР 24 HD
