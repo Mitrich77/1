@@ -25,6 +25,9 @@ https://s45177.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/a6/017c743cc830211b7593e36af422a5a6.png" group-title="ViP" tvg-name="Соловьёв Live",Соловьёв Live (576p)
 https://stream.smotrim.ru/hls/solovievlive/playlist_3.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="bst",БСТ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
 #EXTINF:-1 group-title="ViP" tvg-id="otr-pl2" tvg-name="ОТР (+2)",ОТР (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
@@ -43,9 +46,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
 #EXTINF:-1 group-title="ViP" tvg-id="mir-pl2",МИР (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_MIR_NTAG/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="mir",МИР
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_MIR/variant.m3u8
+
 #EXTINF:-1 group-title="ViP" tvg-id="zvezda-pl2" tvg-name="Звезда (+2)",Звезда (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
@@ -79,9 +80,11 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_SPBR/variant.m3u8
 #EXTINF:-1  group-title="ViP",ОСН
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="bst",БСТ
+#EXTINF:-1 group-title="ViP" tvg-id="mir",МИР
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_MIR/variant.m3u8
+
+
 #EXTINF:-1 group-title="ViP" tvg-id="domashny-pl2",Домашний (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
@@ -89,8 +92,8 @@ https://s45177.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 http://dmi3y-tv.online/hls/CH_RUSSKIY_ROMAN.m3u8
 
 
-#EXTINF:-1 group-title="ViP" audio-track="rus", Видеокассета HD
-https://lbgo.bozztv.com/ssh101/ssh101/livebest90e/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1 tvg-id="6005" tvg-name="фильм" tvg-logo="http://epg.one/img/6005.png" group-title="КИНО",ФИЛЬМ
+http://185.57.68.33:8091/237/playlist.m3u8
 #EXTINF:-1 tvg-id="6258" tvg-name="кино 1 international" tvg-logo="http://epg.one/img/6258.png" group-title="КИНО",Кино 1 Int.
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="ViP" audio-track="rus", Мосфильм. Золотая коллекция HD
@@ -2227,8 +2230,12 @@ https://mhd116.iptv2022.com/p/wzC80kS65NlfjLEOw_KEhw,1771966808/streaming/soviet
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="союзмультфильм" tvg-logo="https://i.ibb.co/xKh025r9/image-24.png" group-title="КИНО",СоюзМультфильм2
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 tvg-id="6005" tvg-name="фильм" tvg-logo="http://epg.one/img/6005.png" group-title="КИНО",ФИЛЬМ
-http://185.57.68.33:8091/237/playlist.m3u8
+
+#EXTINF:-1 group-title="ViP" audio-track="rus", Видеокассета HD
+https://lbgo.bozztv.com/ssh101/ssh101/livebest90e/chunks.m3u8?lb_backend_hint=7
+
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="чип и дейл" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" group-title="КИНО",Чип и Дейл1
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="чип и дейл" tvg-logo="https://i.ibb.co/HfKN7J17/image-27.png" group-title="КИНО",Чип и Дейл2
