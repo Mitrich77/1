@@ -2241,3 +2241,134 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="чип и дейл" tvg-logo="https://i.ibb.co/HfKN7J17/image-27.png" group-title="КИНО",Чип и Дейл2
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
+
+
+
+#EXTINF:-1 tvg-id="Detskoekino.ru@International",Детское кино International [Not 24/7]
+https://autopilot.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 tvg-id="Kino1.ru@International",Кино 1 International [Not 24/7]
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="Kino1.ru@International",Кино 1 International [Not 24/7]
+https://autopilot.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="Muzyka1.ru@International",Музыка 1 International [Not 24/7]
+https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 tvg-id="Muzyka1.ru@International",Музыка 2 International [Not 24/7]
+https://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 tvg-id="MuzykaKino.ru@International",Музыка Кино International [Not 24/7]
+https://kino-1.catcast.tv/content/37739/index.m3u8
+
+#EXTINF:-1 tvg-id="15PlusMusic.ru@HD",15+ Music (1080p)
+https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
+#EXTINF:-1 tvg-id="alphaCinema.ru@HD",alpha Cinema (1080p)
+https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 tvg-id="NovyiRusskii.ru@HD",Новый Русский (720p)
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
+
+#EXTINF:-1 tvg-id="UnknownRussia.ru@SD",Неизвестная Россия (1080p)
+https://cdn.ntv.ru/unknown_russia/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@Plus1",НТВ +1 (576p)
+https://cdn.ntv.ru/ntv1/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@Plus2",НТВ +2 (576p)
+https://cdn.ntv.ru/ntv2/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@Plus4",НТВ +4 (576p)
+https://cdn.ntv.ru/ntv4/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@Plus7",НТВ +7 (576p)
+https://cdn.ntv.ru/ntv7/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@HD",НТВ HD (1080p)
+https://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVLaw.ru@SD",НТВ Право (576p)
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVSeries.ru@SD",НТВ Сериал (576p)
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVStyle.ru@SD",НТВ Стиль (576p)
+https://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVHit.ru@SD",НТВ Хит (576p)
+https://cdn.ntv.ru/th_hit/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="RTArabic.ru@SD",RT Arabic (1080p) [Geo-blocked]
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="RTArabic.ru@SD",RT Arabic (1080p) [Geo-blocked]
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocumentary.ru@English",RT Documentary English (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocumentary.ru@English",RT Documentary English (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocumentary.ru@Russian",RT Documentary Russian (1080p)
+https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru@SD",RT en Español (1080p) [Geo-blocked]
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru@SD",RT en Español (1080p) [Geo-blocked]
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru@SD",RT en Español (1080p)
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+#EXTINF:-1 tvg-id="RTFrance.fr@SD",RT France (1080p) [Geo-blocked]
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+#EXTINF:-1 tvg-id="RTFrance.fr@SD",RT France (1080p) [Geo-blocked]
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+#EXTINF:-1 tvg-id="RT.ru@SD",RT News (1080p) [Geo-blocked]
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="RT.ru@SD",RT News (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
+#EXTINF:-1 tvg-id="RT.ru@SD",RT News (1080p) [Not 24/7]
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="RT.ru@SD",RT News (1080p) [Not 24/7]
+https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD",Первый канал
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://streaming.televizor-24-tochka.ru/live/4.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru@Europe",Первый канал Европа
+https://streaming.thestream.cyou/live/210.m3u8
+#EXTINF:-1 tvg-id="Pobeda.ru@SD",Победа
+https://streaming.thestream.cyou/live/43.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://streaming.televizor-24-tochka.ru/live/5.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://streaming.televizor-24-tochka.ru/live/10.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24
+https://streaming.televizor-24-tochka.ru/live/30.m3u8
+
+
+#EXTINF:-1 tvg-id="KHL.ru@SD",KHL (720p)
+http://31.148.48.15/KHL_TV/index.m3u8
+#EXTINF:-1 tvg-id="KHLPrime.ru@SD",KHL Prime (720p)
+http://31.148.48.15/KHL_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="Match.ru@SD",МАТЧ! (576p)
+http://31.148.48.15/Match/index.m3u8
+#EXTINF:-1 tvg-id="Match.ru@SD",МАТЧ! (720p)
+http://31.148.48.15/Match_HD/index.m3u8
+#EXTINF:-1 tvg-id="MatchArena.ru@SD",МАТЧ! Арена (720p)
+http://31.148.48.15/Match_Arena_HD/index.m3u8
+#EXTINF:-1 tvg-id="MatchArena.ru@SD",МАТЧ! Арена (576p)
+http://31.148.48.15/Match_Arena/index.m3u8
+#EXTINF:-1 tvg-id="MatchBoets.ru@SD",МАТЧ! Боец (576p)
+http://31.148.48.15/Match_Boec/index.m3u8
+#EXTINF:-1 tvg-id="MatchIgra.ru@SD",МАТЧ! Игра (720p)
+http://31.148.48.15/Match_Igra_HD/index.m3u8
+#EXTINF:-1 tvg-id="MatchIgra.ru@SD",МАТЧ! Игра (576p)
+http://31.148.48.15/Match_Igra/index.m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru@SD",МАТЧ! Страна (576p)
+http://31.148.48.15/Match_Nash_Sport/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD",Первый канал (1080p)
+http://31.148.48.15/Pervii_kanal_HD/index.m3u8
+#EXTINF:-1 tvg-id="RodnoeKino.ru@SD",Родное Кино (576p)
+http://31.148.48.15/Rodnoe_kino/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (1080p)
+http://31.148.48.15/Rossiya_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@Plus6",Россия 1 (+6) (576p)
+http://31.148.48.15/Rossiya_1/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (576p)
+http://31.148.48.15/Rossiya_24/index.m3u8
+#EXTINF:-1 tvg-id="Teleputeshestviya.ru@SD",Телепутешествия (576p)
+http://31.148.48.15/Teleputeshestviya/index.m3u8
