@@ -247,6 +247,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
 
+#EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС" group-title="Новости" tvg-name="Звезда Плюс",звезда плюС
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Новости",РОссия 24
 http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA24.m3u8
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Новости",ИзВеСтИя
@@ -734,3 +736,9 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="чип и дейл" tvg-logo="https://i.ibb.co/HfKN7J17/image-27.png" group-title="КИНО",Чип и Дейл2
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
+
+
+#EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС" group-title="Новости",звезда плЮС
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v5a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС" group-title="Новости",звезда пЛЮС
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v6a1/mono.ts.m3u8
