@@ -247,7 +247,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС" group-title="Новости" tvg-name="Звезда Плюс",звезда плюС
+#EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС" group-title="Новости" tvg-name="Звезда Плюс",Радио Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Новости",РОссия 24
 http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA24.m3u8
@@ -486,8 +486,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/play
 
 
 
-#EXTINF:-1 tvg-chno="189" group-title="ViP",183
-http://dmi3y-tv.online/hls/smotrim/region/183.m3u8
+
 #EXTINF:-1 tvg-chno="187" group-title="ViP",184
 http://dmi3y-tv.online/hls/smotrim/region/184.m3u8
 #EXTINF:-1 tvg-chno="188" group-title="ViP",185
