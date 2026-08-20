@@ -92,8 +92,8 @@ https://s45177.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 http://dmi3y-tv.online/hls/CH_RUSSKIY_ROMAN.m3u8
 
 
-#EXTINF:-1 tvg-id="6005" tvg-name="фильм" tvg-logo="http://epg.one/img/6005.png" group-title="КИНО",ФИЛЬМ
-http://185.57.68.33:8091/237/playlist.m3u8
+#EXTINF:-1 tvg-id="Detskoekino.ru@International",Детское кино International
+https://autopilot.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="6258" tvg-name="кино 1 international" tvg-logo="http://epg.one/img/6258.png" group-title="КИНО",Кино 1 Int.
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="ViP" audio-track="rus", Мосфильм. Золотая коллекция HD
@@ -102,6 +102,15 @@ http://stream.mcquack.net/369/index.m3u8
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 tvg-id="sovkino" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="ViP",Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:-1 tvg-id="6005" tvg-name="фильм" tvg-logo="http://epg.one/img/6005.png" group-title="КИНО",ФИЛЬМ
+http://185.57.68.33:8091/237/playlist.m3u8
+#EXTINF:-1 tvg-id="Muzyka1.ru@International",Музыка 1 International
+https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 tvg-id="Muzyka1.ru@International",Музыка 2 International
+https://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 tvg-id="MuzykaKino.ru@International",Музыка Кино International
+https://kino-1.catcast.tv/content/37739/index.m3u8
+
 
 
 #EXTINF:-1 group-title="ViP" tvg-id="tnt-pl2",ТНТ (+2)
@@ -110,27 +119,15 @@ https://s45177.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:-1 group-title="ViP" tvg-id="tnt",ТНТ
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="tnt4",ТНТ4
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT4/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="sts-love",СТС Love
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STSLOVE/variant.m3u8
 #EXTINF:-1 tvg-id="muztv-pl2" group-title="ViP",МУЗ-ТВ (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 #EXTINF:-1 group-title="ViP" tvg-id="2na2",2x2
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_2X2/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="super-pl2",Суббота (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
 #EXTINF:-1 group-title="ViP" tvg-id="che-pl2",Че! (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="yu-pl2",Ю (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://s45177.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
 #EXTINF:-1 group-title="ViP" tvg-id="karusel-pl2",Карусель (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
