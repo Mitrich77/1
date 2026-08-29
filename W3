@@ -54,8 +54,9 @@ https://s45177.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:-1 tvg-id="ZvezdaPlus.ru" group-title="ViP",ЗвеЗда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i128.fastpic.org/big/2026/0802/76/1f95b63e227e62b1031122210126b476.png" group-title="ViP" tvg-name="Россия 24",Россия 24 HD (720p)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
+
+#EXTINF:-1 group-title="Новости",РОССИЯ 24
+https://stream.smotrim.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="Новости" tvg-name="Известия",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/a6/017c743cc830211b7593e36af422a5a6.png" group-title="ViP",Соловьёв LiVE HD
@@ -110,7 +111,6 @@ https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-id="muztv-pl2" group-title="ViP",МУЗ-ТВ (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-
 #EXTINF:-1 group-title="ViP" tvg-id="tnt-pl2",ТНТ (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
@@ -254,8 +254,10 @@ https://stream.smotrim.ru/hls/solovievlive/playlist_1.m3u8
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ZvezdaPlus.ru" group-title="Новости",ЗвеЗда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 group-title="Новости",РОССИЯ 24
-https://stream.smotrim.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i128.fastpic.org/big/2026/0802/76/1f95b63e227e62b1031122210126b476.png" group-title="ViP" tvg-name="Россия 24",Россия 24 HD (720p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Новости",ИЗВЕСТИЯ HD
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/5e/cfa8a72e09e104849700db6919557f5e.png" group-title="Новости",СоловьёВ LiVE
