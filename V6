@@ -56,8 +56,8 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:-1 tvg-id="ZvezdaPlus.ru" group-title="ViP",ЗвеЗда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i128.fastpic.org/big/2026/0802/76/1f95b63e227e62b1031122210126b476.png" group-title="ViP" tvg-name="Россия 24",РОССИЯ 24 HD (1080р)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:-1 group-title="Новости",РОССИЯ 24
+https://stream.smotrim.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP",ИЗВЕСТИЯ HD
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/a6/017c743cc830211b7593e36af422a5a6.png" group-title="ViP",СОЛОВЬЁВ LiVE HD
@@ -309,7 +309,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i128.fastpic.org/big/2026/0802/76/1f95b63e227e62b1031122210126b476.png" group-title="ViP" tvg-name="Россия 24",РОССИЯ 24 HD (1080р)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 
 #EXTINF:-1 group-title="Новости",РОССИЯ 24
 https://stream.smotrim.ru/hls/russia_24/playlist_3.m3u8
