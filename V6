@@ -307,9 +307,11 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 
 
 
+#EXTINF:-1 group-title="Новости" tvg-id="rossia-24" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 24 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i128.fastpic.org/big/2026/0802/76/1f95b63e227e62b1031122210126b476.png" group-title="ViP" tvg-name="Россия 24",РОССИЯ 24 HD (1080р)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+
 
 #EXTINF:-1 group-title="Новости",РОССИЯ 24
 https://stream.smotrim.ru/hls/russia_24/playlist_3.m3u8
@@ -2279,3 +2281,7 @@ https://streaming.televizor-24-tochka.ru/live/5.m3u8
 https://streaming.televizor-24-tochka.ru/live/10.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24
 https://streaming.televizor-24-tochka.ru/live/30.m3u8
+
+
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i128.fastpic.org/big/2026/0802/76/1f95b63e227e62b1031122210126b476.png" group-title="ViP" tvg-name="Россия 24",РОССИЯ 24 HD (1080р)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
