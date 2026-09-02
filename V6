@@ -94,7 +94,7 @@ http://dmi3y-tv.online/hls/CH_RUSSKIY_ROMAN.m3u8
 
 #EXTINF:-1 tvg-id="6005" tvg-name="фильм" tvg-logo="http://epg.one/img/6005.png" group-title="КИНО",ФИЛЬМ
 http://185.57.68.33:8091/237/playlist.m3u8
-#EXTINF:-1 group-title="ViP" audio-track="rus", Мосфильм. Золотая коллекция HD
+#EXTINF:-1 tvg-id="3357" tvg-name="мосфильм. золотая коллекция" tvg-logo="http://epg.one/img/3357.png" group-title="ViP" audio-track="rus", Мосфильм. Золотая коллекция HD
 http://stream.mcquack.net/369/index.m3u8
 #EXTINF:-1 tvg-id="6258" tvg-name="кино 1 international" tvg-logo="http://epg.one/img/6258.png" group-title="КИНО",Кино 1 Int.
 http://kino-1.catcast.tv/content/38617/index.m3u8
