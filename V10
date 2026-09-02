@@ -13,26 +13,29 @@ https://autopilot.catcast.tv/content/38720/index.m3u8
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 tvg-id="sovkino" tvg-name="советское кино" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="КИНО",Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="сов.ком" tvg-logo="https://i.ibb.co/d4zvrXp/image-1.png" group-title="КИНО",Сов.Ком
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="КИНО",Победа
+https://streaming.thestream.cyou/live/43.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="КИНО",IPTVPLAY Великая Отечественная HD
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+
 #EXTINF:-1 tvg-id="Muzyka1.ru@International" tvg-name="музыка 1 international" group-title="КИНО",Музыка 1 Int.
 https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-id="Muzyka2.ru@International" tvg-name="музыка 2 international" group-title="КИНО",Музыка 2 Int.
 https://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaKino.ru@International" tvg-name="музыка кино international" group-title="КИНО",Музыка Кино Int.
 https://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="сов.ком" tvg-logo="https://i.ibb.co/d4zvrXp/image-1.png" group-title="КИНО",Сов.Ком
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
+
 
 
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="КИНО",Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
-#EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="КИНО",Победа
-https://streaming.thestream.cyou/live/43.m3u8
 #EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-logo="https://iptvx.one/picons/detkinoint-tviksel.png" group-title="КИНО",Детское кино Int
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="КИНО",IPTVPLAY МУЛЬТСКАЗКИ HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="КИНО",IPTVPLAY Великая Отечественная HD
-http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+
 #EXTINF:-1 tvg-id="ruskorabl" group-title="КИНО",Плюс Минус 16 SD
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 
