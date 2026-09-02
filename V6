@@ -98,17 +98,17 @@ http://185.57.68.33:8091/237/playlist.m3u8
 http://stream.mcquack.net/369/index.m3u8
 #EXTINF:-1 tvg-id="6258" tvg-name="кино 1 international" tvg-logo="http://epg.one/img/6258.png" group-title="КИНО",Кино 1 Int.
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-id="Detskoekino.ru@International",Детское кино International
+#EXTINF:-1 tvg-id="Detskoekino.ru@International" tvg-name="детское кино international",Детское кино Int.
 https://autopilot.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="ViP" audio-track="rus", Ретро
+#EXTINF:-1 tvg-id="retro" tvg-name="ретро" group-title="ViP" audio-track="rus", Ретро
 http://176.118.197.101/Retro/index.m3u8
-#EXTINF:-1 tvg-id="sovkino" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="ViP",Советское кино
+#EXTINF:-1 tvg-id="sovkino" tvg-name="советское кино" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="ViP",Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
-#EXTINF:-1 tvg-id="Muzyka1.ru@International",Музыка 1 International
+#EXTINF:-1 tvg-id="Muzyka1.ru@International" tvg-name="музыка 1 international" ,Музыка 1 Int.
 https://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 tvg-id="Muzyka1.ru@International",Музыка 2 International
+#EXTINF:-1 tvg-id="Muzyka1.ru@International" tvg-name="музыка 2 international" ,Музыка 2 Int.
 https://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 tvg-id="MuzykaKino.ru@International",Музыка Кино International
+#EXTINF:-1 tvg-id="MuzykaKino.ru@International" tvg-name="музыка кино international" ,Музыка Кино Int.
 https://kino-1.catcast.tv/content/37739/index.m3u8
 
 
