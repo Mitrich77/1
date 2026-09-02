@@ -36,7 +36,7 @@ https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="КИНО",IPTVPLAY МУЛЬТСКАЗКИ HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 
-#EXTINF:-1 tvg-id="ruskorabl" group-title="КИНО",Плюс Минус 16 SD
+#EXTINF:-1 tvg-id="ruskorabl" group-title="КИНО",Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="КИНО",IPTVPLAY ПАМЯТЬ HD
