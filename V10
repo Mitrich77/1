@@ -1,4 +1,10 @@
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/EPG_LITE.xml.gz" refresh="86400" tvg-shift=0 cache=500
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/EPG_LITE.xml.gz" refresh="86400" tvg-shift=0 cache=500 catchup="append" catchup-days="5" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://host.iptvin.ru/images/iptvlogo.png",-plsf 13.04.26 03:49 User: No-Auth IP: 46.191.179.41 channels 593 
 http://ex.iptvin.ru/iptvin.ru.mp4
 #EXTINF:-1 tvg-id="pervy" group-title="Эфирные" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1",Первый канал
