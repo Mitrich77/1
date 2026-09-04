@@ -2,6 +2,30 @@
 
 
 
+#EXTINF:-1 tvg-id="soloviev live" tvg-logo="https://i128.fastpic.org/big/2026/0805/da/2b6d28883e7abde27e869b62e6b8a1da.png" group-title="РАДИО" tvg-name="Соловьёв Live",Соловьев ФМ
+https://solovievfm.hostingradio.ru/solovievfm32.aacp
+#EXTINF:-1 tvg-id="soloviev live" tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="РАДИО" tvg-name="Соловьёв Live",Соловьев FM
+https://solovievfm.hostingradio.ru/solovievfm128.aacp
+#EXTINF:-1 tvg-id="soloviev live" tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="РАДИО" tvg-name="Соловьёв Live",SOLOViEV FM
+https://solovievfm.hostingradio.ru/solovievfm256.mp3
+
+#EXTINF:-1 tvg-id="izvestia" group-title="РАДИО" tvg-logo="https://i128.fastpic.org/big/2026/0904/27/30510e4198a26ad4f535719cc2ba2127.jpg" tvg-name="Известия",ИЗВЕСТИЯ FM
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v6a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="izvestia" group-title="РАДИО" tvg-logo="https://i128.fastpic.org/big/2026/0904/27/30510e4198a26ad4f535719cc2ba2127.jpg" tvg-name="Известия",ИЗВЕСТИЯ ФМ
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v7a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-id="zvezda plus" tvg-name="ЗВЕЗДА ПЛЮС" tvg-logo="https://i128.fastpic.org/big/2026/0904/0c/bbf264d5c4f4fbe7280af70c73cac30c.jpg" group-title="РАДИО",Радио Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="zvezda plus" tvg-name="ЗВЕЗДА ПЛЮС" tvg-logo="https://i128.fastpic.org/big/2026/0904/0c/bbf264d5c4f4fbe7280af70c73cac30c.jpg" group-title="РАДИО",Радио Звезда Плюс ФМ
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v5a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="zvezda plus" tvg-name="ЗВЕЗДА ПЛЮС" tvg-logo="https://i128.fastpic.org/big/2026/0904/0c/bbf264d5c4f4fbe7280af70c73cac30c.jpg" group-title="РАДИО",Radio Zvezda Plus FM
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v6a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="http://www.hist.msu.ru/pictures/partners/rsputnik.jpg" group-title="Радио",Радио Спутник
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://radiomixer.net/images/2023/11/01/YWT3JC4mWYkfFUAzLthwQmfyrlfTdm3VgrvNmzFA.jpg" group-title="Радио",Радио Родных Дорог
 https://stream-msk-17.ott.tricolor.tv/dtv/id961_MSKSG-PVR-1--Radio_Rodnykh_Dorog/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
@@ -35,41 +59,12 @@ http://tv.streams.baikal-telecom.net/MCM/tracks-v1a1/mono.m3u8
 https://stream-msk-17.ott.tricolor.tv/dtv/id963_MSKSG-PVR-1--Grad_Petrov/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
 #EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://semey.city/assets/templates/uikit/radio/images/novoe-msk-180.jpg" group-title="Радио",Новое Радио
 https://stream-msk-17.ott.tricolor.tv/dtv/id957_MSKSG-PVR-1--novoye_radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://radiopotok.ru/f/station/512/2367.png" group-title="Радио",Радио Краснодар
-http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://grodno24.com/assets/thumbs/images/2018/9/centr-fm.jpg" group-title="Радио",Радио Центр FM
 https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="http://www.hist.msu.ru/pictures/partners/rsputnik.jpg" group-title="Радио",Радио Спутник
-https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://рекламанащитах.рф/wp-content/uploads/2021/01/вести-фм.jpg" group-title="Радио",Радио Вести FM
-https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
 #EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" group-title="Радио",EHR FM Русские Хиты
 http://stream.ehrhiti.lv:8000/khr.mp3
 #EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" group-title="Радио",EHR FM Русские Хиты 2000-х
 http://stream.ehrhiti.lv:8000/Stream_66.mp3
-
-
-
-
-
-#EXTINF:-1 tvg-id="soloviev live" tvg-logo="https://i128.fastpic.org/big/2026/0805/da/2b6d28883e7abde27e869b62e6b8a1da.png" group-title="РАДИО" tvg-name="Соловьёв Live",Соловьев ФМ
-https://solovievfm.hostingradio.ru/solovievfm32.aacp
-#EXTINF:-1 tvg-id="soloviev live" tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="РАДИО" tvg-name="Соловьёв Live",Соловьев FM
-https://solovievfm.hostingradio.ru/solovievfm128.aacp
-#EXTINF:-1 tvg-id="soloviev live" tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="РАДИО" tvg-name="Соловьёв Live",SOLOViEV FM
-https://solovievfm.hostingradio.ru/solovievfm256.mp3
-
-#EXTINF:-1 tvg-id="izvestia" group-title="РАДИО" tvg-name="Известия",ИЗВЕСТИЯ FM
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v6a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="izvestia" group-title="РАДИО" tvg-name="Известия",ИЗВЕСТИЯ ФМ
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v7a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="zvezda plus" tvg-name="ЗВЕЗДА ПЛЮС" group-title="РАДИО",Радио Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="zvezda plus" tvg-name="ЗВЕЗДА ПЛЮС" group-title="РАДИО",Радио Звезда Плюс ФМ
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v5a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="zvezda plus" tvg-name="ЗВЕЗДА ПЛЮС" group-title="РАДИО",Radio Zvezda Plus FM
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v6a1/mono.ts.m3u8
 
 
 
