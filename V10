@@ -52,23 +52,23 @@ http://stream.ehrhiti.lv:8000/Stream_66.mp3
 
 
 
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0805/da/2b6d28883e7abde27e869b62e6b8a1da.png" group-title="РАДИО" tvg-name="Соловьёв Live",Соловьев ФМ
+#EXTINF:-1 tvg-id="soloviev live" tvg-logo="https://i128.fastpic.org/big/2026/0805/da/2b6d28883e7abde27e869b62e6b8a1da.png" group-title="РАДИО" tvg-name="Соловьёв Live",Соловьев ФМ
 https://solovievfm.hostingradio.ru/solovievfm32.aacp
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="РАДИО" tvg-name="Соловьёв Live",Соловьев FM
+#EXTINF:-1 tvg-id="soloviev live" tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="РАДИО" tvg-name="Соловьёв Live",Соловьев FM
 https://solovievfm.hostingradio.ru/solovievfm128.aacp
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="РАДИО" tvg-name="Соловьёв Live",SOLOViEV FM
+#EXTINF:-1 tvg-id="soloviev live" tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="РАДИО" tvg-name="Соловьёв Live",SOLOViEV FM
 https://solovievfm.hostingradio.ru/solovievfm256.mp3
 
-#EXTINF:-1 group-title="РАДИО" tvg-name="Известия",ИЗВЕСТИЯ FM
+#EXTINF:-1 tvg-id="izvestia" group-title="РАДИО" tvg-name="Известия",ИЗВЕСТИЯ FM
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v6a1/mono.ts.m3u8
-#EXTINF:-1 group-title="РАДИО" tvg-name="Известия",ИЗВЕСТИЯ ФМ
+#EXTINF:-1 tvg-id="izvestia" group-title="РАДИО" tvg-name="Известия",ИЗВЕСТИЯ ФМ
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v7a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-name="ЗВЕЗДА ПЛЮС" group-title="РАДИО",Радио Звезда Плюс
+#EXTINF:-1 tvg-id="zvezda plus" tvg-name="ЗВЕЗДА ПЛЮС" group-title="РАДИО",Радио Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="ЗВЕЗДА ПЛЮС" group-title="РАДИО",Радио Звезда Плюс ФМ
+#EXTINF:-1 tvg-id="zvezda plus" tvg-name="ЗВЕЗДА ПЛЮС" group-title="РАДИО",Радио Звезда Плюс ФМ
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v5a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="ЗВЕЗДА ПЛЮС" group-title="РАДИО",Radio Zvezda Plus FM
+#EXTINF:-1 tvg-id="zvezda plus" tvg-name="ЗВЕЗДА ПЛЮС" group-title="РАДИО",Radio Zvezda Plus FM
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v6a1/mono.ts.m3u8
 
 
