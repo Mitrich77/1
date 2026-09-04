@@ -21,6 +21,8 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v4a1/mono.ts.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v5a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="zvezda plus" tvg-name="ЗВЕЗДА ПЛЮС" tvg-logo="https://i128.fastpic.org/big/2026/0904/0c/bbf264d5c4f4fbe7280af70c73cac30c.jpg" group-title="РАДИО",Radio Zvezda Plus FM
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v6a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="ЗВЕЗДА ПЛЮС" group-title="РАДИО",ЗВЕЗДА ПЛЮС
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v3a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="http://www.hist.msu.ru/pictures/partners/rsputnik.jpg" group-title="Радио",Радио Спутник
