@@ -1,6 +1,19 @@
  #EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="5" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 
 
+#EXTINF:-1  tvg-id="silverrain" group-title="РАДИО",Серебрянный Дождь
+https://silverrain.hostingradio.ru/silver64.aac
+
+#EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Наедине с природой
+https://pub0102.101.ru:8443/stream/trust/mp3/128/263
+
+#EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Радио Romantika. Piano Covers
+https://pub0101.101.ru/stream/pro/aac/64/375 
+
+#EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Радио HDR LOUNGE
+http://harddanceradio.ddns.is74.ru:8000/lounge
+
+
 
 #EXTINF:-1 tvg-id="soloviev live" tvg-logo="https://i128.fastpic.org/big/2026/0805/da/2b6d28883e7abde27e869b62e6b8a1da.png" group-title="РАДИО" tvg-name="Соловьёв Live",Соловьев ФМ
 https://solovievfm.hostingradio.ru/solovievfm32.aacp
