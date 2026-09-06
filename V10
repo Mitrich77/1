@@ -1,6 +1,11 @@
  #EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="5" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 
 
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Наедине с природой
+#EXTVLCOPT:input-slave=https://pub0102.101.ru:8443/stream/trust/mp3/128/263
+#EXTVLCOPT:loop
+https://m.vk.com/video-228560927_456241537
+
 #EXTINF:-1  tvg-id="silverrain" group-title="РАДИО",Серебрянный Дождь
 https://silverrain.hostingradio.ru/silver64.aac
 
