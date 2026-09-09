@@ -2301,3 +2301,27 @@ http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/19404/index.m3u8
 http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/19432/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="спорт",Eurosport 2 UHD
 http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/19431/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="кино",Кинозал 1 (Триколор)
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/2568/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="кино",Кинозал 2 (Триколор)
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/2569/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="кино",Кинозал 3 (Триколор)
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/2570/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="кино",Кинозал 4 (Триколор)
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/2571/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="кино",Кинозал 5 (Триколор)
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/2572/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="кино",Кинозал 6 (Триколор)
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/2573/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="кино",Кинозал 7 (Триколор)
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/2574/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="кино",Кинозал 8 (Триколор)
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/2575/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="кино",Кинозал 9 (Триколор)
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/2576/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="кино",Кинозал 10 (Триколор)
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/2577/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="кино",Кинозал 11 (Триколор)
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/2578/index.m3u8
+#EXTINF:-1 tvg-rec="1" catchup_days="3" group-title="кино",Кинозал 12 (Триколор)
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/2579/index.m3u8
