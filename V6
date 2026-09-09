@@ -2286,3 +2286,18 @@ https://streaming.televizor-24-tochka.ru/live/30.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i128.fastpic.org/big/2026/0802/76/1f95b63e227e62b1031122210126b476.png" group-title="ViP" tvg-name="Россия 24",РОССИЯ 24 HD (1080р)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+
+
+
+#EXTINF:-1 tvg-rec="0" group-title="новости",Первый канал UHD
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/19241/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="новости",Россия 1 UHD
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/19242/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="новости",НТВ UHD
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/19405/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="познавательные",РЕН ТВ UHD
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/19404/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="спорт",Eurosport 1 UHD
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/19432/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="спорт",Eurosport 2 UHD
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/19431/index.m3u8
