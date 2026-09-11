@@ -74,6 +74,10 @@ https://stream.smotrim.ru/hls/russia_24/playlist_2.m3u8
 https://stream.smotrim.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 group-title="Новостные",Россия 24 4
 https://stream.smotrim.ru/hls/russia_24/playlist_4.m3u8
+#EXTINF:-1 group-title="Новостные",Россия 24 5
+https://stream.smotrim.ru/hls/russia_24/playlist_5.m3u8
+#EXTINF:-1 group-title="Новостные",Россия 24 6
+https://stream.smotrim.ru/hls/russia_24/playlist_6.m3u8
 
 #EXTINF:-1 group-title="Новостные",Россия 24 *1
 https://stream.smotrim.ru/hls/russia24nl_smotrim/playlist_1.m3u8
@@ -98,6 +102,11 @@ https://stream.smotrim.ru/hls2/russia_24/playlist_2.m3u8
 https://stream.smotrim.ru/hls2/russia_24/playlist_3.m3u8
 #EXTINF:-1 group-title="Новостные",Россия 24 2_4
 https://stream.smotrim.ru/hls2/russia_24/playlist_4.m3u8
+#EXTINF:-1 group-title="Новостные",Россия 24 2_5
+https://stream.smotrim.ru/hls2/russia_24/playlist_5.m3u8
+#EXTINF:-1 group-title="Новостные",Россия 24 2_6
+https://stream.smotrim.ru/hls2/russia_24/playlist_6.m3u8
+
 
 #EXTINF:-1 group-title="Новостные",Россия 24 2*1
 https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_1.m3u8
