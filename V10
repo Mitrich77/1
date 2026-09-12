@@ -29,6 +29,22 @@ https://stream.smotrim.ru/hls/russia24_hd/playlist_5.m3u8
 #EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24🄷🄳 6
 https://stream.smotrim.ru/hls/russia24_hd/playlist_6.m3u8
 
+
+#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24ʜᴅ 1*
+https://stream.smotrim.ru/hls2/russia24_hd/playlist_1.m3u8
+#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24ⒽⒹ 2*
+https://stream.smotrim.ru/hls2/russia24_hd/playlist_2.m3u8
+#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24🄷🄳 3*
+https://stream.smotrim.ru/hls2/russia24_hd/playlist_3.m3u8
+#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24ʜᴅ 4*
+https://stream.smotrim.ru/hls2/russia24_hd/playlist_4.m3u8
+#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24ⒽⒹ 5*
+https://stream.smotrim.ru/hls2/russia24_hd/playlist_5.m3u8
+#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24🄷🄳 6*
+https://stream.smotrim.ru/hls2/russia24_hd/playlist_6.m3u8
+
+
+
 #EXTINF:-1 group-title="6.ЭФИРНЫЕ Int. 🧿" tvg-logo="http://epg.it999.ru/img2/1683.png",РОССИЯ 24 International FD
 https://stream.smotrim.ru/hls2/russia24_int/playlist_3.m3u8
 
