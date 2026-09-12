@@ -16,29 +16,28 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2
 
 
 
-#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24ʜᴅ 1
+#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24 (240p)
 https://stream.smotrim.ru/hls/russia24_hd/playlist_1.m3u8
-#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24ⒽⒹ 2
+#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24 (360p)
 https://stream.smotrim.ru/hls/russia24_hd/playlist_2.m3u8
-#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24🄷🄳 3
+#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24 (480p)
 https://stream.smotrim.ru/hls/russia24_hd/playlist_3.m3u8
-#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24ʜᴅ 4
+#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24ʜᴅ (720p)
 https://stream.smotrim.ru/hls/russia24_hd/playlist_4.m3u8
-#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24ⒽⒹ 5
+#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24ʜᴅ (1080p)
 https://stream.smotrim.ru/hls/russia24_hd/playlist_5.m3u8
-#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24🄷🄳 6
-https://stream.smotrim.ru/hls/russia24_hd/playlist_6.m3u8
 
 
-#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24 (②④⓪p)
+
+#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24 ②④⓪p
 https://stream.smotrim.ru/hls2/russia24_hd/playlist_1.m3u8
-#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24 (③⑥⓪p)
+#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24 ③⑥⓪p
 https://stream.smotrim.ru/hls2/russia24_hd/playlist_2.m3u8
-#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24 (④⑧⓪p)
+#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24 ④⑧⓪p
 https://stream.smotrim.ru/hls2/russia24_hd/playlist_3.m3u8
-#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24ʜᴅ (⑦②⓪p)
+#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24ʜᴅ ⑦②⓪p
 https://stream.smotrim.ru/hls2/russia24_hd/playlist_4.m3u8
-#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24ⒽⒹ (①⓪⑧⓪p)
+#EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24ʜᴅ ①⓪⑧⓪p
 https://stream.smotrim.ru/hls2/russia24_hd/playlist_5.m3u8
 
 
