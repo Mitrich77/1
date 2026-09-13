@@ -147,7 +147,7 @@ https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Соловьёв Live" tvg-logo="https://i127.fastpic.org/big/2026/0624/86/20b892f9355275814d5023402d8f0a86.png" group-title="Новости",Соловьёв Livе
+#EXTINF:-1 tvg-name="Соловьёв Live" tvg-logo="https://i127.fastpic.org/big/2026/0624/86/20b892f9355275814d5023402d8f0a86.png" group-title="Новости",Соловьёв Live
 https://stream.smotrim.ru/hls2/solovievlive/playlist_1.m3u8
 #EXTINF:-1 tvg-name="Соловьёв Live" tvg-logo="https://i127.fastpic.org/big/2026/0624/86/20b892f9355275814d5023402d8f0a86.png" group-title="Новости",Соловьёв Live
 https://stream.smotrim.ru/hls2/solovievlive/playlist_2.m3u8
