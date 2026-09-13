@@ -1,20 +1,44 @@
  #EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="5" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 
-#EXTINF:-1 group-title="1",1
-http://sahri4x5.tvclub.xyz/iptv/MMMNMXMBCGWMZQ/15367/index.m3u8
-#EXTINF:-1 group-title="1",2
+#EXTINF:-1 tvg-rec="0" group-title="новости",Первый канал UHD
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/19241/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="новости",Россия 1 UHD
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/19242/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="новости",НТВ UHD
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/19405/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="познавательные",РЕН ТВ UHD
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/19404/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="спорт",Eurosport 1 UHD
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/19432/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="спорт",Eurosport 2 UHD
+http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/19431/index.m3u8
+
+#EXTINF:-1 tvg-rec="0" group-title="новости",Первый канал UHD
 http://sahri4x5.tvclub.xyz/iptv/MMMNMXMBCGWMZQ/19241/index.m3u8
-#EXTINF:-1 group-title="1",3
-http://sahri4x5.tvclub.xyz/iptv/MMMNMXMBCGWMZQ/31716/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="новости",Россия 1 UHD
+http://sahri4x5.tvclub.xyz/iptv/MMMNMXMBCGWMZQ/19242/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="новости",НТВ UHD
+http://sahri4x5.tvclub.xyz/iptv/MMMNMXMBCGWMZQ/19405/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="познавательные",РЕН ТВ UHD
+http://sahri4x5.tvclub.xyz/iptv/MMMNMXMBCGWMZQ/19404/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="спорт",Eurosport 1 UHD
+http://sahri4x5.tvclub.xyz/iptv/MMMNMXMBCGWMZQ/19432/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="спорт",Eurosport 2 UHD
+http://sahri4x5.tvclub.xyz/iptv/MMMNMXMBCGWMZQ/19431/index.m3u8
 
-#EXTINF:-1 group-title="2",21
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/15367/index.m3u8
-#EXTINF:-1 group-title="2",22
+
+#EXTINF:-1 tvg-rec="0" group-title="новости",Первый канал UHD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/19241/index.m3u8
-#EXTINF:-1 group-title="2",23
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/31716/index.m3u8
-
-
+#EXTINF:-1 tvg-rec="0" group-title="новости",Россия 1 UHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/19242/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="новости",НТВ UHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/19405/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="познавательные",РЕН ТВ UHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/19404/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="спорт",Eurosport 1 UHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/19432/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="спорт",Eurosport 2 UHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/19431/index.m3u8
 
 #EXTINF:-1 group-title="4.ЭФИРНЫЕ ⓵",Россия 24 (240p)
 https://stream.smotrim.ru/hls/russia24_hd/playlist_1.m3u8
