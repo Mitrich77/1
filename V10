@@ -40,45 +40,47 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2
 #EXTINF:-1 tvg-rec="0" group-title="спорт",Eurosport 2 UHD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/19431/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/ef/2a5edcd23db6972644aa4256bc905def.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",РОССИЯ 24 Int.
+
+
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0708/5b/5e916a92397e507adc6b3d20e81e685b.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",РОССИЯ 24 Int.
 https://stream.smotrim.ru/hls/russia24_int/playlist_1.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/ef/2a5edcd23db6972644aa4256bc905def.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",РОССИЯ 24 Int.
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0708/5b/5e916a92397e507adc6b3d20e81e685b.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",РОССИЯ 24 Int.
 https://stream.smotrim.ru/hls/russia24_int/playlist_2.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/ef/2a5edcd23db6972644aa4256bc905def.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",РОССИЯ 24 Int.
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0708/5b/5e916a92397e507adc6b3d20e81e685b.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",РОССИЯ 24 Int.
 https://stream.smotrim.ru/hls/russia24_int/playlist_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/ef/2a5edcd23db6972644aa4256bc905def.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",РОССИЯ 24 Int.
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0708/5b/5e916a92397e507adc6b3d20e81e685b.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",РОССИЯ 24 Int.
 https://stream.smotrim.ru/hls2/russia24_int/playlist_1.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/ef/2a5edcd23db6972644aa4256bc905def.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",РОССИЯ 24 Int.
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0708/5b/5e916a92397e507adc6b3d20e81e685b.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",РОССИЯ 24 Int.
 https://stream.smotrim.ru/hls2/russia24_int/playlist_2.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/ef/2a5edcd23db6972644aa4256bc905def.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",РОССИЯ 24 Int.
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0708/5b/5e916a92397e507adc6b3d20e81e685b.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",РОССИЯ 24 Int.
 https://stream.smotrim.ru/hls2/russia24_int/playlist_3.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/ef/2a5edcd23db6972644aa4256bc905def.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24 (240p)
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0708/5b/5e916a92397e507adc6b3d20e81e685b.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24 (240p)
 https://stream.smotrim.ru/hls/russia24_hd/playlist_1.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/ef/2a5edcd23db6972644aa4256bc905def.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24 (360p)
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0708/5b/5e916a92397e507adc6b3d20e81e685b.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24 (360p)
 https://stream.smotrim.ru/hls/russia24_hd/playlist_2.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/ef/2a5edcd23db6972644aa4256bc905def.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24 (480p)
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0708/5b/5e916a92397e507adc6b3d20e81e685b.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24 (480p)
 https://stream.smotrim.ru/hls/russia24_hd/playlist_3.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/ef/2a5edcd23db6972644aa4256bc905def.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24ᴴᴰ (720p)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/76/1f95b63e227e62b1031122210126b476.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24ᴴᴰ (720p)
 https://stream.smotrim.ru/hls/russia24_hd/playlist_4.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/ef/2a5edcd23db6972644aa4256bc905def.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24ᴴᴰ (1080p)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/76/1f95b63e227e62b1031122210126b476.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24ᴴᴰ (1080p)
 https://stream.smotrim.ru/hls/russia24_hd/playlist_5.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/ef/2a5edcd23db6972644aa4256bc905def.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24 ②④⓪p
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0708/5b/5e916a92397e507adc6b3d20e81e685b.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24 ②④⓪p
 https://stream.smotrim.ru/hls2/russia24_hd/playlist_1.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/ef/2a5edcd23db6972644aa4256bc905def.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24 ③⑥⓪p
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0708/5b/5e916a92397e507adc6b3d20e81e685b.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24 ③⑥⓪p
 https://stream.smotrim.ru/hls2/russia24_hd/playlist_2.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/ef/2a5edcd23db6972644aa4256bc905def.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24 ④⑧⓪p
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0708/5b/5e916a92397e507adc6b3d20e81e685b.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24 ④⑧⓪p
 https://stream.smotrim.ru/hls2/russia24_hd/playlist_3.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/ef/2a5edcd23db6972644aa4256bc905def.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24ᴴᴰ ⑦②⓪p
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/76/1f95b63e227e62b1031122210126b476.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24ᴴᴰ ⑦②⓪p
 https://stream.smotrim.ru/hls2/russia24_hd/playlist_4.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/ef/2a5edcd23db6972644aa4256bc905def.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24ᴴᴰ ①⓪⑧⓪p
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/76/1f95b63e227e62b1031122210126b476.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24ᴴᴰ ①⓪⑧⓪p
 https://stream.smotrim.ru/hls2/russia24_hd/playlist_5.m3u8
 
 
