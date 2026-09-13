@@ -122,9 +122,9 @@ https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
 https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
 
 
-#EXTINF:-1 tvg-name="Соловьёв Live" tvg-logo="https://i128.fastpic.org/big/2026/0913/c2/e8f1217ea68c840528994bbe03698cc2.png" group-title="Новости",Новороссия
+#EXTINF:-1 tvg-name="Соловьёв Live" tvg-logo="https://i128.fastpic.org/big/2026/0913/a1/2266c287090fa0a6597222eacfeb8ca1.png" group-title="Новости",Новороссия
 http://185.229.235.30:8005/udp/225.15.3.149:2345
-#EXTINF:-1 tvg-name="Соловьёв Live" tvg-logo="https://i128.fastpic.org/big/2026/0913/c2/e8f1217ea68c840528994bbe03698cc2.png" group-title="Новости",Новороссия
+#EXTINF:-1 tvg-name="Соловьёв Live" tvg-logo="https://i128.fastpic.org/big/2026/0913/a1/2266c287090fa0a6597222eacfeb8ca1.png" group-title="Новости",Новороссия
 http://31.131.139.253:9002/novoros/index.m3u8
 
 #EXTINF:-1 group-title="Новостные" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png",Соловьёв Live
