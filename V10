@@ -1,4 +1,15 @@
- #EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="5" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+#EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="5" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+
+
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/0f/5fb320c7052eaa32f4feb217a813950f.png" group-title="ЭфиР",Россия 1 HD (+5)
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_5.m3u8
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/0f/5fb320c7052eaa32f4feb217a813950f.png" group-title="ЭфиР",Россия 1 HD (+5)
+http://dmi3y-tv.online/hls2/smotrim/T2/CH_RUSSIA1HD_5.m3u8
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/f0/fa11771d245f0d2d041a88a682399ff0.png" group-title="ЭфиР",Россия 1 (+5)
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_5.m3u8
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/f0/fa11771d245f0d2d041a88a682399ff0.png" group-title="ЭфиР",Россия 1 (+5)
+http://dmi3y-tv.online/hls2/smotrim/T2/CH_RUSSIA1_5.m3u8
+
 
 #EXTINF:-1 tvg-rec="0" group-title="новости",Первый канал UHD
 http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/19241/index.m3u8
