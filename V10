@@ -204,6 +204,42 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Новостные",ИЗВЕСТИЯᴴᴰ
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
 
+
+#EXTINF:-1 tvg-name="Вся Уфа" group-title="Rutub TV",Вся Уфа 1
+https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=00KMkFjLRPgT2WtWzWtp7Q&e=2069285059&scheme=https
+#EXTINF:-1 tvg-name="Вся Уфа" group-title="Rutub TV",Вся Уфа HD 2
+https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=T6taRwAipt9M4x6hxshLlQ&e=2066519788&scheme=https
+#EXTINF:-1 tvg-name="Вся Уфа" group-title="51.RUTUBE 2 💥",Вся Уфа 3
+https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=y8QWW_tOUamEkSzAT6_nlg&e=2081939587&scheme=https
+#EXTINF:-1 tvg-name="Вся Уфа" group-title="sewv654* 🔄" tvg-logo="http://epg.one/img2/5722.png",Вся Уфа 4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCSZMUM84X4689VHGC7UDAQQ/15300/index.m3u8
+#EXTINF:-1 tvg-name="Вся Уфа" group-title="ФЕДЕРАЛЬНЫЕ" tvg-logo="https://iptvx.one/picons/vsia-ufa.png",Вся Уфа 5
+https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=eKlI_aa8PX3A-krCbqLsRA&e=2070623504&scheme=https
+
+
+
+#EXTINF:-1 tvg-name="БСТ" group-title="Региональные" tvg-logo="https://i.ibb.co/PvHvSwP6/image-67.png",БСТ (Уфа) 1
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
+#EXTINF:-1 tvg-name="БСТ" group-title="Региональные" tvg-logo="https://iptvx.one/picons/bst.png",БСТ (Уфа) 2
+http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdlow.m3u8
+#EXTINF:-1 tvg-name="БСТ" group-title="Региональные" tvg-logo="http://rafail1982.uz/logo/БСТ.png",БСТ (Уфа) FD 3
+http://dmitry-tv.ddns.net/hls/region/CH_BST_UFA.m3u8
+#EXTINF:-1 tvg-name="БСТ" group-title="Региональные" tvg-logo="http://rafail1982.uz/logo/БСТ.png",БСТ (Уфа) FD 4
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
+#EXTINF:-1 tvg-name="БСТ" group-title="Региональные" tvg-logo="http://rafail1982.uz/logo/БСТ.png",БСТ (Уфа) FD 5
+http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-name="БСТ" group-title="Региональные" tvg-logo="http://rafail1982.uz/logo/БСТ.png",БСТ (Уфа) FD 6
+http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-name="БСТ" group-title="Региональные" tvg-logo="http://rafail1982.uz/logo/БСТ.png",БСТ (Уфа) FD 7
+https://bsttv.bonus-tv.ru/cdn/bst/index.m3u8
+#EXTINF:-1 tvg-name="БСТ" group-title="Региональные" tvg-logo="http://rafail1982.uz/logo/БСТ.png",БСТ (Уфа) HD 8
+https://bstrtrs.mediacdn.ru/rtrs/hdbst/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="БСТ" group-title="Региональные" tvg-logo="http://rafail1982.uz/logo/БСТ.png",БСТ (Уфа) HD 9
+http://bsttv.bonus-tv.ru/cdn/hdbst/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-name="БСТ" group-title="Региональные" tvg-logo="http://rafail1982.uz/logo/БСТ.png",БСТ (Уфа) HD 10
+http://bsttv.bonus-tv.ru:80/cdn/hdbst/playlist_hdhigh.m3u8
+
+
 #EXTINF:-1 group-title="Новостные",КРИК-ТВᴴᴰ
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 #EXTINF:-1 group-title="Новостные",КРИК-ТВᴴᴰ
