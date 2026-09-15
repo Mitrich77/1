@@ -1,6 +1,18 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="5" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 
 
+
+#EXTINF:-1 group-title="НТВ+" tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/PERVYJ KANAL.png",Первый канал HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031906&extension=ts&play_token=u76EuhnWWk
+#EXTINF:-1 group-title="Rutub TV",Первый канал HD
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=cdEX_MDZxQc2DELRdY3CwQ&e=2069285048&scheme=https
+#EXTINF:-1 group-title="51.RUTUBE 2 💥",Первый канал HD
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=GR1N-OTxJqz0njwUSLNRWw&e=2081939571&scheme=https
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ" tvg-logo="http://rafail1982.uz/logo/Первый канал HD.png",Первый канал HD
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=lmXcLXuG86134J5a9fUHtQ&e=2068506931&scheme=https
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ" tvg-logo="http://rafail1982.uz/logo/Первый канал HD.png",Первый канал HD
+http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/0f/5fb320c7052eaa32f4feb217a813950f.png" group-title="ЭфиР",Россия 1 HD (+5)
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_5.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/0f/5fb320c7052eaa32f4feb217a813950f.png" group-title="ЭфиР",Россия 1 HD (+5)
