@@ -741,6 +741,76 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v6a1/mono.ts.m3u8
 
 
 
+#EXTINF:0 tvg-rec="0",Tviksel Кино 1 HD
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/18069/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Кино 2 HD
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/18070/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Кино 1 International
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/18071/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Военное кино HD
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/18072/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Детское кино HD
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/18073/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Детское кино International
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/18074/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 1 (Триколор)
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/18126/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 2 (Триколор)
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/18127/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 3 (Триколор)
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/18128/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 4 (Триколор)
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/18129/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 5 (Триколор)
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/18130/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 6 (Триколор)
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/18131/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 7 (Триколор)
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/18132/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 8 (Триколор)
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/18133/index.m3u8
+#EXTINF:0 tvg-rec="0",Знание ТВ
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/18134/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 10 (Триколор)
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/18135/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 11 (Триколор)
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/18136/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 12 (Триколор)
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/18137/index.m3u
+
+
+#EXTINF:0 tvg-rec="0",Зал 17 (Триколор)
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/32104/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 17 (Триколор) orig
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/32105/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 19 (Триколор)
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/32106/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 20 (Триколор)
+#EXTGRP:Кино
+http://nerkasavass.lunexas.top/iptv/R9ZYVDT2RKTLDXZWA4LP8729/32107/index.m3u8
+
+
 #EXTINF:0 tvg-rec="3",Кинозал 1 (Триколор)
 #EXTGRP:Кино
 http://1klcbwnj.streamoras.top/iptv/NLAGWHGVF6RRYL/2568/index.m3u8
