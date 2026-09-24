@@ -738,3 +738,36 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v5a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС" group-title="Новости",звезда пЛЮС
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v6a1/mono.ts.m3u8
+
+
+
+#EXTINF:0 tvg-rec="3",Кинозал 1 (Триколор)
+#EXTGRP:Кино
+http://1klcbwnj.streamoras.top/iptv/NLAGWHGVF6RRYL/2568/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 2 (Триколор)
+#EXTGRP:Кино
+http://1klcbwnj.streamoras.top/iptv/NLAGWHGVF6RRYL/2569/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 3 (Триколор)
+#EXTGRP:Кино
+http://1klcbwnj.streamoras.top/iptv/NLAGWHGVF6RRYL/2570/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 4 (Триколор)
+#EXTGRP:Кино
+http://1klcbwnj.streamoras.top/iptv/NLAGWHGVF6RRYL/2571/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 5 (Триколор)
+#EXTGRP:Кино
+http://1klcbwnj.streamoras.top/iptv/NLAGWHGVF6RRYL/2572/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 6 (Триколор)
+#EXTGRP:Кино
+http://1klcbwnj.streamoras.top/iptv/NLAGWHGVF6RRYL/2573/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 36 (Триколор)
+#EXTGRP:Кино
+http://1klcbwnj.streamoras.top/iptv/NLAGWHGVF6RRYL/2574/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 35 (Триколор)
+#EXTGRP:Кино
+http://1klcbwnj.streamoras.top/iptv/NLAGWHGVF6RRYL/2575/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 31 (Триколор)
+#EXTGRP:Кино
+http://1klcbwnj.streamoras.top/iptv/NLAGWHGVF6RRYL/2576/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 13 (Триколор)
+#EXTGRP:Кино
+http://1klcbwnj.streamoras.top/iptv/NLAGWHGVF6RRYL/2579/index.m3u8
