@@ -2,10 +2,10 @@
 
 #EXTINF:-1 group-title="ViP" tvg-id="pervy-pl2" tvg-name="Первый канал (+2)",Первый канал (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://s45177.cdn.ngenix.net/hls/CH_R03_1TV_UFA/variant.m3u8
+https://s45177.cdn.ngenix.net/hls/CH_R03_1TV_UFA/variant.m3u8|User-Agent=HlsWinkPlayer
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/76/73a8334bc37b05ed1711c85d0beab176.png" group-title="ViP" tvg-id="rossia1-pl2" tvg-name="Россия 1 (+2)",Россия 1 (Уфа)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://s45177.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+https://s45177.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8|User-Agent=HlsWinkPlayer
 #EXTINF:-1 group-title="ViP" tvg-id="sts-pl2" tvg-name="СТС (+2)", СТС (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
