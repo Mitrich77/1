@@ -768,40 +768,32 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2
 
 
 
+
 #EXTINF:-1 tvg-id="3357" tvg-logo="http://epg.one/img2/3357.png" tvg-rec="0" group-title="Кино",Мосфильм. Золотая коллекция HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/7347/index.m3u8
-#EXTINF:-1 tvg-id="3357" tvg-logo="http://epg.one/img2/3357.png" tvg-rec="1" catchup_days="3" group-title="Кино",Мосфильм. Золотая коллекция
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/6392/index.m3u8
-#EXTINF:-1 tvg-id="3357" tvg-logo="http://epg.one/img2/3357.png" tvg-rec="1" catchup_days="3" group-title="Кино",Мосфильм. Золотая коллекция orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/9156/index.m3u8
 #EXTINF:-1 tvg-id="17022" tvg-logo="http://epg.one/img2/17022.png" tvg-rec="0" group-title="Кинозалы",Мосфильм. Золотая коллекция +4 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/17022/index.m3u8
 #EXTINF:-1 tvg-id="4667" tvg-logo="http://epg.one/img2/4667.png" tvg-rec="1" catchup_days="7" group-title="Кинозалы",VF Мосфильм
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/10084/index.m3u8
+#EXTINF:-1 tvg-id="8001" tvg-logo="http://epg.one/img2/8001.png" tvg-rec="0" group-title="Кинозалы",MM USSR Драма HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/13022/index.m3u8
+
+
 #EXTINF:-1 tvg-id="5981" tvg-logo="http://epg.one/img2/5981.png" tvg-rec="0" group-title="Кинозалы",VF New Year
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/15522/index.m3u8
+#EXTINF:-1 tvg-id="5996" tvg-logo="http://epg.one/img2/5996.png" tvg-rec="0" group-title="Детские",VF Новогодние мультфильмы
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/15523/index.m3u8
 #EXTINF:-1 tvg-id="5982" tvg-logo="http://epg.one/img2/5982.png" tvg-rec="0" group-title="Кинозалы",VF С новым годом!
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/15524/index.m3u8
 #EXTINF:-1 tvg-id="6163" tvg-logo="http://epg.one/img2/6163.png" tvg-rec="0" group-title="Кинозалы",VF Новогодний
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/17035/index.m3u8
-#EXTINF:-1 tvg-id="8001" tvg-logo="http://epg.one/img2/8001.png" tvg-rec="0" group-title="Кинозалы",MM USSR Драма HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/13022/index.m3u8
-#EXTINF:-1 tvg-id="5131" tvg-logo="http://epg.one/img2/5131.png" tvg-rec="0" group-title="Кинозалы",MM USSR 1941-1945 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/13018/index.m3u8
-#EXTINF:-1 tvg-id="6256" tvg-logo="http://epg.one/img2/6256.png" tvg-rec="0" group-title="Кинозалы",Tviksel Кино 1 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/18069/index.m3u8
-#EXTINF:-1 tvg-id="6258" tvg-logo="http://epg.one/img2/6258.png" tvg-rec="0" group-title="Кинозалы",Tviksel Кино 1 International
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/18071/index.m3u8
-#EXTINF:-1 tvg-id="6257" tvg-logo="http://epg.one/img2/6257.png" tvg-rec="0" group-title="Кинозалы",Tviksel Кино 2 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/18070/index.m3u8
-#EXTINF:-1 tvg-id="6259" tvg-logo="http://epg.one/img2/6259.png" tvg-rec="0" group-title="Кинозалы",Tviksel Военное кино HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/18072/index.m3u8
+
+#EXTINF:-1 tvg-id="5996" tvg-logo="http://epg.one/img2/5996.png" tvg-rec="0" group-title="Детские",VF Новогодние мультфильмы
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/15523/index.m3u8
 #EXTINF:-1 tvg-id="4774" tvg-logo="http://epg.one/img2/4774.png" tvg-rec="1" catchup_days="7" group-title="Детские",StrahTV Весёлая Карусель HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/11057/index.m3u8
-#EXTINF:-1 tvg-id="6260" tvg-logo="http://epg.one/img2/6260.png" tvg-rec="0" group-title="Детские",Tviksel Детское кино HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/18073/index.m3u8
-#EXTINF:-1 tvg-id="6261" tvg-logo="http://epg.one/img2/6261.png" tvg-rec="0" group-title="Детские",Tviksel Детское кино International
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/18074/index.m3u8
+#EXTINF:-1 tvg-id="5129" tvg-logo="http://epg.one/img2/5129.png" tvg-rec="0" group-title="Детские",MM Tom and Jerry HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/13016/index.m3u8
 #EXTINF:-1 tvg-id="4728" tvg-logo="http://epg.one/img2/4728.png" tvg-rec="1" catchup_days="7" group-title="Детские",CineMan Cartoons 90
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/11001/index.m3u8
 #EXTINF:-1 tvg-id="4729" tvg-logo="http://epg.one/img2/4729.png" tvg-rec="1" catchup_days="7" group-title="Детские",CineMan Cartoons Short
@@ -812,8 +804,22 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/11118/index.m3u8
 #EXTINF:-1 tvg-id="7593" tvg-logo="http://epg.one/img2/7593.png" tvg-rec="0" group-title="Детские",VF Disney Cartoon
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/15027/index.m3u8
-#EXTINF:-1 tvg-id="5996" tvg-logo="http://epg.one/img2/5996.png" tvg-rec="0" group-title="Детские",VF Новогодние мультфильмы
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/15523/index.m3u8
+
+#EXTINF:-1 tvg-id="6232" tvg-logo="http://epg.one/img2/6232.png" tvg-rec="0" group-title="Детские",Liberty Мульт 4K
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/18051/index.m3u8
+#EXTINF:-1 tvg-id="6728" tvg-logo="http://epg.one/img2/6728.png" tvg-rec="0" group-title="Детские",Liberty Сказки FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/19304/index.m3u8
+#EXTINF:-1 tvg-id="5134" tvg-logo="http://epg.one/img2/5134.png" tvg-rec="0" group-title="Детские",MM USSR Сказки HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/13021/index.m3u8
+#EXTINF:-1 tvg-id="7154" tvg-logo="http://epg.one/img2/7154.png" tvg-rec="0" group-title="Детские",Yosso TV Наше Детское
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/19433/index.m3u8
+#EXTINF:-1 tvg-id="108" tvg-logo="http://epg.one/img2/108.png" tvg-rec="0" group-title="Детские",MYTV Kids
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/19409/index.m3u8
+#EXTINF:-1 tvg-id="6260" tvg-logo="http://epg.one/img2/6260.png" tvg-rec="0" group-title="Детские",Tviksel Детское кино HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/18073/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="4756" tvg-logo="http://epg.one/img2/4756.png" tvg-rec="1" catchup_days="7" group-title="Детские",BCU Kids HDR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/11035/index.m3u8
 #EXTINF:-1 tvg-id="4757" tvg-logo="http://epg.one/img2/4757.png" tvg-rec="1" catchup_days="7" group-title="Детские",BCU Kids+ HD
@@ -822,20 +828,23 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/17023/index.m3u8
 #EXTINF:-1 tvg-id="5571" tvg-logo="http://epg.one/img2/5571.png" tvg-rec="0" group-title="Детские",MM Walt Disney HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/13064/index.m3u8
-#EXTINF:-1 tvg-id="5129" tvg-logo="http://epg.one/img2/5129.png" tvg-rec="0" group-title="Детские",MM Tom and Jerry HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/13016/index.m3u8
-#EXTINF:-1 tvg-id="5134" tvg-logo="http://epg.one/img2/5134.png" tvg-rec="0" group-title="Детские",MM USSR Сказки HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/13021/index.m3u8
 #EXTINF:-1 tvg-id="5549" tvg-logo="http://epg.one/img2/5549.png" tvg-rec="0" group-title="Детские",Liberty Дисней FHD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/15093/index.m3u8
-#EXTINF:-1 tvg-id="6232" tvg-logo="http://epg.one/img2/6232.png" tvg-rec="0" group-title="Детские",Liberty Мульт 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/18051/index.m3u8
-#EXTINF:-1 tvg-id="6728" tvg-logo="http://epg.one/img2/6728.png" tvg-rec="0" group-title="Детские",Liberty Сказки FHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/19304/index.m3u8
-#EXTINF:-1 tvg-id="7154" tvg-logo="http://epg.one/img2/7154.png" tvg-rec="0" group-title="Детские",Yosso TV Наше Детское
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/19433/index.m3u8
-#EXTINF:-1 tvg-id="108" tvg-logo="http://epg.one/img2/108.png" tvg-rec="0" group-title="Детские",MYTV Kids
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/19409/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="6256" tvg-logo="http://epg.one/img2/6256.png" tvg-rec="0" group-title="Кинозалы",Tviksel Кино 1 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/18069/index.m3u8
+#EXTINF:-1 tvg-id="6258" tvg-logo="http://epg.one/img2/6258.png" tvg-rec="0" group-title="Кинозалы",Tviksel Кино 1 International
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/18071/index.m3u8
+#EXTINF:-1 tvg-id="6257" tvg-logo="http://epg.one/img2/6257.png" tvg-rec="0" group-title="Кинозалы",Tviksel Кино 2 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/18070/index.m3u8
+#EXTINF:-1 tvg-id="6259" tvg-logo="http://epg.one/img2/6259.png" tvg-rec="0" group-title="Кинозалы",Tviksel Военное кино HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/18072/index.m3u8
+#EXTINF:-1 tvg-id="5131" tvg-logo="http://epg.one/img2/5131.png" tvg-rec="0" group-title="Кинозалы",MM USSR 1941-1945 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/13018/index.m3u8
+
+
 #EXTINF:-1 tvg-id="6266" tvg-logo="http://epg.one/img2/6266.png" tvg-rec="0" group-title="Музыка",Tviksel Музыка 1 International
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/18078/index.m3u8
 #EXTINF:-1 tvg-id="6267" tvg-logo="http://epg.one/img2/6267.png" tvg-rec="0" group-title="Музыка",Tviksel Музыка 2 HD
@@ -848,4 +857,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/18082/index.m3u8
 #EXTINF:-1 tvg-id="6271" tvg-logo="http://epg.one/img2/6271.png" tvg-rec="0" group-title="Музыка",Tviksel Балет Опера HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/18083/index.m3u8
+
+
 
