@@ -91,6 +91,16 @@ https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/6a/18993965545d7088840ddff3107bea6a.png" group-title="ЭфиР",Россия 1 HD
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/3d/65eaaf87eaa8a0e55a55aec6c7d6ea3d.png" group-title="ЭфиР",Россия 1 HD (+2)
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_2.m3u8
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/0f/5fb320c7052eaa32f4feb217a813950f.png" group-title="ЭфиР",Россия 1 HD (+5)
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_5.m3u8
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/8b/29c09f702dbbc876e0f9490972cc848b.png" group-title="ЭфиР",Россия 1 HD (+9)
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
+
+
 #EXTINF:-1 tvg-id="3357" tvg-logo="http://epg.one/img2/3357.png" tvg-rec="0" group-title="Кино_1",Мосфильм. Золотая коллекция HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2/7347/index.m3u8
 #EXTINF:-1 tvg-id="17022" tvg-logo="http://epg.one/img2/17022.png" tvg-rec="0" group-title="Кино_1",Мосфильм. Золотая коллекция +4 HD
