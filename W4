@@ -53,10 +53,6 @@ https://stream.smotrim.ru/hls/solovievlive/playlist_4.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал HD
 http://dmitry-tv.ddns.net/hls/T2/CH_1TVHD.m3u8
 
-#EXTINF:-1  group-title="ViP",Первый канал
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
-#EXTINF:-1  group-title="ViP",Первый канал HD
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TVHD.m3u8
 #EXTINF:-1  group-title="ViP",Россия 1 HD
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1  group-title="ViP",СТС
