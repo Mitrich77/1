@@ -14,7 +14,7 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_2.m3u8
 #EXTINF:-1  tvg-logo="https://i125.fastpic.org/big/2025/0818/07/d8fe042a0019fedfbeeb4b318f590707.png" group-title="Новости",Россия 24
 http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_ROSSIA24.m3u8
-#EXTINF:-1 tvg-id="izvestia" tvg-name="известия" group-title="Новости",ИЗВЕСТИЯ
+#EXTINF:-1 tvg-id="izvestia" tvg-="известия" group-title="Новости",ИЗВЕСТИЯ
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/a6/017c743cc830211b7593e36af422a5a6.png" group-title="Новости" tvg-name="Соловьёв Live",Соловьёв Live
 http://dmitry-tv.ddns.net/hls/smotrim/CH_SOLOVIEVLIVE.m3u8
@@ -52,7 +52,6 @@ https://stream.smotrim.ru/hls/solovievlive/playlist_4.m3u8
 
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал HD
 http://dmitry-tv.ddns.net/hls/T2/CH_1TVHD.m3u8
-
 #EXTINF:-1  group-title="ViP",Россия 1 HD
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1  group-title="ViP",СТС
@@ -108,14 +107,13 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы",IPTVPLAY Великая Отечественная HD
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 
+
 #EXTINF:-1 tvg-id="ruskorabl" group-title="ViP",Плюс Минус 16 SD
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 
+
 #EXTINF:-1 tvg-id="nostalgia" group-title="ViP",Ностальгия
 http://31.148.48.15:80/Nostalgiya/index.m3u8
-
-
-
 
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (-1)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1-1.m3u8
@@ -126,13 +124,12 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_1.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_2.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+3)
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA1HD_OMSK.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_3.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+4)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_4.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",Россия 1 (+5) (Иркутск)
-http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA1_IRK.m3u8
-#EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="ЭфиР плюс",Россия 1 (+5)
-https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
+#EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+5)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_5.m3u8
 #EXTINF:-1  group-title="ЭфиР плюс",Россия 1 (+6)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_6.m3u8
 #EXTINF:-1  group-title="ЭфиР плюс",Россия 1 (+7)
