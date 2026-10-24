@@ -117,19 +117,20 @@ http://31.148.48.15:80/Nostalgiya/index.m3u8
 
 
 
-
-#EXTINF:-1  group-title="ЭфиР плюс",Россия 1 (-1)
+#EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (-1)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1-1.m3u8
-#EXTINF:-1  group-title="ЭфиР плюс",Россия 1
+#EXTINF:-1 group-title="ЭфиР плюс",Россия 1
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1.m3u8
-#EXTINF:-1  group-title="ЭфиР плюс",Россия 1 (+1)
+#EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+1)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_1.m3u8
-#EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="ЭфиР плюс",Россия 1 (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1  group-title="ЭфиР плюс",Россия 1 (+3)
+#EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_2.m3u8
+#EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+3)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_3.m3u8
-#EXTINF:-1  group-title="ЭфиР плюс",Россия 1 (+4)
+#EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+4)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_4.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Россия 1 (+5) (Иркутск)
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA1_IRK.m3u8
 #EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="ЭфиР плюс",Россия 1 (+5)
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
 #EXTINF:-1  group-title="ЭфиР плюс",Россия 1 (+6)
@@ -140,6 +141,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_7.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_8.m3u8
 #EXTINF:-1  group-title="ЭфиР плюс",Россия 1 (+9)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_9.m3u8
+
 #EXTINF:-1  group-title="ЭфиР плюс",Первый канал (-1)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV-1.m3u8
 #EXTINF:-1  group-title="ЭфиР плюс",Первый канал
