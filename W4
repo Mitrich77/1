@@ -1,8 +1,8 @@
-ИЗВЕСТИЯВЕСТИЯXTM3U
+#EXTM3U
 
 #EXTINF:-1  group-title="ViP",Первый канал (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_2.m3u8
-#EXTINF:-1  group-title="ViP",Россия 1 (+2)
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/76/73a8334bc37b05ed1711c85d0beab176.png" group-title="ViP" tvg-id="rossia1-pl2" tvg-name="Россия 1 (+2)",Россия 1 (Уфа)
 http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA1_UFA.m3u8
 #EXTINF:-1  group-title="ViP",СТС (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_2.m3u8
@@ -21,6 +21,8 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.ts.m3u8
 http://dmitry-tv.ddns.net/hls/smotrim/CH_SOLOVIEVLIVE.m3u8
 #EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="http://www.hist.msu.ru/pictures/partners/rsputnik.jpg" group-title="Новости",Радио Спутник
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] ВЕСТИ FM
+http://dmitry-tv.ddns.net/hls/smotrim/CH_VESTI_FM.m3u8
 
 #EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="ViP",БСТ
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
@@ -33,8 +35,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_2.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_2.m3u8
 #EXTINF:-1  group-title="ViP",ТВЦ (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_2.m3u8
-#EXTINF:-1  group-title="ViP",СПАС (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_2.m3u8
+
 
 #EXTINF:-1  group-title="ViP",Звезда HD
 http://dmitry-tv.ddns.net/hls/T2/CH_ZVEZDAHD.m3u8
@@ -62,6 +63,8 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS.m3u8
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  group-title="ViP",РЕН ТВ
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV.m3u8
+#EXTINF:-1  group-title="ViP",СПАС (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_2.m3u8
 #EXTINF:-1  group-title="ViP",МИР (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_2.m3u8
 #EXTINF:-1  group-title="ViP",ТНТ
@@ -74,22 +77,54 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_2.m3u8
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ Кино и сериалы
-http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ Кино и сериалы HD
 http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ 100% ЛЮБОВЬ
-http://dmitry-tv.ddns.net/hls/smotrim/CH_LYUBOV.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ 100% ЛЮБОВЬ HD
 http://dmitry-tv.ddns.net/hls/smotrim/CH_LYUBOVHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ 100% МУЖСКОЕ
-http://dmitry-tv.ddns.net/hls/smotrim/CH_MUZHSKOE.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ 100% МУЖСКОЕ HD
 http://dmitry-tv.ddns.net/hls/smotrim/CH_MUZHSKOEHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ 100% КЛАССИКА
-http://dmitry-tv.ddns.net/hls/smotrim/CH_CLASSICA.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ 100% КЛАССИКА HD
 http://dmitry-tv.ddns.net/hls/smotrim/CH_CLASSICAHD.m3u8
+
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",МОСФИЛЬМ ЗОЛОТАЯ КОЛЛЕКЦИЯ
+http://dmitry-tv.ddns.net/hls/CH_MOSFILM.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Победа
+http://dmitry-tv.ddns.net/hls/CH_POBEDA.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",РЕТРО
+http://dmitry-tv.ddns.net/hls/CH_RETRO.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Русский иллюзион
+http://dmitry-tv.ddns.net/hls/CH_RUSSKIY_ILLUZION.m3u8
+
+
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000 HD
+http://dmitry-tv.ddns.net/hls/CH_TV1000HD.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000 ACTION HD
+http://dmitry-tv.ddns.net/hls/CH_TV1000ACTIONHD.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000 РУССКОЕ КИНО HD
+http://dmitry-tv.ddns.net/hls/CH_TV1000RUSSKOEKINOHD.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ДОМ КИНО
+http://dmitry-tv.ddns.net/hls/CH_DOMKINO.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ДОМ КИНО ПРЕМИУМ
+http://dmitry-tv.ddns.net/hls/CH_DOMKINOPREMIUM.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Иллюзион+
+http://dmitry-tv.ddns.net/hls/CH_ILLUZION_PLUS.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA PREMIUM HD
+http://dmitry-tv.ddns.net/hls/CH_AMEDIA_PREMIUMHD.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОПОКАЗ
+http://dmitry-tv.ddns.net/hls/CH_KINOPOKAZ.m3u8
+
+
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ Кино и сериалы
+http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ 100% ЛЮБОВЬ
+http://dmitry-tv.ddns.net/hls/smotrim/CH_LYUBOV.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ 100% МУЖСКОЕ
+http://dmitry-tv.ddns.net/hls/smotrim/CH_MUZHSKOE.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ 100% КЛАССИКА
+http://dmitry-tv.ddns.net/hls/smotrim/CH_CLASSICA.m3u8
+
+
 
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Фильмы и сериалы",Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
@@ -109,7 +144,14 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы",IPTVPLAY Великая Отечественная HD
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 
-
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
+http://dmitry-tv.ddns.net/hls/CH_NAUKA20.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя планета
+http://dmitry-tv.ddns.net/hls/CH_MOYA_PLANETA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",СМОТРИМ 100% ФАКТЫ
+http://dmitry-tv.ddns.net/hls/smotrim/CH_FAKTY.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",СМОТРИМ 100% ФАКТЫ HD
+http://dmitry-tv.ddns.net/hls/smotrim/CH_FAKTYHD.m3u8
 #EXTINF:-1 tvg-id="ruskorabl" group-title="ViP",Плюс Минус 16 SD
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 
