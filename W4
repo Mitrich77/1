@@ -470,47 +470,6 @@ http://178.134.1.158:8081/mosfilm/index.m3u8
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",EUROSPORT 1
-http://dmitry-tv.ddns.net/hls/CH_EUROSPORT1.m3u8
-
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ПРОДВИЖЕНИЕ
-http://dmitry-tv.ddns.net/hls/CH_PRODVIZHENIE.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",СОЮЗ HD
-http://dmitry-tv.ddns.net/hls/CH_SOYUZHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НЕИЗВЕСТНАЯ РОССИЯ
-http://dmitry-tv.ddns.net/hls/CH_UNKNOWN_RUSSIA.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НЕИЗВЕСТНАЯ РОССИЯ HD
-http://dmitry-tv.ddns.net/hls/CH_UNKNOWN_RUSSIAHD.m3u8
-
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ИСТОРИЯ
-http://dmitry-tv.ddns.net/hls/CH_ISTORIA.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая планета
-http://dmitry-tv.ddns.net/hls/CH_ZHIVAYA_PLANETA.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая природа
-http://dmitry-tv.ddns.net/hls/CH_ZHIVAYA_PRIRODA.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",В мире животных HD720
-http://dmitry-tv.ddns.net/hls/CH_VMIREZHIVOTNYH_HD720.m3u8
-
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Глазами туриста
-http://dmitry-tv.ddns.net/hls/CH_GLAZAMI_TURISTA.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НАША СИБИРЬ HD
-http://dmitry-tv.ddns.net/hls/CH_NASHA_SIBIRHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Т24
-http://dmitry-tv.ddns.net/hls/CH_T24.m3u8
-
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",TOP SECRET
-http://dmitry-tv.ddns.net/hls/CH_TOP_SECRET.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ВОПРОСЫ И ОТВЕТЫ
-http://dmitry-tv.ddns.net/hls/CH_VOPROSYIOTVETY.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ПСИХОЛОГИЯ 21
-http://dmitry-tv.ddns.net/hls/CH_PSIHOLOGIA21.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ДОМАШНИЕ ЖИВОТНЫЕ
-http://dmitry-tv.ddns.net/hls/CH_DOMASHNIEZHIVOTNYE.m3u8
-
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Retro TV HD
-http://dmitry-tv.ddns.net/hls/CH_RETROTVHD.m3u8
-
-
 #EXTINF:-1 tvg-id="ruskorabl" group-title="ViP",Плюс Минус 16 SD
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 
@@ -521,3 +480,27 @@ http://178.134.1.158:8081/mosfilm/index.m3u8
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая планета
+http://dmitry-tv.ddns.net/hls/CH_ZHIVAYA_PLANETA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",В мире животных HD720
+http://dmitry-tv.ddns.net/hls/CH_VMIREZHIVOTNYH_HD720.m3u8
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Глазами туриста
+http://dmitry-tv.ddns.net/hls/CH_GLAZAMI_TURISTA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Т24
+http://dmitry-tv.ddns.net/hls/CH_T24.m3u8
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НЕИЗВЕСТНАЯ РОССИЯ HD
+http://dmitry-tv.ddns.net/hls/CH_UNKNOWN_RUSSIAHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ИСТОРИЯ
+http://dmitry-tv.ddns.net/hls/CH_ISTORIA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",СМОТРИМ 100% ФАКТЫ
+http://dmitry-tv.ddns.net/hls/smotrim/CH_FAKTY.m3u8
+
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",EUROSPORT 1
+http://dmitry-tv.ddns.net/hls/CH_EUROSPORT1.m3u8
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НАША СИБИРЬ HD
+http://dmitry-tv.ddns.net/hls/CH_NASHA_SIBIRHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая природа
+http://dmitry-tv.ddns.net/hls/CH_ZHIVAYA_PRIRODA.m3u8
