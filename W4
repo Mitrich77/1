@@ -1,4 +1,4 @@
-#EXTM3U
+#E#EXTM3U
 
 #EXTINF:-1  group-title="ViP",Первый канал (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_2.m3u8
@@ -57,6 +57,7 @@ https://stream.smotrim.ru/hls/solovievlive/playlist_4.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал HD
 http://dmitry-tv.ddns.net/hls/T2/CH_1TVHD.m3u8
 #EXTINF:-1  group-title="ViP",Россия 1 HD
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA1HD_SPB.m3u8
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1  group-title="ViP",СТС
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS.m3u8
@@ -123,6 +124,7 @@ http://dmitry-tv.ddns.net/hls/smotrim/CH_LYUBOVHD.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (-1)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1-1.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA1_MURM.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 group-title="ЭфиР плюс",Россия 1 (+1)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_1.m3u8
@@ -440,8 +442,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NM9NBFRUG2TSA22VF8B9M8N2
 
 
 
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",СМОТРИМ 100% ФАКТЫ
-http://dmitry-tv.ddns.net/hls/smotrim/CH_FAKTY.m3u8
+
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ 100% МУЖСКОЕ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_MUZHSKOE.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ 100% КЛАССИКА
@@ -451,8 +452,7 @@ http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ 100% ЛЮБОВЬ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_LYUBOV.m3u8
 
-#EXTINF:-1 group-title="ЭфиР плюс",Россия 1
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="ЭфиР плюс",Россия 1 (+5)
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
@@ -470,19 +470,12 @@ http://178.134.1.158:8081/mosfilm/index.m3u8
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
-#EXTINF:-1 tvg-id="ruskorabl" group-title="ViP",Плюс Минус 16 SD
-http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Фильмы и сериалы",Мосфильм. Золотая коллекция
-http://178.134.1.158:8081/mosfilm/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы",IPTVPLAY МУЛЬТСКАЗКИ HD
-http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая планета
 http://dmitry-tv.ddns.net/hls/CH_ZHIVAYA_PLANETA.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",В мире животных HD720
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",В мире животных HD
 http://dmitry-tv.ddns.net/hls/CH_VMIREZHIVOTNYH_HD720.m3u8
 
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Глазами туриста
@@ -504,47 +497,3 @@ http://dmitry-tv.ddns.net/hls/CH_EUROSPORT1.m3u8
 http://dmitry-tv.ddns.net/hls/CH_NASHA_SIBIRHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая природа
 http://dmitry-tv.ddns.net/hls/CH_ZHIVAYA_PRIRODA.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/6a/712bb11e8325d1396eafc6ee1e2d776a.png" group-title="ЭфиР",Россия 1
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/1c/a9c7f36aa4a9ed69a2ba5b2a06fe4c1c.png" group-title="ЭфиР",Россия 1 (+1)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1_1.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/76/73a8334bc37b05ed1711c85d0beab176.png" group-title="ЭфиР",Россия 1 (+2)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1_2.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/8a/ab969794405bef12370907c9aaf0fd8a.png" group-title="ЭфиР",Россия 1 (+3)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1_3.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/3b/5e5308a2624b1f01ff897e333032283b.png" group-title="ЭфиР",Россия 1 (+4)
-http://dmitry-tv.ddns.net/hls/T2/CH_RUSSIA1_4.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/f0/fa11771d245f0d2d041a88a682399ff0.png" group-title="ЭфиР",Россия 1 (+5)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1_5.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/4c/1aad82300966abfcb71b722a0ebd654c.png" group-title="ЭфиР",Россия 1 (+6)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1_6.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/f6/2d32b7a481a6fb7a4d9704cce1794ff6.png" group-title="ЭфиР",Россия 1 (+7)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1_7.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/8c/67db1f88c865b5ce7b1f4ab8be36358c.png" group-title="ЭфиР",Россия 1 (+8)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1_8.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/29/4a2fff84f2ce127e8cbd393b51655129.png" group-title="ЭфиР",Россия 1 (+9)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1_9.m3u8
-
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/6a/18993965545d7088840ddff3107bea6a.png" group-title="ЭфиР",Россия 1 HD
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/01/3f479f337cc7acb189fb3c3e97a6aa01.png" group-title="ЭфиР",Россия 1 HD (+1)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_1.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/3d/65eaaf87eaa8a0e55a55aec6c7d6ea3d.png" group-title="ЭфиР",Россия 1 HD (+2)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_2.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/94/9c6b1384ae04ee3e8ca156a019f9c994.png" group-title="ЭфиР",Россия 1 HD (+3)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_3.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/60/eb538b6c90d54a0e4869433e0a6cf960.png" group-title="ЭфиР",Россия 1 HD (+4)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/0f/5fb320c7052eaa32f4feb217a813950f.png" group-title="ЭфиР",Россия 1 HD (+5)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_5.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/91/5e9bc78a03df80fef2d024a89cad3e91.png" group-title="ЭфиР",Россия 1 HD (+6)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_6.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/35/bade0eed32d01b995f04da7695fa9435.png" group-title="ЭфиР",Россия 1 HD (+7)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_7.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/e2/bc531a637f0085067102d62d3a6ff1e2.png" group-title="ЭфиР",Россия 1 HD (+8)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_8.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/8b/29c09f702dbbc876e0f9490972cc848b.png" group-title="ЭфиР",Россия 1 HD (+9)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
