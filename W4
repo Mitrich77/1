@@ -209,7 +209,42 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC.m3u8
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1.m3u8
 
 
-
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-m1",Россия 1 (-1)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA1-1.m3u8
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1",Россия 1
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl1",Россия 1 (+1)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl2",Россия 1 (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_EKT/variant.m3u8
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl3",Россия 1 (+3)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA1_OMSK/variant.m3u8
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl4",Россия 1 (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_NSK/variant.m3u8
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl5",Россия 1 (+5)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA1_IRKUTSK/variant.m3u8
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl6",Россия 1 (+6)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA1_ZK/variant.m3u8
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl7",Россия 1 (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA1_7.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
+https://s91030.cdn.ngenix.net/hls/CH_R04_RUS8_OTT/variant.m3u8
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl8",Россия 1 (+8)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s14553.cdn.ngenix.net/hls/CH_R04_ROSSIA1_SLIN/variant.m3u8
+#EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl9",Россия 1 (+9)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s14131.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KAM/variant.m3u8
 
 
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i125.fastpic.org/big/2025/0816/97/2430143485b6473f00c800049faf5597.png" group-title="Новости",Россия 24 hd
