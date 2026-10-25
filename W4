@@ -186,8 +186,6 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_7.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA.m3u8
 #EXTINF:-1  group-title="ЭфиР плюс",Звезда (+4)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_4.m3u8
-#EXTINF:-1  group-title="ЭфиР плюс",Звезда (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_6.m3u8
 #EXTINF:-1  group-title="ЭфиР плюс",Звезда (+7)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_7.m3u8
 #EXTINF:-1  group-title="ЭфиР плюс",РЕН ТВ (+7)
@@ -205,8 +203,6 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV.m3u8
 #EXTINF:-1  group-title="ЭфиР плюс",ТВЦ
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC.m3u8
 
-#EXTINF:-1 group-title="ЭфиР плюс",Россия 1
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1.m3u8
 
 
 #EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-m1",Россия 1 (-1)
@@ -245,6 +241,7 @@ https://s14553.cdn.ngenix.net/hls/CH_R04_ROSSIA1_SLIN/variant.m3u8
 #EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-pl9",Россия 1 (+9)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s14131.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KAM/variant.m3u8
+
 
 
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i125.fastpic.org/big/2025/0816/97/2430143485b6473f00c800049faf5597.png" group-title="Новости",Россия 24 hd
@@ -453,8 +450,14 @@ http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ 100% ЛЮБОВЬ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_LYUBOV.m3u8
 
+#EXTINF:-1 group-title="ЭфиР плюс",Россия 1
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1.m3u8
+
 #EXTINF:-1  tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" group-title="ЭфиР плюс",Россия 1 (+5)
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
+
+#EXTINF:-1  group-title="ЭфиР плюс",Звезда (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_6.m3u8
 
 #EXTINF:-1 tvg-id="ruskorabl" group-title="ViP",Плюс Минус 16 SD
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
@@ -464,8 +467,5 @@ http://178.134.1.158:8081/mosfilm/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы",IPTVPLAY МУЛЬТСКАЗКИ HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-
-
 
 
