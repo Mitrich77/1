@@ -51,7 +51,7 @@ https://stream.smotrim.ru/hls/russia24_hd/playlist_5.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP",ИЗВЕСТИЯ HD
 http://dmitry-tv.ddns.net/hls/CH_I3BECTIYAHD.m3u8
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/a6/017c743cc830211b7593e36af422a5a6.png" group-title="ViP",СОЛОВЬЁВ LiVEᴴᴰ
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/a6/017c743cc830211b7593e36af422a5a6.png" group-title="ViP",СОЛОВЬЁВ LiVE ᴴᴰ
 https://stream.smotrim.ru/hls/solovievlive/playlist_5.m3u8
 
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал HD
