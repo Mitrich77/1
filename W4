@@ -492,8 +492,6 @@ http://dmitry-tv.ddns.net/hls/smotrim/CH_FAKTY.m3u8
 
 #EXTINF:-1 group-title="СПОРТИВНЫЕ",EUROSPORT 1
 http://dmitry-tv.ddns.net/hls/CH_EUROSPORT1.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",EUROSPORT 2
-http://dmitry-tv.ddns.net/hls/CH_EUROSPORT2.m3u8
 
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НАША СИБИРЬ HD
 http://dmitry-tv.ddns.net/hls/CH_NASHA_SIBIRHD.m3u8
