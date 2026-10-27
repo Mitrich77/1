@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 
 #EXTINF:-1  group-title="ViP",Первый канал (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_2.m3u8
@@ -17,7 +17,7 @@ http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_ROSSIA24.m3u8
 #EXTINF:-1 tvg-id="izvestia" tvg-title="известия" group-title="Новости",ИзвестиЯ
 http://dmitry-tv.ddns.net/hls/CH_I3BECTIYA.m3u8
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/a6/017c743cc830211b7593e36af422a5a6.png" group-title="Новости" tvg-name="Соловьёв Live",Соловьёв Live
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/a6/017c743cc830211b7593e36af422a5a6.png" group-title="Новости" tvg-name="Соловьёв Live",Соловьёв ʟɪᴠᴇ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_SOLOVIEVLIVE.m3u8
 
 
@@ -52,7 +52,7 @@ https://stream.smotrim.ru/hls/russia24_hd/playlist_5.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP",ИЗВЕСТИЯ ᴴᴰ
 http://dmitry-tv.ddns.net/hls/CH_I3BECTIYAHD.m3u8
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/a6/017c743cc830211b7593e36af422a5a6.png" group-title="ViP",СОЛОВЬЁВ Live ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/a6/017c743cc830211b7593e36af422a5a6.png" group-title="ViP",СОЛОВЬЁВ ʟɪᴠᴇ ᴴᴰ
 https://stream.smotrim.ru/hls/solovievlive/playlist_5.m3u8
 
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал ᴴᴰ
@@ -109,15 +109,15 @@ http://dmitry-tv.ddns.net/hls/CH_NAUKA20.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя планета
 http://dmitry-tv.ddns.net/hls/CH_MOYA_PLANETA.m3u8
 
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",СМОТРИМ 100% ФАКТЫ ᴴᴰ
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",sᴍᴏᴛʀɪᴍ 100% ФАКТЫ ᴴᴰ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_FAKTYHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ 100% МУЖСКОЕ ᴴᴰ
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ 100% МУЖСКОЕ ᴴᴰ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_MUZHSKOEHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ 100% КЛАССИКА ᴴᴰ
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ 100% КЛАССИКА ᴴᴰ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_CLASSICAHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ Кино и сериалы ᴴᴰ
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ Кино и сериалы ᴴᴰ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ 100% ЛЮБОВЬ ᴴᴰ
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ 100% ЛЮБОВЬ ᴴᴰ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_LYUBOVHD.m3u8
 
 
