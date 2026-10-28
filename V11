@@ -1,6 +1,9 @@
 #EXTM3U catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 
 
+#EXTINF:-1 group-title="SmotRiM",Россия 1 HD (-1)
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA1HD_KLGR.m3u8
+
 #EXTINF:-1 group-title="ЭфиР" tvg-id="rossia1-m1",Россия 1 (-1)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
