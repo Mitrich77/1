@@ -12,9 +12,10 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_2.m3u8
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1  group-title="ViP",Россия К (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_2.m3u8
-#EXTINF:-1  tvg-logo="https://i125.fastpic.org/big/2025/0818/07/d8fe042a0019fedfbeeb4b318f590707.png" group-title="Новости",Россия 24
+#EXTINF:-1 tvg-name="Россия 24" tvg-logo="https://i125.fastpic.org/big/2025/0818/07/d8fe042a0019fedfbeeb4b318f590707.png" group-title="Новости",Россия 24 (Уфа)
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA24_UFA.m3u8
 http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_ROSSIA24.m3u8
-#EXTINF:-1 tvg-id="izvestia" tvg-title="известия" group-title="Новости",ИзвестиЯ
+#EXTINF:-1 tvg-id="izvestia" tvg-title="известия" group-title="Новости",Известия
 http://dmitry-tv.ddns.net/hls/CH_I3BECTIYA.m3u8
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/a6/017c743cc830211b7593e36af422a5a6.png" group-title="Новости" tvg-name="Соловьёв Live",Соловьёв ʟɪᴠᴇ
@@ -47,12 +48,12 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 http://dmitry-tv.ddns.net/hls/smotrim/CH_VESTI_FM.m3u8
 #EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="http://www.hist.msu.ru/pictures/partners/rsputnik.jpg" group-title="Новости",Радио Sputnik
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/76/1f95b63e227e62b1031122210126b476.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24ᴴᴰ
+#EXTINF:-1 tvg-name="Россия 24" tvg-logo="https://i128.fastpic.org/big/2026/0802/76/1f95b63e227e62b1031122210126b476.png" group-title="Новости" tvg-id="rossia-24",Россия 24ᴴᴰ
 https://stream.smotrim.ru/hls/russia24_hd/playlist_5.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP",ИЗВЕСТИЯ ᴴᴰ
+#EXTINF:-1 tvg-name="Известия" tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP",ИЗВЕСТИЯ ᴴᴰ
 http://dmitry-tv.ddns.net/hls/CH_I3BECTIYAHD.m3u8
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/a6/017c743cc830211b7593e36af422a5a6.png" group-title="ViP",СОЛОВЬЁВ ʟɪᴠᴇ ᴴᴰ
+#EXTINF:-1 tvg-name="Соловьёв Live" tvg-logo="https://i128.fastpic.org/big/2026/0802/a6/017c743cc830211b7593e36af422a5a6.png" group-title="ViP",СОЛОВЬЁВ ʟɪᴠᴇ ᴴᴰ
 https://stream.smotrim.ru/hls/solovievlive/playlist_5.m3u8
 
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал ᴴᴰ
@@ -109,15 +110,15 @@ http://dmitry-tv.ddns.net/hls/CH_NAUKA20.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя планета
 http://dmitry-tv.ddns.net/hls/CH_MOYA_PLANETA.m3u8
 
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",sᴍᴏᴛʀɪᴍ 100% ФАКТЫ ᴴᴰ
+#EXTINF:-1 tvg-name="Смотрим 100% ФАКТЫ" group-title="ПОЗНАВАТЕЛЬНЫЕ",sᴍᴏᴛʀɪᴍ 100% ФАКТЫ ᴴᴰ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_FAKTYHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ 100% МУЖСКОЕ ᴴᴰ
+#EXTINF:-1 tvg-name="Смотрим 100% МУЖСКОЕ" group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ 100% МУЖСКОЕ ᴴᴰ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_MUZHSKOEHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ 100% КЛАССИКА ᴴᴰ
+#EXTINF:-1 tvg-name="Смотрим 100% КЛАССИКА" group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ 100% КЛАССИКА ᴴᴰ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_CLASSICAHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ Кино и сериалы ᴴᴰ
+#EXTINF:-1 tvg-name="Смотрим Кино и сериалы" group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ Кино и сериалы ᴴᴰ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ 100% ЛЮБОВЬ ᴴᴰ
+#EXTINF:-1 tvg-name="Смотрим 100% ЛЮБОВЬ" group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ 100% ЛЮБОВЬ ᴴᴰ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_LYUBOVHD.m3u8
 
 
@@ -248,94 +249,71 @@ https://s14131.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KAM/variant.m3u8
 
 
 
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i125.fastpic.org/big/2025/0816/97/2430143485b6473f00c800049faf5597.png" group-title="Новости",Россия 24 hd
 
-
-
-
-
-#EXTINF:-1 group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 24 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Новости",Известия HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/5e/cfa8a72e09e104849700db6919557f5e.png" group-title="Новости",СоловьёВ LiVE
-https://stream.smotrim.ru/hls/solovievlive/playlist_2.m3u8
-#EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС" group-title="Новости",ЗвезДа Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Новости",ИзВеСтИя
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/5e/cfa8a72e09e104849700db6919557f5e.png" group-title="Новости",Соловьев LiVE
+https://stream.smotrim.ru/hls/solovievlive/playlist_4.m3u8
+#EXTINF:-1 group-title="Новости",Москва 24
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_MOSKVA24_MOS.m3u8
+https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
+#EXTINF:-1 group-title="Новости",МИР 24 HD
+http://dmitry-tv.ddns.net/hls/CH_MIR24HD.m3u8
+#EXTINF:-1 group-title="Новости",РБК
+http://dmitry-tv.ddns.net/hls/CH_RBK.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)",Лен ТВ 24
+https://stream.smotrim.ru/hls/lentv24/playlist_5.m3u8
 #EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://i127.fastpic.org/big/2026/0612/a1/76741983ed6e5664acae41ca60067ea1.png" group-title="Новости",тасс
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="Новости",РоссиЯ 24
-https://stream.smotrim.ru/hls/russia_24/playlist_1.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/gWqw4N5/45571caf9d64821ea16f7883ac62a930.png" group-title="Новости" tvg-name="Известия",Известия Воронеж
-http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/5e/cfa8a72e09e104849700db6919557f5e.png" group-title="Новости",Соловьев LiVe
-https://stream.smotrim.ru/hls/solovievlive/playlist_1.m3u8
-#EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС" group-title="Новости",ЗвездА Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
-
-
+#EXTINF:-1 tvg-id="ZvezdaPlus.ru" group-title="Российские",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 group-title="Новости",РОССИЯ 24
 https://stream.smotrim.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Новости",ИЗВЕСТИЯ HD
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/5e/cfa8a72e09e104849700db6919557f5e.png" group-title="Новости",Соловьев LiVE HD
-https://stream.smotrim.ru/hls/solovievlive/playlist_4.m3u8
-#EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС" group-title="Новости",ЗвЕзда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/5e/cfa8a72e09e104849700db6919557f5e.png" group-title="Новости",СоловьёВ LiVE
+https://stream.smotrim.ru/hls/solovievlive/playlist_2.m3u8
 
-
-
-#EXTINF:-1 group-title="Новости",РоСсИя 24
-https://stream.smotrim.ru/hls/russia_24/playlist_2.m3u8
-#EXTINF:-1 group-title="Новости",Москва 24
-https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
-#EXTINF:-1 group-title="Новости",МИР 24 HD
-http://dmi3y-tv.online/hls/CH_MIR24HD.m3u8
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0618/a7/33d07900235738fbed5ce753086274a7.png" group-title="Новости",РБК
-http://dmi3y-tv.online/hls/CH_RBK.m3u8
-#EXTINF:-1 group-title="Новости",РБК HD
-http://dmi3y-tv.online/hls/CH_RBKHD.m3u8
-#EXTINF:-1 group-title="Новости",Лен ТВ 24
-https://stream.smotrim.ru/hls/lentv24/playlist_5.m3u8
+#EXTINF:-1 tvg-id="zvezda-plus" group-title="Российские",Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NEWS FRONT TV" tvg-logo="https://i125.fastpic.org/big/2025/0816/2e/4866f9ea89f91ece86b127c126af042e.png" group-title="Новости",News Front TV
 https://tv.2kita.com/stream/index.m3u8
+#EXTINF:-1 group-title="Новости",РБК HD
+http://dmitry-tv.ddns.net/hls/CH_RBKHD.m3u8
+#EXTINF:-1 group-title="Новости",Первый информационный (Беларусь)
+http://dmitry-tv.ddns.net/hls/blrus/CH_1INFORMATSYONNY.m3u8
+#EXTINF:-1 group-title="Новости",РоссиЯ 24
+https://stream.smotrim.ru/hls/russia_24/playlist_1.m3u8
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Новости",Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/5e/cfa8a72e09e104849700db6919557f5e.png" group-title="Новости",Соловьев LiVe
+https://stream.smotrim.ru/hls/solovievlive/playlist_3.m3u8
+#EXTINF:-1 group-title="Новости",РоСсИя 24
+https://stream.smotrim.ru/hls/russia_24/playlist_2.m3u8
+#EXTINF:-1 group-title="Новости",Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/5e/cfa8a72e09e104849700db6919557f5e.png" group-title="Новости",Соловьев Live
+https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
+#EXTINF:-1 group-title="Новисти",Россия 24
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/gWqw4N5/45571caf9d64821ea16f7883ac62a930.png" group-title="Новости",Известия Воронеж
+http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/5e/cfa8a72e09e104849700db6919557f5e.png" group-title="Новости",Соловьев live
+https://stream.smotrim.ru/hls/solovievlive/playlist_1.m3u8
 #EXTINF:-1 group-title="Новости",Первый информационный HD (Беларусь)
-http://dmi3y-tv.online/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
-
-
-
-#EXTINF:-1 group-title="Новости",Россия 24
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24.m3u8
+http://dmitry-tv.ddns.net/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
 #EXTINF:-1 group-title="Новости",РОссия 24
-http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA24.m3u8
-
-
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="Новости" tvg-name="Известия",Известия 1
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="Новости" tvg-name="Известия",Известия 2
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
 
 #EXTINF:-1 group-title="Новости",известиЯ
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Новости",известИЯ
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v5a1/mono.ts.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС" group-title="Новости",звезда плюС
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС" group-title="Новости",звезда плЮС
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v5a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ЗВЕЗДА ПЛЮС" group-title="Новости",звезда пЛЮС
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v6a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="zvezda-plus" group-title="Новости",ЗвездА ПлюС HD
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
-
+#EXTINF:-1 group-title="Новости",извесТИЯ
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v6a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Новости",извеСТИЯ
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v7a1/mono.ts.m3u8
 
 
 
@@ -562,97 +540,6 @@ http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_7.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/e2/bc531a637f0085067102d62d3a6ff1e2.png" group-title="ЭфиР",Россия 1 ᴴᴰ (+8)
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_8.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/8b/29c09f702dbbc876e0f9490972cc848b.png" group-title="ЭфиР",Россия 1 ᴴᴰ (+9)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="МОСКВА",[Радио] Радио России 66.44 УКВ (Москва)
-http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
-#EXTINF:-1 group-title="МОСКВА",[Радио] Радонеж 72.92 УКВ (Москва)
-http://icecast.radonezh.cdnvideo.ru:8000/rad128
-#EXTINF:-1 group-title="МОСКВА",[Радио] Business FM 87.5 FM (Москва)
-http://bfm.hostingradio.ru:8004/fm
-#EXTINF:-1 group-title="МОСКВА",[Радио] Ретро FM 88.3 FM (Москва)
-http://retroserver.streamr.ru:8043/retro128
-#EXTINF:-1 group-title="МОСКВА",[Радио] Jazz FM 89.1 FM (Москва)
-http://nashe3.hostingradio.ru/jazz-128.mp3
-#EXTINF:-1 group-title="МОСКВА",[Радио] Страна FM 89.9 FM (Москва)
-http://icecast.stranafm.cdnvideo.ru/stranafm
-#EXTINF:-1 group-title="МОСКВА",[Радио] Культура 91.6 FM (Москва)
-http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_64kbps
-#EXTINF:-1 group-title="МОСКВА",[Радио] Москва FM 92.0 FM (Москва)
-http://icecast.vgtrk.cdnvideo.ru/moscowfm128
-#EXTINF:-1 group-title="МОСКВА",[Радио] Коммерсантъ FM 93.6 FM (Москва)
-http://kommersant77.hostingradio.ru:8016/kommersant128.mp3
-#EXTINF:-1 group-title="МОСКВА",[Радио] Rock FM 95.2 FM (Москва)
-http://nashe1.hostingradio.ru/rock-128.mp3
-#EXTINF:-1 group-title="МОСКВА",[Радио] Дорожное радио 96.0 FM (Москва)
-http://dorognoe.hostingradio.ru:8000/dorognoe_acc
-#EXTINF:-1 group-title="МОСКВА",[Радио] Комсомольская Правда 97.2 FM (Москва)
-http://kpradio.hostingradio.ru:8000/128
-#EXTINF:-1 group-title="МОСКВА",[Радио] Вести FM 97.6 FM (Москва)
-http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
-#EXTINF:-1 group-title="МОСКВА",[Радио] Шоколад 98.0 FM (Москва)
-http://choco.hostingradio.ru:10010/fm
-#EXTINF:-1 group-title="МОСКВА",[Радио] Новое Радио 98.4 FM (Москва)
-http://icecast.newradio.cdnvideo.ru/newradio3
-#EXTINF:-1 group-title="МОСКВА",[Радио] Best FM 100.5 FM (Москва)
-http://nashe3.hostingradio.ru/best-128.mp3
-#EXTINF:-1 group-title="МОСКВА",[Радио] Вера 100.9 FM (Москва)
-http://radiovera.hostingradio.ru:8007/radiovera_128
-#EXTINF:-1 group-title="МОСКВА",[Радио] Наше радио 101.7 FM (Москва)
-http://nashe3.hostingradio.ru/nashe-128.mp3
-#EXTINF:-1 group-title="МОСКВА",[Радио] Шансон 103.0 FM (Москва)
-http://chanson.hostingradio.ru:8041/chanson128.mp3
-#EXTINF:-1 group-title="МОСКВА",[Радио] Маяк 103.4 FM (Москва)
-http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps
-#EXTINF:-1 group-title="МОСКВА",[Радио] 7 на семи холмах 104.7 FM (Москва)
-http://radio7server.streamr.ru:8040/radio7128.mp3
-#EXTINF:-1 group-title="МОСКВА",[Радио] Capital FM 105.3 FM (Москва)
-http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3
-#EXTINF:-1 group-title="МОСКВА",[Радио] Русское Радио 105.7 FM (Москва)
-http://rusradio.hostingradio.ru/rusradio96.aacp?0.4177960461051895
-#EXTINF:-1 group-title="МОСКВА",[Радио] Европа плюс 106.2 FM (Москва)
-http://ep128.hostingradio.ru:8030/ep128
-
-#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Орфей 71.66 AM (Санкт-Петербург)
-http://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3
-#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Дорожное радио 87.5 FM (Санкт-Петербург)
-http://dorognoe.hostingradio.ru:8000/radio
-#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Ретро 88.0 FM (Санкт-Петербург)
-http://emgspb.hostingradio.ru/retrofmspb128.mp3
-#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Эрмитаж 90.1 FM (Санкт-Петербург)
-http://hermitage.hostingradio.ru/hermitage128.mp3
-#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Новое Радио 91.1 FM (Санкт-Петербург)
-http://emgspb.hostingradio.ru/novoespb128.mp3
-#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Energy 95.0 FM (Санкт-Петербург)
-http://pub0201.101.ru:8000/stream/air/aac/64/99
-#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Европа плюс 100.5 FM (Санкт-Петербург)
-http://emgspb.hostingradio.ru/europaplusspb128.mp3
-#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Эльдорадио 101.4 FM (Санкт-Петербург)
-http://emgspb.hostingradio.ru/eldoradio128.mp3
-#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Maximum 102.8 FM (Санкт-Петербург)
-http://maximum.hostingradio.ru/maximum128.mp3
-#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] DFM 103.4 FM (Санкт-Петербург)
-http://dfm.hostingradio.ru/dfm96.aacp
-#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Детское радио 103.7 FM (Санкт-Петербург)
-http://ic6.101.ru:8000/stream/air/aac/64/199
-#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Наше радио 104.0 FM (Санкт-Петербург)
-http://nashe1.hostingradio.ru/nashespb128.mp3
-#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Монте Карло 105.9 FM (Санкт-Петербург)
-http://montecarlo.hostingradio.ru/montecarlo96.aacp
-#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Русское Радио 107.8 FM (Санкт-Петербург)
-http://rusradio.hostingradio.ru/rusradio96.aacp?
-#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Православное радио 828 AM (Санкт-Петербург)
-http://radio-spb.rusk.ru:8000/stream
-#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",[Радио] Мария 1053 AM (Санкт-Петербург)
-http://dreamsiteradiocp4.com:8002/;stream.mp3
-
-
-#EXTINF:-1 group-title="УФА",[Радио] Спутник FM 107.0 FM (Уфа)
-http://radio.mediacdn.ru/sputnik_fm.mp3
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8mp3
 
 
