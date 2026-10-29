@@ -583,32 +583,6 @@ https://stream.smotrim.ru/hls2/russia1_hd/playlist_6.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ pl_1
-https://stream.smotrim.ru/hls/russia_k/playlist_1.m3u8
-#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ pl_2
-https://stream.smotrim.ru/hls/russia_k/playlist_2.m3u8
-#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ pl_3
-https://stream.smotrim.ru/hls/russia_k/playlist_3.m3u8
-#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ pl_4
-https://stream.smotrim.ru/hls/russia_k/playlist_4.m3u8
-#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ pl_5
-https://stream.smotrim.ru/hls/russia_k/playlist_5.m3u8
-#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ pl_6
-https://stream.smotrim.ru/hls/russia_k/playlist_6.m3u8
-
-#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ hls2 pl_1
-https://stream.smotrim.ru/hls2/russia_k/playlist_1.m3u8
-#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ hls2 pl_2
-https://stream.smotrim.ru/hls2/russia_k/playlist_2.m3u8
-#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ hls2 pl_3
-https://stream.smotrim.ru/hls2/russia_k/playlist_3.m3u8
-#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ hls2 pl_4
-https://stream.smotrim.ru/hls2/russia_k/playlist_4.m3u8
-#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ hls2 pl_5
-https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
-#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ hls2 pl_6
-https://stream.smotrim.ru/hls2/russia_k/playlist_6.m3u8
-
 
 
 
@@ -640,28 +614,28 @@ https://stream.smotrim.ru/hls2/vesti_fm/playlist_5.m3u8
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_6.m3u8
 
 
-#EXTINF:-1 tvg-name="Радио России" group-title="Новости", tvg-id="RadioRossii.ru@HD",Радио России pl1
+#EXTINF:-1 tvg-name="Радио России" group-title="Новости" tvg-id="RadioRossii.ru@HD",Радио России pl1
 https://stream.smotrim.ru/hls/radio_rus/playlist_1.m3u8
-#EXTINF:-1 tvg-name="Радио России" group-title="Новости", tvg-id="RadioRossii.ru@HD",Радио России pl2
+#EXTINF:-1 tvg-name="Радио России" group-title="Новости" tvg-id="RadioRossii.ru@HD",Радио России pl2
 https://stream.smotrim.ru/hls/radio_rus/playlist_2.m3u8
-#EXTINF:-1 tvg-name="Радио России" group-title="Новости", tvg-id="RadioRossii.ru@HD",Радио России pl3
+#EXTINF:-1 tvg-name="Радио России" group-title="Новости" tvg-id="RadioRossii.ru@HD",Радио России pl3
 https://stream.smotrim.ru/hls/radio_rus/playlist_3.m3u8
-#EXTINF:-1 tvg-name="Радио России" group-title="Новости", tvg-id="RadioRossii.ru@HD",Радио России pl4
+#EXTINF:-1 tvg-name="Радио России" group-title="Новости" tvg-id="RadioRossii.ru@HD",Радио России pl4
 https://stream.smotrim.ru/hls/radio_rus/playlist_4.m3u8
-#EXTINF:-1 tvg-name="Радио России" group-title="Новости", tvg-id="RadioRossii.ru@HD",Радио России pl5
+#EXTINF:-1 tvg-name="Радио России" group-title="Новости" tvg-id="RadioRossii.ru@HD",Радио России pl5
 https://stream.smotrim.ru/hls/radio_rus/playlist_5.m3u8
-#EXTINF:-1 tvg-name="Радио России" group-title="Новости", tvg-id="RadioRossii.ru@HD",Радио России pl6
+#EXTINF:-1 tvg-name="Радио России" group-title="Новости" tvg-id="RadioRossii.ru@HD",Радио России pl6
 https://stream.smotrim.ru/hls/radio_rus/playlist_6.m3u8
 
-#EXTINF:-1 tvg-name="Радио России" group-title="Новости", tvg-id="RadioRossii.ru@HD",Радио России hls2 pl1
+#EXTINF:-1 tvg-name="Радио России" group-title="Новости" tvg-id="RadioRossii.ru@HD",Радио России hls2 pl1
 https://stream.smotrim.ru/hls2/radio_rus/playlist_1.m3u8
-#EXTINF:-1 tvg-name="Радио России" group-title="Новости", tvg-id="RadioRossii.ru@HD",Радио России hls2 pl2
+#EXTINF:-1 tvg-name="Радио России" group-title="Новости" tvg-id="RadioRossii.ru@HD",Радио России hls2 pl2
 https://stream.smotrim.ru/hls2/radio_rus/playlist_2.m3u8
-#EXTINF:-1 tvg-name="Радио России" group-title="Новости", tvg-id="RadioRossii.ru@HD",Радио России hls2 pl3
+#EXTINF:-1 tvg-name="Радио России" group-title="Новости" tvg-id="RadioRossii.ru@HD",Радио России hls2 pl3
 https://stream.smotrim.ru/hls2/radio_rus/playlist_3.m3u8
-#EXTINF:-1 tvg-name="Радио России" group-title="Новости", tvg-id="RadioRossii.ru@HD",Радио России hls2 pl4
+#EXTINF:-1 tvg-name="Радио России" group-title="Новости" tvg-id="RadioRossii.ru@HD",Радио России hls2 pl4
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
-#EXTINF:-1 tvg-name="Радио России" group-title="Новости", tvg-id="RadioRossii.ru@HD",Радио России hls2 pl5
+#EXTINF:-1 tvg-name="Радио России" group-title="Новости" tvg-id="RadioRossii.ru@HD",Радио России hls2 pl5
 https://stream.smotrim.ru/hls2/radio_rus/playlist_5.m3u8
-#EXTINF:-1 tvg-name="Радио России" group-title="Новости", tvg-id="RadioRossii.ru@HD",Радио России hls2 pl6
+#EXTINF:-1 tvg-name="Радио России" group-title="Новости" tvg-id="RadioRossii.ru@HD",Радио России hls2 pl6
 https://stream.smotrim.ru/hls2/radio_rus/playlist_6.m3u8
