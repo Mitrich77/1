@@ -1,14 +1,14 @@
-#EXTM3U catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+#EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 
-#EXTINF:-1  group-title="ViP",Первый канал (+2)
+#EXTINF:-1 group-title="ViP",Первый канал (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_2.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0804/76/73a8334bc37b05ed1711c85d0beab176.png" group-title="ViP" tvg-id="rossia1-pl2" tvg-name="Россия 1 (+2)",Россия 1 (Уфа)
 http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA1_UFA.m3u8
-#EXTINF:-1  group-title="ViP",СТС (+2)
+#EXTINF:-1 group-title="ViP",СТС (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_2.m3u8
-#EXTINF:-1  group-title="ViP",НТВ (+2)
+#EXTINF:-1 group-title="ViP",НТВ (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_2.m3u8
-#EXTINF:-1  tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="ViP",Матч! HD
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="ViP",Матч! HD
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1  group-title="ViP",Россия К (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_2.m3u8
@@ -251,6 +251,8 @@ https://s14131.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KAM/variant.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://i125.fastpic.org/big/2025/0816/97/2430143485b6473f00c800049faf5597.png" group-title="Новости",Россия 24 hd
 
+#EXTINF:-1 group-title="Новости",РОссия 24
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/33/6f8b3bfe5ac0478397835955593d0333.png" group-title="Новости",ИзВеСтИя
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0615/5e/cfa8a72e09e104849700db6919557f5e.png" group-title="Новости",Соловьев LiVE
@@ -303,8 +305,7 @@ http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
 https://stream.smotrim.ru/hls/solovievlive/playlist_1.m3u8
 #EXTINF:-1 group-title="Новости",Первый информационный HD (Беларусь)
 http://dmitry-tv.ddns.net/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
-#EXTINF:-1 group-title="Новости",РОссия 24
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
+
 
 #EXTINF:-1 group-title="Новости",известиЯ
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v4a1/mono.ts.m3u8
@@ -540,6 +541,17 @@ http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_7.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/e2/bc531a637f0085067102d62d3a6ff1e2.png" group-title="ЭфиР",Россия 1 ᴴᴰ (+8)
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_8.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/8b/29c09f702dbbc876e0f9490972cc848b.png" group-title="ЭфиР",Россия 1 ᴴᴰ (+9)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8mp3
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 24 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 tvg-name="Известия" tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP",ИЗВЕСТИЯ ᴴᴰ
+http://dmi3y-tv.online/hls/CH_I3BECTIYAHD.m3u8
+#EXTINF:-1 tvg-name="Соловьёв Live" tvg-logo="https://i127.fastpic.org/big/2026/0624/86/20b892f9355275814d5023402d8f0a86.png" group-title="Новости",Соловьёв Live ᴴᴰ
+https://stream.smotrim.ru/hls2/solovievlive/playlist_5.m3u8
 
 
