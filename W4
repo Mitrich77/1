@@ -553,3 +553,21 @@ http://dmi3y-tv.online/hls/CH_I3BECTIYAHD.m3u8
 https://stream.smotrim.ru/hls2/solovievlive/playlist_5.m3u8
 
 
+
+
+#EXTINF:-1 tvg-name="Россия 1 HD" group-title="ViP",Россия 1 ᴴᴰ pl_1
+https://stream.smotrim.ru/hls/russia1_hd/playlist_1.m3u8
+#EXTINF:-1 tvg-name="Россия 1 HD" group-title="ViP",Россия 1 ᴴᴰ pl_2
+https://stream.smotrim.ru/hls/russia1_hd/playlist_2.m3u8
+#EXTINF:-1 tvg-name="Россия 1 HD" group-title="ViP",Россия 1 ᴴᴰ pl_3
+https://stream.smotrim.ru/hls/russia1_hd/playlist_3.m3u8
+#EXTINF:-1 tvg-name="Россия 1 HD" group-title="ViP",Россия 1 ᴴᴰ pl_4
+https://stream.smotrim.ru/hls/russia1_hd/playlist_4.m3u8
+#EXTINF:-1 tvg-name="Россия 1 HD" group-title="ViP",Россия 1 ᴴᴰ pl_5
+https://stream.smotrim.ru/hls/russia1_hd/playlist_5.m3u8
+#EXTINF:-1 tvg-name="Россия 1 HD" group-title="ViP",Россия 1 ᴴᴰ pl_6
+https://stream.smotrim.ru/hls/russia1_hd/playlist_6.m3u8
+
+
+
+
