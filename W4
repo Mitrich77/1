@@ -583,3 +583,31 @@ https://stream.smotrim.ru/hls2/russia1_hd/playlist_6.m3u8
 
 
 
+#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ pl_1
+https://stream.smotrim.ru/hls/russia_k/playlist_1.m3u8
+#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ pl_2
+https://stream.smotrim.ru/hls/russia_k/playlist_2.m3u8
+#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ pl_3
+https://stream.smotrim.ru/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ pl_4
+https://stream.smotrim.ru/hls/russia_k/playlist_4.m3u8
+#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ pl_5
+https://stream.smotrim.ru/hls/russia_k/playlist_5.m3u8
+#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ pl_6
+https://stream.smotrim.ru/hls/russia_k/playlist_6.m3u8
+
+#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ hls2 pl_1
+https://stream.smotrim.ru/hls2/russia_k/playlist_1.m3u8
+#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ hls2 pl_2
+https://stream.smotrim.ru/hls2/russia_k/playlist_2.m3u8
+#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ hls2 pl_3
+https://stream.smotrim.ru/hls2/russia_k/playlist_3.m3u8
+#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ hls2 pl_4
+https://stream.smotrim.ru/hls2/russia_k/playlist_4.m3u8
+#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ hls2 pl_5
+https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
+#EXTINF:-1 tvg-name="Россия К" group-title="ViP",Россия К ᴴᴰ hls2 pl_6
+https://stream.smotrim.ru/hls2/russia_k/playlist_6.m3u8
+
+
+
