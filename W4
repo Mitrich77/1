@@ -656,3 +656,74 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_1080p/playlist
 
 
 
+
+
+#EXTINF:-1 group-title="Rutube (VPN)",Царьград
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=kkC1gxYNJrXGSAJNCsijlg&e=2093347121&scheme=https
+
+
+#EXTINF:-1,Blues Music
+https://lbgo.bozztv.com/07/ushba0/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rutube (VPN)",Now Rock
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=lBFI9T8r-hovuj54go0v6Q&e=2093347137&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",МузСоюз
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/d1dff14680d4c84e27908983375f7e89/index.m3u8?s=xlTeKENP_sKhrV5oaQ62HA&e=2093347138&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Record Супердискотека 90х
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=lnG5Z09TKIxexGnmqeLSmw&e=2093347138&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Record Big Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/c7b8a6f89c95f9d224d7811d4489d5f7/index.m3u8?s=ok5soAXzGI4iFR9nz3RgFg&e=2093347138&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Record Rock
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/a1bad1d3fee40a92df8f3d8d3de16821/index.m3u8?s=G5CRQkwL8lL_JoAn3K0lgw&e=2093347138&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Record Dance Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=Pf8jxRwkK1cLo6JLNjEo6g&e=2093347139&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Record Russian Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=6ln90orUTQyzycdkRaR4tw&e=2093347139&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Record Гоп FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/b575eaf54bd00d5fb079c55988bc0f24/index.m3u8?s=cfG56jOzT42r4qS2nWPFFw&e=2093347139&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Record Megamix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=U7ktjJLp0QoP-qtyg5z4pA&e=2093347139&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Record Russian Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/2f3e5c6a66617c063f12d8d5d49248c7/index.m3u8?s=cPABPhLbGYpeOg_EhLROLQ&e=2093347140&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Record Deep
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/9249feec1c78e5414f68ecf40a6645d2/index.m3u8?s=sbvzfRZH0LVlQ86x-Qv5GA&e=2093347140&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Record Phonk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/f972da70f03eee3d14fcff4113a8b6e4/index.m3u8?s=Si9pOjW3_vp6ZrdsNKC-YA&e=2093347140&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Record Chill House
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/149b862a6f45faed8800e28c15066c21/index.m3u8?s=mWNxbUnAIwKUQFizeJE5oQ&e=2093347141&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Record Drum n Bass
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/dc756dfadfdb320e9cec39b35def79e3/index.m3u8?s=PGlpbOAR0lS2tNie4ejXDQ&e=2093347141&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Record Chill-Out
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/6ad623fe9b908f3823c47e77cd981cd4/index.m3u8?s=Js57mheNp_q7d5SgcMSS0A&e=2093347141&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Record Techno by Innocence
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/a385dcd78395ea7740d1aed28980fe6c/index.m3u8?s=9faQ9cqGSQfPkJUIDXFndw&e=2093347143&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",Record Trance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=Vtz4BbzAtqqGMpDrnesOnw&e=2093347143&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",VIVA Russia HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=vHgwXjo6rP7T1TnCrP-L4Q&e=2093347143&scheme=https
+
+
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://nord.by/images/tv/esp1.png" logo="https://ic.wampi.ru/2021/04/14/b5cd566b95e57a85de08d98703ddafac.png" channelId="82" tvg-id="eurosport1-ru",Eurosport 1 RU
+http://hls.stb.md/ESPHD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc2MzU4NjI4MSwiZXhwIjoxNzYzNjcyNjgxLCJpYXQiOjE3NjM1ODYyODEsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.4wSJClL_mBXJAetsK2NbsT1kLpWurUu5YnykLSgEXV0
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://tricolor-38.ru/KANALY_3/Eurosport_2_HD.png" logo="https://i115.fastpic.org/big/2021/0801/62/f62e5f80cd5f0d477953fe1879ef2a62.png" channelId="933" tvg-id="eurosport2-ru",Eurosport 2 HD
+http://hls.stb.md/EUROSPORT2HD_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc2MzU4NjI4MSwiZXhwIjoxNzYzNjcyNjgxLCJpYXQiOjE3NjM1ODYyODEsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.4wSJClL_mBXJAetsK2NbsT1kLpWurUu5YnykLSgEXV0
+
+
