@@ -639,3 +639,20 @@ https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 https://stream.smotrim.ru/hls2/radio_rus/playlist_5.m3u8
 #EXTINF:-1 tvg-name="Радио России" group-title="Новости" tvg-id="RadioRossii.ru@HD",Радио России hls2 pl6
 https://stream.smotrim.ru/hls2/radio_rus/playlist_6.m3u8
+
+
+
+#EXTINF:-1 tvg-name="ТАСС" group-title="Новости" audio-track="rus", ТАСС 240p
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_240p/playlist.m3u8
+#EXTINF:-1 tvg-name="ТАСС" group-title="Новости" audio-track="rus", ТАСС 360p
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-name="ТАСС" group-title="Новости" audio-track="rus", ТАСС 480p
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
+#EXTINF:-1 tvg-name="ТАСС" group-title="Новости" audio-track="rus", ТАСС 720p
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="ТАСС" group-title="Новости" audio-track="rus", ТАСС 1080p
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_1080p/playlist.m3u8 
+
+
+
+
