@@ -40,12 +40,7 @@ https://s45177.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 #EXTINF:-1 group-title="ViP" tvg-id="tvcentr-pl2" tvg-name="ТВ Центр (+2)",ТВ Центр (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
-#EXTINF:-1 tvg-id="spas-pl2" group-title="ViP",Спас (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="mir-pl2",МИР (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_MIR_NTAG/variant.m3u8
+
 
 #EXTINF:-1 group-title="ViP" tvg-id="zvezda-pl2" tvg-name="Звезда (+2)",Звезда (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
@@ -56,12 +51,17 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:-1 tvg-id="ZvezdaPlus.ru" group-title="ViP",ЗвеЗда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 
+
+#EXTINF:-1 group-title="Новости",ВЕСТИ FM
+https://stream.smotrim.ru/hls/vesti_fm/playlist_5.m3u8
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="http://www.hist.msu.ru/pictures/partners/rsputnik.jpg" group-title="Новости",Радио Sputnik
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/76/1f95b63e227e62b1031122210126b476.png" group-title="Новости" tvg-id="rossia-24" tvg-name="Россия 24",Россия 24ᴴᴰ
 https://stream.smotrim.ru/hls/russia24_hd/playlist_5.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP",ИЗВЕСТИЯ ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/fe/6d17a9a4c1423fb54eb214c08355fafe.png" group-title="ViP",ИЗВЕСТИЯ HD
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/a6/017c743cc830211b7593e36af422a5a6.png" group-title="ViP",СОЛОВЬЁВ LiVE ᴴᴰ
-https://stream.smotrim.ru/hls/solovievlive/playlist_5.m3u8
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0802/a6/017c743cc830211b7593e36af422a5a6.png" group-title="ViP",СОЛОВЬЁВ LiVE HD
+https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 
 #EXTINF:-1 group-title="ViP" tvg-id="pervy",Первый канал
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
@@ -78,64 +78,58 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:-1 group-title="ViP" tvg-id="rentv",РЕН ТВ
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_SPBR/variant.m3u8
-#EXTINF:-1  group-title="ViP",ОСН
-http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="mir",МИР
+#EXTINF:-1 tvg-id="spas-pl2" group-title="ViP",Спас (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_MIR/variant.m3u8
-
-
-#EXTINF:-1 group-title="ViP" tvg-id="domashny-pl2",Домашний (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="mir-pl2",МИР (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://s45177.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
-#EXTINF:-1 group-title="ViP",Русский роман
-http://dmi3y-tv.online/hls/CH_RUSSKIY_ROMAN.m3u8
-
-
-#EXTINF:-1 tvg-id="6005" tvg-name="фильм" tvg-logo="http://epg.one/img/6005.png" group-title="КИНО",ФИЛЬМ
-http://185.57.68.33:8091/237/playlist.m3u8
-#EXTINF:-1 tvg-id="3357" tvg-name="мосфильм. золотая коллекция" tvg-logo="http://epg.one/img/3357.png" group-title="ViP" audio-track="rus", Мосфильм. Золотая коллекция HD
-http://stream.mcquack.net/369/index.m3u8
-#EXTINF:-1 tvg-id="6258" tvg-name="кино 1 international" tvg-logo="http://epg.one/img/6258.png" group-title="КИНО",Кино 1 Int.
-http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-id="Detskoekino.ru@International" tvg-name="детское кино international",Детское кино Int.
-https://autopilot.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-id="retro" tvg-name="ретро" group-title="ViP" audio-track="rus", Ретро
-http://176.118.197.101/Retro/index.m3u8
-#EXTINF:-1 tvg-id="sovkino" tvg-name="советское кино" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="ViP",Советское кино
-http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
-#EXTINF:-1 tvg-id="Muzyka1.ru@International" tvg-name="музыка 1 international" ,Музыка 1 Int.
-https://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 tvg-id="Muzyka1.ru@International" tvg-name="музыка 2 international" ,Музыка 2 Int.
-https://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 tvg-id="MuzykaKino.ru@International" tvg-name="музыка кино international" ,Музыка Кино Int.
-https://kino-1.catcast.tv/content/37739/index.m3u8
-
-
-#EXTINF:-1 tvg-id="muztv-pl2" group-title="ViP",МУЗ-ТВ (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_MIR_NTAG/variant.m3u8
 #EXTINF:-1 group-title="ViP" tvg-id="tnt-pl2",ТНТ (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:-1 group-title="ViP" tvg-id="tnt",ТНТ
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="2na2",2x2
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_2X2/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="che-pl2",Че! (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://s45177.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="karusel-pl2",Карусель (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://s45177.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="tv3-ru-pl2",ТВ-3 (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://s45177.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
-#EXTINF:-1 group-title="ViP" tvg-id="piatnica-pl2",Пятница! (+2)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://s45177.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+
+
+#EXTINF:-1 tvg-id="6258" tvg-name="кино 1 international" tvg-logo="http://epg.one/img/6258.png" group-title="КИНО",Кино 1 Int.
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="3357" tvg-name="мосфильм. золотая коллекция" tvg-logo="http://epg.one/img/3357.png" group-title="ViP" audio-track="rus", Мосфильм. Золотая коллекция HD
+http://stream.mcquack.net/369/index.m3u8
+#EXTINF:-1 tvg-id="retro" tvg-name="ретро" group-title="ViP" audio-track="rus", Ретро
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 tvg-id="sovkino" tvg-name="советское кино" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="ViP",Советское кино
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+
+#EXTINF:-1 tvg-id="Muzyka1.ru@International" tvg-name="музыка 1 international" group-title="МуZыКа",Музыка 1 Int.
+https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 tvg-id="Muzyka1.ru@International" tvg-name="музыка 2 international" group-title="МуZыКа",Музыка 2 Int.
+https://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="МуZыКа",Record Супердискотека 90х
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=lnG5Z09TKIxexGnmqeLSmw&e=2093347138&scheme=https
+#EXTINF:-1 group-title="МуZыКа",VIVA Russia HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=vHgwXjo6rP7T1TnCrP-L4Q&e=2093347143&scheme=https
+
+#EXTINF:-1 tvg-id="MuzykaKino.ru@International" tvg-name="музыка кино international" group-title="МуZыКа",Музыка Кино Int.
+https://kino-1.catcast.tv/content/37739/index.m3u8
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
+http://dmi3y-tv.online/hls/CH_NAUKA20.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя планета
+http://dmi3y-tv.online/hls/CH_MOYA_PLANETA.m3u8
+
+#EXTINF:-1 tvg-name="Смотрим 100% ФАКТЫ" group-title="ПОЗНАВАТЕЛЬНЫЕ",sᴍᴏᴛʀɪᴍ 100% ФАКТЫ ᴴᴰ
+http://dmi3y-tv.online/hls/smotrim/CH_FAKTYHD.m3u8
+#EXTINF:-1 tvg-name="Смотрим 100% МУЖСКОЕ" group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ 100% МУЖСКОЕ ᴴᴰ
+http://dmi3y-tv.online/hls/smotrim/CH_MUZHSKOEHD.m3u8
+#EXTINF:-1 tvg-name="Смотрим 100% КЛАССИКА" group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ 100% КЛАССИКА ᴴᴰ
+http://dmi3y-tv.online/hls/smotrim/CH_CLASSICAHD.m3u8
+#EXTINF:-1 tvg-name="Смотрим Кино и сериалы" group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ Кино и сериалы ᴴᴰ
+http://dmi3y-tv.online/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
+#EXTINF:-1 tvg-name="Смотрим 100% ЛЮБОВЬ" group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ 100% ЛЮБОВЬ ᴴᴰ
+http://dmi3y-tv.online/hls/smotrim/CH_LYUBOVHD.m3u8
 
 
 
@@ -2327,3 +2321,45 @@ http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/2578/index.m3u8
 http://d569aa25.rossteleccom.net/iptv/GHS4TR5LXDUTV9/2579/index.m3u8
 #EXTINF:-1 group-title="ЭфиР" tvg-id="otr",88
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/88.m3u8
+
+
+
+#EXTINF:-1 tvg-id="6005" tvg-name="фильм" tvg-logo="http://epg.one/img/6005.png" group-title="КИНО",ФИЛЬМ
+http://185.57.68.33:8091/237/playlist.m3u8
+
+
+#EXTINF:-1  group-title="ViP",ОСН
+http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="mir",МИР
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_MIR/variant.m3u8
+
+
+#EXTINF:-1 group-title="ViP" tvg-id="domashny-pl2",Домашний (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+#EXTINF:-1 group-title="ViP",Русский роман
+http://dmi3y-tv.online/hls/CH_RUSSKIY_ROMAN.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="muztv-pl2" group-title="ViP",МУЗ-ТВ (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+
+#EXTINF:-1 group-title="ViP" tvg-id="2na2",2x2
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_2X2/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="che-pl2",Че! (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="karusel-pl2",Карусель (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="tv3-ru-pl2",ТВ-3 (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+#EXTINF:-1 group-title="ViP" tvg-id="piatnica-pl2",Пятница! (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
