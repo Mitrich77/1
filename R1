@@ -49,7 +49,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v6a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="ЗВЕЗДА ПЛЮС" group-title="РАДИО",ЗВЕЗДА ПЛЮС
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v3a1/mono.ts.m3u8
 
-#EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Дискотека 90-х (101.RU)
+#EXTINF:-1 tvg-logo="https://cdnec1.101.ru/proxy/vardata/modules/channel/image/79a4540faa375e23b7b4139145d80157.jpeg?w=300&h=300&pos=center&q=100&t=1773318238" tvg-id="no_epg_radio" group-title="РАДИО",Дискотека 90-х (101.RU)
 https://pub0101.101.ru/stream/pro/aac/64/74
 
 
