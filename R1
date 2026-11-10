@@ -1,16 +1,16 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="soloviev live" tvg-logo="https://i128.fastpic.org/big/2026/0805/da/2b6d28883e7abde27e869b62e6b8a1da.png" group-title="РАДИО" tvg-name="Соловьёв Live",Соловьев ФМ
+#EXTINF:-1 tvg-id="soloviev live" tvg-logo="https://i128.fastpic.org/big/2026/0805/da/2b6d28883e7abde27e869b62e6b8a1da.png" group-title="RADiO" tvg-name="Соловьёв Live",Соловьев ФМ
 https://solovievfm.hostingradio.ru/solovievfm32.aacp
-#EXTINF:-1 tvg-id="soloviev live" tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="РАДИО" tvg-name="Соловьёв Live",Соловьев FM
+#EXTINF:-1 tvg-id="soloviev live" tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="RADiO" tvg-name="Соловьёв Live",Соловьев FM
 https://solovievfm.hostingradio.ru/solovievfm128.aacp
-#EXTINF:-1 tvg-id="soloviev live" tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="РАДИО" tvg-name="Соловьёв Live",SOLOViEV FM
+#EXTINF:-1 tvg-id="soloviev live" tvg-logo="https://i128.fastpic.org/big/2026/0805/b4/38121109fb46f088e04562f74c1be1b4.png" group-title="RADiO" tvg-name="Соловьёв Live",SOLOViEV FM
 https://solovievfm.hostingradio.ru/solovievfm256.mp3
 
-#EXTINF:-1 tvg-id="izvestia" group-title="РАДИО" tvg-logo="https://i128.fastpic.org/big/2026/0904/27/30510e4198a26ad4f535719cc2ba2127.jpg" tvg-name="Известия",ИЗВЕСТИЯ FM
+#EXTINF:-1 tvg-id="izvestia" group-title="RADiO" tvg-logo="https://i128.fastpic.org/big/2026/0904/27/30510e4198a26ad4f535719cc2ba2127.jpg" tvg-name="Известия",ИЗВЕСТИЯ FM
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v6a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="izvestia" group-title="РАДИО" tvg-logo="https://i128.fastpic.org/big/2026/0904/27/30510e4198a26ad4f535719cc2ba2127.jpg" tvg-name="Известия",ИЗВЕСТИЯ ФМ
+#EXTINF:-1 tvg-id="izvestia" group-title="RADiO" tvg-logo="https://i128.fastpic.org/big/2026/0904/27/30510e4198a26ad4f535719cc2ba2127.jpg" tvg-name="Известия",ИЗВЕСТИЯ ФМ
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v7a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="http://www.hist.msu.ru/pictures/partners/rsputnik.jpg" group-title="RADiO",Радио Спутник
@@ -31,148 +31,131 @@ https://podcast.smotrim.ru/radio/hls/RadioKultura/video.m3u8
 #EXTINF:-1 group-title="RADiO" tvg-logo="https://static.wikia.nocookie.net/radiopedia/images/8/8c/3.svg/revision/latest?cb=20230116135717&path-prefix=ru",Радио Юность
 https://podcast.smotrim.ru/radio/hls/RadioUnost/video.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://maps.adpass.ru/wp-content/uploads/2023/06/132433557_zvezd_thumb_fed_photo.jpg" group-title="Радио",Радио Звезда
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://maps.adpass.ru/wp-content/uploads/2023/06/132433557_zvezd_thumb_fed_photo.jpg" group-title="RADiO",Радио Звезда
 https://stream-msk-17.ott.tricolor.tv/dtv/id968_MSKSG-PVR-1--Radio_ZVEZDA/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://airpersonalities.ru/Foto/04April2016/radio_kp_bez_chastoty-7.jpg" group-title="Радио",Радио Комсомольская Правда
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://airpersonalities.ru/Foto/04April2016/radio_kp_bez_chastoty-7.jpg" group-title="RADiO",Радио Комсомольская Правда
 https://stream-msk-20.ott.tricolor.tv/dtv/id958_MSKSG-PVR-1--komsomolskaya_pravda/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://sun9-32.userapi.com/hvYm3QEIKaM895rZ2fgNkIh0P18i-Oe-FjwIMw/rL09pDNrMus.jpg" group-title="Радио",Радио 7
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://sun9-32.userapi.com/hvYm3QEIKaM895rZ2fgNkIh0P18i-Oe-FjwIMw/rL09pDNrMus.jpg" group-title="RADiO",Радио 7
 https://stream-msk-17.ott.tricolor.tv/dtv/id955_MSKSG-PVR-1--radio_na_7_kholmakh/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
 
 
 
-#EXTINF:-1 tvg-id="zvezda plus" tvg-name="ЗВЕЗДА ПЛЮС" tvg-logo="https://i128.fastpic.org/big/2026/0904/0c/bbf264d5c4f4fbe7280af70c73cac30c.jpg" group-title="РАДИО",Радио Звезда Плюс
+#EXTINF:-1 tvg-id="zvezda plus" tvg-name="ЗВЕЗДА ПЛЮС" tvg-logo="https://i128.fastpic.org/big/2026/0904/0c/bbf264d5c4f4fbe7280af70c73cac30c.jpg" group-title="RADiO",Радио Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="zvezda plus" tvg-name="ЗВЕЗДА ПЛЮС" tvg-logo="https://i128.fastpic.org/big/2026/0904/0c/bbf264d5c4f4fbe7280af70c73cac30c.jpg" group-title="РАДИО",Радио Звезда Плюс ФМ
+#EXTINF:-1 tvg-id="zvezda plus" tvg-name="ЗВЕЗДА ПЛЮС" tvg-logo="https://i128.fastpic.org/big/2026/0904/0c/bbf264d5c4f4fbe7280af70c73cac30c.jpg" group-title="RADiO",Радио Звезда Плюс ФМ
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v5a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="zvezda plus" tvg-name="ЗВЕЗДА ПЛЮС" tvg-logo="https://i128.fastpic.org/big/2026/0904/0c/bbf264d5c4f4fbe7280af70c73cac30c.jpg" group-title="РАДИО",Radio Zvezda Plus FM
+#EXTINF:-1 tvg-id="zvezda plus" tvg-name="ЗВЕЗДА ПЛЮС" tvg-logo="https://i128.fastpic.org/big/2026/0904/0c/bbf264d5c4f4fbe7280af70c73cac30c.jpg" group-title="RADiO",Radio Zvezda Plus FM
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v6a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="ЗВЕЗДА ПЛЮС" group-title="РАДИО",ЗВЕЗДА ПЛЮС
+#EXTINF:-1 tvg-name="ЗВЕЗДА ПЛЮС" group-title="RADiO",ЗВЕЗДА ПЛЮС
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v3a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdnec1.101.ru/proxy/vardata/modules/channel/image/79a4540faa375e23b7b4139145d80157.jpeg?w=300&h=300&pos=center&q=100&t=1773318238" tvg-id="no_epg_radio" group-title="РАДИО",Дискотека 90-х (101.RU)
+#EXTINF:-1 tvg-logo="https://cdnec1.101.ru/proxy/vardata/modules/channel/image/79a4540faa375e23b7b4139145d80157.jpeg" tvg-id="no_epg_radio" group-title="RADiO",Дискотека 90-х (101.RU)
 https://pub0101.101.ru/stream/pro/aac/64/74
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdnec5.101.ru/proxy/vardata/modules/channel/image/f6c26ec105132669689e49eb67985f6b.png" group-title="RADiO",90's Gold (101.RU)
+https://pub0101.101.ru/stream/pro/aac/64/75
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdnec2.101.ru/proxy/vardata/modules/channel/image/166515c7c5e1eec61dc3e4f3e2303ce7.jpeg" group-title="RADiO",Дискотека 80-х (101.RU)
+https://pub0101.101.ru/stream/pro/aac/64/1
 
 
 
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdnec4.101.ru/proxy/vardata/modules/channel/image/7ccdc53c452a0ec534098e0269f2c837.jpg" group-title="RADiO",Музыка для сна
+https://pub0101.101.ru/stream/pro/aac/64/328
 
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Релакс-Лаунж
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://101.ru/proxy/vardata/modules/channel/image/ce59d7291aa43e9891830a86b2c9b672.png" group-title="RADiO",Relax FM. Релакс-Лаунж
 https://pub0102.101.ru:8443/stream/trust/mp3/128/791
-
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для медитации
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://101.ru/proxy/vardata/modules/channel/image/f130211004c9af8f576b09df1c829157.png' group-title="RADiO",Relax FM. Музыка для медитации
 https://pub0102.101.ru:8443/stream/trust/mp3/128/461
-
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для автомобиля
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://101.ru/proxy/vardata/modules/channel/image/35fd2bab8710d77c883d279034c03ea9.png" group-title="RADiO",Relax FM. Музыка для автомобиля
 https://pub0102.101.ru:8443/stream/trust/mp3/128/475
-
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для малышей
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://101.ru/proxy/vardata/modules/channel/image/a0ad603764a50b9a4ab961be43b34629.png" group-title="RADiO",Relax FM. Музыка для малышей
 https://pub0102.101.ru:8443/stream/trust/mp3/128/462
-
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для вдохновения
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://101.ru/proxy/vardata/modules/channel/image/4f52b3026a5fb909a2174a818c92afc4.png' group-title="RADiO",Relax FM. Музыка для вдохновения
 https://pub0102.101.ru:8443/stream/trust/mp3/128/471
-
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Легкое пробуждение
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://101.ru/proxy/vardata/modules/channel/image/9ea466fe8779e84a044342cb98219a75.png" group-title="RADiO",Relax FM. Легкое пробуждение
 https://pub0102.101.ru:8443/stream/trust/mp3/128/468
-
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Релакс-Каверы
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://101.ru/proxy/vardata/modules/channel/image/603ade2dbdb54fb19e8f6820edc84042.png" group-title="RADiO",Relax FM. Релакс-Каверы
 https://pub0102.101.ru:8443/stream/trust/mp3/128/788
-
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для вечера
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://101.ru/proxy/vardata/modules/channel/image/db10734fd889e5adda02e803b301f831.png" group-title="RADiO",Relax FM. Музыка для вечера
 https://pub0102.101.ru:8443/stream/trust/mp3/128/470
-
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для прогулок
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdnec0.101.ru/proxy/vardata/modules/channel/image/ac2ed65bde7c2d5982ff825047311ffa.png" group-title="RADiO",Relax FM. Музыка для прогулок
 https://pub0102.101.ru:8443/stream/trust/mp3/128/266
-
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для офиса
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdnec2.101.ru/proxy/vardata/modules/channel/image/9ffd79c5c7dff70ac0c3e0463e8413a2.png" group-title="RADiO",Relax FM. Музыка для офиса
 https://pub0102.101.ru:8443/stream/trust/mp3/128/267
-
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для дома
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdnec0.101.ru/proxy/vardata/modules/channel/image/6f44aa16a8a0f1fa92618eb015c9bbd3.png" group-title="RADiO",Relax FM. Музыка для дома
 https://pub0102.101.ru:8443/stream/trust/mp3/128/264
-
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Наедине с природой
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdnec5.101.ru/proxy/vardata/modules/channel/image/26942949e9c8719a5c5168aa9b497cfd.png" group-title="RADiO",Relax FM. Наедине с природой
 https://pub0102.101.ru:8443/stream/trust/mp3/128/263
-
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для выходного дня
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdnec4.101.ru/proxy/vardata/modules/channel/image/4220090d2b58628d3455bb6c983d3f0f.png" group-title="RADiO",Relax FM. Музыка для выходного дня
 https://pub0102.101.ru:8443/stream/trust/mp3/128/265
 
 
 
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdnec1.101.ru/proxy/vardata/modules/channel/image/a8a530894e5dfadb31b092ccd9a12903.png" group-title="РАДИО",Классическая Музыка
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdnec1.101.ru/proxy/vardata/modules/channel/image/a8a530894e5dfadb31b092ccd9a12903.png" group-title="RADiO",Классическая Музыка
 https://pub0101.101.ru/stream/pro/aac/64/98
-
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Neo Classical
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdnec3.101.ru/proxy/vardata/modules/channel/image/a8c52167c8b0e65ed2c417f1834e9066.png" group-title="RADiO",Neo Classical
 https://pub0101.101.ru/stream/pro/aac/64/275
-
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Pop Classical Music
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdnec0.101.ru/proxy/vardata/modules/channel/image/15d65ab2eeb995c0c7ae49e98cf7f5b8.png" group-title="RADiO",Pop Classical Music
 https://pub0101.101.ru/stream/pro/aac/64/97
-
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Romantika. Piano Covers
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdnec2.101.ru/proxy/vardata/modules/channel/image/aff01040c98760d30c4145e2021981f1.jpg" group-title="RADiO",Romantika. Piano Covers
 https://pub0101.101.ru/stream/pro/aac/64/375
-
-#EXTINF:-1  vg-id="no_epg_radio" group-title="РАДИО",Romantika. Love Songs
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdnec5.101.ru/proxy/vardata/modules/channel/image/c03d35b8d5dae9d6b242391cf012d459.jpg" group-title="RADiO",Romantika. Love Songs
 https://pub0101.101.ru/stream/pro/aac/64/29
-
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Romantika. Акустика
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdnec2.101.ru/proxy/vardata/modules/channel/image/d85bbf750934878c54606d260e5983e8.jpg" group-title="RADiO",Romantika. Акустика
 https://pub0101.101.ru/stream/pro/aac/64/164
-
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Romantika. Easy Listening
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdnec2.101.ru/proxy/vardata/modules/channel/image/33aece8ff4f166f0e1fb9c2ea156c912.jpg" group-title="RADiO",Romantika. Easy Listening
 https://pub0101.101.ru/stream/pro/aac/64/26
-
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Romantika. Прикосновение
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdnec5.101.ru/proxy/vardata/modules/channel/image/4fa9bac8cb0ce3d28aa1d3b33731fe26.jpg" group-title="RADiO",Romantika. Прикосновение
 https://pub0102.101.ru:8443/stream/trust/mp3/128/196
-
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Русские Народные
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdnec3.101.ru/proxy/vardata/modules/channel/image/1e3c88d05152cfe60cdd43f3880f4b8b.png" group-title="RADiO",Русские Народные
 https://pub0101.101.ru/stream/pro/aac/64/40
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdnec5.101.ru/proxy/vardata/modules/channel/image/0bb0bb1a7459e453f29d5305b4c23c4d.png" group-title="RADiO",День Победы
+https://pub0101.101.ru/stream/pro/aac/64/178
 
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="silverrain" group-title="РАДИО",Серебрянный Дождь
+#EXTINF:-1 tvg-id="silverrain" tvg-logo="https://101.ru/vardata/modules/channel/image/6a5da848a4c6a.svg" group-title="RADiO",Серебрянный Дождь
 https://silverrain.hostingradio.ru/silver64.aac
 
 
 
-
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Радио HDR LOUNGE
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="RADiO",Радио HDR LOUNGE
 http://harddanceradio.ddns.is74.ru:8000/lounge
 
 
 
 
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://radiomixer.net/images/2023/11/01/YWT3JC4mWYkfFUAzLthwQmfyrlfTdm3VgrvNmzFA.jpg" group-title="Радио",Радио Родных Дорог
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://radiomixer.net/images/2023/11/01/YWT3JC4mWYkfFUAzLthwQmfyrlfTdm3VgrvNmzFA.jpg" group-title="RADiO",Радио Родных Дорог
 https://stream-msk-17.ott.tricolor.tv/dtv/id961_MSKSG-PVR-1--Radio_Rodnykh_Dorog/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://frocus.net/images/logotv/original/dorojnoe_radio_tiraspol.jpg" group-title="Радио",Дорожное FM
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://frocus.net/images/logotv/original/dorojnoe_radio_tiraspol.jpg" group-title="RADiO",Дорожное FM
 https://stream-msk-17.ott.tricolor.tv/dtv/id949_MSKSG-PVR-1--dorozhnoye_radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://tv2free.ru/sites/default/files/radio-logo/radio-evropa-plyus-1659175383.jpg" group-title="Радио",Europe Plus
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://tv2free.ru/sites/default/files/radio-logo/radio-evropa-plyus-1659175383.jpg" group-title="RADiO",Europe Plus
 https://stream-msk-17.ott.tricolor.tv/dtv/id945_MSKSG-PVR-1--europa_plus/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://tv2free.ru/sites/default/files/radio-logo/radio-radio-maximum-1660163074.jpg" group-title="Радио",Радио Maximum
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://tv2free.ru/sites/default/files/radio-logo/radio-radio-maximum-1660163074.jpg" group-title="RADiO",Радио Maximum
 https://stream-msk-05.ott.tricolor.tv/dtv/id763_MSKSG-PVR-1--Maximum/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://ra-germes.ru/upload/iblock/3de/russkoe_radio_img.jpg" group-title="Радио",Русское Радио
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://ra-germes.ru/upload/iblock/3de/russkoe_radio_img.jpg" group-title="RADiO",Русское Радио
 https://stream-msk-20.ott.tricolor.tv/dtv/id962_MSKSG-PVR-1--Russkoe_radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://nerios.ru/roster/uploads/posts/2024-03/mibzo_nnejs-min.jpg" group-title="Радио",Радио Ваня
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://nerios.ru/roster/uploads/posts/2024-03/mibzo_nnejs-min.jpg" group-title="RADiO",Радио Ваня
 https://stream-msk-17.ott.tricolor.tv/dtv/id954_MSKSG-PVR-1--radio_vanya/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://pvgstudio.ru/work/img/dfm3.jpg" group-title="Радио",Dance FM
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://pvgstudio.ru/work/img/dfm3.jpg" group-title="RADiO",Dance FM
 https://stream-msk-20.ott.tricolor.tv/dtv/id952_MSKSG-PVR-1--dfm/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://vivareit.ru/wp-content/uploads/2015/10/retro99.jpg" group-title="Радио",Ретро FM
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://vivareit.ru/wp-content/uploads/2015/10/retro99.jpg" group-title="RADiO",Ретро FM
 https://stream-msk-17.ott.tricolor.tv/dtv/id967_MSKSG-PVR-1--Retro_FM/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://i.podster.fm/img/220577/crop/yes/size/default/220577-1.jpg" group-title="Радио",ХИТ FM
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://i.podster.fm/img/220577/crop/yes/size/default/220577-1.jpg" group-title="RADiO",ХИТ FM
 https://stream-msk-20.ott.tricolor.tv/dtv/id953_MSKSG-PVR-1--hit_fm/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://static.tildacdn.com/tild3463-6266-4664-a637-333161383337/3c484c65a2d021a349aa.jpg" group-title="Радио",Радио Воскресение
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://static.tildacdn.com/tild3463-6266-4664-a637-333161383337/3c484c65a2d021a349aa.jpg" group-title="RADiO",Радио Воскресение
 https://stream-msk-06.ott.tricolor.tv/dtv/id780_MSKSG-PVR-1--Voskreseniye/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
 
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://sibexpo.ru/upload/iblock/dc7/лого МсМ Улан-Удэ.jpg" group-title="Радио",Радио МСМ
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://sibexpo.ru/upload/iblock/dc7/лого МсМ Улан-Удэ.jpg" group-title="RADiO",Радио МСМ
 http://tv.streams.baikal-telecom.net/MCM/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://sun1-27.userapi.com/K00RzIbIRMgpmKk5gMyIlZ_XuwhfIeOk_ID50g/WKEk93tgVTQ.jpg" group-title="Радио",Радио Град Петров
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://sun1-27.userapi.com/K00RzIbIRMgpmKk5gMyIlZ_XuwhfIeOk_ID50g/WKEk93tgVTQ.jpg" group-title="RADiO",Радио Град Петров
 https://stream-msk-17.ott.tricolor.tv/dtv/id963_MSKSG-PVR-1--Grad_Petrov/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://semey.city/assets/templates/uikit/radio/images/novoe-msk-180.jpg" group-title="Радио",Новое Радио
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://semey.city/assets/templates/uikit/radio/images/novoe-msk-180.jpg" group-title="RADiO",Новое Радио
 https://stream-msk-17.ott.tricolor.tv/dtv/id957_MSKSG-PVR-1--novoye_radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://grodno24.com/assets/thumbs/images/2018/9/centr-fm.jpg" group-title="Радио",Радио Центр FM
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://grodno24.com/assets/thumbs/images/2018/9/centr-fm.jpg" group-title="RADiO",Радио Центр FM
 https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" group-title="Радио",EHR FM Русские Хиты
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" group-title="RADiO",EHR FM Русские Хиты
 http://stream.ehrhiti.lv:8000/khr.mp3
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" group-title="Радио",EHR FM Русские Хиты 2000-х
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" group-title="RADiO",EHR FM Русские Хиты 2000-х
 http://stream.ehrhiti.lv:8000/Stream_66.mp3
-
 
