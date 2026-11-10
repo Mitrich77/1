@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+#EXTM3U
 
 
 #EXTINF:-1 tvg-id="soloviev live" tvg-logo="https://i128.fastpic.org/big/2026/0805/da/2b6d28883e7abde27e869b62e6b8a1da.png" group-title="РАДИО" tvg-name="Соловьёв Live",Соловьев ФМ
@@ -55,54 +55,72 @@ https://pub0101.101.ru/stream/pro/aac/64/74
 
 
 
-#EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Релакс-Лаунж
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Релакс-Лаунж
 https://pub0102.101.ru:8443/stream/trust/mp3/128/791
-#EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для медитации
+
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для медитации
 https://pub0102.101.ru:8443/stream/trust/mp3/128/461
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для автомобиля
+
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для автомобиля
 https://pub0102.101.ru:8443/stream/trust/mp3/128/475
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для малышей
+
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для малышей
 https://pub0102.101.ru:8443/stream/trust/mp3/128/462
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для вдохновения
+
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для вдохновения
 https://pub0102.101.ru:8443/stream/trust/mp3/128/471
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Легкое пробуждение
+
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Легкое пробуждение
 https://pub0102.101.ru:8443/stream/trust/mp3/128/468
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Релакс-Каверы
+
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Релакс-Каверы
 https://pub0102.101.ru:8443/stream/trust/mp3/128/788
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для вечера
+
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для вечера
 https://pub0102.101.ru:8443/stream/trust/mp3/128/470
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для прогулок
+
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для прогулок
 https://pub0102.101.ru:8443/stream/trust/mp3/128/266
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для офиса
+
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для офиса
 https://pub0102.101.ru:8443/stream/trust/mp3/128/267
-#EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для дома
+
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для дома
 https://pub0102.101.ru:8443/stream/trust/mp3/128/264
-#EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Наедине с природой
+
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Наедине с природой
 https://pub0102.101.ru:8443/stream/trust/mp3/128/263
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для выходного дня
+
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для выходного дня
 https://pub0102.101.ru:8443/stream/trust/mp3/128/265
 
 
 
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Классическая Музыка
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Классическая Музыка
 https://pub0101.101.ru/stream/pro/aac/64/98
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Neo Classical
+
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Neo Classical
 https://pub0101.101.ru/stream/pro/aac/64/275
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Pop Classical Music
+
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Pop Classical Music
 https://pub0101.101.ru/stream/pro/aac/64/97
 
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Romantika. Piano Covers
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Romantika. Piano Covers
 https://pub0101.101.ru/stream/pro/aac/64/375
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Romantika. Love Songs
+
+#EXTINF:-1  vg-id="no_epg_radio" group-title="РАДИО",Romantika. Love Songs
 https://pub0101.101.ru/stream/pro/aac/64/29
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Romantika. Акустика
+
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Romantika. Акустика
 https://pub0101.101.ru/stream/pro/aac/64/164
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Romantika. Easy Listening
+
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Romantika. Easy Listening
 https://pub0101.101.ru/stream/pro/aac/64/26
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Romantika. Прикосновение
+
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Romantika. Прикосновение
 https://pub0102.101.ru:8443/stream/trust/mp3/128/196
 
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Русские Народные
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Русские Народные
 https://pub0101.101.ru/stream/pro/aac/64/40
 
 
@@ -111,13 +129,13 @@ https://pub0101.101.ru/stream/pro/aac/64/40
 
 
 
-#EXTINF:-1  tvg-id="silverrain" group-title="РАДИО",Серебрянный Дождь
+#EXTINF:-1 tvg-id="silverrain" group-title="РАДИО",Серебрянный Дождь
 https://silverrain.hostingradio.ru/silver64.aac
 
 
 
 
-#EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Радио HDR LOUNGE
+#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Радио HDR LOUNGE
 http://harddanceradio.ddns.is74.ru:8000/lounge
 
 
@@ -158,12 +176,3 @@ http://stream.ehrhiti.lv:8000/khr.mp3
 http://stream.ehrhiti.lv:8000/Stream_66.mp3
 
 
-
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. 
-https://pub0102.101.ru:8443/stream/trust/mp3/128/
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. 
-https://pub0102.101.ru:8443/stream/trust/mp3/128/
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. 
-https://pub0102.101.ru:8443/stream/trust/mp3/128/
-EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. 
-https://pub0102.101.ru:8443/stream/trust/mp3/128/
