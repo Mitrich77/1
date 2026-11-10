@@ -49,15 +49,73 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v6a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="ЗВЕЗДА ПЛЮС" group-title="РАДИО",ЗВЕЗДА ПЛЮС
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v3a1/mono.ts.m3u8
 
+#EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Дискотека 90-х (101.RU)
+https://pub0101.101.ru/stream/pro/aac/64/74
+
+
+
+
+#EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Релакс-Лаунж
+https://pub0102.101.ru:8443/stream/trust/mp3/128/791
+#EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для медитации
+https://pub0102.101.ru:8443/stream/trust/mp3/128/461
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для автомобиля
+https://pub0102.101.ru:8443/stream/trust/mp3/128/475
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для малышей
+https://pub0102.101.ru:8443/stream/trust/mp3/128/462
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для вдохновения
+https://pub0102.101.ru:8443/stream/trust/mp3/128/471
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Легкое пробуждение
+https://pub0102.101.ru:8443/stream/trust/mp3/128/468
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Релакс-Каверы
+https://pub0102.101.ru:8443/stream/trust/mp3/128/788
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для вечера
+https://pub0102.101.ru:8443/stream/trust/mp3/128/470
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для прогулок
+https://pub0102.101.ru:8443/stream/trust/mp3/128/266
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для офиса
+https://pub0102.101.ru:8443/stream/trust/mp3/128/267
+#EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для дома
+https://pub0102.101.ru:8443/stream/trust/mp3/128/264
+#EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Наедине с природой
+https://pub0102.101.ru:8443/stream/trust/mp3/128/263
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Музыка для выходного дня
+https://pub0102.101.ru:8443/stream/trust/mp3/128/265
+
+
+
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Классическая Музыка
+https://pub0101.101.ru/stream/pro/aac/64/98
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Neo Classical
+https://pub0101.101.ru/stream/pro/aac/64/275
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Pop Classical Music
+https://pub0101.101.ru/stream/pro/aac/64/97
+
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Romantika. Piano Covers
+https://pub0101.101.ru/stream/pro/aac/64/375
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Romantika. Love Songs
+https://pub0101.101.ru/stream/pro/aac/64/29
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Romantika. Акустика
+https://pub0101.101.ru/stream/pro/aac/64/164
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Romantika. Easy Listening
+https://pub0101.101.ru/stream/pro/aac/64/26
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Romantika. Прикосновение
+https://pub0102.101.ru:8443/stream/trust/mp3/128/196
+
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Русские Народные
+https://pub0101.101.ru/stream/pro/aac/64/40
+
+
+
+
+
+
 
 #EXTINF:-1  tvg-id="silverrain" group-title="РАДИО",Серебрянный Дождь
 https://silverrain.hostingradio.ru/silver64.aac
 
-#EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. Наедине с природой
-https://pub0102.101.ru:8443/stream/trust/mp3/128/263
 
-#EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Радио Romantika. Piano Covers
-https://pub0101.101.ru/stream/pro/aac/64/375 
+
 
 #EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Радио HDR LOUNGE
 http://harddanceradio.ddns.is74.ru:8000/lounge
@@ -98,13 +156,14 @@ https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
 http://stream.ehrhiti.lv:8000/khr.mp3
 #EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" group-title="Радио",EHR FM Русские Хиты 2000-х
 http://stream.ehrhiti.lv:8000/Stream_66.mp3
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://sun1-27.userapi.com/K00RzIbIRMgpmKk5gMyIlZ_XuwhfIeOk_ID50g/WKEk93tgVTQ.jpg" group-title="Радио",Радио Град Петров
-https://stream-msk-17.ott.tricolor.tv/dtv/id963_MSKSG-PVR-1--Grad_Petrov/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://semey.city/assets/templates/uikit/radio/images/novoe-msk-180.jpg" group-title="Радио",Новое Радио
-https://stream-msk-17.ott.tricolor.tv/dtv/id957_MSKSG-PVR-1--novoye_radio/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://grodno24.com/assets/thumbs/images/2018/9/centr-fm.jpg" group-title="Радио",Радио Центр FM
-https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" group-title="Радио",EHR FM Русские Хиты
-http://stream.ehrhiti.lv:8000/khr.mp3
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" group-title="Радио",EHR FM Русские Хиты 2000-х
-http://stream.ehrhiti.lv:8000/Stream_66.mp3
+
+
+
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. 
+https://pub0102.101.ru:8443/stream/trust/mp3/128/
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. 
+https://pub0102.101.ru:8443/stream/trust/mp3/128/
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. 
+https://pub0102.101.ru:8443/stream/trust/mp3/128/
+EXTINF:-1  tvg-id="no_epg_radio" group-title="РАДИО",Relax FM. 
+https://pub0102.101.ru:8443/stream/trust/mp3/128/
