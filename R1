@@ -159,3 +159,223 @@ http://stream.ehrhiti.lv:8000/khr.mp3
 #EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" group-title="RADiO",EHR FM Русские Хиты 2000-х
 http://stream.ehrhiti.lv:8000/Stream_66.mp3
 
+#EXTINF:-1,Серебряный дождь Москва 100,1 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/silver_rain.jpg
+http://s0.radioheart.ru:8000/ird
+#EXTINF:-1,Серебряный дождь Москва 100,1 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/silver_rain.jpg
+http://s0.radioheart.ru:8000/live1001
+
+
+#EXTINF:-1,На семи холмах Уфа (Республика Башкортостан) 92,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/radio7.jpg
+http://hls-01-regions.emgsound.ru/13_ufa/playlist.m3u8
+#EXTINF:-1,На семи холмах Уфа (Республика Башкортостан) 92,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/radio7.jpg
+http://emgregion.hostingradio.ru:8064/ufa.radio7.mp3
+#EXTINF:-1,Love-радио Уфа (Республика Башкортостан) 105,0 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/love.jpg
+http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_28_reg_61933
+#EXTINF:-1,Love-радио Уфа (Республика Башкортостан) 105,0 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/love.jpg
+http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_64_reg_61933
+#EXTINF:-1,Love-радио Уфа (Республика Башкортостан) 105,0 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/love.jpg
+http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_61933
+#EXTINF:-1,На семи холмах Уфа (Республика Башкортостан) 92,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/radio7.jpg
+http://hls-01-regions.emgsound.ru/13_ufa/playlist.m3u8
+#EXTINF:-1,На семи холмах Уфа (Республика Башкортостан) 92,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/radio7.jpg
+http://emgregion.hostingradio.ru:8064/ufa.radio7.mp3
+#EXTINF:-1,Релакс-FM Уфа (Республика Башкортостан) 92,0 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/relax.jpg
+http://pub0101.101.ru:8000/stream/reg/mp3/128/region_relax_86
+#EXTINF:-1,Роксана Уфа (Республика Башкортостан) 103,0 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/roxana.jpg
+http://listen1.myradio24.com:9000/2761
+#EXTINF:-1,№1 Уфа (Республика Башкортостан) 101,6 FM
+#EXTALBUMARTURL:https://top-radio.ru/assets/image/radio/180/radio1-ufa.jpg
+http://46.191.234.120:55000/live
+#EXTINF:-1,№1 Уфа (Республика Башкортостан) 101,6 FM
+#EXTALBUMARTURL:https://top-radio.ru/assets/image/radio/180/radio1-ufa.jpg
+http://c2.radioboss.fm:8787/stream
+#EXTINF:-1,№1 Уфа (Республика Башкортостан) 101,6 FM
+#EXTALBUMARTURL:https://top-radio.ru/assets/image/radio/180/radio1-ufa.jpg
+http://drh-connect.dline-media.com/Radio1
+#EXTINF:-1,Детское радио Уфа (Республика Башкортостан) 90,6 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/detskoe.jpg
+http://hitster.hostingradio.ru:8010/detifmufa128.mp3
+#EXTINF:-1,Маяк Уфа (Республика Башкортостан) 100,6 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/mayak.jpg
+https://s3.gtrkrb.ru/mayak
+#EXTINF:-1,Маяк Уфа (Республика Башкортостан) 100,6 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/mayak.jpg
+http://109.233.169.132:8000/mayak
+#EXTINF:-1,Бизнес-FM Уфа (Республика Башкортостан) 107,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/bfm.jpg
+http://92.50.139.190:8000/;
+#EXTINF:-1,Русское радио Уфа (Республика Башкортостан) 104,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/rusradio.jpg
+http://92.50.177.134:8000/rr_ufa
+#EXTINF:-1,DFM Уфа (Республика Башкортостан) 91,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/dfm_2025.jpg
+http://92.50.177.134:8000/dfm_ufa
+#EXTINF:-1,Energy-FM Уфа (Республика Башкортостан) 98,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/energy2.jpg
+http://hitster.hostingradio.ru:8010/nrjufa128.mp3
+#EXTINF:-1,Energy-FM Уфа (Республика Башкортостан) 98,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/energy2.jpg
+http://pub0101.101.ru:8000/stream/reg/mp3/128/region_energy_7
+#EXTINF:-1,Comedy радио Уфа (Республика Башкортостан) 103,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/comedy.jpg
+http://pub0101.101.ru:8000/stream/reg/mp3/128/region_comedy_8
+#EXTINF:-1,Comedy радио Уфа (Республика Башкортостан) 103,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/comedy.jpg
+http://hitster.hostingradio.ru:8010/comedyufa192.mp3
+#EXTINF:-1,Новое радио Уфа (Республика Башкортостан) 101,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/newradio.jpg
+http://hls-01-regions.emgsound.ru/29_ufa/playlist.m3u8
+#EXTINF:-1,Новое радио Уфа (Республика Башкортостан) 101,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/newradio.jpg
+http://hitster.hostingradio.ru:8006/novoeradioufa128.mp3
+#EXTINF:-1,Новое радио Уфа (Республика Башкортостан) 101,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/newradio.jpg
+http://emgregion.hostingradio.ru:8064/ufa.novoe.mp3
+#EXTINF:-1,Европа плюс Уфа (Республика Башкортостан) 106,0 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/europa_plus.jpg
+http://hls-01-regions.emgsound.ru/11_ufa/playlist.m3u8
+#EXTINF:-1,Европа плюс Уфа (Республика Башкортостан) 106,0 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/europa_plus.jpg
+http://emgregion.hostingradio.ru:8064/ufa.europaplus.mp3
+#EXTINF:-1,Дорожное радио Уфа (Республика Башкортостан) 107,9 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/dorognoe.jpg
+http://hls-01-regions.emgsound.ru/15_ufa/playlist.m3u8
+#EXTINF:-1,Дорожное радио Уфа (Республика Башкортостан) 107,9 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/dorognoe.jpg
+http://emgregion.hostingradio.ru:8064/ufa.dorognoe.mp3
+#EXTINF:-1,Авторадио Уфа (Республика Башкортостан) 106,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/avtoradio.jpg
+http://pub0101.101.ru:8000/stream/reg/mp3/128/region_avto_200
+#EXTINF:-1,Авторадио Уфа (Республика Башкортостан) 106,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/avtoradio.jpg
+http://92.50.177.134:8000/ar_02_01
+#EXTINF:-1,России Уфа (Республика Башкортостан) 89,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/radio_rossii.jpg
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/radio_russia/index.m3u8
+#EXTINF:-1,России Уфа (Республика Башкортостан) 89,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/radio_rossii.jpg
+http://stream.pcradio.ru:8000/gtrk_bashkor-hi
+#EXTINF:-1,России Уфа (Республика Башкортостан) 89,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/radio_rossii.jpg
+https://s3.gtrkrb.ru/rrb
+#EXTINF:-1,России Уфа (Республика Башкортостан) 89,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/radio_rossii.jpg
+http://109.233.169.132:8000/radio_rrb
+#EXTINF:-1,Вести-FM Уфа (Республика Башкортостан) 102,1 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/vestifm.jpg
+http://109.233.169.132:8000/radio_vfm
+#EXTINF:-1,Вести-FM Уфа (Республика Башкортостан) 102,1 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/vestifm.jpg
+https://s3.gtrkrb.ru/vfm
+#EXTINF:-1,Искатель Уфа (Республика Башкортостан) 89,0 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/iskatel.jpg
+http://hitster.hostingradio.ru:8010/iskatelufa96.aacp
+
+
+
+
+
+
+
+#EXTINF:-1,Спутник Москва 91,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/sputnik.jpg
+http://orig.video.ria.ru:8000/voicemsk1
+#EXTINF:-1,Спутник Санкт-Петербург 91,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/sputnik.jpg
+http://orig.video.ria.ru:8000/voicespbstudio
+#EXTINF:-1,Спутник Санкт-Петербург 91,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/sputnik.jpg
+http://orig.video.ria.ru:8000/voicespb
+#EXTINF:-1,Спутник Москва 91,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/sputnik.jpg
+http://orig.video.ria.ru:8000/voicemsk1
+#EXTINF:-1,Спутник Санкт-Петербург 91,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/sputnik.jpg
+http://orig.video.ria.ru:8000/voicespbstudio
+#EXTINF:-1,Спутник Санкт-Петербург 91,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/sputnik.jpg
+http://orig.video.ria.ru:8000/voicespb
+
+#EXTINF:-1,Детское радио Уфа (Республика Башкортостан) 90,6 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/detskoe.jpg
+https://radiostream.viufa.ru/detskoe
+#EXTINF:-1,Релакс-FM Уфа (Республика Башкортостан) 92,0 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/relax.jpg
+https://radiostream.viufa.ru/relax
+#EXTINF:-1,Комсомольская правда Уфа (Республика Башкортостан) 98,3 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/kp.jpg
+https://radiostream.viufa.ru/radio-kp
+#EXTINF:-1,Comedy радио Уфа (Республика Башкортостан) 103,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/comedy.jpg
+https://radiostream.viufa.ru/comedy
+#EXTINF:-1,Гордость Уфа (Республика Башкортостан) 88,7 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/gordost.jpg
+https://radiostream.viufa.ru/gordost
+#EXTINF:-1,Искатель Уфа (Республика Башкортостан) 89,0 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/iskatel.jpg
+https://radiostream.viufa.ru/iskatel
+#EXTINF:-1,Монте-Карло Уфа (Республика Башкортостан) 102,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/montecarlo.jpg
+https://radiostream.viufa.ru/montecarlo
+#EXTINF:-1,Energy-FM Уфа (Республика Башкортостан) 88,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/energy2.jpg
+https://radiostream.viufa.ru/nrj
+#EXTINF:-1,Русское радио Уфа (Республика Башкортостан) 104,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/rusradio.jpg
+http://radiostream.viufa.ru/rusradio
+#EXTINF:-1,Ретро-FM Уфа (Республика Башкортостан) 104,0 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/retro.jpg
+http://213.5.108.110:8010/retroufa.mp3
+#EXTINF:-1,Европа плюс Уфа (Республика Башкортостан) 106,0 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/europa_plus.jpg
+http://213.5.108.110:8010/europa.mp3
+#EXTINF:-1,Love-радио Уфа (Республика Башкортостан) 105,0 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/love.jpg
+http://213.5.108.110:8010/dachaufa.mp3
+#EXTINF:-1,Авторадио Уфа (Республика Башкортостан) 106,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/avtoradio.jpg
+http://hls-01-gpm.hostingradio.ru/avtoradio347/128/playlist.m3u8
+#EXTINF:-1,Авторадио Уфа (Республика Башкортостан) 106,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/avtoradio.jpg
+http://hls-01-gpm.hostingradio.ru/avtoradio347/64/playlist.m3u8
+#EXTINF:-1,Авторадио Уфа (Республика Башкортостан) 106,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/avtoradio.jpg
+http://hls-01-gpm.hostingradio.ru/avtoradio347/32/playlist.m3u8
+#EXTINF:-1,Energy-FM Уфа (Республика Башкортостан) 98,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/energy2.jpg
+http://hls-01-gpm.hostingradio.ru/energyfm347/128/playlist.m3u8
+#EXTINF:-1,Energy-FM Уфа (Республика Башкортостан) 98,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/energy2.jpg
+http://hls-01-gpm.hostingradio.ru/energyfm347/64/playlist.m3u8
+#EXTINF:-1,Energy-FM Уфа (Республика Башкортостан) 98,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/energy2.jpg
+http://hls-01-gpm.hostingradio.ru/energyfm347/32/playlist.m3u8
+#EXTINF:-1,России Уфа (Республика Башкортостан) 89,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/radio_rossii.jpg
+http://stream.pcradio.ru:8000/gtrk_bashkor-low
+#EXTINF:-1,России Уфа (Республика Башкортостан) 89,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/radio_rossii.jpg
+http://stream.pcradio.ru:8000/gtrk_bashkor-med
+#EXTINF:-1,России Уфа (Республика Башкортостан) 89,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/radio_rossii.jpg
+http://109.233.169.132:8000/rrb
+#EXTINF:-1,Вести-FM Уфа (Республика Башкортостан) 102,1 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/vestifm.jpg
+http://109.233.169.132:8000/vfm
+#EXTINF:-1,Авторадио Уфа (Республика Башкортостан) 106,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/avtoradio.jpg
+http://srv12.gpmradio.ru:8000/stream/reg/mp3/128/region_avto_200
+
+
+
