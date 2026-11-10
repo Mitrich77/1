@@ -96,7 +96,7 @@ https://pub0102.101.ru:8443/stream/trust/mp3/128/265
 
 
 
-#EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Классическая Музыка
+#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://cdnec1.101.ru/proxy/vardata/modules/channel/image/a8a530894e5dfadb31b092ccd9a12903.png" group-title="РАДИО",Классическая Музыка
 https://pub0101.101.ru/stream/pro/aac/64/98
 
 #EXTINF:-1 tvg-id="no_epg_radio" group-title="РАДИО",Neo Classical
