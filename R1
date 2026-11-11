@@ -65,13 +65,13 @@ https://pub0101.101.ru/stream/pro/aac/64/328
 
 #EXTINF:-1 tvg-name="Relax FM. Релакс-Лаунж" tvg-logo="https://cdnec3.101.ru/proxy/vardata/modules/channel/image/ce59d7291aa43e9891830a86b2c9b672.png?w=300&h=300&pos=center&q=100&t=1775121417" group-title="RADiO",Relax FM. Релакс-Лаунж
 https://pub0102.101.ru:8443/stream/trust/mp3/128/791
-#EXTINF:-1 tvg-name="Relax FM. Музыка для медитации" tvg-logo="https://cdnec0.101.ru/proxy/vardata/modules/channel/image/f130211004c9af8f576b09df1c829157.png?w=300&h=300&pos=center&q=100&t=1763450375' group-title="RADiO",Relax FM. Музыка для медитации
+#EXTINF:-1 tvg-name="Relax FM. Музыка для медитации" tvg-logo="https://cdnec0.101.ru/proxy/vardata/modules/channel/image/f130211004c9af8f576b09df1c829157.png?w=300&h=300&pos=center&q=100&t=1763450375"group-title="RADiO",Relax FM. Музыка для медитации
 https://pub0102.101.ru:8443/stream/trust/mp3/128/461
 #EXTINF:-1 tvg-name="Relax FM. Музыка для автомобиля" tvg-logo="https://cdnec0.101.ru/proxy/vardata/modules/channel/image/35fd2bab8710d77c883d279034c03ea9.png?w=300&h=300&pos=center&q=100&t=1759509036" group-title="RADiO",Relax FM. Музыка для автомобиля
 https://pub0102.101.ru:8443/stream/trust/mp3/128/475
 #EXTINF:-1 tvg-name="Relax FM. Музыка для малышей" tvg-logo="https://cdnec0.101.ru/proxy/vardata/modules/channel/image/a0ad603764a50b9a4ab961be43b34629.png?w=300&h=300&pos=center&q=100&t=1759509308" group-title="RADiO",Relax FM. Музыка для малышей
 https://pub0102.101.ru:8443/stream/trust/mp3/128/462
-#EXTINF:-1 tvg-name="Relax FM. Музыка для вдохновения" tvg-logo="https://cdnec1.101.ru/proxy/vardata/modules/channel/image/4f52b3026a5fb909a2174a818c92afc4.png?w=300&h=300&pos=center&q=100&t=1759508775' group-title="RADiO",Relax FM. Музыка для вдохновения
+#EXTINF:-1 tvg-name="Relax FM. Музыка для вдохновения" tvg-logo="https://cdnec1.101.ru/proxy/vardata/modules/channel/image/4f52b3026a5fb909a2174a818c92afc4.png?w=300&h=300&pos=center&q=100&t=1759508775" group-title="RADiO",Relax FM. Музыка для вдохновения
 https://pub0102.101.ru:8443/stream/trust/mp3/128/471
 #EXTINF:-1 tvg-name="Relax FM. Легкое пробуждение" tvg-logo="https://cdnec0.101.ru/proxy/vardata/modules/channel/image/9ea466fe8779e84a044342cb98219a75.png?w=300&h=300&pos=center&q=100&t=1763450767" group-title="RADiO",Relax FM. Легкое пробуждение
 https://pub0102.101.ru:8443/stream/trust/mp3/128/468
@@ -169,119 +169,128 @@ http://s0.radioheart.ru:8000/ird
 http://s0.radioheart.ru:8000/live1001
 
 
-#EXTINF:-1,На семи холмах Уфа 92,5 FM
- tvg-logo="https://rosradio-online.ru/logos/radio7.jpg"
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/radio7.jpg",На семи холмах Уфа 92,5 FM
 http://hls-01-regions.emgsound.ru/13_ufa/playlist.m3u8
-#EXTINF:-1,На семи холмах Уфа 92,5 FM
- tvg-logo="https://rosradio-online.ru/logos/radio7.jpg"
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/radio7.jpg",На семи холмах Уфа 92,5 FM
 http://emgregion.hostingradio.ru:8064/ufa.radio7.mp3
-#EXTINF:-1,Love-радио Уфа 105,0 FM
- tvg-logo="https://rosradio-online.ru/logos/love.jpg"
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/radio7.jpg",На семи холмах Уфа 92,5 FM
+http://hls-01-regions.emgsound.ru/13_ufa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/radio7.jpg",На семи холмах Уфа 92,5 FM
+http://emgregion.hostingradio.ru:8064/ufa.radio7.mp3
+
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/love.jpg",Love-радио Уфа 105,0 FM
 http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_28_reg_61933
-#EXTINF:-1,Love-радио Уфа 105,0 FM
- tvg-logo="https://rosradio-online.ru/logos/love.jpg"
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/love.jpg",Love-радио Уфа 105,0 FM
 http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_64_reg_61933
-#EXTINF:-1,Love-радио Уфа 105,0 FM
- tvg-logo="https://rosradio-online.ru/logos/love.jpg"
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/love.jpg",Love-радио Уфа 105,0 FM
 http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_61933
-#EXTINF:-1,На семи холмах Уфа 92,5 FM
- tvg-logo="https://rosradio-online.ru/logos/radio7.jpg"
-http://hls-01-regions.emgsound.ru/13_ufa/playlist.m3u8
-#EXTINF:-1,На семи холмах Уфа 92,5 FM
- tvg-logo="https://rosradio-online.ru/logos/radio7.jpg"
-http://emgregion.hostingradio.ru:8064/ufa.radio7.mp3
-#EXTINF:-1,Релакс-FM Уфа 92,0 FM
- tvg-logo="https://rosradio-online.ru/logos/relax.jpg"
+
+
+
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/relax.jpg",Релакс-FM Уфа 92,0 FM
 http://pub0101.101.ru:8000/stream/reg/mp3/128/region_relax_86
-#EXTINF:-1,Роксана Уфа 103,0 FM
- tvg-logo="https://rosradio-online.ru/logos/roxana.jpg"
+
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/roxana.jpg"т,Роксана Уфа 103,0 FM
 http://listen1.myradio24.com:9000/2761
-#EXTINF:-1,№1 Уфа 101,6 FM
- tvg-logo="https://top-radio.ru/assets/image/radio/180/radio1-ufa.jpg"
+
+
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/radio1-ufa.jpg",№1 Уфа 101,6 FM
 http://46.191.234.120:55000/live
-#EXTINF:-1,№1 Уфа 101,6 FM
- tvg-logo="https://top-radio.ru/assets/image/radio/180/radio1-ufa.jpg"
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/radio1-ufa.jpg",№1 Уфа 101,6 FM
 http://c2.radioboss.fm:8787/stream
-#EXTINF:-1,№1 Уфа 101,6 FM
- tvg-logo="https://top-radio.ru/assets/image/radio/180/radio1-ufa.jpg"
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/radio1-ufa.jpg",№1 Уфа 101,6 FM
 http://drh-connect.dline-media.com/Radio1
-#EXTINF:-1,Детское радио Уфа 90,6 FM
- tvg-logo="https://rosradio-online.ru/logos/detskoe.jpg"
+
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/detskoe.jpg",Детское радио Уфа 90,6 FM
 http://hitster.hostingradio.ru:8010/detifmufa128.mp3
-#EXTINF:-1,Маяк Уфа 100,6 FM
- tvg-logo="https://rosradio-online.ru/logos/mayak.jpg"
+
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/mayak.jpg",Маяк Уфа 100,6 FM
 https://s3.gtrkrb.ru/mayak
-#EXTINF:-1,Маяк Уфа 100,6 FM
- tvg-logo="https://rosradio-online.ru/logos/mayak.jpg"
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/mayak.jpg",Маяк Уфа 100,6 FM
 http://109.233.169.132:8000/mayak
-#EXTINF:-1,Бизнес-FM Уфа 107,5 FM
- tvg-logo="https://rosradio-online.ru/logos/bfm.jpg"
+
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/bfm.jpg",Бизнес-FM Уфа 107,5 FM
 http://92.50.139.190:8000/;
-#EXTINF:-1,Русское радио Уфа 104,5 FM
- tvg-logo="https://rosradio-online.ru/logos/rusradio.jpg"
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/rusradio.jpg",Русское радио Уфа 104,5 FM
 http://92.50.177.134:8000/rr_ufa
-#EXTINF:-1,DFM Уфа 91,5 FM
- tvg-logo="https://rosradio-online.ru/logos/dfm_2025.jpg"
+
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/dfm_2025.jpg",DFM Уфа 91,5 FM
 http://92.50.177.134:8000/dfm_ufa
-#EXTINF:-1,Energy-FM Уфа 98,2 FM
- tvg-logo="https://rosradio-online.ru/logos/energy2.jpg"
+
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/energy2.jpg",Energy-FM Уфа 98,2 FM
 http://hitster.hostingradio.ru:8010/nrjufa128.mp3
-#EXTINF:-1,Energy-FM Уфа 98,2 FM
- tvg-logo="https://rosradio-online.ru/logos/energy2.jpg"
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/energy2.jpg",Energy-FM Уфа 98,2 FM
 http://pub0101.101.ru:8000/stream/reg/mp3/128/region_energy_7
-#EXTINF:-1,Comedy радио Уфа 103,5 FM
- tvg-logo="https://rosradio-online.ru/logos/comedy.jpg"
+
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/comedy.jpg",Comedy радио Уфа 103,5 FM
 http://pub0101.101.ru:8000/stream/reg/mp3/128/region_comedy_8
-#EXTINF:-1,Comedy радио Уфа 103,5 FM
- tvg-logo="https://rosradio-online.ru/logos/comedy.jpg"
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/comedy.jpg",Comedy радио Уфа 103,5 FM
 http://hitster.hostingradio.ru:8010/comedyufa192.mp3
-#EXTINF:-1,Новое радио Уфа 101,2 FM
- tvg-logo="https://rosradio-online.ru/logos/newradio.jpg"
+
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/newradio.jpg",Новое радио Уфа 101,2 FM
 http://hls-01-regions.emgsound.ru/29_ufa/playlist.m3u8
-#EXTINF:-1,Новое радио Уфа 101,2 FM
- tvg-logo="https://rosradio-online.ru/logos/newradio.jpg"
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/newradio.jpg",Новое радио Уфа 101,2 FM
 http://hitster.hostingradio.ru:8006/novoeradioufa128.mp3
-#EXTINF:-1,Новое радио Уфа 101,2 FM
- tvg-logo="https://rosradio-online.ru/logos/newradio.jpg"
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/newradio.jpg",Новое радио Уфа 101,2 FM
 http://emgregion.hostingradio.ru:8064/ufa.novoe.mp3
-#EXTINF:-1,Европа плюс Уфа 106,0 FM
- tvg-logo="https://rosradio-online.ru/logos/europa_plus.jpg"
+
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/europa_plus.jpg",Европа плюс Уфа 106,0 FM
 http://hls-01-regions.emgsound.ru/11_ufa/playlist.m3u8
-#EXTINF:-1,Европа плюс Уфа 106,0 FM
- tvg-logo="https://rosradio-online.ru/logos/europa_plus.jpg"
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/europa_plus.jpg",Европа плюс Уфа 106,0 FM
 http://emgregion.hostingradio.ru:8064/ufa.europaplus.mp3
-#EXTINF:-1,Дорожное радио Уфа 107,9 FM
- tvg-logo="https://rosradio-online.ru/logos/dorognoe.jpg"
+
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/dorognoe.jpg",Дорожное радио Уфа 107,9 FM
 http://hls-01-regions.emgsound.ru/15_ufa/playlist.m3u8
-#EXTINF:-1,Дорожное радио Уфа 107,9 FM
- tvg-logo="https://rosradio-online.ru/logos/dorognoe.jpg"
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/dorognoe.jpg",Дорожное радио Уфа 107,9 FM
 http://emgregion.hostingradio.ru:8064/ufa.dorognoe.mp3
-#EXTINF:-1,Авторадио Уфа 106,5 FM
- tvg-logo="https://rosradio-online.ru/logos/avtoradio.jpg"
+
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/avtoradio.jpg",Авторадио Уфа 106,5 FM
 http://pub0101.101.ru:8000/stream/reg/mp3/128/region_avto_200
-#EXTINF:-1,Авторадио Уфа 106,5 FM
- tvg-logo="https://rosradio-online.ru/logos/avtoradio.jpg"
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/avtoradio.jpg",Авторадио Уфа 106,5 FM
 http://92.50.177.134:8000/ar_02_01
-#EXTINF:-1,России Уфа 89,5 FM
- tvg-logo="https://rosradio-online.ru/logos/radio_rossii.jpg"
+
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/radio_rossii.jpg",России Уфа 89,5 FM
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/radio_russia/index.m3u8
-#EXTINF:-1,России Уфа 89,5 FM
- tvg-logo="https://rosradio-online.ru/logos/radio_rossii.jpg"
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/radio_rossii.jpg",России Уфа 89,5 FM
 http://stream.pcradio.ru:8000/gtrk_bashkor-hi
-#EXTINF:-1,России Уфа 89,5 FM
- tvg-logo="https://rosradio-online.ru/logos/radio_rossii.jpg"
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/radio_rossii.jpg",России Уфа 89,5 FM
 https://s3.gtrkrb.ru/rrb
-#EXTINF:-1,России Уфа 89,5 FM
- tvg-logo="https://rosradio-online.ru/logos/radio_rossii.jpg"
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/radio_rossii.jpg",России Уфа 89,5 FM
 http://109.233.169.132:8000/radio_rrb
-#EXTINF:-1,Вести-FM Уфа 102,1 FM
- tvg-logo="https://rosradio-online.ru/logos/vestifm.jpg"
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/radio_rossii.jpg",России Уфа 89,5 FM
+http://stream.pcradio.ru:8000/gtrk_bashkor-low
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/radio_rossii.jpg",России Уфа 89,5 FM
+http://stream.pcradio.ru:8000/gtrk_bashkor-med
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/radio_rossii.jpg",России Уфа 89,5 FM
+http://109.233.169.132:8000/rrb
+
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/vestifm.jpg",Вести-FM Уфа 102,1 FM
 http://109.233.169.132:8000/radio_vfm
-#EXTINF:-1,Вести-FM Уфа 102,1 FM
- tvg-logo="https://rosradio-online.ru/logos/vestifm.jpg"
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/vestifm.jpg",Вести-FM Уфа 102,1 FM
 https://s3.gtrkrb.ru/vfm
-#EXTINF:-1,Искатель Уфа 89,0 FM
- tvg-logo="https://rosradio-online.ru/logos/iskatel.jpg"
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/vestifm.jpg",Вести-FM Уфа 102,1 FM
+http://109.233.169.132:8000/vfm
+
+
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/iskatel.jpg",Искатель Уфа 89,0 FM
 http://hitster.hostingradio.ru:8010/iskatelufa96.aacp
 
 
@@ -302,52 +311,74 @@ http://orig.video.ria.ru:8000/voicemsk1
 http://orig.video.ria.ru:8000/voicespbstudio
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/sputnik.jpg",Спутник Санкт-Петербург 91,5 FM
 http://orig.video.ria.ru:8000/voicespb
+
+
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/detskoe.jpg",Детское радио Уфа 90,6 FM
 https://radiostream.viufa.ru/detskoe
+
+
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/relax.jpg",Релакс-FM Уфа 92,0 FM
 https://radiostream.viufa.ru/relax
+
+
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/kp.jpg",Комсомольская правда Уфа 98,3 FM
 https://radiostream.viufa.ru/radio-kp
+
+
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/comedy.jpg",Comedy радио Уфа 103,5 FM
 https://radiostream.viufa.ru/comedy
+
+
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/gordost.jpg",Гордость Уфа 88,7 FM
 https://radiostream.viufa.ru/gordost
+
+
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/iskatel.jpg",Искатель Уфа 89,0 FM
 https://radiostream.viufa.ru/iskatel
+
+
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/montecarlo.jpg",Монте-Карло Уфа 102,5 FM
 https://radiostream.viufa.ru/montecarlo
+
+
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/energy2.jpg",Energy-FM Уфа 88,2 FM
 https://radiostream.viufa.ru/nrj
+
+
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/rusradio.jpg",Русское радио Уфа 104,5 FM
 http://radiostream.viufa.ru/rusradio
+
+
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/retro.jpg",Ретро-FM Уфа 104,0 FM
 http://213.5.108.110:8010/retroufa.mp3
+
+
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/europa_plus.jpg",Европа плюс Уфа 106,0 FM
 http://213.5.108.110:8010/europa.mp3
+
+
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/love.jpg",Love-радио Уфа 105,0 FM
 http://213.5.108.110:8010/dachaufa.mp3
+
+
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/avtoradio.jpg",Авторадио Уфа 106,5 FM
 http://hls-01-gpm.hostingradio.ru/avtoradio347/128/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/avtoradio.jpg",Авторадио Уфа 106,5 FM
 http://hls-01-gpm.hostingradio.ru/avtoradio347/64/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/avtoradio.jpg",Авторадио Уфа 106,5 FM
 http://hls-01-gpm.hostingradio.ru/avtoradio347/32/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/avtoradio.jpg",Авторадио Уфа 106,5 FM
+http://srv12.gpmradio.ru:8000/stream/reg/mp3/128/region_avto_200
+
+
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/energy2.jpg",Energy-FM Уфа 98,2 FM
 http://hls-01-gpm.hostingradio.ru/energyfm347/128/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/energy2.jpg",Energy-FM Уфа 98,2 FM
 http://hls-01-gpm.hostingradio.ru/energyfm347/64/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/energy2.jpg",Energy-FM Уфа 98,2 FM
 http://hls-01-gpm.hostingradio.ru/energyfm347/32/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/radio_rossii.jpg",России Уфа 89,5 FM
-http://stream.pcradio.ru:8000/gtrk_bashkor-low
-#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/radio_rossii.jpg",России Уфа 89,5 FM
-http://stream.pcradio.ru:8000/gtrk_bashkor-med
-#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/radio_rossii.jpg",России Уфа 89,5 FM
-http://109.233.169.132:8000/rrb
-#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/vestifm.jpg",Вести-FM Уфа 102,1 FM
-http://109.233.169.132:8000/vfm
-#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/avtoradio.jpg",Авторадио Уфа 106,5 FM
-http://srv12.gpmradio.ru:8000/stream/reg/mp3/128/region_avto_200
+
+
 
 
 
