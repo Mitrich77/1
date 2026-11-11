@@ -63,6 +63,12 @@ https://pub0101.101.ru/stream/pro/aac/64/1
 #EXTINF:-1 tvg-name="Музыка для сна" tvg-logo="https://cdnec1.101.ru/proxy/vardata/modules/channel/image/7ccdc53c452a0ec534098e0269f2c837.jpg?w=300&h=300&pos=center&q=100&t=1670939003" group-title="RADiO",Музыка для сна
 https://pub0101.101.ru/stream/pro/aac/64/328
 
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/relax.jpg",Релакс-FM Уфа 92,0 FM
+https://radiostream.viufa.ru/relax
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/relax.jpg",Релакс-FM Уфа 92,0 FM
+http://pub0101.101.ru:8000/stream/reg/mp3/128/region_relax_86
+
 #EXTINF:-1 tvg-name="Relax FM. Релакс-Лаунж" tvg-logo="https://cdnec3.101.ru/proxy/vardata/modules/channel/image/ce59d7291aa43e9891830a86b2c9b672.png?w=300&h=300&pos=center&q=100&t=1775121417" group-title="RADiO",Relax FM. Релакс-Лаунж
 https://pub0102.101.ru:8443/stream/trust/mp3/128/791
 #EXTINF:-1 tvg-name="Relax FM. Музыка для медитации" tvg-logo="https://cdnec0.101.ru/proxy/vardata/modules/channel/image/f130211004c9af8f576b09df1c829157.png?w=300&h=300&pos=center&q=100&t=1763450375"group-title="RADiO",Relax FM. Музыка для медитации
@@ -183,6 +189,10 @@ https://s3.gtrkrb.ru/mayak
 http://109.233.169.132:8000/mayak
 
 
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/kp.jpg",Комсомольская правда Уфа 98,3 FM
+https://radiostream.viufa.ru/radio-kp
+
+
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/bfm.jpg",Бизнес-FM Уфа 107,5 FM
 http://92.50.139.190:8000/;
 
@@ -201,6 +211,17 @@ http://stream.pcradio.ru:8000/gtrk_bashkor-low
 http://stream.pcradio.ru:8000/gtrk_bashkor-med
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/radio_rossii.jpg",России Уфа 89,5 FM
 http://109.233.169.132:8000/rrb
+
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/iskatel.jpg",Искатель Уфа 89,0 FM
+http://hitster.hostingradio.ru:8010/iskatelufa96.aacp
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/iskatel.jpg",Искатель Уфа 89,0 FM
+https://radiostream.viufa.ru/iskatel
+
+
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/montecarlo.jpg",Монте-Карло Уфа 102,5 FM
+https://radiostream.viufa.ru/montecarlo
+
 
 
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/silver_rain.jpg",Серебряный дождь Москва 100,1 FM
@@ -224,13 +245,7 @@ http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_64_reg_61933
 http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_love_128_reg_61933
 
 
-
-
-#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/relax.jpg",Релакс-FM Уфа 92,0 FM
-http://pub0101.101.ru:8000/stream/reg/mp3/128/region_relax_86
-
-
-#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/roxana.jpg"т,Роксана Уфа 103,0 FM
+#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/roxana.jpg",Роксана Уфа 103,0 FM
 http://listen1.myradio24.com:9000/2761
 
 
@@ -317,26 +332,8 @@ http://hls-01-gpm.hostingradio.ru/avtoradio347/32/playlist.m3u8
 http://srv12.gpmradio.ru:8000/stream/reg/mp3/128/region_avto_200
 
 
-#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/iskatel.jpg",Искатель Уфа 89,0 FM
-http://hitster.hostingradio.ru:8010/iskatelufa96.aacp
-#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/iskatel.jpg",Искатель Уфа 89,0 FM
-https://radiostream.viufa.ru/iskatel
-
-
-#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/relax.jpg",Релакс-FM Уфа 92,0 FM
-https://radiostream.viufa.ru/relax
-
-
-#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/kp.jpg",Комсомольская правда Уфа 98,3 FM
-https://radiostream.viufa.ru/radio-kp
-
-
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/gordost.jpg",Гордость Уфа 88,7 FM
 https://radiostream.viufa.ru/gordost
-
-
-#EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/montecarlo.jpg",Монте-Карло Уфа 102,5 FM
-https://radiostream.viufa.ru/montecarlo
 
 
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/retro.jpg",Ретро-FM Уфа 104,0 FM
@@ -345,6 +342,8 @@ http://213.5.108.110:8010/retroufa.mp3
 
 #EXTINF:-1 tvg-logo="https://rosradio-online.ru/logos/love.jpg",Love-радио Уфа 105,0 FM
 http://213.5.108.110:8010/dachaufa.mp3
+
+
 
 
 
