@@ -456,12 +456,138 @@ http://media-ice.radiodns.ru/hls/relax_hifi/index.m3u8
 #EXTALBUMARTURL:https://rosradio-online.ru/logos/relax.jpg
 http://hls-01-gpm.hostingradio.ru/relaxfm342/128/playlist.m3u8
 
+#EXTINF:-1,Energy-FM Москва 104,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/energy2.jpg
+http://pub0101.101.ru:8000/stream/reg/aac/64/region_energy_417
+
+#EXTINF:-1,Авторадио Москва 90,3 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/avtoradio.jpg
+http://hls-01-gpm.hostingradio.ru/avtoradio495/128/playlist.m3u8
+#EXTINF:-1,Авторадио Москва 90,3 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/avtoradio.jpg
+http://hls-01-gpm.hostingradio.ru/avtoradio495/64/playlist.m3u8
+#EXTINF:-1,Авторадио Москва 90,3 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/avtoradio.jpg
+http://hls-01-gpm.hostingradio.ru/avtoradio495/32/playlist.m3u8
+
+#EXTINF:-1,Рекорд Москва 89,9 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/record.jpg
+http://hls-01-radiorecord.hostingradio.ru/record-msk/playlist.m3u8
+
+#EXTINF:-1,РБК Москва 92,8 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/rbc.jpg
+http://reg.fmplay.ru:8000/rbc-48.aac
+#EXTINF:-1,РБК Москва 92,8 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/rbc.jpg
+http://reg.fmplay.ru:8000/rbc-16.aac
+#EXTINF:-1,РБК Москва 92,8 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/rbc.jpg
+http://hls-01-rbc.hostingradio.ru/rbc/playlist.m3u8
+
+#EXTINF:-1,Жара-FM Москва 100,5 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/zhara.jpg
+http://hls-01-zharafm.hostingradio.ru/zharafm/playlist.m3u8
+
+#EXTINF:-1,Rock-FM Москва 95,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/rock.jpg
+http://nashe1.hostingradio.ru/rock-256
+
+#EXTINF:-1,Дача Москва 92,4 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/dacha.jpg
+http://microit.n340.com:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_1093
+
+#EXTINF:-1,Авторадио Москва 90,3 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/avtoradio.jpg
+http://media-ice.radiodns.ru/hls/avto_hifi/index.m3u8
 
 
+#EXTINF:-1,Детское радио Москва 96,8 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/detskoe.jpg
+http://media-ice.radiodns.ru/deti.m3u8
+#EXTINF:-1,Детское радио Москва 96,8 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/detskoe.jpg
+http://media-ice.radiodns.ru/hls/deti_lofi/index.m3u8
+#EXTINF:-1,Детское радио Москва 96,8 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/detskoe.jpg
+http://media-ice.radiodns.ru/hls/deti_midlofi/index.m3u8
+#EXTINF:-1,Детское радио Москва 96,8 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/detskoe.jpg
+http://media-ice.radiodns.ru/hls/deti_midhifi/index.m3u8
+#EXTINF:-1,Детское радио Москва 96,8 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/detskoe.jpg
+http://media-ice.radiodns.ru/hls/deti_hifi/index.m3u8
+
+#EXTINF:-1,Романтика Москва 98,8 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/romantica.jpg
+http://media-ice.radiodns.ru/romantika.m3u8
+#EXTINF:-1,Романтика Москва 98,8 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/romantica.jpg
+http://media-ice.radiodns.ru/hls/romantika_lofi/index.m3u8
+#EXTINF:-1,Романтика Москва 98,8 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/romantica.jpg
+http://media-ice.radiodns.ru/hls/romantika_midlofi/index.m3u8
+#EXTINF:-1,Романтика Москва 98,8 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/romantica.jpg
+http://media-ice.radiodns.ru/hls/romantika_midhifi/index.m3u8
+#EXTINF:-1,Романтика Москва 98,8 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/romantica.jpg
+http://media-ice.radiodns.ru/hls/romantika_hifi/index.m3u8
 
 
+#EXTINF:-1,Energy-FM Москва 104,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/energy2.jpg
+http://pub0101.101.ru:8000/stream/reg/aac/64/region_energy_417
+#EXTINF:-1,Energy-FM Москва 104,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/energy2.jpg
+http://media-ice.radiodns.ru/energy.m3u8
+#EXTINF:-1,Energy-FM Москва 104,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/energy2.jpg
+http://media-ice.radiodns.ru/hls/energy_lofi/index.m3u8
+#EXTINF:-1,Energy-FM Москва 104,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/energy2.jpg
+http://media-ice.radiodns.ru/hls/energy_midlofi/index.m3u8
+#EXTINF:-1,Energy-FM Москва 104,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/energy2.jpg
+http://media-ice.radiodns.ru/hls/energy_midhifi/index.m3u8
+#EXTINF:-1,Energy-FM Москва 104,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/energy2.jpg
+http://media-ice.radiodns.ru/hls/energy_hifi/index.m3u8
 
+#EXTINF:-1,Юмор-FM Москва 88,7 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/humor.jpg
+http://media-ice.radiodns.ru/humour.m3u8
+#EXTINF:-1,Юмор-FM Москва 88,7 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/humor.jpg
+http://media-ice.radiodns.ru/hls/humour_lofi/index.m3u8
+#EXTINF:-1,Юмор-FM Москва 88,7 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/humor.jpg
+http://media-ice.radiodns.ru/hls/humour_midlofi/index.m3u8
+#EXTINF:-1,Юмор-FM Москва 88,7 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/humor.jpg
+http://media-ice.radiodns.ru/hls/humour_midhifi/index.m3u8
+#EXTINF:-1,Юмор-FM Москва 88,7 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/humor.jpg
+http://media-ice.radiodns.ru/hls/humour_hifi/index.m3u8
 
+#EXTINF:-1,Новое радио Москва 98,4 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/newradio.jpg
+http://hls.newradio.ru/novoeradio-msk/playlist.m3u8
+
+#EXTINF:-1,На семи холмах Москва 104,7 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/radio7.jpg
+http://hls-01-regions.emgsound.ru/13_msk/playlist.m3u8
+
+#EXTINF:-1,Дорожное радио Москва 96,0 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/dorognoe.jpg
+http://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8
+
+#EXTINF:-1,Европа плюс Москва 106,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/europa_plus.jpg
+http://hls-01-regions.emgsound.ru/11_msk/playlist.m3u8
+
+#EXTINF:-1,Ретро-FM Москва 88,3 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/retro.jpg
+http://hls-01-regions.emgsound.ru/12_msk/playlist.m3u8
 
 
 
