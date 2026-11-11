@@ -345,6 +345,77 @@ http://213.5.108.110:8010/dachaufa.mp3
 
 
 
+#EXTINF:-1,Радио Соловьев FM (128)
+http://solovievfm.hostingradio.ru/solovievfm128.aacp
+#EXTINF:-1,Радио Соловьев FM (256)
+http://solovievfm.hostingradio.ru/solovievfm256.mp3
+#EXTINF:-1,Радио Соловьев FM (32)
+http://solovievfm.hostingradio.ru/solovievfm32.aacp
+
+#EXTINF:-1,Вести FM
+http://icecast.vgtrk.cdnvideo.ru/vestifm
+#EXTINF:-1,Вести FM (128)
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_128kbps
+#EXTINF:-1,Вести FM (192)
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
+#EXTINF:-1,Вести FM (32)
+http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_32kbps
+#EXTINF:-1,Вести FM (64)
+http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_64kbps
+
+#EXTINF:-1,Радио Маяк
+http://icecast.vgtrk.cdnvideo.ru/mayakfm
+#EXTINF:-1,Радио Маяк (128)
+http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps
+#EXTINF:-1,Радио Маяк (192)
+http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+#EXTINF:-1,Радио Маяк (32)
+http://icecast.vgtrk.cdnvideo.ru/mayakfm_aac_32kbps
+#EXTINF:-1,Радио Маяк (64)
+http://icecast.vgtrk.cdnvideo.ru/mayakfm_aac_64kbps
+
+#EXTINF:-1,Радио Культура
+http://icecast.vgtrk.cdnvideo.ru/kulturafm
+#EXTINF:-1,Радио Культура (128)
+http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_128kbps
+#EXTINF:-1,Радио Культура (192)
+http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
+#EXTINF:-1,Радио Культура (32)
+http://icecast.vgtrk.cdnvideo.ru/kulturafm_aac_32kbps
+#EXTINF:-1,Радио Культура (64)
+http://icecast.vgtrk.cdnvideo.ru/kulturafm_aac_64kbps
+
+#EXTINF:-1,Радио России
+http://icecast.vgtrk.cdnvideo.ru/rrzonam
+#EXTINF:-1,Радио России (128)
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
+#EXTINF:-1,Радио России (192)
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
+#EXTINF:-1,Радио России (32)
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_32kbps
+#EXTINF:-1,Радио России (64)
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_64kbps
+#EXTINF:-1,Радио России (64) (2)
+https://livehlsvgtrk2.cdnvideo.ru/ice_hls/rrzonam_64aac/chunks.m3u8
+
+
+#EXTINF:-1,Радио Юность
+http://icecast.vgtrk.cdnvideo.ru/unost
+#EXTINF:-1,Радио Юность (128)
+http://icecast.vgtrk.cdnvideo.ru/unost_mp3_128kbps
+#EXTINF:-1,Радио Юность (192)
+http://icecast.vgtrk.cdnvideo.ru/unost_mp3_192kbps
+#EXTINF:-1,Радио Юность (32)
+http://icecast.vgtrk.cdnvideo.ru/unost_aac_32kbps
+#EXTINF:-1,Радио Юность (64)
+http://icecast.vgtrk.cdnvideo.ru/unost_aac_64kbps
+#EXTINF:-1,Радио россии ВЕБ
+https://stream.smotrim.ru/hls2/radio_rus/playlist_2.m3u8
+
+
+
+
+
 
 
 
