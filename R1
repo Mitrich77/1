@@ -412,6 +412,51 @@ http://icecast.vgtrk.cdnvideo.ru/unost_aac_64kbps
 #EXTINF:-1,Радио россии ВЕБ
 https://stream.smotrim.ru/hls2/radio_rus/playlist_2.m3u8
 
+#EXTINF:-1,Комсомольская правда Москва 97,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/kp.jpg
+http://kraskp.ru:8000/mskregion_128
+#EXTINF:-1,Комсомольская правда Москва 97,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/kp.jpg
+http://sib-fm.ru:8000/kom_pravda
+#EXTINF:-1,Комсомольская правда Москва 97,2 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/kp.jpg
+http://kraskp.ru:8000/mskregion
+
+#EXTINF:-1,Звезда Москва 95,6 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/zvezda.jpg
+http://radio.mediacdn.ru/radio/zvezda/zvezda_64
+#EXTINF:-1,Звезда Москва 95,6 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/zvezda.jpg
+http://radio.mediacdn.ru/radio/zvezda/zvezda_96
+#EXTINF:-1,Звезда Москва 95,6 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/zvezda.jpg
+http://radio.mediacdn.ru/radio/zvezda/zvezda_128
+#EXTINF:-1,Звезда Москва 95,6 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/zvezda.jpg
+http://185.40.31.28:8000/station_117
+
+
+
+#EXTINF:-1,Релакс-FM Москва 90,8 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/relax.jpg
+http://media-ice.radiodns.ru/relax.m3u8
+#EXTINF:-1,Релакс-FM Москва 90,8 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/relax.jpg
+http://media-ice.radiodns.ru/hls/relax_lofi/index.m3u8
+#EXTINF:-1,Релакс-FM Москва 90,8 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/relax.jpg
+http://media-ice.radiodns.ru/hls/relax_midlofi/index.m3u8
+#EXTINF:-1,Релакс-FM Москва 90,8 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/relax.jpg
+http://media-ice.radiodns.ru/hls/relax_midhifi/index.m3u8
+#EXTINF:-1,Релакс-FM Москва 90,8 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/relax.jpg
+http://media-ice.radiodns.ru/hls/relax_hifi/index.m3u8
+#EXTINF:-1,Релакс-FM Пермь 105,1 FM
+#EXTALBUMARTURL:https://rosradio-online.ru/logos/relax.jpg
+http://hls-01-gpm.hostingradio.ru/relaxfm342/128/playlist.m3u8
+
+
 
 
 
