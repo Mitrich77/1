@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+tracks-v3a1cks-v3a1TM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 
 #EXTINF:-1 group-title="ViP" tvg-id="pervy-pl2" tvg-name="Первый канал (+2)",Первый канал (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
@@ -93,10 +93,11 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="нтв сериалы балабол" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg" group-title="КИНО",НТВ Сериалы Балабол
-https://cdn-dvr.ntv.ru/Balabol/tracks-v3a1/rewind-240.ts.m3u8
+https://cdn-dvr.ntv.ru/Balabol/tracks-v2a1/rewind-240.ts.m3u8
 
-
-#EXTINF:-1 tvg-id="3357" tvg-name="мосфильм. золотая коллекция" tvg-logo="http://epg.one/img/3357.png" group-title="ViP" audio-track="rus", Мосфильм. Золотая коллекция HD
+#EXTINF:-1 group-title="ViP" tvg-logo="https://i129.fastpic.org/big/2026/1115/b6/9b5296364b2da6a1421663bf29af1ab6.jpg",Камин ТВ
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
+d=XTINF:-1 tvg-id="3357" tvg-name="мосфильм. золотая коллекция" tvg-logo="http://epg.one/img/3357.png" group-title="ViP" audio-track="rus", Мосфильм. Золотая коллекция HD
 http://stream.mcquack.net/369/index.m3u8
 #EXTINF:-1 tvg-id="6258" tvg-name="кино 1 international" tvg-logo="http://epg.one/img/6258.png" group-title="КИНО",Кино 1 Int.
 http://kino-1.catcast.tv/content/38617/index.m3u8
@@ -119,26 +120,18 @@ https://kino-1.catcast.tv/content/37742/index.m3u8
 https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=lnG5Z09TKIxexGnmqeLSmw&e=2093347138&scheme=https
 #EXTINF:-1 group-title="МуZыКа",VIVA Russia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=vHgwXjo6rP7T1TnCrP-L4Q&e=2093347143&scheme=https
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=vHgwXjo6rP7T1TnCrP-L4Q&e=2093347143&scheme=httvg-nameame
 
-#EXTINF:-1 tvg-name="Смотрим 100% МУЖСКОЕ" group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ 100% МУЖСКОЕ ᴴᴰ
-http://dmi3y-tv.online/hls/smotrim/CH_MUZHSKOEHD.m3u8
-
-#EXTINF:-1 group-title="ViP" tvg-logo="https://i129.fastpic.org/big/2026/1115/b6/9b5296364b2da6a1421663bf29af1ab6.jpg",Камин ТВ
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Смотрим 100% ФАКТЫ" group-title="ПОЗНАВАТЕЛЬНЫЕ",sᴍᴏᴛʀɪᴍ 100% ФАКТЫ ᴴᴰ
 http://dmi3y-tv.online/hls/smotrim/CH_FAKTYHD.m3u8
-
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
 http://dmi3y-tv.online/hls/CH_NAUKA20.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя планета
 http://dmi3y-tv.online/hls/CH_MOYA_PLANETA.m3u8
 
-
-
-#EXTINF:-1 tvg-name="Смотрим Кино и сериалы" group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ Кино и сериалы ᴴᴰ
-http://dmi3y-tv.online/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
+#EXTINF:-1 tvg-name="Смотрим 100% МУЖСКОЕ" group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ 100% МУЖСКОЕ ᴴᴰ
+http://dmi3y-tv.online/hls/smotrim/CH_MUZHSKOEHD.m3u8
 
 
 
