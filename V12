@@ -1,7 +1,20 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 
+
+
 #EXTINF:-1 group-title="ZABAWA RT" tvg-logo="https://i129.fastpic.org/big/2026/1122/f3/f253473fcaa5733342a33536b7b555f3.gif",Камин ТВ
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
+
+
+#EXTINF:-1 group-title="Turon Media (VPN)",Наша Сибирь
+https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media (VPN)",Наука
+https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media (VPN)",Моя Планета
+https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media (VPN)",Живая Природа HD
+https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="38.RELAXᴳᴼᴸᴰ  🏝" tvg-logo="https://i.imgur.com/paj5NtW.png",Эзервэйᴴᴰ
 http://stream-tv.ew21.ru/023/video.m3u8?hash=TN66TE4YB
