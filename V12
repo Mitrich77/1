@@ -5,7 +5,7 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
 #EXTINF:-1 group-title="38.RELAXᴳᴼᴸᴰ  🏝" tvg-logo="https://i.imgur.com/paj5NtW.png",Эзервэйᴴᴰ
 http://stream-tv.ew21.ru/023/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1 group-title="38.RELAXᴳᴼᴸᴰ  🏝",Живая Природа FD
+#EXTINF:-1 group-title="38.RELAXᴳᴼᴸᴰ  🏝",Живая Природа HD
 http://dmi3y-tv.online/hls/CH_ZHIVAYA_PRIRODA.m3u8
 #EXTINF:-1 group-title="38.RELAXᴳᴼᴸᴰ  🏝" tvg-logo="https://i.imgur.com/944V2f5.png",Ocean Vibesᴴᴰ
 https://pb-vt93jy06rfty1.akamaized.net/SONOS45.m3u8
@@ -16,10 +16,28 @@ https://pb-rhq7yj8tne4rm.akamaized.net/Fireplace_4K_SONO20.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://1lot.tv/ch/10831.png",CLASSICAL HORMONYᴴᴰ
 https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
 
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://1lot.tv/ch/0217.png",ЖИВАЯ ПРИРОДАᴴᴰ
+
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://1lot.tv/ch/0217.png",ЖИВАЯ ПРИРОДА ᴴᴰ
 https://s06.watcher.uz/119/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:-1 group-title="Развлекательные",НАША СИБИРЬᴴᴰ
+#EXTINF:-1 group-title="НТВ+",Живая природа HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031944&extension=ts&play_token=ik3PIwiKHO
+#EXTINF:-1 group-title="СМОТРЕШКИ ОТ ЛЕШКИ📺",Живая природа
+http://stream.mcquack.net/225/index.m3u8
+#EXTINF:-1 group-title="Развлечение",Живая природа HD orig
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/9039/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://epg.one/img2/2746.png",НАША СИБИРЬ ᴴᴰ
 https://s06.watcher.uz/128/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://epg.one/img2/2746.png",Живая природа HD
+https://s06.watcher.uz/119/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="r9jgzc02.russtv* 💐",Наша Сибирь HD
+http://r9jgzc02.russtv.net/iptv/RDXD2KKG257QK5/15145/index.m3u8
+
+
+
+
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14225/logo_256_1660810197.png",HHQᴴᴰ
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=5pTVZXSKAAEoGlvrtNI5vw&e=2069068452&scheme=https
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14225/logo_256_1660810197.png",HHQᴴᴰ
