@@ -33,24 +33,17 @@ http://hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8
 http://ib6vzaug.rostelekom.xyz/iptv/QGP3QXDP95UFB4/11057/index.m3u8
 #EXTINF:-1 group-title="r9jgzc02.russtv* 💐",Весёлая Карусель HD
 http://r9jgzc02.russtv.net/iptv/RDXD2KKG257QK5/11057/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/xKh025r9/image-24.png",СоюзМультфильм
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/xKh025r9/image-24.png",Ну. Погоди! (СоюзМультфильм)
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/HfKN7J17/image-27.png",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
 
-#EXTINF:-1 group-title="СМОТРЕШКИ ОТ ЛЕШКИ📺",Мосфильм. Золотая коллекция
-https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
+
 #EXTINF:-1 group-title="Кино",Мосфильм.Золотая Коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
-#EXTINF:-1 group-title="⭐️BEE TV ⭐️",Мосфильм.Золотая коллекция
-http://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="⭐️BEE TV ⭐️",Мосфильм. Золотая коллекция
-https://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="19.𝕂иℍ𝕠 🇷🇺",Мосфильм.Золотая коллекция
 http://185.121.1.163:8083/Mosfilm/index.m3u8
-
-
 #EXTINF:-1 group-title="Кино",Советская Киноклассика
 http://185.184.233.178:5000/udp/225.1.2.119:1234
 
@@ -978,6 +971,13 @@ https://live3-orsk.cdnvideo.ru/orsk-rtsp/channel5/playlist.m3u8
 #EXTINF:-1 group-title="Россия 🇷🇺",Бузулук 5
 https://live3-orsk.cdnvideo.ru/orsk-rtsp/channel3/playlist.m3u8
 
+#EXTINF:-1 group-title="СМОТРЕШКИ ОТ ЛЕШКИ📺",Мосфильм. Золотая коллекция
+https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="⭐️BEE TV ⭐️",Мосфильм.Золотая коллекция
+http://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="⭐️BEE TV ⭐️",Мосфильм. Золотая коллекция
+https://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
 #EXTINF:-1 group-title="С сайтов (VPN)", Россия 1 HD
 https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="С сайтов (VPN)" ,Россия 24
@@ -991,7 +991,5 @@ https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Turon Media (VPN)",Живая Природа HD
 https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8
-
-
 
 
