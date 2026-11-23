@@ -1,100 +1,31 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
 
-
-
 #EXTINF:-1 group-title="ZABAWA RT" tvg-logo="https://i129.fastpic.org/big/2026/1122/f3/f253473fcaa5733342a33536b7b555f3.gif",Камин ТВ
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-
-
-#EXTINF:-1 group-title="Turon Media (VPN)",Наша Сибирь
-https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Наука
-https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Моя Планета
-https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Turon Media (VPN)",Живая Природа HD
-https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Fireplace ᴴᴰ
+https://jmp2.uk/stvp-KRBD44000025L
 #EXTINF:-1 group-title="38.RELAXᴳᴼᴸᴰ  🏝" tvg-logo="https://i.imgur.com/paj5NtW.png",Эзервэйᴴᴰ
 http://stream-tv.ew21.ru/023/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1 group-title="38.RELAXᴳᴼᴸᴰ  🏝" tvg-logo="https://i.imgur.com/944V2f5.png",Ocean Vibesᴴᴰ
-https://pb-vt93jy06rfty1.akamaized.net/SONOS45.m3u8
-#EXTINF:-1 group-title="38.RELAXᴳᴼᴸᴰ  🏝" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Fireplace Vibesᴴᴰ
-https://pb-rhq7yj8tne4rm.akamaized.net/Fireplace_4K_SONO20.m3u8
-
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая Природа HD
-http://dmitry-tv.ddns.net/hls/CH_ZHIVAYA_PRIRODA.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НАША СИБИРЬ HD
-http://dmitry-tv.ddns.net/hls/CH_NASHA_SIBIRHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Доктор
-http://dmitry-tv.ddns.net/hls/CH_DOKTOR.m3u8
-
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая Природа HD
 http://dmi3y-tv.online/hls/CH_ZHIVAYA_PRIRODA.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НАША СИБИРЬ HD
 http://dmi3y-tv.online/hls/CH_NASHA_SIBIRHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Доктор
-http://dmi3y-tv.online/hls/CH_DOKTOR.m3u8
-
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://1lot.tv/ch/10831.png",CLASSICAL HORMONYᴴᴰ
 https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
-
-#EXTINF:-1 group-title="TRICOLOR TV",Живая природа HD
-https://s06.watcher.uz/119/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://1lot.tv/ch/0217.png",ЖИВАЯ ПРИРОДА ᴴᴰ
-https://s06.watcher.uz/119/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:-1 group-title="Развлечение",Живая природа HD orig
-http://ib6vzaug.rostelekom.xyz/iptv/QGP3QXDP95UFB4/9039/index.m3u8
-#EXTINF:-1 group-title="Развлечение",Живая природа HD orig
-http://r9jgzc02.russtv.net/iptv/RDXD2KKG257QK5/9039/index.m3u8
-
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://epg.one/img2/2746.png",НАША СИБИРЬ ᴴᴰ
-https://s06.watcher.uz/128/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:-1 group-title="r9jgzc02.russtv* 💐" tvg-logo="http://epg.one/img2/2746.png",Наша Сибирь HD
-http://r9jgzc02.russtv.net/iptv/RDXD2KKG257QK5/15145/index.m3u8
-
-
+#EXTINF:-1 group-title="38.RELAXᴳᴼᴸᴰ  🏝" tvg-logo="https://i.imgur.com/944V2f5.png",Ocean Vibesᴴᴰ
+https://pb-vt93jy06rfty1.akamaized.net/SONOS45.m3u8
+#EXTINF:-1 group-title="38.RELAXᴳᴼᴸᴰ  🏝" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Fireplace Vibesᴴᴰ
+https://pb-rhq7yj8tne4rm.akamaized.net/Fireplace_4K_SONO20.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14225/logo_256_1660810197.png",HHQ ᴴᴰ
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=5pTVZXSKAAEoGlvrtNI5vw&e=2069068452&scheme=https
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14225/logo_256_1660810197.png",HHQ ᴴᴰ
-https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=XxdUmVpM2kSH1kg_N7AHCQ&e=2073777420&scheme=https
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14225/logo_256_1660810197.png",HHQ ᴴᴰ
-https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=TCxD5lgZedHqt4-WXjSJcA&e=2065265033&scheme=https
-#EXTINF:-1 group-title="Разное",HHQ
-https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=1axCFUwM5UmTNQNRotjmDg&e=2068506938&scheme=https
-#EXTINF:-1 group-title="Rutub TV",HHQ
-https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=RcjR-ryPMzdAHorm4FVfbw&e=2069285055&scheme=https
-#EXTINF:-1 group-title="Rutub TV",HHQ HD
-https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=oK_3ut_zlDkP3J7p2hPAZA&e=2066519769&scheme=https
-
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://epg.one/img/3610.png",TV Camᴴᴰ
-http://hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.imgur.com/zYnqe5W.png",SE Connection WebTVᴴᴰ
-https://video01.logicahost.com.br/sergio/sergio/chunklist_w1145870213.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.imgur.com/uEmua0J.png",SERVUSᴴᴰ
-https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master_6692.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Vau
-https://video-auth1.iol.pt/beachcam/bcvauportimao/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica
-https://video-auth1.iol.pt/beachcam/bcnovapraia/playlist.m3u8
-
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",RELAXᴴᴰ
 http://185.57.68.33/232/index.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.imgur.com/OhPI9FF.png",RELAXᴴᴰ
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?q=zi/
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://epg.kernelmodovih.ru/logo/skycam_relax.png",RELAXᴴᴰ
-http://185.57.68.33:8091/232/index.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",RELAXᴴᴰ
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?cur=tva.org.ua&key=3i277
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.imgur.com/944V2f5.png",WORLDᴴᴰ
-http://hubtv.ru/index.php?stream=aHR0cDovLzE4NS41Ny42OC4zMy8yMzIvaW5kZXgubTN1OA==
-#EXTINF:-1 group-title="Развлекательные",Worldᴴᴰ
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.imgur.com/944V2f5.png",Worldᴴᴰ
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i129.fastpic.org/big/2026/1122/f3/f253473fcaa5733342a33536b7b555f3.gif",Релакс HD
 http://185.57.68.33/232/mpegts
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Fireplace ᴴᴰ
-https://jmp2.uk/stvp-KRBD44000025L
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://epg.one/img/3610.png",TV Camᴴᴰ
+http://hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8
 
 
 
@@ -102,6 +33,46 @@ https://jmp2.uk/stvp-KRBD44000025L
 http://ib6vzaug.rostelekom.xyz/iptv/QGP3QXDP95UFB4/11057/index.m3u8
 #EXTINF:-1 group-title="r9jgzc02.russtv* 💐",Весёлая Карусель HD
 http://r9jgzc02.russtv.net/iptv/RDXD2KKG257QK5/11057/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/xKh025r9/image-24.png",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/HfKN7J17/image-27.png",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+
+
+#EXTINF:-1 group-title="СМОТРЕШКИ ОТ ЛЕШКИ📺",Мосфильм. Золотая коллекция
+https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Кино",Мосфильм.Золотая Коллекция
+http://178.134.1.158:8081/mosfilm/index.m3u8
+#EXTINF:-1 group-title="⭐️BEE TV ⭐️",Мосфильм.Золотая коллекция
+http://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="⭐️BEE TV ⭐️",Мосфильм. Золотая коллекция
+https://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="19.𝕂иℍ𝕠 🇷🇺",Мосфильм.Золотая коллекция
+http://185.121.1.163:8083/Mosfilm/index.m3u8
+
+
+#EXTINF:-1 group-title="Кино",Советская Киноклассика
+http://185.184.233.178:5000/udp/225.1.2.119:1234
+
+#EXTINF:-1 group-title="НТВ+",Любимое кино
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 group-title="НТВ+",Ностальгия
+http://176.118.197.101/Nostalgiya/index.m3u8
+#EXTINF:-1 group-title="НТВ+",Ретро
+http://176.118.197.101/Retro/index.m3u8
+
+#EXTINF:-1 group-title="НТВ+" tvg-logo="http://epg.one/img2/477.png",Любимое Кино FHD
+http://176.118.197.101/LubimoeKino/mono.m3u8
+#EXTINF:-1 group-title="НТВ+",Ностальгия
+http://176.118.197.101/Nostalgiya/mono.m3u8
+#EXTINF:-1 group-title="НТВ+",Ретро
+http://176.118.197.101/Retro/mono.m3u8
+
+#EXTINF:-1 group-title="СМОТРЕШКИ ОТ ЛЕШКИ📺",Победа
+https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="СМОТРЕШКИ ОТ ЛЕШКИ📺",Ностальгия
+https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
+
 
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="http://epg.one/img2/11512.png",CHD-TV Rock ᴴᴰ
@@ -486,20 +457,74 @@ http://hls-video01.cdnvideo.ru/video01/video01_1080.sdp/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="СМОТРЕШКИ ОТ ЛЕШКИ📺",Мосфильм. Золотая коллекция
-https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Кино",Мосфильм.Золотая Коллекция
-http://178.134.1.158:8081/mosfilm/index.m3u8
-#EXTINF:-1 group-title="⭐️BEE TV ⭐️",Мосфильм.Золотая коллекция
-http://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="⭐️BEE TV ⭐️",Мосфильм. Золотая коллекция
-https://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="19.𝕂иℍ𝕠 🇷🇺",Мосфильм.Золотая коллекция
-http://185.121.1.163:8083/Mosfilm/index.m3u8
 
 
-#EXTINF:-1 group-title="Кино",Советская Киноклассика
-http://185.184.233.178:5000/udp/225.1.2.119:1234
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500038R6" tvg-name="Stingray Holidayscapes" tvg-id="USBD3500038R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" group-title="RELAX🏝️" tvg-chno="4570",Stingray Holidayscapes
+https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500038R6
+#EXTINF:-1 channel-id="SamsungTVPlus-USAK3508705A" tvg-name="Stingray Naturescape" tvg-id="USAK3508705A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20240520T212618SQUARE.png" group-title="RELAX🏝️" tvg-chno="4572",Stingray Naturescape
+https://jmp2.uk/stvp-CAAJ3400003T7
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500013DG" tvg-name="Stingray Spa" tvg-id="USBD3500013DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20240520T212850SQUARE.png" group-title="RELAX🏝️" tvg-chno="4580",Stingray Spa
+https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500013DG
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500027DS" tvg-name="ZenLIFE by Stingray" tvg-id="USBD3500027DS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500027DS_20240520T212949SQUARE.png" group-title="RELAX🏝️" tvg-chno="4578",ZenLIFE by Stingray
+https://jmp2.uk/rok-79876f8f79d0394ba8982259393e5e32.m3u8
+#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20260422T013535SQUARE.png" ,Fireplace 4K
+https://jmp2.uk/stvp-KRBD44000025L
+
+
+
+
+
+
+#EXTINF:-1 group-title="TRICOLOR TV",Живая природа HD
+https://s06.watcher.uz/119/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://1lot.tv/ch/0217.png",ЖИВАЯ ПРИРОДА ᴴᴰ
+https://s06.watcher.uz/119/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="Развлечение",Живая природа HD orig
+http://ib6vzaug.rostelekom.xyz/iptv/QGP3QXDP95UFB4/9039/index.m3u8
+#EXTINF:-1 group-title="Развлечение",Живая природа HD orig
+http://r9jgzc02.russtv.net/iptv/RDXD2KKG257QK5/9039/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая Природа HD
+http://dmitry-tv.ddns.net/hls/CH_ZHIVAYA_PRIRODA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НАША СИБИРЬ HD
+http://dmitry-tv.ddns.net/hls/CH_NASHA_SIBIRHD.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://epg.one/img2/2746.png",НАША СИБИРЬ ᴴᴰ
+https://s06.watcher.uz/128/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="r9jgzc02.russtv* 💐" tvg-logo="http://epg.one/img2/2746.png",Наша Сибирь HD
+http://r9jgzc02.russtv.net/iptv/RDXD2KKG257QK5/15145/index.m3u8
+
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14225/logo_256_1660810197.png",HHQ ᴴᴰ
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=XxdUmVpM2kSH1kg_N7AHCQ&e=2073777420&scheme=https
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14225/logo_256_1660810197.png",HHQ ᴴᴰ
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=TCxD5lgZedHqt4-WXjSJcA&e=2065265033&scheme=https
+#EXTINF:-1 group-title="Разное",HHQ
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=1axCFUwM5UmTNQNRotjmDg&e=2068506938&scheme=https
+#EXTINF:-1 group-title="Rutub TV",HHQ
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=RcjR-ryPMzdAHorm4FVfbw&e=2069285055&scheme=https
+#EXTINF:-1 group-title="Rutub TV",HHQ HD
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=oK_3ut_zlDkP3J7p2hPAZA&e=2066519769&scheme=https
+
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Vau
+https://video-auth1.iol.pt/beachcam/bcvauportimao/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica
+https://video-auth1.iol.pt/beachcam/bcnovapraia/playlist.m3u8
+
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.imgur.com/OhPI9FF.png",RELAXᴴᴰ
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?q=zi/
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://epg.kernelmodovih.ru/logo/skycam_relax.png",RELAXᴴᴰ
+http://185.57.68.33:8091/232/index.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",RELAXᴴᴰ
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.imgur.com/944V2f5.png",WORLDᴴᴰ
+http://hubtv.ru/index.php?stream=aHR0cDovLzE4NS41Ny42OC4zMy8yMzIvaW5kZXgubTN1OA==
+
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.imgur.com/zYnqe5W.png",SE Connection WebTVᴴᴰ
+https://video01.logicahost.com.br/sergio/sergio/chunklist_w1145870213.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.imgur.com/uEmua0J.png",SERVUSᴴᴰ
+https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master_6692.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png",Смотрим Праздник
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
@@ -552,28 +577,6 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.
 http://dmi3y-tv6.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg",Смотрим Кино и сериалыᴴᴰ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
-
-
-
-#EXTINF:-1 group-title="НТВ+",Любимое кино
-http://176.118.197.101/LubimoeKino/index.m3u8
-#EXTINF:-1 group-title="НТВ+",Ностальгия
-http://176.118.197.101/Nostalgiya/index.m3u8
-#EXTINF:-1 group-title="НТВ+",Ретро
-http://176.118.197.101/Retro/index.m3u8
-
-#EXTINF:-1 group-title="НТВ+" tvg-logo="http://epg.one/img2/477.png",Любимое Кино FHD
-http://176.118.197.101/LubimoeKino/mono.m3u8
-#EXTINF:-1 group-title="НТВ+",Ностальгия
-http://176.118.197.101/Nostalgiya/mono.m3u8
-#EXTINF:-1 group-title="НТВ+",Ретро
-http://176.118.197.101/Retro/mono.m3u8
-
-#EXTINF:-1 group-title="СМОТРЕШКИ ОТ ЛЕШКИ📺",Победа
-https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="СМОТРЕШКИ ОТ ЛЕШКИ📺",Ностальгия
-https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
-
 
 
 
@@ -666,10 +669,7 @@ https://cdn-dvr.ntv.ru/Balabol/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/xKh025r9/image-24.png",СоюзМультфильм
-http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/HfKN7J17/image-27.png",Чип и Дейл
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+
 
 
 
@@ -900,6 +900,10 @@ http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS5.m3u8
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS24.m3u8
 
 
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Доктор
+http://dmi3y-tv.online/hls/CH_DOKTOR.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Доктор
+http://dmitry-tv.ddns.net/hls/CH_DOKTOR.m3u8
 #EXTINF:-1 group-title="Познавательные",Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Доктор
@@ -974,97 +978,20 @@ https://live3-orsk.cdnvideo.ru/orsk-rtsp/channel5/playlist.m3u8
 #EXTINF:-1 group-title="Россия 🇷🇺",Бузулук 5
 https://live3-orsk.cdnvideo.ru/orsk-rtsp/channel3/playlist.m3u8
 
+#EXTINF:-1 group-title="С сайтов (VPN)", Россия 1 HD
+https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Россия 24
+https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
+
+#EXTINF:-1 group-title="Turon Media (VPN)",Наша Сибирь
+https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media (VPN)",Наука
+https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media (VPN)",Моя Планета
+https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media (VPN)",Живая Природа HD
+https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge HD
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://i.imgur.com/LMHrQJu.png",Better Life Nature Channel
-https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig",WORLD HD
-http://185.57.68.33/232/index.m3u8
-#EXTINF:-1 group-title="RELAX🏝️",Stingray Naturescape
-https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://tgtv.ua/images/tgtv_logo.png",Travel Guide TV
-http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg",Relaxon
-http://iptv.prosto.tv:7000/ch317/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png",Камин
-http://iptv.prosto.tv:7000/ch318/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00522.jpg",Пейзаж
-http://iptv.prosto.tv:7000/ch343/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00297.png",Space Stream
-http://iptv.prosto.tv:7000/ch314/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00301.png",Про Факт
-http://iptv.prosto.tv:7000/ch315/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00314.png",Зоо
-http://iptv.prosto.tv:7000/ch319/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00598.jpg",Свет вокруг 
-http://iptv.prosto.tv:7000/ch351/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00509.jpg",Терраса
-http://iptv.prosto.tv:7000/ch336/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00564.jpg",Горная долина
-http://iptv.prosto.tv:7000/ch302/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00563.jpg",Просто Украина
-http://iptv.prosto.tv:7000/ch303/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00562.jpg",Дожди
-http://iptv.prosto.tv:7000/ch304/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00561.jpg",Подводный мир
-http://iptv.prosto.tv:7000/ch305/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00549.jpg",Avia Stream
-http://iptv.prosto.tv:7000/ch306/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00295.jpg",Катастрофы 
-http://iptv.prosto.tv:7000/ch312/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00302.png",ЭКО система
-http://iptv.prosto.tv:7000/ch316/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00318.png",Stream City
-http://iptv.prosto.tv:7000/ch321/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00348.png",Аквариум 
-http://iptv.prosto.tv:7000/ch325/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00492.jpg",Комната релакс
-http://iptv.prosto.tv:7000/ch328/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00491.jpg",Зима
-http://iptv.prosto.tv:7000/ch327/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00555.jpg",Ночь
-http://iptv.prosto.tv:7000/ch349/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00500.jpg",Водопад
-http://iptv.prosto.tv:7000/ch329/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00503.jpg",Лес
-http://iptv.prosto.tv:7000/ch330/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00504.jpg",Огонь
-http://iptv.prosto.tv:7000/ch331/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00505.jpg",Пляж
-http://iptv.prosto.tv:7000/ch332/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00508.jpg",Тропики
-http://iptv.prosto.tv:7000/ch335/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00512.jpg",Река
-http://iptv.prosto.tv:7000/ch338/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00513.jpg",Джунгли
-http://iptv.prosto.tv:7000/ch339/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00514.jpg",Горы
-http://iptv.prosto.tv:7000/ch340/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00515.jpg",Озеро 
-http://iptv.prosto.tv:7000/ch341/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg",Рыбалка 
-http://iptv.prosto.tv:7000/ch344/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00533.jpg",Бассейн
-http://iptv.prosto.tv:7000/ch345/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00536.jpg",Флора
-http://iptv.prosto.tv:7000/ch346/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00537.jpg",Сад
-http://iptv.prosto.tv:7000/ch347/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00544.jpg",Железная дорога
-http://iptv.prosto.tv:7000/ch348/video.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00580.jpg",Парк
-http://iptv.prosto.tv:7000/ch350/video.m3u8
-#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500038R6" tvg-name="Stingray Holidayscapes" tvg-id="USBD3500038R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" group-title="RELAX🏝️" tvg-chno="4570",Stingray Holidayscapes
-https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500038R6
-#EXTINF:-1 channel-id="SamsungTVPlus-USAK3508705A" tvg-name="Stingray Naturescape" tvg-id="USAK3508705A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20240520T212618SQUARE.png" group-title="RELAX🏝️" tvg-chno="4572",Stingray Naturescape
-https://jmp2.uk/stvp-CAAJ3400003T7
-#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500013DG" tvg-name="Stingray Spa" tvg-id="USBD3500013DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20240520T212850SQUARE.png" group-title="RELAX🏝️" tvg-chno="4580",Stingray Spa
-https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500013DG
-#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500027DS" tvg-name="ZenLIFE by Stingray" tvg-id="USBD3500027DS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500027DS_20240520T212949SQUARE.png" group-title="RELAX🏝️" tvg-chno="4578",ZenLIFE by Stingray
-https://jmp2.uk/rok-79876f8f79d0394ba8982259393e5e32.m3u8
-#EXTINF:-1 group-title="RELAX🏝️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20260422T013535SQUARE.png" ,Fireplace 4K
-https://jmp2.uk/stvp-KRBD44000025L
 
 
