@@ -57,9 +57,10 @@ https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
 https://stream.smotrim.ru/hls/solovievlive/playlist_5.m3u8
 
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал ᴴᴰ
-http://dmi3y-tv.online/hls/DVB-T2/CH_1TV.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
 http://dmitry-tv.ddns.net/hls/T2/CH_1TVHD.m3u8
 #EXTINF:-1  group-title="ViP",Россия 1 ᴴᴰ
+https://live.smotrim.ru/vgtrk/0/russia1-hd/720p.m3u8
 http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA1HD_SPB.m3u8
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1  group-title="ViP",СТС
