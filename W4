@@ -207,7 +207,8 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS.m3u8
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV.m3u8
 #EXTINF:-1  group-title="ЭфиР плюс",ТВЦ
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC.m3u8
-
+#EXTINF:-1 group-title="ViP" tvg-logo="https://i129.fastpic.org/big/2026/1122/f3/f253473fcaa5733342a33536b7b555f3.gif",Камин ТВ
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
 
 #EXTINF:-1 tvg-name="Россия 1 (-1)" group-title="ЭфиР",Россия 1 (-1)
