@@ -23,8 +23,8 @@ http://dmi3y-tv.online/hls/smotrim/CH_SOLOVIEVLIVE.m3u8
 
 
 #EXTINF:-1 tvg-rec="1" catchup-type="append" catchup_days="3" catchup_template="?offset=-${offset}&utcstart=${timestamp}" group-title="ViP",БСТ
-http://dmi3y-tv.online/hls/region/CH_BST_UFA.m3u8
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
+http://dmi3y-tv.online/hls/region/CH_BST_UFA.m3u8
 
 #EXTINF:-1  group-title="ViP",ОТР (+2)
 http://dmi3y-tv.online/hls/zabava/region/UFA/CH_OTR.m3u8
