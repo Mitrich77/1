@@ -278,27 +278,29 @@ https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/variant.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/6a/18993965545d7088840ddff3107bea6a.png" group-title="ЭфиР",Россия 1 HD
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/01/3f479f337cc7acb189fb3c3e97a6aa01.png" group-title="ЭфиР",Россия 1 +1
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/3d/65eaaf87eaa8a0e55a55aec6c7d6ea3d.png" group-title="ЭфиР",Россия 1 +2
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/94/9c6b1384ae04ee3e8ca156a019f9c994.png" group-title="ЭфиР",Россия 1 +3
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/60/eb538b6c90d54a0e4869433e0a6cf960.png" group-title="ЭфиР",Россия 1 +4
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/0f/5fb320c7052eaa32f4feb217a813950f.png" group-title="Российские",Россия 1 +5
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/91/5e9bc78a03df80fef2d024a89cad3e91.png" group-title="ЭфиР",Россия 1 +6
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/35/bade0eed32d01b995f04da7695fa9435.png" group-title="ЭфиР",Россия 1 +7
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/e2/bc531a637f0085067102d62d3a6ff1e2.png" group-title="ЭфиР",Россия 1 +8
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/8b/29c09f702dbbc876e0f9490972cc848b.png" group-title="ЭфиР",Россия 1 +9
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ViP" tvg-logo="https://i129.fastpic.org/big/2026/1122/f3/f253473fcaa5733342a33536b7b555f3.gif",Камин ТВ
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Fireplace ᴴᴰ
+https://jmp2.uk/stvp-KRBD44000025L
+#EXTINF:-1 group-title="38.RELAXᴳᴼᴸᴰ  🏝" tvg-logo="https://i.imgur.com/paj5NtW.png",Эзервэйᴴᴰ
+http://stream-tv.ew21.ru/023/video.m3u8?hash=TN66TE4YB
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая Природа HD
+http://dmi3y-tv.online/hls/CH_ZHIVAYA_PRIRODA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НАША СИБИРЬ HD
+http://dmi3y-tv.online/hls/CH_NASHA_SIBIRHD.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://1lot.tv/ch/10831.png",CLASSICAL HORMONYᴴᴰ
+https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
+#EXTINF:-1 group-title="38.RELAXᴳᴼᴸᴰ  🏝" tvg-logo="https://i.imgur.com/944V2f5.png",Ocean Vibesᴴᴰ
+https://pb-vt93jy06rfty1.akamaized.net/SONOS45.m3u8
+#EXTINF:-1 group-title="38.RELAXᴳᴼᴸᴰ  🏝" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Fireplace Vibesᴴᴰ
+https://pb-rhq7yj8tne4rm.akamaized.net/Fireplace_4K_SONO20.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14225/logo_256_1660810197.png",HHQ ᴴᴰ
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=5pTVZXSKAAEoGlvrtNI5vw&e=2069068452&scheme=https
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",RELAXᴴᴰ
+http://185.57.68.33/232/index.m3u8
+
+
+
 
 
 
@@ -2373,3 +2375,35 @@ https://s45177.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 #EXTINF:-1 group-title="ViP" tvg-id="piatnica-pl2",Пятница! (+2)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s45177.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/6a/18993965545d7088840ddff3107bea6a.png" group-title="ЭфиР",Россия 1 HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/01/3f479f337cc7acb189fb3c3e97a6aa01.png" group-title="ЭфиР",Россия 1 +1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/3d/65eaaf87eaa8a0e55a55aec6c7d6ea3d.png" group-title="ЭфиР",Россия 1 +2
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/94/9c6b1384ae04ee3e8ca156a019f9c994.png" group-title="ЭфиР",Россия 1 +3
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/60/eb538b6c90d54a0e4869433e0a6cf960.png" group-title="ЭфиР",Россия 1 +4
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/0f/5fb320c7052eaa32f4feb217a813950f.png" group-title="Российские",Россия 1 +5
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/91/5e9bc78a03df80fef2d024a89cad3e91.png" group-title="ЭфиР",Россия 1 +6
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/35/bade0eed32d01b995f04da7695fa9435.png" group-title="ЭфиР",Россия 1 +7
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/e2/bc531a637f0085067102d62d3a6ff1e2.png" group-title="ЭфиР",Россия 1 +8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i128.fastpic.org/big/2026/0803/8b/29c09f702dbbc876e0f9490972cc848b.png" group-title="ЭфиР",Россия 1 +9
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.imgur.com/944V2f5.png",Worldᴴᴰ
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i129.fastpic.org/big/2026/1122/f3/f253473fcaa5733342a33536b7b555f3.gif",Релакс HD
+http://185.57.68.33/232/mpegts
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://epg.one/img/3610.png",TV Camᴴᴰ
+http://hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8
