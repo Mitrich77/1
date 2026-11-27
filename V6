@@ -108,6 +108,19 @@ http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 tvg-id="sovkino" tvg-name="советское кино" tvg-logo="https://iptvx.one/picons/sovkino.png" group-title="ViP",Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 
+#EXTINF:-1 tvg-name="Смотрим 100% МУЖСКОЕ" group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ 100% МУЖСКОЕ ᴴᴰ
+http://dmi3y-tv.online/hls/smotrim/CH_MUZHSKOEHD.m3u8
+#EXTINF:-1 tvg-name="Смотрим Кино и сериалы" group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ Кино и сериалы ᴴᴰ
+http://dmi3y-tv.online/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
+
+#EXTINF:-1 tvg-name="Смотрим 100% ФАКТЫ" group-title="ПОЗНАВАТЕЛЬНЫЕ",sᴍᴏᴛʀɪᴍ 100% ФАКТЫ ᴴᴰ
+http://dmi3y-tv.online/hls/smotrim/CH_FAKTYHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
+http://dmi3y-tv.online/hls/CH_NAUKA20.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя планета
+http://dmi3y-tv.online/hls/CH_MOYA_PLANETA.m3u8
+
+
 
 #EXTINF:-1 tvg-id="MuzykaKino.ru@International" tvg-name="музыка кино international" group-title="МуZыКа",Музыка Кино Int.
 https://kino-1.catcast.tv/content/37739/index.m3u8
@@ -124,19 +137,6 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 group-title="МуZыКа",VIVA Russia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=vHgwXjo6rP7T1TnCrP-L4Q&e=2093347143&scheme=httvg-nameame
-
-
-#EXTINF:-1 tvg-name="Смотрим 100% ФАКТЫ" group-title="ПОЗНАВАТЕЛЬНЫЕ",sᴍᴏᴛʀɪᴍ 100% ФАКТЫ ᴴᴰ
-http://dmi3y-tv.online/hls/smotrim/CH_FAKTYHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
-http://dmi3y-tv.online/hls/CH_NAUKA20.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя планета
-http://dmi3y-tv.online/hls/CH_MOYA_PLANETA.m3u8
-
-#EXTINF:-1 tvg-name="Смотрим 100% МУЖСКОЕ" group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ 100% МУЖСКОЕ ᴴᴰ
-http://dmi3y-tv.online/hls/smotrim/CH_MUZHSKOEHD.m3u8
-#EXTINF:-1 tvg-name="Смотрим Кино и сериалы" group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ Кино и сериалы ᴴᴰ
-http://dmi3y-tv.online/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 
 
 
