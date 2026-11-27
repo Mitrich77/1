@@ -118,6 +118,9 @@ https://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 group-title="МуZыКа",Record Супердискотека 90х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=lnG5Z09TKIxexGnmqeLSmw&e=2093347138&scheme=https
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i129.fastpic.org/big/2026/1127/8f/1dbabf8c9bb1e2474229e630fac3638f.png",DanceHits 80s & 90s
+http://dancehits80.denvs.ru:8080/index.m3u8
+
 #EXTINF:-1 group-title="МуZыКа",VIVA Russia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=vHgwXjo6rP7T1TnCrP-L4Q&e=2093347143&scheme=httvg-nameame
