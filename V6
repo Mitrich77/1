@@ -96,10 +96,9 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="нтв сериалы балабол" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg" group-title="КИНО",НТВ Сериалы Балабол
 https://cdn-dvr.ntv.ru/Balabol/tracks-v2a1/rewind-240.ts.m3u8
 
-#EXTINF:-1 group-title="ViP" tvg-logo="https://i129.fastpic.org/big/2026/1115/b6/9b5296364b2da6a1421663bf29af1ab6.jpg",Камин ТВ
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-#EXTINF:-1 tvg-id="3357" tvg-name="мосфильм. золотая коллекция" tvg-logo="http://epg.one/img/3357.png" group-title="ViP" audio-track="rus", Мосфильм. Золотая коллекция HD
-http://stream.mcquack.net/369/index.m3u8
+
+#EXTINF:-1 tvg-id="3357" tvg-name="мосфильм. золотая коллекция" tvg-logo="http://epg.one/img/3357.png" group-title="ViP" audio-track="rus", Мосфильм. Золотая коллекция
+http://185.121.1.163:8083/Mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="6258" tvg-name="кино 1 international" tvg-logo="http://epg.one/img/6258.png" group-title="КИНО",Кино 1 Int.
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-name="Смотрим 100% КЛАССИКА" group-title="КИНО И СЕРИАЛЫ",sᴍᴏᴛʀɪᴍ 100% КЛАССИКА ᴴᴰ
