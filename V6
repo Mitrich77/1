@@ -284,10 +284,13 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 https://jmp2.uk/stvp-KRBD44000025L
 #EXTINF:-1 group-title="38.RELAXᴳᴼᴸᴰ  🏝" tvg-logo="https://i.imgur.com/paj5NtW.png",Эзервэйᴴᴰ
 http://stream-tv.ew21.ru/023/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая Природа HD
-http://dmi3y-tv.online/hls/CH_ZHIVAYA_PRIRODA.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НАША СИБИРЬ HD
-http://dmi3y-tv.online/hls/CH_NASHA_SIBIRHD.m3u8
+#EXTINF:-1 group-title="ViP",Наша Сибирь
+https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ViP",Живая Природа HD
+https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Stingray Holidayscapes" tvg-id="USBD3500038R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" group-title="RELAX" channel-id="SamsungTVPlus-USBD3500038R6" tvg-chno="4570",Stingray Holidayscapes
+https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500038R6
+
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://1lot.tv/ch/10831.png",CLASSICAL HORMONYᴴᴰ
 https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
 #EXTINF:-1 group-title="38.RELAXᴳᴼᴸᴰ  🏝" tvg-logo="https://i.imgur.com/944V2f5.png",Ocean Vibesᴴᴰ
@@ -2407,3 +2410,10 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 http://185.57.68.33/232/mpegts
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://epg.one/img/3610.png",TV Camᴴᴰ
 http://hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая Природа HD
+http://dmi3y-tv.online/hls/CH_ZHIVAYA_PRIRODA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НАША СИБИРЬ HD
+http://dmi3y-tv.online/hls/CH_NASHA_SIBIRHD.m3u8
